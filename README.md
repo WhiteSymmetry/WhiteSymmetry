@@ -1,16 +1,55 @@
-## Hi there 👋
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WhiteSymmetry&theme=2077)
 
-<!--
-**WhiteSymmetry/WhiteSymmetry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WhiteSymmetry&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WhiteSymmetry&theme=2077)
 
-Here are some ideas to get you started:
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WhiteSymmetry&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WhiteSymmetry&theme=2077&utcOffset=8)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=WhiteSymmetry&show_icons=true&theme=gotham" alt="WhiteSymmetry" />
+
+[![Mehmet Keçeci's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteSymmetry)](https://github.com/WhiteSymmetry/)
+
+![Mehmet Keçeci's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteSymmetry&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![Mehmet Keçeci's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteSymmetry&show_icons=true)
+
+![Mehmet Keçeci's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteSymmetry&show_icons=true&theme=radical)
+
+---
+
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/WhiteSymmetry/WhiteSymmetry/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WhiteSymmetry/WhiteSymmetry/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
