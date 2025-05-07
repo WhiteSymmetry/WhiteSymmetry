@@ -1,3 +1,5 @@
+![GitHub followers](https://img.shields.io/github/followers/WhiteSymmetry?label=Follow&style=social)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WhiteSymmetry&theme=2077)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WhiteSymmetry&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WhiteSymmetry&theme=2077)
