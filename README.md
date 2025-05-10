@@ -182,24 +182,47 @@ Digital Art Therapy I, 03.03.2023, Blurb
 Book Links:
 
 https://www.blurb.com/user/mkececi
+
 https://www.amazon.com/stores/Mehmet-Ke%C3%A7eci/author/B00WH281P0
+
 https://www.smashwords.com/profile/view/mkececi
+
 https://www.kobo.com/us/en/ebook/dusunduren-alntlar
+
 https://www.lulu.com/spotlight/mkececi
+
 https://www.overdrive.com/creators/937291/mehmet-kececi
+
 https://books.apple.com/us/author/mehmet-ke%C3%A7eci/id1014080843
+
+---
+
 Scientific Links:
+
 https://orcid.org/0000-0001-9937-9839
+
 https://www.researchgate.net/profile/Mehmet_Kececi2
+
 https://independent.academia.edu/MehmetKececi
+
 https://dergipark.org.tr/tr/pub/@mkececi
+
 https://www.webofscience.com/wos/author/record/H-7476-2014
+
 https://inspirehep.net/authors/1361774
+
 https://scholar.google.com/citations?user=PleXSXMAAAAJ
+
 https://www.scopus.com/authid/detail.uri?authorId=39762289000
+
 Web of Science ResearcherID: H-7476-2014
+
 ORCID: 0000-0001-9937-9839
+
 Scopus Author ID: 39762289000
+
 Loop profile: 905355
+
 SciProfiles: 110585
+
 Ciência ID: 411D- 32F4-237F
