@@ -75,59 +75,112 @@ https://www.researchgate.net/publication/264788339_2n-dimensional_at_Fujii_model
 
 https://www.academia.edu/78945916/2n_dimensional_at_Fujii_model_instanton_like_solutions_and_coupling_constants_role_between_instantons_with_higher_derivatives
 
+---
+
 Books:
+
 https://www.blurb.com/user/mkececi
 
 Authored scientific and general books in Turkish and English, published with ISBN
+
 Türkçe Alıntılar: Turkish Proverbs, Turkish Ed., 2015, ISBN-13: 978-1507893340
+
 Biyoenformatik I: Bioinformatics I, 23.03.2015, ISBN-13: 978-1511410755, Paperback/E-Kitap: E-Book/Kindle
+
 Turkish Quotes I: Türkçe Alıntılar I, Turkish Ed., 07.04.2015, ISBN-13: 978-1511632331
+
 Turkish Quotes II: Türkçe Alıntılar II, Turkish Ed., 09.04.2015, ISBN-13: 978-1511654913
+
 Turkish Quotes III: Türkçe Alıntılar III, Turkish Ed., 09.04.2015, ISBN-13: 978-1511661447
+
 Turkish Quotes IV: Türkçe Alıntılar IV, Turkish Ed., 11.04.2015, ISBN-13: 978-1511685740
+
 Turkish Proverbs I: Türkçe Özlü Sözler I, ISBN: 978-1-71669-557-5
+
 Biyoenformatik 1: Bioinformatics 1, Tam Renkli, 16.05.2015, ISBN-13: 978-1511760904
+
 Bioinformatics I: Introduction to Bioinformatics, English Ed., ISBN-13: 978-1511789127, Paperback/E-Kitap: E-Book/Kindle
+
 Bioinformatics 1: Introduction to Bioinformatics, English Ed., Full Color, 18.04.2015, ISBN-13: 978-1511789882, Paperback/E-Kitap: E-Book/Kindle
+
 Student Bingo: Öğrenci Bingosu, ISBN-13: 978-1512034516
+
 Student Buzzword: Öğrenci Buzzwordu, ISBN-13: 978-1512050837, Paperback/E-Kitap: E-Book/Kindle
+
 Türkçe Alıntılar: Turkish Quotes, ISBN: 9781312916296, E-Kitap: E-Book
+
 Turkish Quotes: Türkçe Alıntılar, ISBN: 9781312986565, E-Book
+
 Türkçe Özlü Sözler, ISBN: 9781311398024, E-Kitap: E-Book/EPUB/Kindle
+
 Simetri I: Symmetry I, ISBN-13: 978-1512392159
+
 Kâf Dağı Operasyonu: Entropy Operasyonu, ISBN-13: 978-1514159194
+
 Toplumsal Kanser: Social Cancer, ISBN-13:978-1514304594
+
 Turkish Quotes V: Türkçe Alıntılar V, Turkish Ed., 21.07.2015, ISBN-13: 978-1515170617
+
 Turkish Quotes VI: Türkçe Alıntılar VI, Turkish Ed., 19.09.2015, ISBN-13: 978-1517382520
+
 Çocukların Meslek Seçimi: Ne olmak istiyorsunuz?, Turkish Ed., 16.09.2015, ISBN-13: 978-1517382643
-Abstract Thought & Analytic Thinking Quotes, English Ed., 26.11.2015, ISBN: 978-
-1519559340, Paperback, E-Kitap: E-Book/Kindle
+
+Abstract Thought & Analytic Thinking Quotes, English Ed., 26.11.2015, ISBN: 978-1519559340, Paperback, E-Kitap: E-Book/Kindle
+
 Beginning Bioinformatics: Presentation to Bioinformatics, English Ed., 26.01.2016, ISBN: 978-1530196067, Paperback/E-Kitap: E-Book/Kindle
+
 Turkish Quotes VII: Türkçe Alıntılar VII, Turkish Ed., 14.05.2016, ISBN-13: 978-1533268440
+
 Quotes of Mehmet Keçeci: Mehmet Keçeci’nin Sözleri, Turkish Ed., 11.08.2016, ISBN-13: 978-1537032986
+
 Turkish Quotes VIII: Türkçe Alıntılar VIII, Turkish Ed., 11.08.2016, ISBN-13: 978-1537033044
+
 Turkish Quotes IX: Türkçe Alıntılar IX, Turkish Ed., 20.10.2016, ISBN-13: 978-1539645337
+
 Info & Data: Bilgi & Veri, English & Turkish Ed., 08.11.2016, ISBN-13: 978-1539999393, Paperback/E-Kitap: E-Book/Kindle
+
 Words: Kelimeler, Turkish Ed., 08.11.2016, ISBN-13: 978-1539999478
+
 Düşündüren Alıntılar: Thought Quotes, Turkish Ed., E-Kitap: E-Book, 15.11.2016, ISBN: 1230001428698
+
 Turkish Quotes X: Türkçe Alıntılar X, Turkish Ed., 25.04.2018, ISBN-13: 978-1717427106
+
 A Guide to Bioinformatics Tools, English Ed., 18.04.2019, ISBN-13: 978-1095163856
+
 Bioinformatics Tools, English Ed., 25.04.2019, ISBN-13: 978-1095890714
+
 Farkındalık: Awareness (Bilgeliğin İlk Adımı: First Step of Wisdom), ISBN: 9781715682897/Cream & ISBN: 9781034696032/White, Blurb
+
 Çocukların Meslek Seçimi: Job Choice for Kids (Ne olmak istiyorsunuz?: What do you want to be?), ISBN: 9781715785901, Blurb
-Türkçe Alıntılar I: Turkish Quotes I (Bilgeliğin Yapı Taşları: Building Blocks of Wisdom), ISBN: 9781034080497, Blurb Books
+
+Türkçe Alıntılar I: Turkish Quotes I (Bilgeliğin Yapı Taşları: Building Blocks of Wisdom), ISBN: 9781034080497, Blurb
+
 Türkçe Alıntılar II: Turkish Quotes II (Bilgeliğin Yapı Taşları: Building Blocks of Wisdom), ISBN: 9781034150886, Blurb
+
 Türkçe Alıntılar III: Turkish Quotes III (Bilgeliğin Yapı Taşları: Building Blocks of Wisdom), ISBN: 9781034153115, Blurb
+
 Türkçe Alıntılar IV: Turkish Quotes IV (Bilgeliğin Yapı Taşları: Building Blocks of Wisdom), ISBN: 9781034153986, Blurb
+
 Türkçe Alıntılar V: Turkish Quotes V (Bilgeliğin Yapı Taşları: Building Blocks of Wisdom), ISBN: 9781034155720, Blurb
+
 Türkçe Alıntılar VI: Turkish Quotes VI (Bilgeliğin Yapı Taşları: Building Blocks of Wisdom), ISBN: 9781034155805, Blurb
+
 Türkçe Alıntılar VII: Turkish Quotes VII (Bilgeliğin Yapı Taşları: Building Blocks of Wisdom), ISBN: 9781034156529, Blurb
+
 Türkçe Alıntılar VIII: Turkish Quotes VIII (Bilgeliğin Yapı Taşları: Building Blocks of Wisdom), ISBN: 9781034156543, Blurb
+
 Türkçe Alıntılar IX: Turkish Quotes IX (Bilgeliğin Yapı Taşları: Building Blocks of Wisdom), ISBN: 9781034158806, Blurb
+
 Aşkın Anatomisi: Anatomy of Love, ISBN: 9781034515982, Blurb
+
 Küresel Gambit: The Global Gambit, ISBN: 9781006625435, Blurb
+
 Digital Art Therapy I, 03.03.2023, Blurb
+
+---
+
 Book Links:
+
 https://www.blurb.com/user/mkececi
 https://www.amazon.com/stores/Mehmet-Ke%C3%A7eci/author/B00WH281P0
 https://www.smashwords.com/profile/view/mkececi
