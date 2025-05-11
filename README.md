@@ -22,9 +22,11 @@ Physicist (Completed the dissertation phase of the Ph.D. in Physics), Reviewer, 
 
 International Papers:
 
-Keçeci, Mehmet. “Kececinumbers”. GitHub, PyPI, Anaconda, Zenodo, 10 May 2025. https://doi.org/10.5281/zenodo.15377660
+Keçeci, Mehmet. “Keçeci Numbers and the Keçeci Prime Number: A Potential Number Theoretic Exploratory Tool”, 11 May 2025. https://doi.org/10.5281/zenodo.15381698
 
-Keçeci, Mehmet. “From Majorana Fermions to Quantum Devices: The Role of Nanomaterials in the Second Quantum Era”, 03 May 2025. https://doi.org/10.5281/zenodo.15331068
+Keçeci, Mehmet. “Kececinumbers”. GitHub, PyPI, Anaconda, Zenodo, 10 May 2025. https://doi.org/10.5281/zenodo.15377660 & https://doi.org/10.5281/zenodo.15381417
+
+Keçeci, Mehmet. “From Majorana Fermions to Quantum Devices: The Role of Nanomaterials in the Second Quantum Era”, 03 May 2025. https://doi.org/10.5281/zenodo.15331068 & https://doi.org/10.5281/zenodo.15381639
 
 Keçeci, Mehmet. “Keçeci Layout”, 01 May 2025. https://doi.org/10.5281/zenodo.15314329
 
