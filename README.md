@@ -22,7 +22,7 @@ Physicist (Completed the dissertation phase of the Ph.D. in Physics), Reviewer, 
 
 International Papers:
 
-Keçeci, Mehmet. "Scalable Complexity: Mathematical Analysis and Potential for Physical Applications of the Keçeci Circle Fractal", 13 Mayıs 2025. https://doi.org/10.5281/zenodo.15396198.
+Keçeci, Mehmet. "Scalable Complexity: Mathematical Analysis and Potential for Physical Applications of the Keçeci Circle Fractal", 13 May 2025. https://doi.org/10.5281/zenodo.15396198.
 
 Keçeci, Mehmet. "Kececifractals". GitHub, PyPI, Anaconda, Zenodo, 13 Mayıs 2025. https://doi.org/10.5281/zenodo.15392519.
 
