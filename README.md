@@ -1,8 +1,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/WhiteSymmetry?label=Follow&style=social)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=WhiteSymmetry&theme=merko)](https://git.io/streak-stats)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WhiteSymmetry&theme=2077)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WhiteSymmetry&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WhiteSymmetry&theme=2077)
@@ -18,6 +16,8 @@
 ![Mehmet Keçeci's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteSymmetry&show_icons=true)
 
 ![Mehmet Keçeci's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteSymmetry&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=WhiteSymmetry&theme=merko)](https://git.io/streak-stats)
 
 ---
 
