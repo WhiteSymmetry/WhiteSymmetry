@@ -20,49 +20,52 @@
 
 Physicist (Completed the dissertation phase of the Ph.D. in Physics), Reviewer, Author, Teacher & Lecturer, Occupational Safety Specialist
 
+---
+
 International Papers:
 
-Keçeci, Mehmet. "Scalable Complexity: Mathematical Analysis and Potential for Physical Applications of the Keçeci Circle Fractal", 13 May 2025. https://doi.org/10.5281/zenodo.15396198.
+- Keçeci, Mehmet. "Scalable Complexity: Mathematical Analysis and Potential for Physical Applications of the Keçeci Circle Fractal", 13 May 2025. https://doi.org/10.5281/zenodo.15396198.
 
-Keçeci, Mehmet. "Kececifractals". GitHub, PyPI, Anaconda, Zenodo, 13 Mayıs 2025. https://doi.org/10.5281/zenodo.15392519.
+- Keçeci, Mehmet. "Kececifractals". GitHub, PyPI, Anaconda, Zenodo, 13 Mayıs 2025. https://doi.org/10.5281/zenodo.15392519.
 
-Keçeci, Mehmet. "Keçeci Numbers and the Keçeci Prime Number: A Potential Number Theoretic Exploratory Tool", 11 May 2025. https://doi.org/10.5281/zenodo.15381698
+- Keçeci, Mehmet. "Keçeci Numbers and the Keçeci Prime Number: A Potential Number Theoretic Exploratory Tool", 11 May 2025. https://doi.org/10.5281/zenodo.15381698
 
-Keçeci, Mehmet. “Kececinumbers”. GitHub, PyPI, Anaconda, Zenodo, 10 May 2025. https://doi.org/10.5281/zenodo.15377660
+- Keçeci, Mehmet. “Kececinumbers”. GitHub, PyPI, Anaconda, Zenodo, 10 May 2025. https://doi.org/10.5281/zenodo.15377660
 https://doi.org/10.5281/zenodo.15381417
 
-Keçeci, Mehmet. “From Majorana Fermions to Quantum Devices: The Role of Nanomaterials in the Second Quantum Era”, 03 May 2025. https://doi.org/10.5281/zenodo.15331068
+- Keçeci, Mehmet. “From Majorana Fermions to Quantum Devices: The Role of Nanomaterials in the Second Quantum Era”, 03 May 2025. https://doi.org/10.5281/zenodo.15331068
 https://doi.org/10.5281/zenodo.15381639
 
-Keçeci, Mehmet. “Keçeci Layout”, 01 May 2025. https://doi.org/10.5281/zenodo.15314329
+- Keçeci, Mehmet. “Keçeci Layout”, 01 May 2025. https://doi.org/10.5281/zenodo.15314329
 
-Keçeci, Mehmet. “Kececilayout”. PyPI, Anaconda, GitHub, Zenodo, GitLab, Gitea, Gogs, OneDev, Codeberg, 01 May 2025 https://doi.org/10.5281/zenodo.15313947
+- Keçeci, Mehmet. “Kececilayout”. PyPI, Anaconda, GitHub, Zenodo, GitLab, Gitea, Gogs, OneDev, Codeberg, 01 May 2025 https://doi.org/10.5281/zenodo.15313947
 
-Keçeci, Mehmet (2020). Discourse on the Second Quantum Revolution and Nanotechnology Applications in the Midst of the COVID-19 Pandemic of Inequality. International Journal of Latest Research in Science and Technology, 9(5):1-7.
+- Keçeci, Mehmet (2020). Discourse on the Second Quantum Revolution and Nanotechnology Applications in the Midst of the COVID-19 Pandemic of Inequality. International Journal of Latest Research in Science and Technology, 9(5):1-7.
 https://doi.org/10.5281/zenodo.7483396
 https://doi.org/jtnm
 https://www.mnkjournals.com/journal/ijlrst/Article.php?paper_id=11004
 eISSN: 2278-5299
 
-Keçeci, Mehmet (2011). 2n-dimensional at Fujii model instanton-like solutions and coupling constant's role between instantons with higher derivatives. Turkish Journal of Physics, 35(2):173-178
+- Keçeci, Mehmet (2011). 2n-dimensional at Fujii model instanton-like solutions and coupling constant's role between instantons with higher derivatives. Turkish Journal of Physics, 35(2):173-178
 https://doi.org/10.3906/fiz-1012-66
 https://doi.org/jp4p
 https://journals.tubitak.gov.tr/physics/vol35/iss2/10/
 ISSN: 1300-0101
 eISSN: 1303-6122
 
-Keçeci, Mehmet. “Grikod2”. GitHub, PYPI, Anaconda, Zenodo, GitLab, Gitea, Gogs, OneDev, Codeberg, 06 May 2025 https://doi.org/10.5281/zenodo.15352207
+- Keçeci, Mehmet. “Grikod2”. GitHub, PYPI, Anaconda, Zenodo, GitLab, Gitea, Gogs, OneDev, Codeberg, 06 May 2025 https://doi.org/10.5281/zenodo.15352207
 
-Keçeci, Mehmet. “Grikod”. GitHub, PYPI, Anaconda, Zenodo, GitLab, Gitea, Gogs, OneDev, Codeberg, 06 May 2025 https://doi.org/10.5281/zenodo.15351842
+- Keçeci, Mehmet. “Grikod”. GitHub, PYPI, Anaconda, Zenodo, GitLab, Gitea, Gogs, OneDev, Codeberg, 06 May 2025 https://doi.org/10.5281/zenodo.15351842
 
 Software Contributor (2.01, 2.1.0, 2.1.1):
 
-John Garrett, Echedey Luis, H.-H. Peng, Tim Cera, Gobinathj, Josh Borrow, Mehmet Keçeci, Splines, Suraj Iyer, Yuming Liu, cjw, & Mikhail Gasanov. (2023). garrettj403/SciencePlots: 2.1.1 (2.1.1). Zenodo. https://doi.org/10.5281/zenodo.10206719
+- John Garrett, Echedey Luis, H.-H. Peng, Tim Cera, Gobinathj, Josh Borrow, Mehmet Keçeci, Splines, Suraj Iyer, Yuming Liu, cjw, & Mikhail Gasanov. (2023). garrettj403/SciencePlots: 2.1.1 (2.1.1). Zenodo. https://doi.org/10.5281/zenodo.10206719
 https://github.com/garrettj403/SciencePlots
 
 ---
 
 Other Citation Indexes/Indices:
+
 TR Dizin: https://search.trdizin.gov.tr/tr/yayin/detay/116593
 
 https://avesis.medipol.edu.tr/yayin/9b26b0bd-759b-459b-8cb7-713d8b67b987/2n-dimensional-at-fujii-model-instanton-like-solutions-and-coupling-constants-role-between-instantons-with-higher-derivatives
