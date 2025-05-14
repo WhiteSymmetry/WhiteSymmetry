@@ -1,4 +1,7 @@
+
 ![GitHub followers](https://img.shields.io/github/followers/WhiteSymmetry?label=Follow&style=social)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=WhiteSymmetry&theme=merko)](https://git.io/streak-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WhiteSymmetry&theme=2077)
 
