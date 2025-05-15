@@ -27,6 +27,10 @@ Physicist (Completed the dissertation phase of the Ph.D. in Physics), Reviewer, 
 
 International Papers:
 
+- Keçeci, Mehmet. “The Keçeci Binomial Square: A Reinterpretation of the Standard Binomial Expansion and Its Potential Applications”, 15 Mayıs 2025. https://doi.org/10.5281/zenodo.15425855.
+
+- Keçeci, Mehmet. "Kececisquares". GitHub, PyPI, Anaconda, Zenodo, 14 Mayıs 2025. https://doi.org/10.5281/zenodo.15411671.
+
 - Keçeci, Mehmet. "Scalable Complexity: Mathematical Analysis and Potential for Physical Applications of the Keçeci Circle Fractal", 13 May 2025. https://doi.org/10.5281/zenodo.15396198.
 
 - Keçeci, Mehmet. "Kececifractals". GitHub, PyPI, Anaconda, Zenodo, 13 Mayıs 2025. https://doi.org/10.5281/zenodo.15392519.
