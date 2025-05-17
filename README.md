@@ -19,7 +19,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=WhiteSymmetry&theme=merko)](https://git.io/streak-stats)
 
-[![Mehmet Keçeci's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Mehmet Keçeci's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WhiteSymmetry)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
