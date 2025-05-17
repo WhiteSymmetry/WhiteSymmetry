@@ -19,8 +19,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=WhiteSymmetry&theme=merko)](https://git.io/streak-stats)
 
-[![Mehmet Keçeci's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WhiteSymmetry)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 Physicist (Completed the dissertation phase of the Ph.D. in Physics), Reviewer, Author, Teacher & Lecturer, Occupational Safety Specialist
