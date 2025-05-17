@@ -27,7 +27,7 @@ Physicist (Completed the dissertation phase of the Ph.D. in Physics), Reviewer, 
 
 International Papers:
 
-- Keçeci, M. (2025). Weyl Semimetals: Discovery of Exotic Electronic States and Topological Phases. https://doi.org/10.5281/zenodo.15447117
+- Keçeci, M. (2025). Weyl Semimetals: Discovery of Exotic Electronic States and Topological Phases. https://doi.org/10.5281/zenodo.15450063
 
 - Keçeci, Mehmet. “The Keçeci Binomial Square: A Reinterpretation of the Standard Binomial Expansion and Its Potential Applications”, 15 Mayıs 2025. https://doi.org/10.5281/zenodo.15425855.
 
