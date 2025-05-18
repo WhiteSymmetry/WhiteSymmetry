@@ -223,7 +223,7 @@ Scientific Links:
 
 https://orcid.org/0000-0001-9937-9839
 
-https://www.researchgate.net/profile/Mehmet_Kececi2
+[https://www.researchgate.net/profile/Mehmet_Kececi2](https://www.researchgate.net/profile/Mehmet-Kececi)
 
 https://independent.academia.edu/MehmetKececi
 
