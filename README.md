@@ -35,17 +35,17 @@ International Papers:
 
 - Keçeci, Mehmet. "Kececisquares". GitHub, PyPI, Anaconda, Zenodo, 14 Mayıs 2025. https://doi.org/10.5281/zenodo.15411671.
 
-- Keçeci, Mehmet. "Scalable Complexity: Mathematical Analysis and Potential for Physical Applications of the Keçeci Circle Fractal", 13 May 2025. https://doi.org/10.5281/zenodo.15396198.
+- Keçeci, Mehmet. "Scalable Complexity: Mathematical Analysis and Potential for Physical Applications of the Keçeci Circle Fractal", 13 Mayıs 2025.
+https://doi.org/10.5281/zenodo.15396198.
 
-- Keçeci, Mehmet. "Kececifractals". GitHub, PyPI, Anaconda, Zenodo, 13 Mayıs 2025. https://doi.org/10.5281/zenodo.15392519.
+- Keçeci, Mehmet. "Kececifractals". GitHub, PyPI, Anaconda, Zenodo, 13 May 2025. https://doi.org/10.5281/zenodo.15392519.
 
 - Keçeci, Mehmet. "Keçeci Numbers and the Keçeci Prime Number: A Potential Number Theoretic Exploratory Tool", 11 May 2025. https://doi.org/10.5281/zenodo.15381698
 
-- Keçeci, Mehmet. “Kececinumbers”. GitHub, PyPI, Anaconda, Zenodo, 10 May 2025. https://doi.org/10.5281/zenodo.15377660
+- Keçeci, Mehmet. “Kececinumbers”. GitHub, PyPI, Anaconda, Zenodo, 10 May 2025.
 https://doi.org/10.5281/zenodo.15381417
 
-- Keçeci, Mehmet. “From Majorana Fermions to Quantum Devices: The Role of Nanomaterials in the Second Quantum Era”, 03 May 2025. https://doi.org/10.5281/zenodo.15331068
-https://doi.org/10.5281/zenodo.15381639
+- Keçeci, Mehmet. “From Majorana Fermions to Quantum Devices: The Role of Nanomaterials in the Second Quantum Era”, 03 May 2025. https://doi.org/10.5281/zenodo.15424832
 
 - Keçeci, Mehmet. “Keçeci Layout”, 01 May 2025. https://doi.org/10.5281/zenodo.15314329
 
