@@ -27,6 +27,8 @@ Physicist (Completed the dissertation phase of the Ph.D. in Physics), Reviewer, 
 
 International Papers:
 
+- Keçeci, M. (2025). Understanding Quantum Mechanics through Hilbert Spaces: Applications in Quantum Computing. https://doi.org/10.5281/zenodo.15468755
+
 - Keçeci, M. (2025). Nodal-Line Semimetals: A Geometric Advantage in Quantum Information. https://doi.org/10.5281/zenodo.15468286
 
 - Keçeci, M. (2025). Weyl Semimetals: Discovery of Exotic Electronic States and Topological Phases. https://doi.org/10.5281/zenodo.15450063
