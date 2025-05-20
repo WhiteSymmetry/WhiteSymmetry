@@ -84,6 +84,9 @@ Keçeci, M. (2005, September 13–16). 2N-boyutlu Fujii modelinde instanton çö
 2002
 Keçeci, M. (2002, September 16–20). Exact instanton-like solution conformal invariant of Fujii model, construct for four-dimensional and subderivative. Presented at Working Group II, Turkish Nonlinear Science Working Group, Karaburun/Izmir, Türkiye.
 
+2001
+Keçeci, M. (2001). Conformal Spinor Field Theories (Master's thesis). Gebze Technical University
+
 ---
 
 - Keçeci, M. (2025). Kuantum Geometri, Topolojik Fazlar ve Yeni Matematiksel Yapılar: Disiplinlerarası Bir Perspektif. Zenodo. https://doi.org/10.5281/zenodo.15477257
