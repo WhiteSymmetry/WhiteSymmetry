@@ -62,7 +62,7 @@ Keçeci, M. (2025, May 6). Grikod2. Zenodo. https://doi.org/10.5281/zenodo.15352
 Keçeci, M. (2025, May 6). Grikod. Zenodo. https://doi.org/10.5281/zenodo.15351842
 
 2023
-Garrett, J., Luis, E., Peng, H.-H., Cera, T., Gobinathj, Borrow, J., Keçeci, M., Splines, Iyer, S., Liu, Y., cjw, & Gasanov, M. (2023). garrettj403/SciencePlots: 2.1.1 (Version 2.1.1). Zenodo. https://doi.org/10.5281/zenodo.10206719
+Garrett, J., Luis, E., Peng, H.-H., Cera, T., Gobinathj, Borrow, J., Keçeci, M., Splines, Iyer, S., Liu, Y., cjw, & Gasanov, M. (2023). garrettj403/SciencePlots: 2.1.1. Zenodo. https://doi.org/10.5281/zenodo.10206719
 
 2020–2021
 Keçeci, M. (2020). Discourse on the second quantum revolution and nanotechnology applications in the midst of the COVID-19 pandemic of inequality. International Journal of Latest Research in Science and Technology, 9 (5), 1–7. https://doi.org/10.5281/zenodo.7483396
@@ -81,13 +81,15 @@ Keçeci, M. (2017, July 19–21). Use of open digital badges in education and ca
 Keçeci, M. (2011). 2n-dimensional at Fujii model instanton-like solutions and coupling constant's role between instantons with higher derivatives. Turkish Journal of Physics, 35 (2), 173–178. https://doi.org/10.3906/fiz-1012-66
 
 2005
-Keçeci, M. (2005, September 13–16). 2N-boyutlu Fujii modelinde instanton çözümleri ve bağlantı sabitinin instantonlar arasındaki rolü. Presented at Turkish Physical Society 23rd International Physics Congress, Muğla University, Türkiye.
+Keçeci, M. (2005, September 13–16). 2N-boyutlu Fujii modelinde instanton çözümleri ve bağlantı sabitinin instantonlar arasındaki rolü. Presented at Turkish Physical Society 23rd International Physics Congress, Muğla University, Türkiye. http://dx.doi.org/10.13140/RG.2.1.1441.4887
+
+Keçeci, M. (2005, May). Konformal invaryant fujii modelinin instanton tipi tam çözümü. Presented at Geleneksel Erzurum Fizik Günleri-II, Atatürk Üniversitesi, Türkiye. http://dx.doi.org/10.13140/RG.2.1.3538.6408
 
 2002
-Keçeci, M. (2002, September 16–20). Exact instanton-like solution conformal invariant of Fujii model, construct for four-dimensional and subderivative. Presented at Working Group II, Turkish Nonlinear Science Working Group, Karaburun/Izmir, Türkiye.
+Keçeci, M. (2002, September 16–20). Exact instanton-like solution conformal invariant of Fujii model, construct for four-dimensional and subderivative. Presented at Working Group II, Turkish Nonlinear Science Working Group, Karaburun/Izmir, Türkiye. http://dx.doi.org/10.13140/RG.2.1.1638.0964
 
 2001
-Keçeci, M. (2001). Conformal Spinor Field Theories (Master's thesis). Gebze Technical University
+Keçeci, M. (2001). Conformal Spinor Field Theories (Master's thesis). Gebze Technical University, Institute of Science, Gebze/Kocaeli, Türkiye.
 
 ---
 
