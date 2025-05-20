@@ -27,7 +27,7 @@ Physicist (Completed the dissertation phase of the Ph.D. in Physics), Reviewer, 
 
 International Papers:
 
-- Keçeci, M. (2025). Kuantum Geometri, Topolojik Fazlar ve Yeni Matematiksel Yapılar: Disiplinlerarası Bir Perspektif. Zenodo. https://doi.org/10.5281/zenodo.15474958
+- Keçeci, M. (2025). Kuantum Geometri, Topolojik Fazlar ve Yeni Matematiksel Yapılar: Disiplinlerarası Bir Perspektif. Zenodo. https://doi.org/10.5281/zenodo.15477257
 
 - Keçeci, M. (2025). Understanding Quantum Mechanics through Hilbert Spaces: Applications in Quantum Computing. https://doi.org/10.5281/zenodo.15468794
 
@@ -49,7 +49,7 @@ https://doi.org/10.5281/zenodo.15396198.
 - Keçeci, Mehmet. “Kececinumbers”. GitHub, PyPI, Anaconda, Zenodo, 10 May 2025.
 https://doi.org/10.5281/zenodo.15381417
 
-- Keçeci, Mehmet. “From Majorana Fermions to Quantum Devices: The Role of Nanomaterials in the Second Quantum Era”, 03 May 2025. https://doi.org/10.5281/zenodo.15424832
+- Keçeci, M. (2025). From Majorana Fermions to Quantum Devices: The Role of Nanomaterials in the Second Quantum Era. https://doi.org/10.5281/zenodo.15425639
 
 - Keçeci, Mehmet. “Keçeci Layout”, 01 May 2025. https://doi.org/10.5281/zenodo.15314329
 
