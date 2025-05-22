@@ -29,70 +29,66 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 International Papers:
 
-2025
+Physicist (Completed the dissertation phase of the Ph.D. in Physics), Reviewer, Author, Teacher & Lecturer, Occupational Safety Specialist
 
-Keçeci, M. (2025). Investigating Layered Structures Containing Weyl and Majorana Fermions via the Stratum Model. https://doi.org/10.5281/zenodo.15489075
+Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish articles)
 
-Keçeci, M. (2025). Diversity of Keçeci Numbers and Their Application to Prešić-Type Fixed-Point Iterations: A Numerical Exploration. https://doi.org/10.5281/zenodo.15483569
+International Papers:
 
-Keçeci, M. (2025). Kuantum geometri, topolojik fazlar ve yeni matematiksel yapılar: Disiplinlerarası bir perspektif. Zenodo. https://doi.org/10.5281/zenodo.15477257
+Keçeci, M. (2025). Investigating Layered Structures Containing Weyl and Majorana Fermions via the Stratum Model. 10.5281/zenodo.15489074
 
-Keçeci, M. (2025). Understanding quantum mechanics through Hilbert spaces: Applications in quantum computing. Zenodo. https://doi.org/10.5281/zenodo.15468794
+Keçeci, M. (2025). Diversity of Keçeci Numbers and Their Application to Prešić-Type Fixed-Point Iterations: A Numerical Exploration. https://doi.org/10.5281/zenodo.15481711
 
-Keçeci, M. (2025). Nodal-line semimetals: A geometric advantage in quantum information. Zenodo. https://doi.org/10.5281/zenodo.15468286
+Keçeci, M. (2025). Kuantum geometri, topolojik fazlar ve yeni matematiksel yapılar: Disiplinlerarası bir perspektif. Zenodo. https://doi.org/10.5281/zenodo.15474957
 
-Keçeci, M. (2025). Weyl semimetals: Discovery of exotic electronic states and topological phases. Zenodo. https://doi.org/10.5281/zenodo.15450063
+Keçeci, M. (2025). Understanding quantum mechanics through Hilbert spaces: Applications in quantum computing. Zenodo. https://doi.org/10.5281/zenodo.15468754
 
-Keçeci, M. (2025, May 15). The Keçeci binomial square: A reinterpretation of the standard binomial expansion and its potential applications. Zenodo. https://doi.org/10.5281/zenodo.15425855
+Keçeci, M. (2025). Nodal-line semimetals: A geometric advantage in quantum information. Zenodo. https://doi.org/10.5281/zenodo.15455271
 
-Keçeci, M. (2025, May 14). Kececisquares. Zenodo. https://doi.org/10.5281/zenodo.15411671
+Keçeci, M. (2025). Weyl semimetals: Discovery of exotic electronic states and topological phases. Zenodo. https://doi.org/10.5281/zenodo.15447116
 
-Keçeci, M. (2025, May 13). Scalable complexity: Mathematical analysis and potential for physical applications of the Keçeci circle fractal. Zenodo. https://doi.org/10.5281/zenodo.15396198
+Keçeci, M. (2025, May 15). The Keçeci binomial square: A reinterpretation of the standard binomial expansion and its potential applications. Zenodo. https://doi.org/10.5281/zenodo.15425529
 
-Keçeci, M. (2025, May 13). Kececifractals. Zenodo. https://doi.org/10.5281/zenodo.15392519
+Keçeci, M. (2025, May 14). Kececisquares. Zenodo. https://doi.org/10.5281/zenodo.15411670
 
-Keçeci, M. (2025, May 11). Keçeci numbers and the Keçeci prime number: A potential number theoretic exploratory tool. Zenodo. https://doi.org/10.5281/zenodo.15381698
+Keçeci, M. (2025, May 13). Scalable complexity: Mathematical analysis and potential for physical applications of the Keçeci circle fractal. Zenodo. https://doi.org/10.5281/zenodo.15392772
 
-Keçeci, M. (2025, May 10). Kececinumbers. Zenodo. https://doi.org/10.5281/zenodo.15381417
+Keçeci, M. (2025, May 13). Kececifractals. Zenodo. https://doi.org/10.5281/zenodo.15392518
 
-Keçeci, M. (2025). From Majorana fermions to quantum devices: The role of nanomaterials in the second quantum era. Zenodo. https://doi.org/10.5281/zenodo.15425639
+Keçeci, M. (2025, May 11). Keçeci numbers and the Keçeci prime number: A potential number theoretic exploratory tool. Zenodo. https://doi.org/10.5281/zenodo.15381697
 
-Keçeci, M. (2025, May 1). Keçeci layout. Zenodo. https://doi.org/10.5281/zenodo.15314329
+Keçeci, M. (2025, May 10). Kececinumbers. Zenodo. https://doi.org/10.5281/zenodo.15377659
 
-Keçeci, M. (2025, May 1). Kececilayout. Zenodo. https://doi.org/10.5281/zenodo.15313947
+Keçeci, M. (2025). From Majorana fermions to quantum devices: The role of nanomaterials in the second quantum era. Zenodo. https://doi.org/10.5281/zenodo.15331067
 
-Keçeci, M. (2025, May 6). Grikod2. Zenodo. https://doi.org/10.5281/zenodo.15352207
+Keçeci, M. (2025, May 1). Keçeci Layout. Zenodo. https://doi.org/10.5281/zenodo.15314328
 
-Keçeci, M. (2025, May 6). Grikod. Zenodo. https://doi.org/10.5281/zenodo.15351842
+Keçeci, M. (2025, May 1). Kececilayout. Zenodo. https://doi.org/10.5281/zenodo.15313946
 
-2023
+Keçeci, M. (2025, May 6). Grikod2. Zenodo. https://doi.org/10.5281/zenodo.15352206
+
+Keçeci, M. (2025, May 6). Grikod. Zenodo. https://doi.org/10.5281/zenodo.12731345
+
 Garrett, J., Luis, E., Peng, H.-H., Cera, T., Gobinathj, Borrow, J., Keçeci, M., Splines, Iyer, S., Liu, Y., cjw, & Gasanov, M. (2023). garrettj403/SciencePlots: 2.1.1. Zenodo. https://doi.org/10.5281/zenodo.10206719
 
-2020–2021
-Keçeci, M. (2020). Discourse on the second quantum revolution and nanotechnology applications in the midst of the COVID-19 pandemic of inequality. International Journal of Latest Research in Science and Technology, 9 (5), 1–7. https://doi.org/10.5281/zenodo.7483396
+Keçeci, M. (2020). Discourse on the second quantum revolution and nanotechnology applications in the midst of the COVID-19 pandemic of inequality. International Journal of Latest Research in Science and Technology, 9 (5), 1–7. https://doi.org/10.5281/zenodo.7483395
 
 Keçeci, M. (2021). The Next Stop: Future Planet Walks. In SEDS Space Arts 2021, Global Art Competition, Sri Lanka. https://doi.org/10.13140/RG.2.2.21394.12482
 
-2019
 Keçeci, M. (2019). Quantum and art. Presented at International Workshop on Quantum Frontiers of Technology, TÜBİTAK, TÜSSİDE, Gebze, Türkiye. https://doi.org/10.13140/RG.2.2.27533.90089
 
 Keçeci, M. (2019, December 6). 2 boyutlu tek katmanlı yapıların su arıtımında kullanımının stratejik önemi. Presented at 23rd Liquid State Symposium, Pîrî Reis University, Türkiye. http://sivihal.pirireis.edu.tr/yazilar/Kitapcik_23.pdf
 
-2017
 Keçeci, M. (2017, July 19–21). Use of open digital badges in education and career planning. Presented at ADIM Physics Days VI, Balıkesir University, Türkiye. https://adimfizikvi.balikesir.edu.tr
 
-2011
 Keçeci, M. (2011). 2n-dimensional at Fujii model instanton-like solutions and coupling constant's role between instantons with higher derivatives. Turkish Journal of Physics, 35 (2), 173–178. https://doi.org/10.3906/fiz-1012-66
 
-2005
 Keçeci, M. (2005, September 13–16). 2N-boyutlu Fujii modelinde instanton çözümleri ve bağlantı sabitinin instantonlar arasındaki rolü. Presented at Turkish Physical Society 23rd International Physics Congress, Muğla University, Türkiye. http://dx.doi.org/10.13140/RG.2.1.1441.4887
 
 Keçeci, M. (2005, May). Konformal invaryant fujii modelinin instanton tipi tam çözümü. Presented at Geleneksel Erzurum Fizik Günleri-II, Atatürk Üniversitesi, Türkiye. http://dx.doi.org/10.13140/RG.2.1.3538.6408
 
-2002
 Keçeci, M. (2002, September 16–20). Exact instanton-like solution conformal invariant of Fujii model, construct for four-dimensional and subderivative. Presented at Working Group II, Turkish Nonlinear Science Working Group, Karaburun/Izmir, Türkiye. http://dx.doi.org/10.13140/RG.2.1.1638.0964
 
-2001
 Keçeci, M. (2001). Conformal Spinor Field Theories (Master's thesis). Gebze Technical University, Institute of Science, Gebze/Kocaeli, Türkiye.
 
 ---
