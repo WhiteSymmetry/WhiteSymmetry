@@ -35,7 +35,7 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 International Papers:
 
-Keçeci, M. (2025). Nanoscale Quantum Computers Fundamentals, Technologies, and Future Perspectives. https://doi.org/10.5281/zenodo.15493025
+Keçeci, M. (2025). Nanoscale Quantum Computers Fundamentals, Technologies, and Future Perspectives. https://doi.org/10.5281/zenodo.15493024
 
 Keçeci, M. (2025). Investigating Layered Structures Containing Weyl and Majorana Fermions via the Stratum Model. 10.5281/zenodo.15489074
 
