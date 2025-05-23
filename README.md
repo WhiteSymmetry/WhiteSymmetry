@@ -27,8 +27,6 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 ---
 
-International Papers:
-
 Physicist (Completed the dissertation phase of the Ph.D. in Physics), Reviewer, Author, Teacher & Lecturer, Occupational Safety Specialist
 
 Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish articles)
