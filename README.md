@@ -229,7 +229,7 @@ Aşkın Anatomisi: Anatomy of Love, ISBN: 9781034515982, Blurb
 
 Küresel Gambit: The Global Gambit, ISBN: 9781006625435, Blurb
 
-Digital Art Therapy I, 03.03.2023, Blurb
+Digital Art Therapy I, 03.03.2023, ISBN: 9798211486119, Blurb
 
 ---
 
