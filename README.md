@@ -74,16 +74,24 @@ Keçeci, M. (2025, May 6). Grikod. Zenodo. https://doi.org/10.5281/zenodo.127313
 Garrett, J., Luis, E., Peng, H.-H., Cera, T., Gobinathj, Borrow, J., Keçeci, M., Splines, Iyer, S., Liu, Y., cjw, & Gasanov, M. (2023). garrettj403/SciencePlots: 2.1.1. Zenodo. https://doi.org/10.5281/zenodo.10206719
 
 Keçeci, M. (2020). Discourse on the second quantum revolution and nanotechnology applications in the midst of the COVID-19 pandemic of inequality. International Journal of Latest Research in Science and Technology, 9 (5), 1–7. https://doi.org/10.5281/zenodo.7483395
+https://doi.org/jtnm
+https://www.mnkjournals.com/journal/ijlrst/Article.php?paper_id=11004
+eISSN: 2278-5299
 
 Keçeci, M. (2021). The Next Stop: Future Planet Walks. In SEDS Space Arts 2021, Global Art Competition, Sri Lanka. https://doi.org/10.13140/RG.2.2.21394.12482
 
 Keçeci, M. (2019). Quantum and art. Presented at International Workshop on Quantum Frontiers of Technology, TÜBİTAK, TÜSSİDE, Gebze, Türkiye. https://doi.org/10.13140/RG.2.2.27533.90089
+https://tbae.tubitak.gov.tr/en/haber/quantum-frontiers-technology
 
 Keçeci, M. (2019, December 6). 2 boyutlu tek katmanlı yapıların su arıtımında kullanımının stratejik önemi. Presented at 23rd Liquid State Symposium, Pîrî Reis University, Türkiye. http://sivihal.pirireis.edu.tr/yazilar/Kitapcik_23.pdf
 
 Keçeci, M. (2017, July 19–21). Use of open digital badges in education and career planning. Presented at ADIM Physics Days VI, Balıkesir University, Türkiye. https://adimfizikvi.balikesir.edu.tr
 
 Keçeci, M. (2011). 2n-dimensional at Fujii model instanton-like solutions and coupling constant's role between instantons with higher derivatives. Turkish Journal of Physics, 35 (2), 173–178. https://doi.org/10.3906/fiz-1012-66
+https://doi.org/jp4p
+https://journals.tubitak.gov.tr/physics/vol35/iss2/10/
+ISSN: 1300-0101
+eISSN: 1303-6122
 
 Keçeci, M. (2005, September 13–16). 2N-boyutlu Fujii modelinde instanton çözümleri ve bağlantı sabitinin instantonlar arasındaki rolü. Presented at Turkish Physical Society 23rd International Physics Congress, Muğla University, Türkiye. http://dx.doi.org/10.13140/RG.2.1.1441.4887
 
@@ -92,66 +100,6 @@ Keçeci, M. (2005, May). Konformal invaryant fujii modelinin instanton tipi tam 
 Keçeci, M. (2002, September 16–20). Exact instanton-like solution conformal invariant of Fujii model, construct for four-dimensional and subderivative. Presented at Working Group II, Turkish Nonlinear Science Working Group, Karaburun/Izmir, Türkiye. http://dx.doi.org/10.13140/RG.2.1.1638.0964
 
 Keçeci, M. (2001). Conformal Spinor Field Theories (Master's thesis). Gebze Technical University, Institute of Science, Gebze/Kocaeli, Türkiye.
-
----
-
-- Keçeci, M. (2025). Kuantum Geometri, Topolojik Fazlar ve Yeni Matematiksel Yapılar: Disiplinlerarası Bir Perspektif. Zenodo. https://doi.org/10.5281/zenodo.15477257
-
-- Keçeci, M. (2025). Understanding Quantum Mechanics through Hilbert Spaces: Applications in Quantum Computing. https://doi.org/10.5281/zenodo.15468794
-
-- Keçeci, M. (2025). Nodal-Line Semimetals: A Geometric Advantage in Quantum Information. https://doi.org/10.5281/zenodo.15468286
-
-- Keçeci, M. (2025). Weyl Semimetals: Discovery of Exotic Electronic States and Topological Phases. https://doi.org/10.5281/zenodo.15450063
-
-- Keçeci, Mehmet. “The Keçeci Binomial Square: A Reinterpretation of the Standard Binomial Expansion and Its Potential Applications”, 15 May 2025. https://doi.org/10.5281/zenodo.15425855.
-
-- Keçeci, Mehmet. "Kececisquares". GitHub, PyPI, Anaconda, Zenodo, 14 Mayıs 2025. https://doi.org/10.5281/zenodo.15411671.
-
-- Keçeci, Mehmet. "Scalable Complexity: Mathematical Analysis and Potential for Physical Applications of the Keçeci Circle Fractal", 13 Mayıs 2025.
-https://doi.org/10.5281/zenodo.15396198.
-
-- Keçeci, Mehmet. "Kececifractals". GitHub, PyPI, Anaconda, Zenodo, 13 May 2025. https://doi.org/10.5281/zenodo.15392519.
-
-- Keçeci, Mehmet. "Keçeci Numbers and the Keçeci Prime Number: A Potential Number Theoretic Exploratory Tool", 11 May 2025. https://doi.org/10.5281/zenodo.15381698
-
-- Keçeci, Mehmet. “Kececinumbers”. GitHub, PyPI, Anaconda, Zenodo, 10 May 2025.
-https://doi.org/10.5281/zenodo.15381417
-
-- Keçeci, M. (2025). From Majorana Fermions to Quantum Devices: The Role of Nanomaterials in the Second Quantum Era. https://doi.org/10.5281/zenodo.15425639
-
-- Keçeci, Mehmet. “Keçeci Layout”, 01 May 2025. https://doi.org/10.5281/zenodo.15314329
-
-- Keçeci, Mehmet. “Kececilayout”. PyPI, Anaconda, GitHub, Zenodo, GitLab, Gitea, Gogs, OneDev, Codeberg, 01 May 2025 https://doi.org/10.5281/zenodo.15313947
-
-- Keçeci, Mehmet (2020). Discourse on the Second Quantum Revolution and Nanotechnology Applications in the Midst of the COVID-19 Pandemic of Inequality. International Journal of Latest Research in Science and Technology, 9(5):1-7.
-https://doi.org/10.5281/zenodo.7483396
-https://doi.org/jtnm
-https://www.mnkjournals.com/journal/ijlrst/Article.php?paper_id=11004
-eISSN: 2278-5299
-
-- Keçeci, Mehmet (2011). 2n-dimensional at Fujii model instanton-like solutions and coupling constant's role between instantons with higher derivatives. Turkish Journal of Physics, 35(2):173-178
-https://doi.org/10.3906/fiz-1012-66
-https://doi.org/jp4p
-https://journals.tubitak.gov.tr/physics/vol35/iss2/10/
-ISSN: 1300-0101
-eISSN: 1303-6122
-
-- Keçeci, Mehmet. “Grikod2”. GitHub, PYPI, Anaconda, Zenodo, GitLab, Gitea, Gogs, OneDev, Codeberg, 06 May 2025 https://doi.org/10.5281/zenodo.15352207
-
-- Keçeci, Mehmet. “Grikod”. GitHub, PYPI, Anaconda, Zenodo, GitLab, Gitea, Gogs, OneDev, Codeberg, 06 May 2025 https://doi.org/10.5281/zenodo.15351842
-
-Software Contributor (2.01, 2.1.0, 2.1.1):
-
-- John Garrett, Echedey Luis, H.-H. Peng, Tim Cera, Gobinathj, Josh Borrow, Mehmet Keçeci, Splines, Suraj Iyer, Yuming Liu, cjw, & Mikhail Gasanov. (2023). garrettj403/SciencePlots: 2.1.1 (2.1.1). Zenodo. https://doi.org/10.5281/zenodo.10206719
-https://github.com/garrettj403/SciencePlots
-
-Poster:
-
-Keçeci Mehmet (2019). Quantum and Art. International Workshop on Quantum Frontiers of Technology, TÜBİTAK, TÜSSİDE, TBAE, Gebze, Türkiye. http://dx.doi.org/10.13140/RG.2.2.27533.90089 https://tbae.tubitak.gov.tr/en/haber/quantum-frontiers-technology 
-
-Keçeci Mehmet (2021). The Next Stop: Future Planet Walks. SEDS Space Arts 2021, Global Art Competition, Sri Lanka. https://sedsspaceart.web.app Artwork: Theme: The Next Stop Artwork name: Future Planet Walks Meaning: It is represented by 4 footprints. Each footprint represented the walk of human beings on a future planet. Each colour change is described as a separate period. https://doi.org/10.13140/rg.2.2.21394.12482
-
-
 
 ---
 
@@ -176,6 +124,10 @@ https://scholar.google.com.tr/citations?view_op=view_citation&hl=en&user=PleXSXM
 https://www.researchgate.net/publication/264788339_2n-dimensional_at_Fujii_model_instanton-like_solutions_and_coupling_constant's_role_between_instantons_with_higher_derivatives
 
 https://www.academia.edu/78945916/2n_dimensional_at_Fujii_model_instanton_like_solutions_and_coupling_constants_role_between_instantons_with_higher_derivatives
+
+https://www.mendeley.com/catalogue/c9a6e1d9-965e-3a1e-969a-6b5f240c0638/
+
+https://www.scopus.com/authid/detail.uri?authorId=39762289000
 
 ---
 
