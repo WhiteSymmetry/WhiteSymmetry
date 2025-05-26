@@ -85,9 +85,9 @@ Keçeci, M. (2021). The Next Stop: Future Planet Walks. In SEDS Space Arts 2021,
 Keçeci, M. (2019). Quantum and art. Presented at International Workshop on Quantum Frontiers of Technology, TÜBİTAK, TÜSSİDE, Gebze, Türkiye. https://doi.org/10.13140/RG.2.2.27533.90089
 https://tbae.tubitak.gov.tr/en/haber/quantum-frontiers-technology
 
-Keçeci, M. (2019, December 6). 2 boyutlu tek katmanlı yapıların su arıtımında kullanımının stratejik önemi. Presented at 23rd Liquid State Symposium, Pîrî Reis University, Türkiye. http://sivihal.pirireis.edu.tr/yazilar/Kitapcik_23.pdf
+Keçeci, M. (2019, December 6). 2 boyutlu tek katmanlı yapıların su arıtımında kullanımının stratejik önemi. Presented at 23rd Liquid State Symposium, Pîrî Reis University, Türkiye. https://www.researchgate.net/publication/337812505 & http://sivihal.pirireis.edu.tr/yazilar/Kitapcik_23.pdf
 
-Keçeci, M. (2017, July 19–21). Use of open digital badges in education and career planning. Presented at ADIM Physics Days VI, Balıkesir University, Türkiye. https://adimfizikvi.balikesir.edu.tr
+Keçeci, M. (2017, July 19–21). Use of open digital badges in education and career planning. Presented at ADIM Physics Days VI, Balıkesir University, Türkiye. https://adimfizikvi.balikesir.edu.tr & https://www.researchgate.net/publication/318658786
 
 Keçeci, M. (2011). 2n-dimensional at Fujii model instanton-like solutions and coupling constant's role between instantons with higher derivatives. Turkish Journal of Physics, 35 (2), 173–178. https://doi.org/10.3906/fiz-1012-66
 https://doi.org/jp4p
