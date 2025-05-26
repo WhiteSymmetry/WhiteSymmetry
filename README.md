@@ -33,6 +33,8 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 International Papers:
 
+Keçeci, M. (2025). Accuracy, Noise, and Scalability in Quantum Computation: Strategies for the NISQ Era and Beyond. https://doi.org/10.5281/zenodo.15515113
+
 Keçeci, M. (2025). Quantum Error Correction Codes and Their Impact on Scalable Quantum Computation: Current Approaches and Future Perspectives. https://doi.org/10.5281/zenodo.15499657
 
 Keçeci, M. (2025). Nanoscale Quantum Computers Fundamentals, Technologies, and Future Perspectives. https://doi.org/10.5281/zenodo.15493024
