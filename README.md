@@ -95,11 +95,11 @@ https://journals.tubitak.gov.tr/physics/vol35/iss2/10/
 ISSN: 1300-0101
 eISSN: 1303-6122
 
-Keçeci, M. (2005, September 13–16). 2N-boyutlu Fujii modelinde instanton çözümleri ve bağlantı sabitinin instantonlar arasındaki rolü. Presented at Turkish Physical Society 23rd International Physics Congress, Muğla University, Türkiye. http://dx.doi.org/10.13140/RG.2.1.1441.4887
+Keçeci, M. (2005, September 13–16). 2N-boyutlu Fujii modelinde instanton çözümleri ve bağlantı sabitinin instantonlar arasındaki rolü. Presented at Turkish Physical Society 23rd International Physics Congress, Muğla University, Türkiye. https://dx.doi.org/10.13140/RG.2.1.1441.4887
 
-Keçeci, M. (2005, May). Konformal invaryant fujii modelinin instanton tipi tam çözümü. Presented at Geleneksel Erzurum Fizik Günleri-II, Atatürk Üniversitesi, Türkiye. http://dx.doi.org/10.13140/RG.2.1.3538.6408
+Keçeci, M. (2005, May). Konformal invaryant fujii modelinin instanton tipi tam çözümü. Presented at Geleneksel Erzurum Fizik Günleri-II, Atatürk Üniversitesi, Türkiye. https://dx.doi.org/10.13140/RG.2.1.3538.6408
 
-Keçeci, M. (2002, September 16–20). Exact instanton-like solution conformal invariant of Fujii model, construct for four-dimensional and subderivative. Presented at Working Group II, Turkish Nonlinear Science Working Group, Karaburun/Izmir, Türkiye. http://dx.doi.org/10.13140/RG.2.1.1638.0964
+Keçeci, M. (2002, September 16–20). Exact instanton-like solution conformal invariant of Fujii model, construct for four-dimensional and subderivative. Presented at Working Group II, Turkish Nonlinear Science Working Group, Karaburun/Izmir, Türkiye. https://dx.doi.org/10.13140/RG.2.1.1638.0964
 
 Keçeci, M. (2001). Conformal Spinor Field Theories (Master's thesis). Gebze Technical University, Institute of Science, Gebze/Kocaeli, Türkiye.
 
