@@ -77,14 +77,14 @@ Keçeci, M. (2025, May 6). Grikod2. Zenodo. https://doi.org/10.5281/zenodo.15352
 
 Keçeci, M. (2025, May 6). Grikod. Zenodo. https://doi.org/10.5281/zenodo.12731345
 
-Garrett, J., Luis, E., Peng, H.-H., Cera, T., Gobinathj, Borrow, J., Keçeci, M., Splines, Iyer, S., Liu, Y., cjw, & Gasanov, M. (2023). garrettj403/SciencePlots: 2.1.1. Zenodo. https://doi.org/10.5281/zenodo.10206719
+Garrett, J., Luis, E., Peng, H.-H., Cera, T., Gobinathj, Borrow, J., Keçeci, M., Splines, Iyer, S., Liu, Y., cjw, & Gasanov, M. (2022–2023). garrettj403/SciencePlots (Versions 2.1.1, 2.1.0, 2.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10206719  (v2.1.1); https://doi.org/10.5281/zenodo.7986336  (v2.1.0); https://doi.org/10.5281/zenodo.7394724  (v2.0.1)
+
+Keçeci, M. (2021). The Next Stop: Future Planet Walks. In SEDS Space Arts 2021, Global Art Competition, Sri Lanka. https://doi.org/10.13140/RG.2.2.21394.12482
 
 Keçeci, M. (2020). Discourse on the second quantum revolution and nanotechnology applications in the midst of the COVID-19 pandemic of inequality. International Journal of Latest Research in Science and Technology, 9 (5), 1–7. https://doi.org/10.5281/zenodo.7483395
 https://doi.org/jtnm
 https://www.mnkjournals.com/journal/ijlrst/Article.php?paper_id=11004
 eISSN: 2278-5299
-
-Keçeci, M. (2021). The Next Stop: Future Planet Walks. In SEDS Space Arts 2021, Global Art Competition, Sri Lanka. https://doi.org/10.13140/RG.2.2.21394.12482
 
 Keçeci, M. (2019). Quantum and art. Presented at International Workshop on Quantum Frontiers of Technology, TÜBİTAK, TÜSSİDE, Gebze, Türkiye. https://doi.org/10.13140/RG.2.2.27533.90089
 https://tbae.tubitak.gov.tr/en/haber/quantum-frontiers-technology
