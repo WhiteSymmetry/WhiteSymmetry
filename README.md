@@ -91,7 +91,7 @@ https://tbae.tubitak.gov.tr/en/haber/quantum-frontiers-technology
 
 Keçeci, M. (2019, December 6). 2 boyutlu tek katmanlı yapıların su arıtımında kullanımının stratejik önemi. Presented at 23rd Liquid State Symposium, Pîrî Reis University, Türkiye. https://www.researchgate.net/publication/337812505; http://sivihal.pirireis.edu.tr/yazilar/Kitapcik_23.pdf (English translation: Strategic importance of single-layer two-dimensional structures in water purification)
 
-Keçeci, M. (2017, July 19–21). Use of open digital badges in education and career planning. Presented at ADIM Physics Days VI, Balıkesir University, Türkiye. https://adimfizikvi.balikesir.edu.tr; https://www.researchgate.net/publication/318658786 
+Keçeci, M. (2017, July 19–21). Açık Dijital Rozetlerin Eğitim ve Kariyer Planlamasında Kullanımı, ADIM Fizik Günleri VI, Fen-Edebiyat Fakültesi, Fizik Bölümü, Balıkesir Üniversitesi, Türkiye. https://adimfizikvi.balikesir.edu.tr; https://www.researchgate.net/publication/318658786 (English translation: Use of open digital badges in education and career planning. Presented at ADIM Physics Days VI, Balıkesir University)
 
 Keçeci, M. (2011). 2n-dimensional at Fujii model instanton-like solutions and coupling constant's role between instantons with higher derivatives. Turkish Journal of Physics, 35 (2), 173–178. https://doi.org/10.3906/fiz-1012-66
 https://doi.org/jp4p
