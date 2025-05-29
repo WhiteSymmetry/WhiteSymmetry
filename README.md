@@ -235,6 +235,8 @@ Aşkın Anatomisi: Anatomy of Love, ISBN: 9781034515982, Blurb
 
 Küresel Gambit: The Global Gambit, ISBN: 9781006625435, Blurb
 
+Keçeci, M. (2021). Öz Farkındalık: Mindfulness (Bilgeliğin Üçüncü Adımı: Third Step of Wisdom), ISBN: 9781034850311, Blurb
+
 Digital Art Therapy I, 03.03.2023, ISBN: 9798211486119, Blurb
 
 ---
