@@ -33,7 +33,7 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 International Papers:
 
-Keçeci, M. (2025). Künneth Teoremi Bağlamında Özdevinimli ve Evrişimli Kuantum Algoritmalarında Yapay Zekâ Entegrasyonu ile Hata Minimizasyonu. https://doi.org/10.5281/zenodo.15540876
+Keçeci, M. (2025). Künneth Teoremi Bağlamında Özdevinimli ve Evrişimli Kuantum Algoritmalarında Yapay Zekâ Entegrasyonu ile Hata Minimizasyonu. https://doi.org/10.5281/zenodo.15540875
 
 Keçeci, M. (2025). The Relationship Between Gravitational Wave Observations and Quantum Computing Technologies. https://doi.org/10.5281/zenodo.15524251
 
