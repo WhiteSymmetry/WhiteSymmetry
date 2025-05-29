@@ -31,7 +31,7 @@ Physicist (Completed the dissertation phase of the Ph.D. in Physics), Reviewer, 
 
 Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish articles)
 
-International Papers:
+# International Papers:
 
 Keçeci, M. (2025). Künneth Teoremi Bağlamında Özdevinimli ve Evrişimli Kuantum Algoritmalarında Yapay Zekâ Entegrasyonu ile Hata Minimizasyonu. https://doi.org/10.5281/zenodo.15540875
 
@@ -111,7 +111,7 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans Tezi). Gebz
 
 ---
 
-Other Citation Indexes/Indices:
+# Other Citation Indexes/Indices:
 
 TR Dizin: https://search.trdizin.gov.tr/tr/yayin/detay/116593
 
@@ -139,7 +139,7 @@ https://www.scopus.com/authid/detail.uri?authorId=39762289000
 
 ---
 
-Books:
+# Books:
 
 https://www.blurb.com/user/mkececi
 
@@ -243,7 +243,7 @@ Digital Art Therapy I, 03.03.2023, ISBN: 9798211486119, Blurb
 
 ---
 
-Book Links:
+# Book Links:
 
 https://www.blurb.com/user/mkececi
 
@@ -261,7 +261,7 @@ https://books.apple.com/us/author/mehmet-ke%C3%A7eci/id1014080843
 
 ---
 
-Scientific Links:
+# Scientific Links:
 
 https://orcid.org/0000-0001-9937-9839
 
@@ -291,7 +291,7 @@ SciProfiles: 110585
 
 Ciência ID: 411D- 32F4-237F
 
-Internships, Courses, Certificates
+# Internships, Courses, Certificates
 
 1.	Quantum Computing & Programming, Diploma Number: QNickel20-50, CRS4, QWorld, QItaly, DLAB, April 2025
 2.	Quantum Computing & Programming, Diploma Number: QBronze153-27, QWorld, Qiskit, CRS4, DLAB, February 2025, QItaly153
@@ -332,8 +332,8 @@ Internships, Courses, Certificates
 https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a6f-a6223364cd3c.png
 37.	Quantum Computing Hardware Certificate, Global Quantum Computing & Entrepreneurship Program, Certificate Number: 35199426, Womanium, 2022, https://www.womanium.org/Quantum
 38.	Quantum Computing & Programming, Womanium Global Quantum Computing & Entrepreneurship Program, Aug 2022, Diploma Number: QSilver14-50, QWorld
-39.	Monkeypox: Introductory course for African outbreak contexts, OpenWHO, WHO, 05.25.2022, https://openwho.org/verify/xibat-lyhyv-hogyt-segok-ragud
-40.	Monkeypox: Epidemiology, preparedness and response for African outbreak contexts, OpenWHO, WHO, 05.25.2022, https://openwho.org/verify/xodil-sogyk-byvot-dofyh-gecyr
+39.	Monkeypox: Introductory course for African outbreak contexts, OpenWHO, WHO, 05.25.2022
+40.	Monkeypox: Epidemiology, preparedness and response for African outbreak contexts, OpenWHO, WHO, 05.25.2022
 41.	İşyerlerinde Acil Durum Yönetimi, ISG-2021-280952, İstanbul Sanayi Odası (Istanbul Chamber of Industry), İSO, İSOAkademi, 11.2021-12.2021
 42.	Quantum Computing & Programming, QBronze (QBronze65-19, QLibya & QBronze72-27, QTürkiye), QSilver (QSilver4-8, QTürkiye & QSilver7, QPakistan & QSilver12, QLibya, QSilver14-50 (<Womanium|Quantum>)), QWorld, 2021-22; Quantum Computing Hardware Certificate, Womanium Quantum 2022: Global Quantum Computing & Entrepreneurship Program
 43.	IEEE Quantum AI Sustainability Symposium, IEEE Quantum, September 01, 2021
