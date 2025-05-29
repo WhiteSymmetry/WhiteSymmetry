@@ -293,202 +293,203 @@ Ciência ID: 411D- 32F4-237F
 
 # Internships, Courses, Certificates
 
-1.	Quantum Computing & Programming, Diploma Number: QNickel20-50, CRS4, QWorld, QItaly, DLAB, April 2025
-2.	Quantum Computing & Programming, Diploma Number: QBronze153-27, QWorld, Qiskit, CRS4, DLAB, February 2025, QItaly153
-3.	Destek AFAD Gönüllüsü Eğitimi, 25 saat, 10-14.02.2025, Katılım Belgesi, Belge No: 32184, Ümraniye AFAD, İstanbul, T.C. İstanbul Valiliği İl Afet ve Acil Durum Müdürlüğü, 14.02.2025
-4.	İşyerlerinde Yangın Risklerinin Yönetimi Eğitimi, 24 saat, Başarı Belgesi, İstanbul Sanayi Odası (Istanbul Chamber of Industry), İSO Akademi, Belgeyi Onaylayan: Murat Çalışır, Belge No: ISG-00224-379, 15.10.2024 – 14.01.2025
-5.	Elements of Quantum Computing and Programming, QCourse501-2-88, QWorld, September 2024- December 2024
-6.	Gradle Build Caching with Develocity, Gradle Inc.Gradle Inc., Diploma Number: d1a09899-d943-4235-b5a7-1fed0d3a2e11, 2024
-7.	Gönüllü Oryantasyon Semineri, Türk Kızılay Akademi, Diploma Number: sJacJt6FFB
-8.	Kızılay Uyum Eğitimi, Türk Kızılay Akademi, 31 Aralık 2024, Belge No: zs1Sl3NaVS
-9.	NASA-National Aeronautics and Space Administration, NASA Open Science
-10.	Basics of Quantum Information, IBM, 01.11.2024, Diploma Number: 6155bf93-65f9-4b1f-9640-5ca7380b4a87
-11.	Mendeley Advisor, 2024
-12.	Practical Introduction to Quantum-Safe Cryptography, IBM, 2024, Diploma Number: 57832e33-eb4b-4542-94a6-00f5650a9a92
-13.	Ingenii QML for Medical Imaging Course, 25.11.2024
-14.	Ingenii Quantum Machine Learning Fundamentals Course, 08.10.2024
-15.	Quantum with String Diagrams, Diploma Number: Quantum with String Diagrams1-16, Quantum Barsaat 2024, QWorld & QPakistan, August 2024
-16.	QCobalt, Quantum Annealing, Quantum Barsaat 2024, QWorld & QPakistan, Diploma Number: QCobalt6-18, July 2024
-17.	QBronze Using Qiskit, Quantum Computing & Programming, Quantum Barsaat 2024, QWorld & QPakistan & Qiskit, Diploma Number: QBronze137-25, July 2024
-18.	QPrep: Preparation for Quantum Computing & Programming, Quantum Barsaat 2024, QWorld & QPakistan, Diploma Number: QPrep14-32, July 2024
-19.	Quantum Annealing, QClass23/24, Diploma Number: QCobalt4-21, University of Latvia Faculty of Computing, QWorld, May 2024
-20.	Topological Quantum Computing, QClass23/24, Diploma Number: QTitanium1-28, University of Latvia Faculty of Computing, CQTech, QWorld, May 2024
-21.	Quantum Error Correction, QClass23/24, Diploma Number: QZinc2-27, University of Latvia Faculty of Computing, QWorld, May 2024
-22.	QHack 2024 Coding Challenge Completionist, ID: 45fd53e4-dc95-4849-add2-5ad26fb7b764,
-23.	Xanadu, 2024.03.05
-24.	Elements of Quantum Computing and Programming. QCourse501-1 Certificate, QCourse501-1-107, QClass23/24, QWorld, Sept. 23-Jan. 2024
-25.	11. Womanium Global Quantum Sensing Training Program, Womanium Global Quantum Program 2023, ID: 35199426, 08.11.2023
-26.	Quantum Computing Hardware Certificate, Global Quantum Program 2023, Womanium
-27.	Quantum Computing & Programming, Womanium Global Quantum Program 2023, QNickel
-28.	Diploma, Womanium, QWorld, QNickel7-52
-29.	Introduction to Programming with Neutral Atoms Certificate, QuEra Computing Inc. &
-30.	Womanium, July'23
-31.	Quantum Key Distribution, QMercury Diploma, Womanium Global Quantum Program 2023, Womanium, QWorld, 2023
-32.	Quantum Computing & Programming, Womanium Global Quantum Program 2023, QNickel Diploma, Womanium, QWorld
-33.	Quantum Error Correction, QZinc, Womanium Global Quantum Program, QWorld, 2023
-34.	Quantum Computing Software Certificate, Womanium Quantum Global Quantum Program, 2023
-35.	QMercury (Quantum Key Distribution) Diploma, Womanium Global Quantum Program 2023, Womanium, QWorld
-36.	QHack 2023 Certificate (Advanced), Xanadu
+1.  Quantum Computing & Programming, Diploma Number: QNickel20-50, CRS4, QWorld, QItaly, DLAB, April 2025
+2.  Quantitative Techniques, Columbia+, 139237802, April 6, 2025, https://badges.plus.columbia.edu/18f4fbec-2b56-41b0-8460-f4a61a58d5ed
+3.  Quantum Computing & Programming, Diploma Number: QBronze153-27, QWorld, Qiskit, CRS4, DLAB, February 2025, QItaly153
+4.  Destek AFAD Gönüllüsü Eğitimi, 25 saat, 10-14.02.2025, Katılım Belgesi, Belge No: 32184, Ümraniye AFAD, İstanbul, T.C. İstanbul Valiliği İl Afet ve Acil Durum Müdürlüğü, 14.02.2025
+5.  İşyerlerinde Yangın Risklerinin Yönetimi Eğitimi, 24 saat, Başarı Belgesi, İstanbul Sanayi Odası (Istanbul Chamber of Industry), İSO Akademi, Belgeyi Onaylayan: Murat Çalışır, Belge No: ISG-00224-379, 15.10.2024 – 14.01.2025
+6.  Elements of Quantum Computing and Programming, QCourse501-2-88, QWorld, September 2024- December 2024
+7.  Gradle Build Caching with Develocity, Gradle Inc.Gradle Inc., Diploma Number: d1a09899-d943-4235-b5a7-1fed0d3a2e11, 2024
+8.  Gönüllü Oryantasyon Semineri, Türk Kızılay Akademi, Diploma Number: sJacJt6FFB
+9.  Kızılay Uyum Eğitimi, Türk Kızılay Akademi, 31 Aralık 2024, Belge No: zs1Sl3NaVS
+10. NASA-National Aeronautics and Space Administration, NASA Open Science
+11. Basics of Quantum Information, IBM, 01.11.2024, Diploma Number: 6155bf93-65f9-4b1f-9640-5ca7380b4a87
+12. Mendeley Advisor, 2024
+13. Practical Introduction to Quantum-Safe Cryptography, IBM, 2024, Diploma Number: 57832e33-eb4b-4542-94a6-00f5650a9a92
+14. Ingenii QML for Medical Imaging Course, 25.11.2024
+15. Ingenii Quantum Machine Learning Fundamentals Course, 08.10.2024
+16. Quantum with String Diagrams, Diploma Number: Quantum with String Diagrams1-16, Quantum Barsaat 2024, QWorld & QPakistan, August 2024
+17. QCobalt, Quantum Annealing, Quantum Barsaat 2024, QWorld & QPakistan, Diploma Number: QCobalt6-18, July 2024
+18. QBronze Using Qiskit, Quantum Computing & Programming, Quantum Barsaat 2024, QWorld & QPakistan & Qiskit, Diploma Number: QBronze137-25, July 2024
+19. QPrep: Preparation for Quantum Computing & Programming, Quantum Barsaat 2024, QWorld & QPakistan, Diploma Number: QPrep14-32, July 2024
+20. Quantum Annealing, QClass23/24, Diploma Number: QCobalt4-21, University of Latvia Faculty of Computing, QWorld, May 2024
+21. Topological Quantum Computing, QClass23/24, Diploma Number: QTitanium1-28, University of Latvia Faculty of Computing, CQTech, QWorld, May 2024
+22. Quantum Error Correction, QClass23/24, Diploma Number: QZinc2-27, University of Latvia Faculty of Computing, QWorld, May 2024
+23. QHack 2024 Coding Challenge Completionist, ID: 45fd53e4-dc95-4849-add2-5ad26fb7b764,
+24. Xanadu, 2024.03.05
+25. Elements of Quantum Computing and Programming. QCourse501-1 Certificate, QCourse501-1-107, QClass23/24, QWorld, Sept. 23-Jan. 2024
+26. 11. Womanium Global Quantum Sensing Training Program, Womanium Global Quantum Program 2023, ID: 35199426, 08.11.2023
+27. Quantum Computing Hardware Certificate, Global Quantum Program 2023, Womanium
+28. Quantum Computing & Programming, Womanium Global Quantum Program 2023, QNickel
+29. Diploma, Womanium, QWorld, QNickel7-52
+30. Introduction to Programming with Neutral Atoms Certificate, QuEra Computing Inc. &
+31. Womanium, July'23
+32. Quantum Key Distribution, QMercury Diploma, Womanium Global Quantum Program 2023, Womanium, QWorld, 2023
+33. Quantum Computing & Programming, Womanium Global Quantum Program 2023, QNickel Diploma, Womanium, QWorld
+34. Quantum Error Correction, QZinc, Womanium Global Quantum Program, QWorld, 2023
+35. Quantum Computing Software Certificate, Womanium Quantum Global Quantum Program, 2023
+36. QMercury (Quantum Key Distribution) Diploma, Womanium Global Quantum Program 2023, Womanium, QWorld
+37. QHack 2023 Certificate (Advanced), Xanadu
 https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a6f-a6223364cd3c.png
-37.	Quantum Computing Hardware Certificate, Global Quantum Computing & Entrepreneurship Program, Certificate Number: 35199426, Womanium, 2022, https://www.womanium.org/Quantum
-38.	Quantum Computing & Programming, Womanium Global Quantum Computing & Entrepreneurship Program, Aug 2022, Diploma Number: QSilver14-50, QWorld
-39.	Monkeypox: Introductory course for African outbreak contexts, OpenWHO, WHO, 05.25.2022
-40.	Monkeypox: Epidemiology, preparedness and response for African outbreak contexts, OpenWHO, WHO, 05.25.2022
-41.	İşyerlerinde Acil Durum Yönetimi, ISG-2021-280952, İstanbul Sanayi Odası (Istanbul Chamber of Industry), İSO, İSOAkademi, 11.2021-12.2021
-42.	Quantum Computing & Programming, QBronze (QBronze65-19, QLibya & QBronze72-27, QTürkiye), QSilver (QSilver4-8, QTürkiye & QSilver7, QPakistan & QSilver12, QLibya, QSilver14-50 (<Womanium|Quantum>)), QWorld, 2021-22; Quantum Computing Hardware Certificate, Womanium Quantum 2022: Global Quantum Computing & Entrepreneurship Program
-43.	IEEE Quantum AI Sustainability Symposium, IEEE Quantum, September 01, 2021
-44.	Inclusion & Diversity in scientific publishing: why it’s a requirement, not a choice, 26.08.2021, Elsevier
-45.	Introduction to Quantum Computing, 08.25.2021, by Yassin Marco, Udemy
-46.	Microsoft Esports Leader, Microsoft Education, 24.08.2021
-47.	Quantum Engineering: Photonics in Quantum Computing and Quantum Networking, IEEE
-48.	Quantum, July 28, 2021
-49.	Mote Certified Educator, 27.07.2021
-50.	Create an E-book Cover Using Canva, 26.07.2021, Coursera, ID: FKT59GZXJQPS, https://www.coursera.org/account/accomplishments/certificate/FKT59GZXJQPS
-51.	Disaster Awareness Training (Afet Farkındalık Eğitimi), Kocaeli AFAD, 06.07.2021
-52.	Understanding Disaster Risks, 26.07.2021, Republic of Türkiye Ministry of Interior Disaster and Emergency Management (AFAD)
-53.	Certified, Kızılay (Red Crescent), 2021
-54.	Basic Training for ISO 45001:2018 Occupational Health & Safety Management Systems, Sigmacert, 09.05.202
-55.	Theme 1: Uniting Funders, Doers, and Custodians of Research to Strategically and Comprehensively Advance Quality Gender Research for SDGs, Elsevier, 2021
-56.	Sustainable Development Goals for Researchers, Elsevier, 2021
-57.	Social impact, Elsevier, 2021
-58.	Going through peer review, Elsevier, 2021
-59.	Becoming a peer reviewer, Elsevier, 2021
-60.	Certified Peer Reviewer Course, Elsevier, 2021
-61.	Fundamentals of peer review, Elsevier, 2021
-62.	Newsela Certified Educator Program, Newsela Learning, 18.01.2021 https://verify.skilljar.com/c/p552dp5oqc5y
-63.	WeVideo Expert Creator, 2021
-64.	Wakelet Community Leader, 2020
-65.	0.504x: Sorting Truth from Fiction: Civic Online Reasoning, 16.11.2020, edX & MITx https://courses.edx.org/certificates/045b69cbc5ce45ba87f5736e2d3068cf
-66.	ISO 9001:2015 Kalite Yönetim Sistemi Temel Eğitimi (Quality Management System Basic Training), Sigmacert, 05.11.2020
-67.	Certified Edjineer, 2020
-68.	Sountrap Certified Educator & Expert, 2020
-69.	Adobe Creative Educator (Trendsetter, 12 Certificates, 13 Badges), 2020
-70.	Julia for Data Science, JuliaAcademy, 2020 (Introduction to Julia, Getting Started with JuliaAcademy, Foundations of Machine Learning, Deep Learning with Flux.jl, Parallel Computing, The World of Machine Learning with Knet)
-71.	Learning Python, Sep 20, 2020, LinkedIn Learning, Certificate Id:  Ad8kqQiVh5o8TYDezjyyeWaHuCpB
-72.	Time Management: Working from Home, Sep 15, 2020, LinkedIn Learning & Program: PMI®  (Project Management Institute, Inc.) Registered Education Provider, Provider ID: #4101,  Certificate No: AbgVkahYuljE01qnSVd6D-3XaeG7, PDUs/Contact Hours: 1.25, Activity #:  100020003926 & Field of Study: Personal Development, Program: National Association of State  Boards of Accountancy (NASBA), Registry ID: #140940, Certificate No:  AXFs33FrKhz4w7OTBsSCuSGEz5JR, Continuing Professional Education Credit (CPE): 2.20
-73.	BTK Academy (3 Participation Certificates, 4 Completed Courses), 2020 (Google Dijital Vatandaşlık ve Çevrim İçi Güvenlik, Bilgi Teknolojileri İletişim Kurumu, BTK Akademi, 10.09.2020)
-74.	Nearpod Certified Educator, 18.08.2020
-75.	Azure Quantum Developer Workshop, The Azure Quantum Team, 2020
-76.	Make your data accessible -It's Not FAIR! Improving Data Publishing Practices in Research,
-77.	Elsevier, 2020
-78.	Building trust and engagement in peer review, Elsevier, 2020
-79.	How to prepare a proposal for a review article, Elsevier, 2020
-80.	Beginners’ guide to writing a manuscript in LaTeX, Elsevier, 2020
-81.	Certificate of Excellence, Elsevier, 2020
-82.	How to design effective figures for review articles, Elsevier, 2020
-83.	Fundamentals of manuscript preparation, Elsevier, 2020
-84.	How to write an abstract and improve your article, Elsevier, 2020
-85.	Guide to reference managers: How to effectively manage your references, Elsevier, 2020
-86.	Systematic reviews 101, Technical Writing Skills, Elsevier, 2020
-87.	Using proper manuscript language, Writing Skills, Elsevier
-88.	How to turn your thesis into an article, Writing Skills, Elsevier
-89.	10 tips for writing a truly terrible journal article, Writing Skills, Elsevier
-90.	Techniques for Publishing in Transformative Ground-Breaking Journals, Cell Press, Elsevier
-91.	Strengthening Research Capabilities Remotely, Cell Press, Elsevier
-92.	How to prepare your manuscript, Fundamentals of Manuscript Preparation, Elsevier
-93.	Structuring your article correctly, Fundamentals of Manuscript Preparation, Elsevier
-94.	How to review a manuscript, Becoming a Peer Reviewer, Elsevier
-95.	Efficient Literature Search (Physical Sciences), Elsevier Türkiye Webinar
-96.	Efficient Journal Selection (Physical Sciences), Elsevier Türkiye Webinar
-97.	Efficient Research Area Discovery (Physical Sciences), Elsevier Türkiye Webinar
-98.	Mendeley New Tools, Elsevier Türkiye Webinar
-99.	Scientific Literature Discovery for Undergraduate Student, Elsevier Türkiye Webinar
-100.	Scientific Literature Discovery for Undergraduate Students, Elsevier Türkiye Webinar
-101.	ORSAM Summer School on Middle Eastern Affairs, 21-24.09.2020
-102.	ePROTECT Respiratory Infections, May 8, 2020, OpenWHO, World Health Organization
-103.	Mechanical Ventilation for COVID-19, 16.04.2020, Harvard Medical School is accredited by the Accreditation Council for Continuing Medical Education (ACCME®) to provide continuing medical education for physicians.
-104.	Personal Stress Management Program, 11.04.2020, Ministry of Interior, Disaster and Emergency Management Directorate (AFAD)
-105.	Crisis Management Program, 10.04.2020, Ministry of Interior, Disaster and Emergency Management Directorate (AFAD)
-106.	Leadership Program, 08.04.2020, Ministry of Interior, Disaster and Emergency Management
-107.	Directorate (AFAD)
-108.	COVID-19: Operational Planning Guidelines and COVID-19 Partners Platform to support country preparedness and response, March 29, 2020, OpenWHO, World Health Organization
-109.	How to learn a language, Kiron, 2020
-110.	Introduction to Psychology, Psychological First Aid (PFA), Kiron, 2020
-111.	Nodes Program Used in Search and Rescue Activities, 28.01.2020, Ministry of Interior, Disaster and Emergency Management Directorate (AFAD)
-112.	Disaster Awareness Training Program for Individuals and Families, 28.01.2020, Ministry of Interior, Disaster and Emergency Management Directorate (AFAD)
-113.	Flipgrid Certified Educator, 2019
-114.	Unleash creativity with MakeCode and Minecraft: Education Edition & My M. Journey, Code Builder, Example M. Lesson, Classroom Management, Multiplayer, World Setup, Microsoft, 2018
-115.	Physical computing for the non-computer science educator, Microsoft, 2018
-116.	Computational Thinking and its importance in education, Microsoft, 2018
-117.	How to Infuse Computational Thinking in your Teaching with Maker Challenges, Microsoft, 2018
-118.	Getting started with Azure for Education, Microsoft Education, 2018
-119.	OneNote Staff Notebook: Tools for staff collaboration, Microsoft, 2017
-120.	OneNote Class Notebook: A teacher's all-in-one notebook for students, Microsoft, 2017
-121.	Getting Started with OneNote, Microsoft, 2017
-122.	Streamline efficiency with Office 365 apps, Microsoft, 2017
-123.	Microsoft Forms: Creating Authentic Assessments, Microsoft, 2017
-124.	Teach Student-Led Computer Science Advocacy, Microsoft, 2017
-125.	Working with a visual learning tool (Sensavis). Microsoft, 2017
-126.	Microsoft Innovative Educator Expert 2017-2021
-127.	Microsoft Master Trainer, 2016-2021
-128.	Skype in the Classroom Expert. Microsoft, 2017
-129.	LEGO® MINDSTORMS® Education EV3. Microsoft, 2017
-130.	LEGO® MINDSTORMS® Education EV3 - In the Classroom. Microsoft, 2017
-131.	LEGO® MINDSTORMS® Education EV3 – Programming. Microsoft, 2017
-132.	LEGO® MINDSTORMS® Education EV3 - Getting Started. Microsoft, 2017
-133.	Create a world of tomorrow in your classroom with Windows 10, 2017
-134.	Game Development Crash Course w/Solar2D: Fast and EASY!, 02.23.2017, by J.A. Whye, Udemy
-135.	Build and Deploy Your First Decentralized App with Etherem, 12.10.2017, by Gary Simon, Udemy
-136.	Best Online Excel Training | Best Shortcuts in 30 mins, 02.24.2017, by Yoda Learning, Udemy
-137.	Deploying Android Apps to Different App Stores - Correctly!, 02.26.2017,by Jason Low, Udemy
-138.	How to Create Your Udemy Course, 02.24.2017, by Udemy Instructor Team, Udemy
-139.	Adobe Presenter ile Powerpointlerden Elearning yapalım, 02.24.2017, by Ercan Altuğ Yılmaz, Udemy
-140.	Udemy LIVE 2016, 02.24.2017, by Udemy Instructor Team, Udemy
-141.	How to Self-Study English Online, 02.24.2017, by Nikki Joslin, Udemy
-142.	Lean In Presents: Centered Leadership, 03.06.2017, by Joanna Barsh, LeanIn Foundation, Udemy
-143.	El Islam: Una Religión de Paz, 03.06.2017, by Claudia Ruiz Arriola, Udemy
-144.	The biography of Prophet Muhammad part 1, 03.12.2017, by Islamic Guidance, Udemy
-145.	CK-12 Certified Educator. CK-12 Foundation, 2018-2022
-146.	Summer School 101 & 201. Microsoft, 2017
-147.	Windows 10 and Classroom Agility. Microsoft, 2017
-148.	Introduction to Microsoft Teams, Microsoft, 2017
-149.	The Student Teacher Education Program, Microsoft, 2017
-150.	Reimagine the writing process with Microsoft in Education, Microsoft, 2017
-151.	Creating a digitally inclusive learning community, Microsoft, 2017
-152.	Microsoft DevOps200.3: Continuous Integration and Continuous Deployment, 10.06.2017, Certification Number: 49bde4faf53f40abb6b0ac51961fc451
-153.	Training teachers to author accessible content. Microsoft, 2017
-154.	Problem-Based Learning. Microsoft, 2017
-155.	Online Marketing Basic Training. TOBB, İŞKUR, ÇSGB Ministry confirmed (Türkiye), Google Dijital Atölye (Digital Garage), 2017 (Dijital Pazarlamanın Temelleri, Google Dijital Atölye, Google EMEA, IAB Europe, Certificate No: LBB N26 W8Q)
-156.	Teaching Sustainable Development Goals. Microsoft, 2017
-157.	Introduction to Kodu. Microsoft, 2017
-158.	TweetMeet. Microsoft, 2017
-159.	Make What's Next Through Collaboration, Citizenship, and Creative Thinking. Microsoft, 2017
-160.	Design, Deploy & Transform Workshop. Microsoft, 2017
-161.	MIE Trainer. Microsoft, 2016
-162.	Teacher academy: Windows 10. Microsoft, 2016
-163.	Digital Inking with Surface. Microsoft, 2016 145. Digital Citizenship. Microsoft, 2016
-164.	Step up to Computer Science.
-165.	Occupational Safety Specialist, OSS-C, Ministry of Labour and Social Security of the
-166.	Republic of Türkiye, 2016
-167.	Certified Microsoft Innovative Educator. Microsoft, 2016
-168.	Teacher academy: Windows 10. Microsoft, 2016
-169.	Digital Inking with Surface. Microsoft, 2016
-170.	Digital Citizenship. Microsoft, 2016
-171.	Step up to Computer Science. Microsoft, 2016
-172.	Amplifying Student Voice. Microsoft, 2016 154. Microsoft Imagine Academy. Microsoft, 2016
-173.	Prepare to Teach Creative Coding Through Games and Apps. Microsoft, 2016
-174.	Teacher Academy: Office 365. Microsoft, 2016
-175.	Introduction to Microsoft Classroom. Microsoft, 2016
-176.	Hour of Code: Facilitation Training and Lots of Resources! Microsoft, 2016
-177.	Teacher Academy: OneNote, The Ultimate Collaboration Tool. Microsoft, 2016
-178.	Technology Enriched Instruction. Microsoft, 2016 161. Educator Community Contributor. Microsoft, 2016 162. Educator Community Influencer. Microsoft, 2016
-179.	21st Century Learning Design. Microsoft, 2016
-180.	Microsoft in Education. Microsoft, 2016
-181.	Microsoft in the Classroom. Microsoft, 2016
-182.	MIE Trainer Academy Learning Path. Microsoft, 2016
-183.	Teaching with Technology 2016. Microsoft, 2016
-184.	Teaching with Technology Basics. Microsoft, 2016
-185.	Minecraft Certified Educator, Minecraft, 2016
-186.	Certified Web Solutions Provider: Web Çözümleri Sağlayıcısı Sertifikası, ResellerClub University, 2016
-187.	Occupational Safety and Health (OSH, Marmara University), 2015
-188.	120 Hour English Course (Dilko), 2005
-189.	Master Computer Teacher Certificate from M.E.B. (National Education Ministry), 2000
-190.	Expert Computer Teacher Certificate from Governorship (Yalova & Istanbul), 2000
-191.	Pedagogical Formation (University of Kocaeli), 1998
-192.	Astronomy Course (University of Ege), 1997
-193.	720 Hour English Course (University of Kocaeli), 1993-1994
-194.	Electric Counter Attention T.E.K. (Türkiye Electric Corporation) (Internship), 1993
-195.	Enamelled Wire Production, EMTEL (Internship), 1992
-196.	Arabic Language Certificate I., II. Level, Egypt, Arab Radio, 1991
-197.	~1000 Badges & Certificates: 79 Elsevier, Pennylane (1 Certificate, 18 Badges) (https://pennylane.ai/profile/mkececi), B+C Microsoft Education 858 modules, 516 badges, 95 trophies, 1 reputation (https://learn.microsoft.com/en-us/users/mkececi/), 16 MVA, 30 Google, 3 ResellerClub, 3 Firefox, 1 WordPress, 3 Minecraft, 7 Fedora, 43 Spiceworks, 10 Edmodo, 27B+1C European Schoolnet, 30 Sociabble, 12 Udemy, 21 Brighttalk, 4 OpenWHO, etc.
+38. Quantum Computing Hardware Certificate, Global Quantum Computing & Entrepreneurship Program, Certificate Number: 35199426, Womanium, 2022, https://www.womanium.org/Quantum
+39. Quantum Computing & Programming, Womanium Global Quantum Computing & Entrepreneurship Program, Aug 2022, Diploma Number: QSilver14-50, QWorld
+40. Monkeypox: Introductory course for African outbreak contexts, OpenWHO, WHO, 05.25.2022
+41. Monkeypox: Epidemiology, preparedness and response for African outbreak contexts, OpenWHO, WHO, 05.25.2022
+42. İşyerlerinde Acil Durum Yönetimi, ISG-2021-280952, İstanbul Sanayi Odası (Istanbul Chamber of Industry), İSO, İSOAkademi, 11.2021-12.2021
+43. Quantum Computing & Programming, QBronze (QBronze65-19, QLibya & QBronze72-27, QTürkiye), QSilver (QSilver4-8, QTürkiye & QSilver7, QPakistan & QSilver12, QLibya, QSilver14-50 (<Womanium|Quantum>)), QWorld, 2021-22; Quantum Computing Hardware Certificate, Womanium Quantum 2022: Global Quantum Computing & Entrepreneurship Program
+44. IEEE Quantum AI Sustainability Symposium, IEEE Quantum, September 01, 2021
+45. Inclusion & Diversity in scientific publishing: why it’s a requirement, not a choice, 26.08.2021, Elsevier
+46. Introduction to Quantum Computing, 08.25.2021, by Yassin Marco, Udemy
+47. Microsoft Esports Leader, Microsoft Education, 24.08.2021
+48. Quantum Engineering: Photonics in Quantum Computing and Quantum Networking, IEEE
+49. Quantum, July 28, 2021
+50. Mote Certified Educator, 27.07.2021
+51. Create an E-book Cover Using Canva, 26.07.2021, Coursera, ID: FKT59GZXJQPS, https://www.coursera.org/account/accomplishments/certificate/FKT59GZXJQPS
+52. Disaster Awareness Training (Afet Farkındalık Eğitimi), Kocaeli AFAD, 06.07.2021
+53. Understanding Disaster Risks, 26.07.2021, Republic of Türkiye Ministry of Interior Disaster and Emergency Management (AFAD)
+54. Certified, Kızılay (Red Crescent), 2021
+55. Basic Training for ISO 45001:2018 Occupational Health & Safety Management Systems, Sigmacert, 09.05.202
+56. Theme 1: Uniting Funders, Doers, and Custodians of Research to Strategically and Comprehensively Advance Quality Gender Research for SDGs, Elsevier, 2021
+57. Sustainable Development Goals for Researchers, Elsevier, 2021
+58. Social impact, Elsevier, 2021
+59. Going through peer review, Elsevier, 2021
+60. Becoming a peer reviewer, Elsevier, 2021
+61. Certified Peer Reviewer Course, Elsevier, 2021
+62. Fundamentals of peer review, Elsevier, 2021
+63. Newsela Certified Educator Program, Newsela Learning, 18.01.2021 https://verify.skilljar.com/c/p552dp5oqc5y
+64. WeVideo Expert Creator, 2021
+65. Wakelet Community Leader, 2020
+66. 0.504x: Sorting Truth from Fiction: Civic Online Reasoning, 16.11.2020, edX & MITx https://courses.edx.org/certificates/045b69cbc5ce45ba87f5736e2d3068cf
+67. ISO 9001:2015 Kalite Yönetim Sistemi Temel Eğitimi (Quality Management System Basic Training), Sigmacert, 05.11.2020
+68. Certified Edjineer, 2020
+69. Sountrap Certified Educator & Expert, 2020
+70. Adobe Creative Educator (Trendsetter, 12 Certificates, 13 Badges), 2020
+71. Julia for Data Science, JuliaAcademy, 2020 (Introduction to Julia, Getting Started with JuliaAcademy, Foundations of Machine Learning, Deep Learning with Flux.jl, Parallel Computing, The World of Machine Learning with Knet)
+72. Learning Python, Sep 20, 2020, LinkedIn Learning, Certificate Id:  Ad8kqQiVh5o8TYDezjyyeWaHuCpB
+73. Time Management: Working from Home, Sep 15, 2020, LinkedIn Learning & Program: PMI®  (Project Management Institute, Inc.) Registered Education Provider, Provider ID: #4101,  Certificate No: AbgVkahYuljE01qnSVd6D-3XaeG7, PDUs/Contact Hours: 1.25, Activity #:  100020003926 & Field of Study: Personal Development, Program: National Association of State  Boards of Accountancy (NASBA), Registry ID: #140940, Certificate No:  AXFs33FrKhz4w7OTBsSCuSGEz5JR, Continuing Professional Education Credit (CPE): 2.20
+74. BTK Academy (3 Participation Certificates, 4 Completed Courses), 2020 (Google Dijital Vatandaşlık ve Çevrim İçi Güvenlik, Bilgi Teknolojileri İletişim Kurumu, BTK Akademi, 10.09.2020)
+75. Nearpod Certified Educator, 18.08.2020
+76. Azure Quantum Developer Workshop, The Azure Quantum Team, 2020
+77. Make your data accessible -It's Not FAIR! Improving Data Publishing Practices in Research,
+78. Elsevier, 2020
+79. Building trust and engagement in peer review, Elsevier, 2020
+80. How to prepare a proposal for a review article, Elsevier, 2020
+81. Beginners’ guide to writing a manuscript in LaTeX, Elsevier, 2020
+82. Certificate of Excellence, Elsevier, 2020
+83. How to design effective figures for review articles, Elsevier, 2020
+84. Fundamentals of manuscript preparation, Elsevier, 2020
+85. How to write an abstract and improve your article, Elsevier, 2020
+86. Guide to reference managers: How to effectively manage your references, Elsevier, 2020
+87. Systematic reviews 101, Technical Writing Skills, Elsevier, 2020
+88. Using proper manuscript language, Writing Skills, Elsevier
+89. How to turn your thesis into an article, Writing Skills, Elsevier
+90. 10 tips for writing a truly terrible journal article, Writing Skills, Elsevier
+91. Techniques for Publishing in Transformative Ground-Breaking Journals, Cell Press, Elsevier
+92. Strengthening Research Capabilities Remotely, Cell Press, Elsevier
+93. How to prepare your manuscript, Fundamentals of Manuscript Preparation, Elsevier
+94. Structuring your article correctly, Fundamentals of Manuscript Preparation, Elsevier
+95. How to review a manuscript, Becoming a Peer Reviewer, Elsevier
+96. Efficient Literature Search (Physical Sciences), Elsevier Türkiye Webinar
+97. Efficient Journal Selection (Physical Sciences), Elsevier Türkiye Webinar
+98. Efficient Research Area Discovery (Physical Sciences), Elsevier Türkiye Webinar
+99. Mendeley New Tools, Elsevier Türkiye Webinar
+100.    Scientific Literature Discovery for Undergraduate Student, Elsevier Türkiye Webinar
+101.    Scientific Literature Discovery for Undergraduate Students, Elsevier Türkiye Webinar
+102.    ORSAM Summer School on Middle Eastern Affairs, 21-24.09.2020
+103.    ePROTECT Respiratory Infections, May 8, 2020, OpenWHO, World Health Organization
+104.    Mechanical Ventilation for COVID-19, 16.04.2020, Harvard Medical School is accredited by the Accreditation Council for Continuing Medical Education (ACCME®) to provide continuing medical education for physicians.
+105.    Personal Stress Management Program, 11.04.2020, Ministry of Interior, Disaster and Emergency Management Directorate (AFAD)
+106.    Crisis Management Program, 10.04.2020, Ministry of Interior, Disaster and Emergency Management Directorate (AFAD)
+107.    Leadership Program, 08.04.2020, Ministry of Interior, Disaster and Emergency Management
+108.    Directorate (AFAD)
+109.    COVID-19: Operational Planning Guidelines and COVID-19 Partners Platform to support country preparedness and response, March 29, 2020, OpenWHO, World Health Organization
+110.    How to learn a language, Kiron, 2020
+111.    Introduction to Psychology, Psychological First Aid (PFA), Kiron, 2020
+112.    Nodes Program Used in Search and Rescue Activities, 28.01.2020, Ministry of Interior, Disaster and Emergency Management Directorate (AFAD)
+113.    Disaster Awareness Training Program for Individuals and Families, 28.01.2020, Ministry of Interior, Disaster and Emergency Management Directorate (AFAD)
+114.    Flipgrid Certified Educator, 2019
+115.    Unleash creativity with MakeCode and Minecraft: Education Edition & My M. Journey, Code Builder, Example M. Lesson, Classroom Management, Multiplayer, World Setup, Microsoft, 2018
+116.    Physical computing for the non-computer science educator, Microsoft, 2018
+117.    Computational Thinking and its importance in education, Microsoft, 2018
+118.    How to Infuse Computational Thinking in your Teaching with Maker Challenges, Microsoft, 2018
+119.    Getting started with Azure for Education, Microsoft Education, 2018
+120.    OneNote Staff Notebook: Tools for staff collaboration, Microsoft, 2017
+121.    OneNote Class Notebook: A teacher's all-in-one notebook for students, Microsoft, 2017
+122.    Getting Started with OneNote, Microsoft, 2017
+123.    Streamline efficiency with Office 365 apps, Microsoft, 2017
+124.    Microsoft Forms: Creating Authentic Assessments, Microsoft, 2017
+125.    Teach Student-Led Computer Science Advocacy, Microsoft, 2017
+126.    Working with a visual learning tool (Sensavis). Microsoft, 2017
+127.    Microsoft Innovative Educator Expert 2017-2021
+128.    Microsoft Master Trainer, 2016-2021
+129.    Skype in the Classroom Expert. Microsoft, 2017
+130.    LEGO® MINDSTORMS® Education EV3. Microsoft, 2017
+131.    LEGO® MINDSTORMS® Education EV3 - In the Classroom. Microsoft, 2017
+132.    LEGO® MINDSTORMS® Education EV3 – Programming. Microsoft, 2017
+133.    LEGO® MINDSTORMS® Education EV3 - Getting Started. Microsoft, 2017
+134.    Create a world of tomorrow in your classroom with Windows 10, 2017
+135.    Game Development Crash Course w/Solar2D: Fast and EASY!, 02.23.2017, by J.A. Whye, Udemy
+136.    Build and Deploy Your First Decentralized App with Etherem, 12.10.2017, by Gary Simon, Udemy
+137.    Best Online Excel Training | Best Shortcuts in 30 mins, 02.24.2017, by Yoda Learning, Udemy
+138.    Deploying Android Apps to Different App Stores - Correctly!, 02.26.2017,by Jason Low, Udemy
+139.    How to Create Your Udemy Course, 02.24.2017, by Udemy Instructor Team, Udemy
+140.    Adobe Presenter ile Powerpointlerden Elearning yapalım, 02.24.2017, by Ercan Altuğ Yılmaz, Udemy
+141.    Udemy LIVE 2016, 02.24.2017, by Udemy Instructor Team, Udemy
+142.    How to Self-Study English Online, 02.24.2017, by Nikki Joslin, Udemy
+143.    Lean In Presents: Centered Leadership, 03.06.2017, by Joanna Barsh, LeanIn Foundation, Udemy
+144.    El Islam: Una Religión de Paz, 03.06.2017, by Claudia Ruiz Arriola, Udemy
+145.    The biography of Prophet Muhammad part 1, 03.12.2017, by Islamic Guidance, Udemy
+146.    CK-12 Certified Educator. CK-12 Foundation, 2018-2022
+147.    Summer School 101 & 201. Microsoft, 2017
+148.    Windows 10 and Classroom Agility. Microsoft, 2017
+149.    Introduction to Microsoft Teams, Microsoft, 2017
+150.    The Student Teacher Education Program, Microsoft, 2017
+151.    Reimagine the writing process with Microsoft in Education, Microsoft, 2017
+152.    Creating a digitally inclusive learning community, Microsoft, 2017
+153.    Microsoft DevOps200.3: Continuous Integration and Continuous Deployment, 10.06.2017, Certification Number: 49bde4faf53f40abb6b0ac51961fc451
+154.    Training teachers to author accessible content. Microsoft, 2017
+155.    Problem-Based Learning. Microsoft, 2017
+156.    Online Marketing Basic Training. TOBB, İŞKUR, ÇSGB Ministry confirmed (Türkiye), Google Dijital Atölye (Digital Garage), 2017 (Dijital Pazarlamanın Temelleri, Google Dijital Atölye, Google EMEA, IAB Europe, Certificate No: LBB N26 W8Q)
+157.    Teaching Sustainable Development Goals. Microsoft, 2017
+158.    Introduction to Kodu. Microsoft, 2017
+159.    TweetMeet. Microsoft, 2017
+160.    Make What's Next Through Collaboration, Citizenship, and Creative Thinking. Microsoft, 2017
+161.    Design, Deploy & Transform Workshop. Microsoft, 2017
+162.    MIE Trainer. Microsoft, 2016
+163.    Teacher academy: Windows 10. Microsoft, 2016
+164.    Digital Inking with Surface. Microsoft, 2016 145. Digital Citizenship. Microsoft, 2016
+165.    Step up to Computer Science.
+166.    Occupational Safety Specialist, OSS-C, Ministry of Labour and Social Security of the
+167.    Republic of Türkiye, 2016
+168.    Certified Microsoft Innovative Educator. Microsoft, 2016
+169.    Teacher academy: Windows 10. Microsoft, 2016
+170.    Digital Inking with Surface. Microsoft, 2016
+171.    Digital Citizenship. Microsoft, 2016
+172.    Step up to Computer Science. Microsoft, 2016
+173.    Amplifying Student Voice. Microsoft, 2016 154. Microsoft Imagine Academy. Microsoft, 2016
+174.    Prepare to Teach Creative Coding Through Games and Apps. Microsoft, 2016
+175.    Teacher Academy: Office 365. Microsoft, 2016
+176.    Introduction to Microsoft Classroom. Microsoft, 2016
+177.    Hour of Code: Facilitation Training and Lots of Resources! Microsoft, 2016
+178.    Teacher Academy: OneNote, The Ultimate Collaboration Tool. Microsoft, 2016
+179.    Technology Enriched Instruction. Microsoft, 2016 161. Educator Community Contributor. Microsoft, 2016 162. Educator Community Influencer. Microsoft, 2016
+180.    21st Century Learning Design. Microsoft, 2016
+181.    Microsoft in Education. Microsoft, 2016
+182.    Microsoft in the Classroom. Microsoft, 2016
+183.    MIE Trainer Academy Learning Path. Microsoft, 2016
+184.    Teaching with Technology 2016. Microsoft, 2016
+185.    Teaching with Technology Basics. Microsoft, 2016
+186.    Minecraft Certified Educator, Minecraft, 2016
+187.    Certified Web Solutions Provider: Web Çözümleri Sağlayıcısı Sertifikası, ResellerClub University, 2016
+188.    Occupational Safety and Health (OSH, Marmara University), 2015
+189.    120 Hour English Course (Dilko), 2005
+190.    Master Computer Teacher Certificate from M.E.B. (National Education Ministry), 2000
+191.    Expert Computer Teacher Certificate from Governorship (Yalova & Istanbul), 2000
+192.    Pedagogical Formation (University of Kocaeli), 1998
+193.    Astronomy Course (University of Ege), 1997
+194.    720 Hour English Course (University of Kocaeli), 1993-1994
+195.    Electric Counter Attention T.E.K. (Türkiye Electric Corporation) (Internship), 1993
+196.    Enamelled Wire Production, EMTEL (Internship), 1992
+197.    Arabic Language Certificate I., II. Level, Egypt, Arab Radio, 1991
+198.    ~1000 Badges & Certificates: 79 Elsevier, Pennylane (1 Certificate, 18 Badges) (https://pennylane.ai/profile/mkececi), B+C Microsoft Education 858 modules, 516 badges, 95 trophies, 1 reputation (https://learn.microsoft.com/en-us/users/mkececi/), 16 MVA, 30 Google, 3 ResellerClub, 3 Firefox, 1 WordPress, 3 Minecraft, 7 Fedora, 43 Spiceworks, 10 Edmodo, 27B+1C European Schoolnet, 30 Sociabble, 12 Udemy, 21 Brighttalk, 4 OpenWHO, etc.
 
