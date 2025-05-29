@@ -88,7 +88,7 @@ https://doi.org/jtnm
 https://www.mnkjournals.com/journal/ijlrst/Article.php?paper_id=11004
 eISSN: 2278-5299
 
-1. Keçeci, M. (2019). Quantum and art. Presented at International Workshop on Quantum Frontiers of Technology, TÜBİTAK, TÜSSİDE, Gebze, Türkiye. https://doi.org/10.13140/RG.2.2.27533.90089;
+1. Keçeci, M. (2019). Quantum and Art. Presented at International Workshop on Quantum Frontiers of Technology, TÜBİTAK, TÜSSİDE, Gebze, Türkiye. https://doi.org/10.13140/RG.2.2.27533.90089;
 https://tbae.tubitak.gov.tr/en/haber/quantum-frontiers-technology (Original publication on doi; this link is no longer active. A copy of the document is available in my personal archive.)
 
 1. Keçeci, M. (2019, December 6). 2 boyutlu tek katmanlı yapıların su arıtımında kullanımının stratejik önemi. Presented at 23rd Liquid State Symposium, Pîrî Reis University, Türkiye. https://www.researchgate.net/publication/337812505; http://sivihal.pirireis.edu.tr/yazilar/Kitapcik_23.pdf (English translation: Strategic importance of single-layer two-dimensional structures in water purification) (Original publication on ResearchGate; this link is no longer active. A copy of the document is available in my personal archive.)
