@@ -294,7 +294,7 @@ Ciência ID: 411D- 32F4-237F
 # Internships, Courses, Certificates
 
 1.  Quantum Computing & Programming, Diploma Number: QNickel20-50, CRS4, QWorld, QItaly, DLAB, April 2025
-2.  Quantitative Techniques, Columbia+, 139237802, April 6, 2025, https://badges.plus.columbia.edu/18f4fbec-2b56-41b0-8460-f4a61a58d5ed
+2.  Quantitative Techniques, Columbia+, 139237802, April 6, 2025, https://badges.plus.columbia.edu/18f4fbec-2b56-41b0-8460-f4a61a58d5ed; https://badges.plus.columbia.edu/profile/mehmetkeeci404433/wallet
 3.  Quantum Computing & Programming, Diploma Number: QBronze153-27, QWorld, Qiskit, CRS4, DLAB, February 2025, QItaly153
 4.  Destek AFAD Gönüllüsü Eğitimi, 25 saat, 10-14.02.2025, Katılım Belgesi, Belge No: 32184, Ümraniye AFAD, İstanbul, T.C. İstanbul Valiliği İl Afet ve Acil Durum Müdürlüğü, 14.02.2025
 5.  İşyerlerinde Yangın Risklerinin Yönetimi Eğitimi, 24 saat, Başarı Belgesi, İstanbul Sanayi Odası (Istanbul Chamber of Industry), İSO Akademi, Belgeyi Onaylayan: Murat Çalışır, Belge No: ISG-00224-379, 15.10.2024 – 14.01.2025
