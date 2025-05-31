@@ -85,10 +85,7 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 1. Keçeci, M. (2021). The Next Stop: Future Planet Walks. In SEDS Space Arts 2021, Global Art Competition, Sri Lanka. https://doi.org/10.13140/RG.2.2.21394.12482
 
-1. Keçeci, M. (2020). Discourse on the second quantum revolution and nanotechnology applications in the midst of the COVID-19 pandemic of inequality. International Journal of Latest Research in Science and Technology, 9 (5), 1–7. https://doi.org/10.5281/zenodo.7483395
-https://doi.org/jtnm
-https://www.mnkjournals.com/journal/ijlrst/Article.php?paper_id=11004
-eISSN: 2278-5299
+1. Keçeci, M. (2020). Discourse on the second quantum revolution and nanotechnology applications in the midst of the COVID-19 pandemic of inequality. International Journal of Latest Research in Science and Technology, 9 (5), 1–7. eISSN: 2278-5299, https://doi.org/10.5281/zenodo.7483395; https://doi.org/jtnm; https://www.mnkjournals.com/journal/ijlrst/Article.php?paper_id=11004
 
 1. Keçeci, M. (2019). Quantum and Art. Presented at International Workshop on Quantum Frontiers of Technology, TÜBİTAK, TÜSSİDE, Gebze, Türkiye. https://doi.org/10.13140/RG.2.2.27533.90089;
 https://tbae.tubitak.gov.tr/en/haber/quantum-frontiers-technology (Original publication on doi; this link is no longer active. A copy of the document is available in my personal archive.)
@@ -97,11 +94,7 @@ https://tbae.tubitak.gov.tr/en/haber/quantum-frontiers-technology (Original publ
 
 1. Keçeci, M. (2017, July 19–21). Açık Dijital Rozetlerin Eğitim ve Kariyer Planlamasında Kullanımı, ADIM Fizik Günleri VI, Fen-Edebiyat Fakültesi, Fizik Bölümü, Balıkesir Üniversitesi, Türkiye. https://adimfizikvi.balikesir.edu.tr; https://www.researchgate.net/publication/318658786 (English translation: Use of open digital badges in education and career planning. Presented at ADIM Physics Days VI, Balıkesir University)
 
-1. Keçeci, M. (2011). 2n-dimensional at Fujii model instanton-like solutions and coupling constant's role between instantons with higher derivatives. Turkish Journal of Physics, 35 (2), 173–178. https://doi.org/10.3906/fiz-1012-66
-https://doi.org/jp4p
-https://journals.tubitak.gov.tr/physics/vol35/iss2/10/
-ISSN: 1300-0101
-eISSN: 1303-6122
+1. Keçeci, M. (2011). 2n-dimensional at Fujii model instanton-like solutions and coupling constant's role between instantons with higher derivatives. Turkish Journal of Physics, 35 (2), 173–178. ISSN: 1300-0101, eISSN: 1303-6122, https://doi.org/10.3906/fiz-1012-66; https://doi.org/jp4p; https://journals.tubitak.gov.tr/physics/vol35/iss2/10/
 
 1. Keçeci, M. (2005, September 13–16). 2n-boyutlu Fujii modelinde instanton çözümleri ve bağlantı sabitinin instantonlar arasındaki rolü. 2005 Dünya Fizik Yılı Türk Fizik Derneği 23. Uluslararası Fizik Kongresi, Muğla Üniversitesi, Türkiye. https://dx.doi.org/10.13140/RG.2.1.1441.4887 (Instanton Solutions in the 2n-Dimensional Fujii Model and the Role of the Coupling Constant Between Instantons. Presented at World Year of Physics 2005 Turkish Physical Society 23rd International Physics Congress, Muğla University)
 
