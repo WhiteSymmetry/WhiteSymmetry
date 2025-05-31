@@ -31,7 +31,7 @@ Physicist (Completed the dissertation phase of the Ph.D. in Physics), Reviewer, 
 
 Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish articles)
 
-## Kaynakça
+## References/Kaynakça
 
 Keçeci, M. (2025). *Yüksek Kübit Sayılı Kuantum Hesaplamada Ölçeklenebilirlik ve Hata Yönetimi: Yüzey Kodları, Topolojik Malzemeler ve Hibrit Algoritmik Yaklaşımlar*. https://doi.org/10.5281/zenodo.15558153  
 
