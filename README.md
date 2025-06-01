@@ -105,7 +105,7 @@ Keçeci, M. (2019). *Quantum and Art*. Presented at International Workshop on Qu
 
 Keçeci, M. (2019, December 6). *2 Boyutlu Tek Katmanlı Yapıların Su Arıtımında Kullanımının Stratejik Önemi (Strategic Importance of Use of 2 Dimensional Monolayer Structures in Water Purification)*. 23. Sıvı Hâl Sempozyumu (23rd Liquid State Symposium), Pîrî Reis University, Türkiye. https://doi.org/10.5281/zenodo.15567811; https://www.researchgate.net/publication/337812505
 
-Keçeci, M. (2017, July 19–21). *Açık Dijital Rozetlerin Eğitim ve Kariyer Planlamasında Kullanımı*. Presented at ADIM Fizik Günleri VI, Balıkesir Üniversitesi, Türkiye. https://adimfizikvi.balikesir.edu.tr; https://www.researchgate.net/publication/318658786  
+Keçeci, M. (2017, July 19–21). *Açık Dijital Rozetlerin Eğitim ve Kariyer Planlamasında Kullanımı (Use of open digital badges in education and career planning)*. ADIM Fizik Günleri VI, Balıkesir Üniversitesi (ADIM Physics Days VI, Balıkesir University), Türkiye. https://doi.org/10.5281/zenodo.15567962; https://adimfizikvi.balikesir.edu.tr; https://www.researchgate.net/publication/318658786  
 
 Keçeci, M. (2011). 2n-dimensional at Fujii model instanton-like solutions and coupling constant's role between instantons with higher derivatives. *Turkish Journal of Physics*, *35*(2), 173–178. ISSN: 1300-0101, eISSN: 1303-6122. https://doi.org/10.3906/fiz-1012-66  
 
@@ -175,7 +175,7 @@ Keçeci, M. (2001). *Konformal Spinör Alan Teorileri* (Yüksek Lisans tezi). Ge
 
 1. Keçeci, M. (2019, December 6). *2 Boyutlu Tek Katmanlı Yapıların Su Arıtımında Kullanımının Stratejik Önemi (Strategic Importance of Use of 2 Dimensional Monolayer Structures in Water Purification)*. 23. Sıvı Hâl Sempozyumu (23rd Liquid State Symposium), Pîrî Reis University, Türkiye. https://doi.org/10.5281/zenodo.15567811; https://www.researchgate.net/publication/337812505
 
-1. Keçeci, M. (2017, July 19–21). Açık Dijital Rozetlerin Eğitim ve Kariyer Planlamasında Kullanımı, ADIM Fizik Günleri VI, Fen-Edebiyat Fakültesi, Fizik Bölümü, Balıkesir Üniversitesi, Türkiye. https://adimfizikvi.balikesir.edu.tr; https://www.researchgate.net/publication/318658786 (English translation: Use of open digital badges in education and career planning. Presented at ADIM Physics Days VI, Balıkesir University)
+1. Keçeci, M. (2017, July 19–21). Açık Dijital Rozetlerin Eğitim ve Kariyer Planlamasında Kullanımı, ADIM Fizik Günleri VI, Fen-Edebiyat Fakültesi, Fizik Bölümü, Balıkesir Üniversitesi, Türkiye. https://doi.org/10.5281/zenodo.15567962; https://adimfizikvi.balikesir.edu.tr; https://www.researchgate.net/publication/318658786 (English translation: Use of open digital badges in education and career planning. Presented at ADIM Physics Days VI, Balıkesir University)
 
 1. Keçeci, M. (2011). 2n-dimensional at Fujii model instanton-like solutions and coupling constant's role between instantons with higher derivatives. Turkish Journal of Physics, 35 (2), 173–178. ISSN: 1300-0101, eISSN: 1303-6122, https://doi.org/10.3906/fiz-1012-66; https://doi.org/jp4p; https://journals.tubitak.gov.tr/physics/vol35/iss2/10/
 
