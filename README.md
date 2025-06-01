@@ -47,6 +47,8 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 ## References/Kaynakça
 
+Keçeci, M. (2025). *Kuantum Hata Düzeltme Algoritmalarında Özyineleme Optimizasyonu ve Aşırı Gürültü Toleransı: Kuantum Sıçraması Potansiyelinin Değerlendirilmesi*. https://doi.org/10.5281/zenodo.15570678
+
 Keçeci, M. (2025). *Yüksek Kübit Sayılı Kuantum Hesaplamada Ölçeklenebilirlik ve Hata Yönetimi: Yüzey Kodları, Topolojik Malzemeler ve Hibrit Algoritmik Yaklaşımlar*. https://doi.org/10.5281/zenodo.15558153  
 
 Keçeci, M. (2025). *Künneth Teoremi Bağlamında Özdevinimli ve Evrişimli Kuantum Algoritmalarında Yapay Zekâ Entegrasyonu ile Hata Minimizasyonu*. https://doi.org/10.5281/zenodo.15540875  
@@ -118,6 +120,8 @@ Keçeci, M. (2002, September 16–20). *Exact instanton-like solution conformal 
 Keçeci, M. (2001). *Konformal Spinör Alan Teorileri* (Yüksek Lisans tezi). Gebze Teknik Üniversitesi, Fen Bilimleri Fakültesi, Fizik.
 
 # International Papers:
+
+1. Keçeci, M. (2025). *Kuantum Hata Düzeltme Algoritmalarında Özyineleme Optimizasyonu ve Aşırı Gürültü Toleransı: Kuantum Sıçraması Potansiyelinin Değerlendirilmesi*. https://doi.org/10.5281/zenodo.15570678
 
 1. Keçeci, M. (2025). Yüksek Kübit Sayılı Kuantum Hesaplamada Ölçeklenebilirlik ve Hata Yönetimi: Yüzey Kodları, Topolojik Malzemeler ve Hibrit Algoritmik Yaklaşımlar. https://doi.org/10.5281/zenodo.15558153
 
