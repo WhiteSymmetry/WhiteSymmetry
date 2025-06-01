@@ -103,7 +103,7 @@ Keçeci, M. (2020, October 25). Discourse on the second quantum revolution and n
 
 Keçeci, M. (2019). *Quantum and Art*. Presented at International Workshop on Quantum Frontiers of Technology, TÜBİTAK, TÜSSİDE, Gebze, Türkiye. https://doi.org/10.13140/RG.2.2.27533.90089; https://tbae.tubitak.gov.tr/en/haber/quantum-frontiers-technology  
 
-Keçeci, M. (2019, December 6). *2 Boyutlu Tek Katmanlı Yapıların Su Arıtımında Kullanımının Stratejik Önemi*. Presented at 23rd Liquid State Symposium, Pîrî Reis University, Türkiye. https://doi.org/10.5281/zenodo.15567812; https://www.researchgate.net/publication/337812505
+Keçeci, M. (2019, December 6). *2 Boyutlu Tek Katmanlı Yapıların Su Arıtımında Kullanımının Stratejik Önemi*. Presented at 23rd Liquid State Symposium, Pîrî Reis University, Türkiye. https://doi.org/10.5281/zenodo.15567811; https://www.researchgate.net/publication/337812505
 
 Keçeci, M. (2017, July 19–21). *Açık Dijital Rozetlerin Eğitim ve Kariyer Planlamasında Kullanımı*. Presented at ADIM Fizik Günleri VI, Balıkesir Üniversitesi, Türkiye. https://adimfizikvi.balikesir.edu.tr; https://www.researchgate.net/publication/318658786  
 
@@ -173,9 +173,7 @@ Keçeci, M. (2001). *Konformal Spinör Alan Teorileri* (Yüksek Lisans tezi). Ge
 
 1. Keçeci, M. (2020). Discourse on the second quantum revolution and nanotechnology applications in the midst of the COVID-19 pandemic of inequality. International Journal of Latest Research in Science and Technology, 9 (5), 1–7. eISSN: 2278-5299, https://doi.org/10.5281/zenodo.7483395; https://doi.org/jtnm; https://www.mnkjournals.com/journal/ijlrst/Article.php?paper_id=11004
 
-1. Keçeci, M. (2019, December 6). *2 Boyutlu Tek Katmanlı Yapıların Su Arıtımında Kullanımının Stratejik Önemi*. Presented at 23rd Liquid State Symposium, Pîrî Reis University, Türkiye. https://doi.org/10.5281/zenodo.15567812; https://www.researchgate.net/publication/337812505
-
-1. Keçeci, M. (2019, December 6). 2 Boyutlu Tek Katmanlı Yapıların Su Arıtımında Kullanımının Stratejik Önemi. Presented at 23rd Liquid State Symposium, Pîrî Reis University, Türkiye. https://www.researchgate.net/publication/337812505; http://sivihal.pirireis.edu.tr/yazilar/Kitapcik_23.pdf (English translation: Strategic importance of single-layer two-dimensional structures in water purification) (Original publication on ResearchGate; this link is no longer active. A copy of the document is available in my personal archive.)
+1. Keçeci, M. (2019, December 6). *2 Boyutlu Tek Katmanlı Yapıların Su Arıtımında Kullanımının Stratejik Önemi*. Presented at 23rd Liquid State Symposium, Pîrî Reis University, Türkiye. https://doi.org/10.5281/zenodo.15567811; https://www.researchgate.net/publication/337812505
 
 1. Keçeci, M. (2017, July 19–21). Açık Dijital Rozetlerin Eğitim ve Kariyer Planlamasında Kullanımı, ADIM Fizik Günleri VI, Fen-Edebiyat Fakültesi, Fizik Bölümü, Balıkesir Üniversitesi, Türkiye. https://adimfizikvi.balikesir.edu.tr; https://www.researchgate.net/publication/318658786 (English translation: Use of open digital badges in education and career planning. Presented at ADIM Physics Days VI, Balıkesir University)
 
