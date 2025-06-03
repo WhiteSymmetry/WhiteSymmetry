@@ -45,7 +45,9 @@ Physicist (Completed the dissertation phase of the Ph.D. in Physics), Reviewer, 
 
 Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish articles)
 
-## References/Kaynakça
+# References/Kaynakça
+
+Keçeci, M. (2025). Çoklu İşlemci Mimarilerinde Kuantum Algoritma Simülasyonlarının Hızlandırılması: Cython, Numba ve Jax ile Optimizasyon Teknikleri. https://doi.org/10.5281/zenodo.15580503
 
 Keçeci, M. (2025). Kuantum Hata Düzeltmede Metrik Seçimi ve Algoritmik Optimizasyonun Büyük Ölçekli Yüzey Kodları Üzerindeki Etkileri. https://doi.org/10.5281/zenodo.15572201
 
@@ -122,6 +124,8 @@ Keçeci, M. (2002, September 16–20). *Exact instanton-like solution conformal 
 Keçeci, M. (2001). *Konformal Spinör Alan Teorileri* (Yüksek Lisans tezi). Gebze Teknik Üniversitesi, Fen Bilimleri Fakültesi, Fizik.
 
 # International Papers:
+
+1. Keçeci, M. (2025). *Çoklu İşlemci Mimarilerinde Kuantum Algoritma Simülasyonlarının Hızlandırılması: Cython, Numba ve Jax ile Optimizasyon Teknikleri*. https://doi.org/10.5281/zenodo.15580503
 
 1. Keçeci, M. (2025). *Kuantum Hata Düzeltmede Metrik Seçimi ve Algoritmik Optimizasyonun Büyük Ölçekli Yüzey Kodları Üzerindeki Etkileri*. https://doi.org/10.5281/zenodo.15572201
 
