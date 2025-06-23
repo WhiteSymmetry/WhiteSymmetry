@@ -597,4 +597,43 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
 196.	Electric Counter Attention T.E.K. (Türkiye Electric Corporation) (Internship), 1993
 197.	Enamelled Wire Production, EMTEL (Internship), 1992
 198.	Arabic Language Certificate I., II. Level, Egypt, Arab Radio, 1991
-199.	~1000 Badges & Certificates: 79 Elsevier, Pennylane (1 Certificate, 18 Badges) (https://pennylane.ai/profile/mkececi), B+C Microsoft Education 858 modules, 516 badges, 95 trophies, 1 reputation (https://learn.microsoft.com/en-us/users/mkececi/), 16 MVA, 30 Google, 3 ResellerClub, 3 Firefox, 1 WordPress, 3 Minecraft, 7 Fedora, 43 Spiceworks, 10 Edmodo, 27B+1C European Schoolnet, 30 Sociabble, 12 Udemy, 21 Brighttalk, 4 OpenWHO, Columbia+ (2C, 6B, https://badges.plus.columbia.edu/profile/mehmetkeeci404433/wallet), LinkedIn Learning (8 C), etc.
+199.	~1000 Badges & Certificates: 79 Elsevier, Pennylane (1 Certificate, 18 Badges) (https://pennylane.ai/profile/mkececi), B+C Microsoft Education 858 modules, 516 badges, 95 trophies, 1 reputation (https://learn.microsoft.com/en-us/users/mkececi/), 16 MVA, 30 Google, 3 ResellerClub, 3 Firefox, 1 WordPress, 3 Minecraft, 7 Fedora, 43 Spiceworks, 10 Edmodo, 27B+1C European Schoolnet, 30 Sociabble, 12 Udemy, 21 Brighttalk, 4 OpenWHO, Columbia+ (2C, 6B, https://badges.plus.columbia.edu/profile/mehmetkeeci404433/wallet), LinkedIn Learning (8C), Badgelist (27B, https://badgelist.com/u/mkececi), Credly (28B, https://www.credly.com/users/mkececi), BTK Akademi (5C), Accredible (5 C+B,	 https://www.credential.net/profile/mkececi/wallet), Badgr (151B,	 https://api.badgr.io/public/collections/55f6069cb6a8861abd957632b5a465a9) etc.
+
+---
+# Digital Badges & Certificates
+
+1.	https://www.credly.com/users/mkececi 
+2.	https://api.badgr.io/public/collections/55f6069cb6a8861abd957632b5a465a9 
+3.	https://badgr.com/public/issuers/yP8s_p1_RW2xLbBXM_NL0Q/badges 
+4.	https://www.credential.net/profile/mkececi/wallet 
+5.	https://badgelist.com/u/mkececi 
+6.	https://badgelist.com/u/Mehmet-Kececi 
+7.	https://www.linkedin.com/learning/certificates/47b23dc546a920aa98f813617e795e8ea9e034f99ad58a78cc68e794c72d5eac 
+8.	https://www.linkedin.com/learning/certificates/bfd9e11dc7c9a6044f5074f2bd5dbf6bd48e4688f539a650f8a3686fcd7d7538 
+9.	https://www.linkedin.com/learning/certificates/be80476d7cceb1ae0b14736dcdab70d163a6b339815af5ad73dbf0f44d9ad41e 
+10.	https://www.linkedin.com/learning/certificates/048fd7c6079df7c079fa6fa64648d2a9dfec1e4dcd7a5ed8e524ee7afa8e6fda 
+11.	https://badges.plus.columbia.edu/4e747f60-0ebc-423c-a7ac-ff8ab8da3f0d 
+12.	https://badges.plus.columbia.edu/18f4fbec-2b56-41b0-8460-f4a61a58d5ed 
+13.	https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a6f-a6223364cd3c.png 
+14.	https://verify.skilljar.com/c/p552dp5oqc5y 
+15.	https://verify.skilljar.com/c/k86h2o7qxjbg 
+16.	https://verify.skilljar.com/c/tqo7aiesb6tr 
+17.	https://verify.skilljar.com/c/6ii26u8oqke7 
+18.	https://verify.skilljar.com/c/shkbvnp3eyq5 
+19.	https://verify.skilljar.com/c/cgvzjyvboprs 
+20.	https://verify.skilljar.com/c/ex9egmt93aqf 
+21.	https://verify.skilljar.com/c/wvyzyrmo8n7i 
+22.	https://verify.skilljar.com/c/gafbb2325b9a 
+23.	https://pennylane.ai/profile/mkececi 
+24.	https://learn.microsoft.com/en-us/users/mkececi 
+25.	https://badges.plus.columbia.edu/profile/mehmetkeeci404433/wallet 
+26.	https://www.coursera.org/user/f50fe5dc943341246de13b30169ed87d
+27.	https://www.brighttalk.com/mybrighttalk/recently-viewed 
+28.	https://digitalworld.coursify.me/ 
+100% completed:
+a.	Aerospace Propulsion
+b.	Aerospace Engineering
+c.	VCE Physics Astronomy Course
+d.	Special Class through NASA
+e.	Teaching Astronomy Online
+f.	Flight mechanics - The basis
