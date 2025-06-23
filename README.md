@@ -47,6 +47,8 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 # References/Kaynakça
 
+Keçeci, M. (2025). Keçeci's Arithmetical Square. Authorea. June, 2025. https://doi.org/10.22541/au.175070836.63624913/v1
+
 Keçeci, M. (2025). Keçeci Numbers and the Keçeci Prime Number. Authorea. June, 2025. https://doi.org/10.22541/au.174890181.14730464/v1
 
 Keçeci, M. (2025). Çoklu İşlemci Mimarilerinde Kuantum Algoritma Simülasyonlarının Hızlandırılması: Cython, Numba ve Jax ile Optimizasyon Teknikleri. https://doi.org/10.5281/zenodo.15580503
@@ -126,6 +128,8 @@ Keçeci, M. (2002, September 16–20). Exact instanton-like solution conformal i
 Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebze Teknik Üniversitesi, Fen Bilimleri Fakültesi, Fizik.
 
 # International Papers:
+
+1. Keçeci, M. (2025). Keçeci's Arithmetical Square. Authorea. June, 2025. https://doi.org/10.22541/au.175070836.63624913/v1
 
 1. Keçeci, M. (2025). Keçeci Numbers and the Keçeci Prime Number. Authorea. June, 2025. https://doi.org/10.22541/au.174890181.14730464/v1
 
