@@ -41,10 +41,6 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 ---
 
-Physicist (Completed the dissertation phase of the Ph.D. in Physics), Reviewer, Author, Teacher & Lecturer, Occupational Safety Specialist
-
-Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish articles)
-
 # References/Kaynakça
 
 Keçeci, M. (2025). Keçeci's Arithmetical Square. Authorea. June, 2025. https://doi.org/10.22541/au.175070836.63624913/v1
