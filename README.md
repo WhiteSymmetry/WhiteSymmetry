@@ -95,11 +95,13 @@ Keçeci, M. (2025). From Majorana fermions to quantum devices: The role of nanom
 
 Keçeci, M. (2025, May 1). Keçeci Layout. Zenodo. https://doi.org/10.5281/zenodo.15314328  
 
-Keçeci, M. (2025, May 1). Kececilayout. Zenodo. https://doi.org/10.5281/zenodo.15313946  
+Keçeci, M. (2025, May 1). Kececilayout. Zenodo. https://doi.org/10.5281/zenodo.15313946 
+
+Keçeci, M. (2025). Grikod2 [Data set]. WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.13.1
 
 Keçeci, M. (2025, May 6). Grikod2. Zenodo. https://doi.org/10.5281/zenodo.15352206  
 
-Keçeci, M. (2025). Grikod [Data set]. WorkflowHub. https://doi.org/10.48546/WORKFLOWHUB.DATAFILE.12.2 
+Keçeci, M. (2025). Grikod [Data set]. WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.12.2 
 
 Keçeci, M. (2025, May 6). Grikod. Zenodo. https://doi.org/10.5281/zenodo.12731345  
 
@@ -181,9 +183,11 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 1. Keçeci, M. (2025, May 1). Kececilayout. Zenodo. https://doi.org/10.5281/zenodo.15313946
 
+1. Keçeci, M. (2025). Grikod2 [Data set]. WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.13.1
+
 1. Keçeci, M. (2025, May 6). Grikod2. Zenodo. https://doi.org/10.5281/zenodo.15352206
    
-1. Keçeci, M. (2025). Grikod [Data set]. WorkflowHub. https://doi.org/10.48546/WORKFLOWHUB.DATAFILE.12.2 
+1. Keçeci, M. (2025). Grikod [Data set]. WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.12.2 
 
 1. Keçeci, M. (2025, May 6). Grikod. Zenodo. https://doi.org/10.5281/zenodo.12731345
 
