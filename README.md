@@ -41,7 +41,7 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 ---
 
-# References/Kaynakça
+# International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
 Keçeci, M. (2025). Keçeci's Arithmetical Square. Authorea. June, 2025. https://doi.org/10.22541/au.175070836.63624913/v1
 
