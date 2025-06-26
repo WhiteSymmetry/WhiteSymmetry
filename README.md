@@ -658,8 +658,9 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
 26.	https://learn.microsoft.com/en-us/users/mkececi 
 27.	https://badges.plus.columbia.edu/profile/mehmetkeeci404433/wallet 
 28.	https://www.coursera.org/user/f50fe5dc943341246de13b30169ed87d
-29.	https://www.brighttalk.com/mybrighttalk/recently-viewed 
-30.	https://digitalworld.coursify.me/ 
+29.	https://www.brighttalk.com/mybrighttalk/recently-viewed
+30.	https://wakelet.com/@mkececi 
+31.	https://digitalworld.coursify.me/ 
 100% completed:
 a.	Aerospace Propulsion
 b.	Aerospace Engineering
