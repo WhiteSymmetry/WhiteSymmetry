@@ -91,7 +91,7 @@ Keçeci, M. (2025, May 14). Kececisquares. Zenodo. https://doi.org/10.5281/zenod
 
 Keçeci, M. (2025, May 13). Scalable complexity: Mathematical analysis and potential for physical applications of the Keçeci circle fractal. Zenodo. https://doi.org/10.5281/zenodo.15392772
 
-Keçeci, M. (2025). kececifractals [Data set]. WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.16.1
+Keçeci, M. (2025). kececifractals [Data set]. WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.16.2
 
 Keçeci, M. (2025, May 13). Kececifractals. Zenodo. https://doi.org/10.5281/zenodo.15392518  
 
@@ -189,7 +189,7 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 1. Keçeci, M. (2025, May 13). Scalable complexity: Mathematical analysis and potential for physical applications of the Keçeci circle fractal. Zenodo. https://doi.org/10.5281/zenodo.15392772
 
-1. Keçeci, M. (2025). kececifractals [Data set]. WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.16.1
+1. Keçeci, M. (2025). kececifractals [Data set]. WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.16.2
 
 1. Keçeci, M. (2025, May 13). Kececifractals. Zenodo. https://doi.org/10.5281/zenodo.15392518
 
