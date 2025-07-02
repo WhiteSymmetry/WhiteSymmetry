@@ -43,6 +43,7 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2025). Technical and Theoretical Bridges Between Gravitational Wave Observations and Quantum Information Processing Systems. Authorea. June, 2025. https://doi.org/10.22541/au.175138854.46819184/v1
 
 Keçeci, M. (2025). New Technological and Methodological Approaches in Gravitational Wave Detection and Quantum Computing Development. WorkflowHub. https://doi.org/10.48546/workflowhub.document.33.1
 
@@ -147,6 +148,8 @@ Keçeci, M. (2002, September 16–20). Exact instanton-like solution conformal i
 Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebze Teknik Üniversitesi, Fen Bilimleri Fakültesi, Fizik.
 
 # International Papers:
+
+1. Keçeci, M. (2025). Technical and Theoretical Bridges Between Gravitational Wave Observations and Quantum Information Processing Systems. Authorea. June, 2025. https://doi.org/10.22541/au.175138854.46819184/v1
 
 1. Keçeci, M. (2025). New Technological and Methodological Approaches in Gravitational Wave Detection and Quantum Computing Development. WorkflowHub. https://doi.org/10.48546/workflowhub.document.33.1
   
