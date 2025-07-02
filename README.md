@@ -679,8 +679,13 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
 27.	https://badges.plus.columbia.edu/profile/mehmetkeeci404433/wallet 
 28.	https://www.coursera.org/user/f50fe5dc943341246de13b30169ed87d
 29.	https://www.brighttalk.com/mybrighttalk/recently-viewed
-30.	https://wakelet.com/@mkececi 
-31.	https://digitalworld.coursify.me/ 
+30.	https://wakelet.com/@mkececi
+31.	31.	https://medium.com/@mkececi 
+32.	https://www.growkudos.com/profile/Mehmet_Ke%C3%A7eci 
+33.	https://anaconda.org/bilgi 
+34.	https://pypi.org/user/WhiteSymmetry 
+35.	https://github.com/WhiteSymmetry
+36.	https://digitalworld.coursify.me/ 
 100% completed:
 a.	Aerospace Propulsion
 b.	Aerospace Engineering
