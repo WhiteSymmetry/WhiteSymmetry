@@ -151,10 +151,10 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 # International Papers:
 
-52.	Keçeci, M. (2025). Technical and Theoretical Bridges Between Gravitational Wave Observations and Quantum Information Processing Systems. Authorea. July, 2025. https://doi.org/10.22541/au.175138854.46819184/v1
-51.	Keçeci, M. (2025). New Technological and Methodological Approaches in Gravitational Wave Detection and Quantum Computing Development. WorkflowHub. https://doi.org/10.48546/workflowhub.document.33.1
-50.	Keçeci, M. (2025). Scalable Complexity in Fractal Geometry: The Keçeci Fractal Approach. Authorea. June, 2025. https://doi.org/10.22541/au.175131225.56823239/v1
-49.	Keçeci, M. (2025). Keçeci Fractals. WorkflowHub. https://doi.org/10.48546/workflowhub.document.32.2
+52\.	Keçeci, M. (2025). Technical and Theoretical Bridges Between Gravitational Wave Observations and Quantum Information Processing Systems. Authorea. July, 2025. https://doi.org/10.22541/au.175138854.46819184/v1
+51\.	Keçeci, M. (2025). New Technological and Methodological Approaches in Gravitational Wave Detection and Quantum Computing Development. WorkflowHub. https://doi.org/10.48546/workflowhub.document.33.1
+50\.	Keçeci, M. (2025). Scalable Complexity in Fractal Geometry: The Keçeci Fractal Approach. Authorea. June, 2025. https://doi.org/10.22541/au.175131225.56823239/v1
+49\.	Keçeci, M. (2025). Keçeci Fractals. WorkflowHub. https://doi.org/10.48546/workflowhub.document.32.2
 48.	Keçeci, M. (2025). Keçeci Deterministic Zigzag Layout. WorkflowHub. https://doi.org/10.48546/workflowhub.document.31.1
 47.	Keçeci, M. (2025). Keçeci Zigzag Layout Algorithm. Authorea. June, 2025. https://doi.org/10.22541/au.175087581.16524538/v1
 46.	Keçeci, M. (2025). Keçeci's Arithmetical Square. Authorea. June, 2025. https://doi.org/10.22541/au.175070836.63624913/v1
