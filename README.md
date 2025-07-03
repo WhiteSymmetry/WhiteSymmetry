@@ -43,6 +43,8 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, Mehmet (2025). Beyond Traditional Diagrams: The Keçeci Layout for Structural Thinking. Knowledge Commons. https://doi.org/10.17613/v4w94-ak572
+
 Keçeci, Mehmet (2025). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.29468135.v1
 
 Keçeci, M. (2025, July 3). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. https://doi.org/10.17605/OSF.IO/9HTG3
@@ -159,6 +161,8 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 # International Papers:
 
+57\. Keçeci, Mehmet (2025). Beyond Traditional Diagrams: The Keçeci Layout for Structural Thinking. Knowledge Commons. https://doi.org/10.17613/v4w94-ak572
+
 56\. Keçeci, Mehmet (2025). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.29468135.v1
 
 55\. Keçeci, M. (2025, July 3). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. https://doi.org/10.17605/OSF.IO/9HTG3
@@ -273,6 +277,8 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
    
 ---
 # International Papers:
+
+1. Keçeci, Mehmet (2025). Beyond Traditional Diagrams: The Keçeci Layout for Structural Thinking. Knowledge Commons. https://doi.org/10.17613/v4w94-ak572
 
 1. Keçeci, Mehmet (2025). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.29468135.v1
 
@@ -818,7 +824,10 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
 33.	https://anaconda.org/bilgi 
 34.	https://pypi.org/user/WhiteSymmetry 
 35.	https://github.com/WhiteSymmetry
-36.	https://digitalworld.coursify.me/ 
+36.	https://osf.io/j9f5c/
+37.	https://figshare.com/authors/Mehmet_Ke_eci/14301782
+38.	https://www.goodreads.com/author/show/12062046.Mehmet_Ke_eci
+39.	https://digitalworld.coursify.me/ 
 100% completed:
 a.	Aerospace Propulsion
 b.	Aerospace Engineering
