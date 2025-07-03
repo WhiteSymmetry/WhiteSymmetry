@@ -827,7 +827,8 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
 36.	https://osf.io/j9f5c/
 37.	https://figshare.com/authors/Mehmet_Ke_eci/14301782
 38.	https://www.goodreads.com/author/show/12062046.Mehmet_Ke_eci
-39.	https://digitalworld.coursify.me/ 
+39.	https://hcommons.org/members/mkececi/
+40.	https://digitalworld.coursify.me/ 
 100% completed:
 a.	Aerospace Propulsion
 b.	Aerospace Engineering
