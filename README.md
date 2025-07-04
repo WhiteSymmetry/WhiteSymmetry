@@ -43,6 +43,8 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2025). When Nodes Have an Order: The Keçeci Layout for Structured System Visualization. https://hal.science/hal-05143155
+
 Keçeci, M. (2025). The Keçeci Layout: A Cross-Disciplinary Graphical Framework for Structural Analysis of Ordered Systems. Authorea. https://doi.org/10.22541/au.175156702.26421899/v1
 
 Keçeci, M. (2025). Beyond Traditional Diagrams: The Keçeci Layout for Structural Thinking. Knowledge Commons. https://doi.org/10.17613/v4w94-ak572
@@ -163,7 +165,9 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 # International Papers:
 
-58\. 1.	Keçeci, M. (2025). The Keçeci Layout: A Cross-Disciplinary Graphical Framework for Structural Analysis of Ordered Systems. Authorea. https://doi.org/10.22541/au.175156702.26421899/v1
+59\. Keçeci, M. (2025). When Nodes Have an Order: The Keçeci Layout for Structured System Visualization. https://hal.science/hal-05143155
+
+58\. Keçeci, M. (2025). The Keçeci Layout: A Cross-Disciplinary Graphical Framework for Structural Analysis of Ordered Systems. Authorea. https://doi.org/10.22541/au.175156702.26421899/v1
 
 57\. Keçeci, M. (2025). Beyond Traditional Diagrams: The Keçeci Layout for Structural Thinking. Knowledge Commons. https://doi.org/10.17613/v4w94-ak572
 
@@ -282,7 +286,9 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 ---
 # International Papers:
 
-1. 1.	Keçeci, M. (2025). The Keçeci Layout: A Cross-Disciplinary Graphical Framework for Structural Analysis of Ordered Systems. Authorea. https://doi.org/10.22541/au.175156702.26421899/v1
+1. Keçeci, M. (2025). When Nodes Have an Order: The Keçeci Layout for Structured System Visualization. https://hal.science/hal-05143155
+
+1. Keçeci, M. (2025). The Keçeci Layout: A Cross-Disciplinary Graphical Framework for Structural Analysis of Ordered Systems. Authorea. https://doi.org/10.22541/au.175156702.26421899/v1
 
 1. Keçeci, M. (2025). Beyond Traditional Diagrams: The Keçeci Layout for Structural Thinking. Knowledge Commons. https://doi.org/10.17613/v4w94-ak572
 
