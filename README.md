@@ -55,7 +55,7 @@ Keçeci, M. (2025, July 3). The Keçeci Layout: A Structural Approach for Interd
 
 Keçeci, M. (2025). Beyond Topology: Deterministic and Order-Preserving Graph Visualization with the Keçeci Layout. WorkflowHub. https://doi.org/10.48546/workflowhub.document.34.4
 
-Keçeci, M. (2025). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. https://doi.org/10.5281/zenodo.15792684
+Keçeci, M. (2025). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15792684
 
 Keçeci, M. (2025). Technical and Theoretical Bridges Between Gravitational Wave Observations and Quantum Information Processing Systems. Authorea. July, 2025. https://doi.org/10.22541/au.175138854.46819184/v1
 
@@ -67,83 +67,83 @@ Keçeci, M. (2025). Keçeci Fractals. WorkflowHub. https://doi.org/10.48546/work
 
 Keçeci, M. (2025). Keçeci Deterministic Zigzag Layout. WorkflowHub. https://doi.org/10.48546/workflowhub.document.31.1
 
-Keçeci, M. (2025). Keçeci Zigzag Layout Algorithm. Authorea. June, 2025. https://doi.org/10.22541/au.175087581.16524538/v1
+Keçeci, M. (2025). Keçeci Zigzag Layout Algorithm. Authorea. https://doi.org/10.22541/au.175087581.16524538/v1
 
-Keçeci, M. (2025). Keçeci's Arithmetical Square. Authorea. June, 2025. https://doi.org/10.22541/au.175070836.63624913/v1
+Keçeci, M. (2025). Keçeci's Arithmetical Square. Authorea. https://doi.org/10.22541/au.175070836.63624913/v1
 
-Keçeci, M. (2025). Keçeci Numbers and the Keçeci Prime Number. Authorea. June, 2025. https://doi.org/10.22541/au.174890181.14730464/v1
+Keçeci, M. (2025). Keçeci Numbers and the Keçeci Prime Number. Authorea. https://doi.org/10.22541/au.174890181.14730464/v1
 
-Keçeci, M. (2025). Çoklu İşlemci Mimarilerinde Kuantum Algoritma Simülasyonlarının Hızlandırılması: Cython, Numba ve Jax ile Optimizasyon Teknikleri. https://doi.org/10.5281/zenodo.15580503
+Keçeci, M. (2025). Çoklu İşlemci Mimarilerinde Kuantum Algoritma Simülasyonlarının Hızlandırılması: Cython, Numba ve Jax ile Optimizasyon Teknikleri. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15580503
 
-Keçeci, M. (2025). Kuantum Hata Düzeltmede Metrik Seçimi ve Algoritmik Optimizasyonun Büyük Ölçekli Yüzey Kodları Üzerindeki Etkileri. https://doi.org/10.5281/zenodo.15572201
+Keçeci, M. (2025). Kuantum Hata Düzeltmede Metrik Seçimi ve Algoritmik Optimizasyonun Büyük Ölçekli Yüzey Kodları Üzerindeki Etkileri. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15572201
 
-Keçeci, M. (2025). Kuantum Hata Düzeltme Algoritmalarında Özyineleme Optimizasyonu ve Aşırı Gürültü Toleransı: Kuantum Sıçraması Potansiyelinin Değerlendirilmesi. https://doi.org/10.5281/zenodo.15570678
+Keçeci, M. (2025). Kuantum Hata Düzeltme Algoritmalarında Özyineleme Optimizasyonu ve Aşırı Gürültü Toleransı: Kuantum Sıçraması Potansiyelinin Değerlendirilmesi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15570678
 
-Keçeci, M. (2025). Yüksek Kübit Sayılı Kuantum Hesaplamada Ölçeklenebilirlik ve Hata Yönetimi: Yüzey Kodları, Topolojik Malzemeler ve Hibrit Algoritmik Yaklaşımlar. https://doi.org/10.5281/zenodo.15558153  
+Keçeci, M. (2025). Yüksek Kübit Sayılı Kuantum Hesaplamada Ölçeklenebilirlik ve Hata Yönetimi: Yüzey Kodları, Topolojik Malzemeler ve Hibrit Algoritmik Yaklaşımlar. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15558153  
 
-Keçeci, M. (2025). Künneth Teoremi Bağlamında Özdevinimli ve Evrişimli Kuantum Algoritmalarında Yapay Zekâ Entegrasyonu ile Hata Minimizasyonu. https://doi.org/10.5281/zenodo.15540875  
+Keçeci, M. (2025). Künneth Teoremi Bağlamında Özdevinimli ve Evrişimli Kuantum Algoritmalarında Yapay Zekâ Entegrasyonu ile Hata Minimizasyonu. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15540875  
 
-Keçeci, M. (2025). The Relationship Between Gravitational Wave Observations and Quantum Computing Technologies. https://doi.org/10.5281/zenodo.15524251  
+Keçeci, M. (2025). The Relationship Between Gravitational Wave Observations and Quantum Computing Technologies. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15524251  
 
-Keçeci, M. (2025). Kütleçekimsel Dalga Gözlemleri ile Kuantum Bilgisayar Teknolojileri Arasındaki Teknolojik ve Metodolojik Bağlantılar. https://doi.org/10.5281/zenodo.15519591  
+Keçeci, M. (2025). Kütleçekimsel Dalga Gözlemleri ile Kuantum Bilgisayar Teknolojileri Arasındaki Teknolojik ve Metodolojik Bağlantılar. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15519591  
 
-Keçeci, M. (2025). Accuracy, Noise, and Scalability in Quantum Computation: Strategies for the NISQ Era and Beyond. https://doi.org/10.5281/zenodo.15515113  
+Keçeci, M. (2025). Accuracy, Noise, and Scalability in Quantum Computation: Strategies for the NISQ Era and Beyond. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15515113  
 
-Keçeci, M. (2025). Quantum Error Correction Codes and Their Impact on Scalable Quantum Computation: Current Approaches and Future Perspectives. https://doi.org/10.5281/zenodo.15499657  
+Keçeci, M. (2025). Quantum Error Correction Codes and Their Impact on Scalable Quantum Computation: Current Approaches and Future Perspectives. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15499657  
 
-Keçeci, M. (2025). Nanoscale Quantum Computers Fundamentals, Technologies, and Future Perspectives. https://doi.org/10.5281/zenodo.15493024  
+Keçeci, M. (2025). Nanoscale Quantum Computers Fundamentals, Technologies, and Future Perspectives. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15493024  
 
-Keçeci, M. (2025). Investigating Layered Structures Containing Weyl and Majorana Fermions via the Stratum Model. https://doi.org/10.5281/zenodo.15489074  
+Keçeci, M. (2025). Investigating Layered Structures Containing Weyl and Majorana Fermions via the Stratum Model. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15489074  
 
-Keçeci, M. (2025). Diversity of Keçeci Numbers and Their Application to Prešić-Type Fixed-Point Iterations: A Numerical Exploration. https://doi.org/10.5281/zenodo.15481711  
+Keçeci, M. (2025). Diversity of Keçeci Numbers and Their Application to Prešić-Type Fixed-Point Iterations: A Numerical Exploration. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15481711  
 
-Keçeci, M. (2025). Kuantum geometri, topolojik fazlar ve yeni matematiksel yapılar: Disiplinlerarası bir perspektif. Zenodo. https://doi.org/10.5281/zenodo.15474957  
+Keçeci, M. (2025). Kuantum geometri, topolojik fazlar ve yeni matematiksel yapılar: Disiplinlerarası bir perspektif. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15474957  
 
-Keçeci, M. (2025). Understanding quantum mechanics through Hilbert spaces: Applications in quantum computing. Zenodo. https://doi.org/10.5281/zenodo.15468754  
+Keçeci, M. (2025). Understanding quantum mechanics through Hilbert spaces: Applications in quantum computing. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15468754  
 
-Keçeci, M. (2025). Nodal-line semimetals: A geometric advantage in quantum information. Zenodo. https://doi.org/10.5281/zenodo.15455271  
+Keçeci, M. (2025). Nodal-line semimetals: A geometric advantage in quantum information. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15455271  
 
-Keçeci, M. (2025). Weyl semimetals: Discovery of exotic electronic states and topological phases. Zenodo. https://doi.org/10.5281/zenodo.15447116  
+Keçeci, M. (2025). Weyl semimetals: Discovery of exotic electronic states and topological phases. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15447116  
 
-Keçeci, M. (2025, May 15). The Keçeci binomial square: A reinterpretation of the standard binomial expansion and its potential applications. Zenodo. https://doi.org/10.5281/zenodo.15425529
+Keçeci, M. (2025, May 15). The Keçeci binomial square: A reinterpretation of the standard binomial expansion and its potential applications. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15425529
 
 Keçeci, M. (2025). kececisquares [Data set]. WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.15.1 
 
-Keçeci, M. (2025, May 14). Kececisquares. Zenodo. https://doi.org/10.5281/zenodo.15411670  
+Keçeci, M. (2025, May 14). Kececisquares. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15411670  
 
-Keçeci, M. (2025, May 13). Scalable complexity: Mathematical analysis and potential for physical applications of the Keçeci circle fractal. Zenodo. https://doi.org/10.5281/zenodo.15392772
+Keçeci, M. (2025, May 13). Scalable complexity: Mathematical analysis and potential for physical applications of the Keçeci circle fractal. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15392772
 
 Keçeci, M. (2025). kececifractals [Data set]. WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.16.3
 
 Keçeci, M. (2025, May 13). Kececifractals. Zenodo. https://doi.org/10.5281/zenodo.15392518  
 
-Keçeci, M. (2025, May 11). Keçeci numbers and the Keçeci prime number: A potential number theoretic exploratory tool. Zenodo. https://doi.org/10.5281/zenodo.15381697  
+Keçeci, M. (2025, May 11). Keçeci numbers and the Keçeci prime number: A potential number theoretic exploratory tool. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15381697  
 
 Keçeci, M. (2025). kececinumbers [Data set]. WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.14.1
 
-Keçeci, M. (2025, May 10). Kececinumbers. Zenodo. https://doi.org/10.5281/zenodo.15377659  
+Keçeci, M. (2025, May 10). Kececinumbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15377659  
 
-Keçeci, M. (2025). From Majorana fermions to quantum devices: The role of nanomaterials in the second quantum era. Zenodo. https://doi.org/10.5281/zenodo.15331067  
+Keçeci, M. (2025). From Majorana fermions to quantum devices: The role of nanomaterials in the second quantum era. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15331067  
 
-Keçeci, M. (2025, May 1). Keçeci Layout. Zenodo. https://doi.org/10.5281/zenodo.15314328
+Keçeci, M. (2025, May 1). Keçeci Layout. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15314328
 
 Keçeci, M. (2025). kececilayout [Data set]. WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.17.1
 
-Keçeci, M. (2025, May 1). Kececilayout. Zenodo. https://doi.org/10.5281/zenodo.15313946 
+Keçeci, M. (2025, May 1). Kececilayout. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15313946 
 
 Keçeci, M. (2025). Grikod2 [Data set]. WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.13.1
 
-Keçeci, M. (2025, May 6). Grikod2. Zenodo. https://doi.org/10.5281/zenodo.15352206  
+Keçeci, M. (2025, May 6). Grikod2. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15352206  
 
 Keçeci, M. (2025). Grikod [Data set]. WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.12.2 
 
-Keçeci, M. (2025, May 6). Grikod. Zenodo. https://doi.org/10.5281/zenodo.12731345  
+Keçeci, M. (2025, May 6). Grikod. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.12731345  
 
 Garrett, J., Luis, E., Peng, H.-H., Cera, T., Gobinathj, Borrow, J., Keçeci, M., Splines, Iyer, S., Liu, Y., cjw, & Gasanov, M. (2022–2023). garrettj403/SciencePlots (Versions 2.1.1, 2.1.0, 2.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10206719 (v2.1.1); https://doi.org/10.5281/zenodo.7986336 (v2.1.0); https://doi.org/10.5281/zenodo.7394724 (v2.0.1)
 
 Keçeci, M. (2021). The Next Stop: Future Planet Walks. In SEDS Space Arts 2021, Global Art Competition, Sri Lanka. https://doi.org/10.13140/RG.2.2.21394.12482  
 
-Keçeci, M. (2020, October 25). Discourse on the second quantum revolution and nanotechnology applications in the midst of the COVID-19 pandemic of inequality. *International Journal of Latest Research in Science and Technology, 9*(5), 1–7. eISSN: 2278-5299. https://doi.org/10.5281/zenodo.7483395; https://doi.org/jtnm; https://www.mnkjournals.com/journal/ijlrst/Article.php?paper_id=11004  
+Keçeci, M. (2020, October 25). Discourse on the second quantum revolution and nanotechnology applications in the midst of the COVID-19 pandemic of inequality. *International Journal of Latest Research in Science and Technology, 9(5), 1–7. eISSN: 2278-5299. https://doi.org/10.5281/zenodo.7483395; https://doi.org/jtnm; https://www.mnkjournals.com/journal/ijlrst/Article.php?paper_id=11004  
 
 Keçeci, M. (2019). Quantum and Art. Presented at International Workshop on Quantum Frontiers of Technology, TÜBİTAK, TÜSSİDE, Gebze, Türkiye. https://doi.org/10.13140/RG.2.2.27533.90089; https://tbae.tubitak.gov.tr/en/haber/quantum-frontiers-technology  
 
@@ -177,13 +177,13 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 54\. Keçeci, M. (2025). Beyond Topology: Deterministic and Order-Preserving Graph Visualization with the Keçeci Layout. WorkflowHub. https://doi.org/10.48546/workflowhub.document.34.4
 
-53\. Keçeci, M. (2025). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. https://doi.org/10.5281/zenodo.15792684
+53\. Keçeci, M. (2025). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15792684
 
-52\.	Keçeci, M. (2025). Technical and Theoretical Bridges Between Gravitational Wave Observations and Quantum Information Processing Systems. Authorea. July, 2025. https://doi.org/10.22541/au.175138854.46819184/v1
+52\.	Keçeci, M. (2025). Technical and Theoretical Bridges Between Gravitational Wave Observations and Quantum Information Processing Systems. Authorea. https://doi.org/10.22541/au.175138854.46819184/v1
 
 51\.	Keçeci, M. (2025). New Technological and Methodological Approaches in Gravitational Wave Detection and Quantum Computing Development. WorkflowHub. https://doi.org/10.48546/workflowhub.document.33.1
 
-50\.	Keçeci, M. (2025). Scalable Complexity in Fractal Geometry: The Keçeci Fractal Approach. Authorea. June, 2025. https://doi.org/10.22541/au.175131225.56823239/v1
+50\.	Keçeci, M. (2025). Scalable Complexity in Fractal Geometry: The Keçeci Fractal Approach. Authorea. https://doi.org/10.22541/au.175131225.56823239/v1
 
 49\.	Keçeci, M. (2025). Keçeci Fractals. WorkflowHub. https://doi.org/10.48546/workflowhub.document.32.2
 
@@ -195,71 +195,71 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
     
 45\.	Keçeci, M. (2025). Keçeci Numbers and the Keçeci Prime Number. Authorea. June, 2025. https://doi.org/10.22541/au.174890181.14730464/v1
     
-44\.	Keçeci, M. (2025). Çoklu İşlemci Mimarilerinde Kuantum Algoritma Simülasyonlarının Hızlandırılması: Cython, Numba ve Jax ile Optimizasyon Teknikleri. https://doi.org/10.5281/zenodo.15580503
+44\.	Keçeci, M. (2025). Çoklu İşlemci Mimarilerinde Kuantum Algoritma Simülasyonlarının Hızlandırılması: Cython, Numba ve Jax ile Optimizasyon Teknikleri. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15580503
     
-43\.	Keçeci, M. (2025). Kuantum Hata Düzeltmede Metrik Seçimi ve Algoritmik Optimizasyonun Büyük Ölçekli Yüzey Kodları Üzerindeki Etkileri. https://doi.org/10.5281/zenodo.15572201
+43\.	Keçeci, M. (2025). Kuantum Hata Düzeltmede Metrik Seçimi ve Algoritmik Optimizasyonun Büyük Ölçekli Yüzey Kodları Üzerindeki Etkileri. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15572201
     
-42\.	Keçeci, M. (2025). Kuantum Hata Düzeltme Algoritmalarında Özyineleme Optimizasyonu ve Aşırı Gürültü Toleransı: Kuantum Sıçraması Potansiyelinin Değerlendirilmesi. https://doi.org/10.5281/zenodo.15570678
+42\.	Keçeci, M. (2025). Kuantum Hata Düzeltme Algoritmalarında Özyineleme Optimizasyonu ve Aşırı Gürültü Toleransı: Kuantum Sıçraması Potansiyelinin Değerlendirilmesi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15570678
     
-41\.	Keçeci, M. (2025). Yüksek Kübit Sayılı Kuantum Hesaplamada Ölçeklenebilirlik ve Hata Yönetimi: Yüzey Kodları, Topolojik Malzemeler ve Hibrit Algoritmik Yaklaşımlar. https://doi.org/10.5281/zenodo.15558153
+41\.	Keçeci, M. (2025). Yüksek Kübit Sayılı Kuantum Hesaplamada Ölçeklenebilirlik ve Hata Yönetimi: Yüzey Kodları, Topolojik Malzemeler ve Hibrit Algoritmik Yaklaşımlar. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15558153
     
-40\.	Keçeci, M. (2025). Künneth Teoremi Bağlamında Özdevinimli ve Evrişimli Kuantum Algoritmalarında Yapay Zekâ Entegrasyonu ile Hata Minimizasyonu. https://doi.org/10.5281/zenodo.15540875
+40\.	Keçeci, M. (2025). Künneth Teoremi Bağlamında Özdevinimli ve Evrişimli Kuantum Algoritmalarında Yapay Zekâ Entegrasyonu ile Hata Minimizasyonu. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15540875
     
-39\.	Keçeci, M. (2025). The Relationship Between Gravitational Wave Observations and Quantum Computing Technologies. https://doi.org/10.5281/zenodo.15524251
+39\.	Keçeci, M. (2025). The Relationship Between Gravitational Wave Observations and Quantum Computing Technologies. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15524251
     
-38\.	Keçeci, M. (2025). Kütleçekimsel Dalga Gözlemleri ile Kuantum Bilgisayar Teknolojileri Arasındaki Teknolojik ve Metodolojik Bağlantılar. https://doi.org/10.5281/zenodo.15519591
+38\.	Keçeci, M. (2025). Kütleçekimsel Dalga Gözlemleri ile Kuantum Bilgisayar Teknolojileri Arasındaki Teknolojik ve Metodolojik Bağlantılar. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15519591
     
-37\.	Keçeci, M. (2025). Accuracy, Noise, and Scalability in Quantum Computation: Strategies for the NISQ Era and Beyond. https://doi.org/10.5281/zenodo.15515113
+37\.	Keçeci, M. (2025). Accuracy, Noise, and Scalability in Quantum Computation: Strategies for the NISQ Era and Beyond. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15515113
     
-36\.	Keçeci, M. (2025). Quantum Error Correction Codes and Their Impact on Scalable Quantum Computation: Current Approaches and Future Perspectives. https://doi.org/10.5281/zenodo.15499657
+36\.	Keçeci, M. (2025). Quantum Error Correction Codes and Their Impact on Scalable Quantum Computation: Current Approaches and Future Perspectives. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15499657
     
-35\.	Keçeci, M. (2025). Nanoscale Quantum Computers Fundamentals, Technologies, and Future Perspectives. https://doi.org/10.5281/zenodo.15493024
+35\.	Keçeci, M. (2025). Nanoscale Quantum Computers Fundamentals, Technologies, and Future Perspectives. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15493024
     
-34\.	Keçeci, M. (2025). Investigating Layered Structures Containing Weyl and Majorana Fermions via the Stratum Model. https://doi.org/10.5281/zenodo.15489074
+34\.	Keçeci, M. (2025). Investigating Layered Structures Containing Weyl and Majorana Fermions via the Stratum Model. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15489074
     
-33\.	Keçeci, M. (2025). Diversity of Keçeci Numbers and Their Application to Prešić-Type Fixed-Point Iterations: A Numerical Exploration. https://doi.org/10.5281/zenodo.15481711
+33\.	Keçeci, M. (2025). Diversity of Keçeci Numbers and Their Application to Prešić-Type Fixed-Point Iterations: A Numerical Exploration. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15481711
     
-32\.	Keçeci, M. (2025). Kuantum geometri, topolojik fazlar ve yeni matematiksel yapılar: Disiplinlerarası bir perspektif. Zenodo. https://doi.org/10.5281/zenodo.15474957
+32\.	Keçeci, M. (2025). Kuantum geometri, topolojik fazlar ve yeni matematiksel yapılar: Disiplinlerarası bir perspektif. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15474957
     
-31\.	Keçeci, M. (2025). Understanding quantum mechanics through Hilbert spaces: Applications in quantum computing. Zenodo. https://doi.org/10.5281/zenodo.15468754
+31\.	Keçeci, M. (2025). Understanding quantum mechanics through Hilbert spaces: Applications in quantum computing. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15468754
     
-30\.	Keçeci, M. (2025). Nodal-line semimetals: A geometric advantage in quantum information. Zenodo. https://doi.org/10.5281/zenodo.15455271
+30\.	Keçeci, M. (2025). Nodal-line semimetals: A geometric advantage in quantum information. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15455271
     
-29\.	Keçeci, M. (2025). Weyl semimetals: Discovery of exotic electronic states and topological phases. Zenodo. https://doi.org/10.5281/zenodo.15447116
+29\.	Keçeci, M. (2025). Weyl semimetals: Discovery of exotic electronic states and topological phases. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15447116
     
-28\.	Keçeci, M. (2025, May 15). The Keçeci binomial square: A reinterpretation of the standard binomial expansion and its potential applications. Zenodo. https://doi.org/10.5281/zenodo.15425529
+28\.	Keçeci, M. (2025, May 15). The Keçeci binomial square: A reinterpretation of the standard binomial expansion and its potential applications. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15425529
     
 27\.	Keçeci, M. (2025). kececisquares [Data set]. WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.15.1
     
-26\.	Keçeci, M. (2025, May 14). Kececisquares. Zenodo. https://doi.org/10.5281/zenodo.15411670
+26\.	Keçeci, M. (2025, May 14). Kececisquares. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15411670
     
-25\.	Keçeci, M. (2025, May 13). Scalable complexity: Mathematical analysis and potential for physical applications of the Keçeci circle fractal. Zenodo. https://doi.org/10.5281/zenodo.15392772
+25\.	Keçeci, M. (2025, May 13). Scalable complexity: Mathematical analysis and potential for physical applications of the Keçeci circle fractal. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15392772
     
 24\.	Keçeci, M. (2025). kececifractals [Data set]. WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.16.3
     
-23\.	Keçeci, M. (2025, May 13). Kececifractals. Zenodo. https://doi.org/10.5281/zenodo.15392518
+23\.	Keçeci, M. (2025, May 13). Kececifractals. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15392518
     
-22\.	Keçeci, M. (2025, May 11). Keçeci numbers and the Keçeci prime number: A potential number theoretic exploratory tool. Zenodo. https://doi.org/10.5281/zenodo.15381697
+22\.	Keçeci, M. (2025, May 11). Keçeci numbers and the Keçeci prime number: A potential number theoretic exploratory tool. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15381697
     
 21\.	Keçeci, M. (2025). kececinumbers [Data set]. WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.14.1
     
-20\.	Keçeci, M. (2025, May 10). Kececinumbers. Zenodo. https://doi.org/10.5281/zenodo.15377659
+20\.	Keçeci, M. (2025, May 10). Kececinumbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15377659
     
-19\.	Keçeci, M. (2025). From Majorana fermions to quantum devices: The role of nanomaterials in the second quantum era. Zenodo. https://doi.org/10.5281/zenodo.15331067
+19\.	Keçeci, M. (2025). From Majorana fermions to quantum devices: The role of nanomaterials in the second quantum era. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15331067
     
-18\.	Keçeci, M. (2025, May 1). Keçeci Layout. Zenodo. https://doi.org/10.5281/zenodo.15314328
+18\.	Keçeci, M. (2025, May 1). Keçeci Layout. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15314328
     
 17\.	Keçeci, M. (2025). kececilayout [Data set]. WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.17.1
     
-16\.	Keçeci, M. (2025, May 1). Kececilayout. Zenodo. https://doi.org/10.5281/zenodo.15313946
+16\.	Keçeci, M. (2025, May 1). Kececilayout. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15313946
     
 15\.	Keçeci, M. (2025). Grikod2 [Data set]. WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.13.1
     
-14\.	Keçeci, M. (2025, May 6). Grikod2. Zenodo. https://doi.org/10.5281/zenodo.15352206
+14\.	Keçeci, M. (2025, May 6). Grikod2. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15352206
     
 13\.	Keçeci, M. (2025). Grikod [Data set]. WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.12.2
     
-12\.	Keçeci, M. (2025, May 6). Grikod. Zenodo. https://doi.org/10.5281/zenodo.12731345
+12\.	Keçeci, M. (2025, May 6). Grikod. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.12731345
     
 11\.	Garrett, J., Luis, E., Peng, H.-H., Cera, T., Gobinathj, Borrow, J., Keçeci, M., Splines, Iyer, S., Liu, Y., cjw, & Gasanov, M. (2022–2023). garrettj403/SciencePlots (Versions 2.1.1, 2.1.0, 2.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10206719 (v2.1.1); https://doi.org/10.5281/zenodo.7986336 (v2.1.0); https://doi.org/10.5281/zenodo.7394724 (v2.0.1)
     
