@@ -46,9 +46,9 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 Keçeci, M. (2025). From Weyl Fermions to Topological Matter: The Physics of Weyl Semimetals. Knowledge Commons. https://doi.org/10.17613/p79v7-kje79
 
-Keçeci, M. (2025). Weyl Semimetals and Their Unique Electronic and Topological Characteristics. figshare. https://doi.org/10.6084/m9.figshare.29483816.v1
+Keçeci, M. (2025). Weyl Semimetals and Their Unique Electronic and Topological Characteristics. figshare. https://doi.org/10.6084/m9.figshare.29483816
 
-Keçeci, M. (2025). Weyl Semimetals: Unveiling Novel Electronic Structures and Topological Properties. WorkflowHub. https://doi.org/10.48546/workflowhub.document.35.2
+Keçeci, M. (2025). Weyl Semimetals: Unveiling Novel Electronic Structures and Topological Properties. WorkflowHub. https://doi.org/10.48546/workflowhub.document.35.3
 
 Keçeci, M. (2025). When Nodes Have an Order: The Keçeci Layout for Structured System Visualization. HAL open science. https://hal.science/hal-05143155; https://doi.org/10.13140/RG.2.2.19098.76484
 
@@ -174,9 +174,9 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 62\. Keçeci, M. (2025). From Weyl Fermions to Topological Matter: The Physics of Weyl Semimetals. Knowledge Commons. https://doi.org/10.17613/p79v7-kje79
 
-61\. Keçeci, M. (2025). Weyl Semimetals and Their Unique Electronic and Topological Characteristics. figshare. https://doi.org/10.6084/m9.figshare.29483816.v1
+61\. Keçeci, M. (2025). Weyl Semimetals and Their Unique Electronic and Topological Characteristics. figshare. https://doi.org/10.6084/m9.figshare.29483816
 
-60\. Keçeci, M. (2025). Weyl Semimetals: Unveiling Novel Electronic Structures and Topological Properties. WorkflowHub. https://doi.org/10.48546/workflowhub.document.35.2
+60\. Keçeci, M. (2025). Weyl Semimetals: Unveiling Novel Electronic Structures and Topological Properties. WorkflowHub. https://doi.org/10.48546/workflowhub.document.35.3
 
 59\. Keçeci, M. (2025). When Nodes Have an Order: The Keçeci Layout for Structured System Visualization. HAL open science. https://hal.science/hal-05143155; https://doi.org/10.13140/RG.2.2.19098.76484
 
@@ -301,9 +301,9 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 1. Keçeci, M. (2025). From Weyl Fermions to Topological Matter: The Physics of Weyl Semimetals. Knowledge Commons. https://doi.org/10.17613/p79v7-kje79
 
-1. Keçeci, M. (2025). Weyl Semimetals and Their Unique Electronic and Topological Characteristics. figshare. https://doi.org/10.6084/m9.figshare.29483816.v1
+1. Keçeci, M. (2025). Weyl Semimetals and Their Unique Electronic and Topological Characteristics. figshare. https://doi.org/10.6084/m9.figshare.29483816
 
-1. Keçeci, M. (2025). Weyl Semimetals: Unveiling Novel Electronic Structures and Topological Properties. WorkflowHub. https://doi.org/10.48546/workflowhub.document.35.2
+1. Keçeci, M. (2025). Weyl Semimetals: Unveiling Novel Electronic Structures and Topological Properties. WorkflowHub. https://doi.org/10.48546/workflowhub.document.35.3
 
 1. Keçeci, M. (2025). When Nodes Have an Order: The Keçeci Layout for Structured System Visualization. HAL open science. https://hal.science/hal-05143155; https://doi.org/10.13140/RG.2.2.19098.76484
 
