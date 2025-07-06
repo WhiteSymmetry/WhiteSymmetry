@@ -43,6 +43,9 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2025). Quantum Information at the Edge: Topological Opportunities in Nodal-Line Materials. figshare. https://doi.org/10.6084/m9.figshare.29484947
+
+Keçeci, M. (2025). Nodal-Line Semimetals: Unlocking Geometric Potential in Quantum Information. WorkflowHub. https://doi.org/10.48546/workflowhub.document.36.1
 
 Keçeci, M. (2025). From Weyl Fermions to Topological Matter: The Physics of Weyl Semimetals. Knowledge Commons. https://doi.org/10.17613/p79v7-kje79
 
@@ -172,6 +175,10 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 # International Papers:
 
+64\. Keçeci, M. (2025). Quantum Information at the Edge: Topological Opportunities in Nodal-Line Materials. figshare. https://doi.org/10.6084/m9.figshare.29484947
+
+63\. Keçeci, M. (2025). Nodal-Line Semimetals: Unlocking Geometric Potential in Quantum Information. WorkflowHub. https://doi.org/10.48546/workflowhub.document.36.1
+
 62\. Keçeci, M. (2025). From Weyl Fermions to Topological Matter: The Physics of Weyl Semimetals. Knowledge Commons. https://doi.org/10.17613/p79v7-kje79
 
 61\. Keçeci, M. (2025). Weyl Semimetals and Their Unique Electronic and Topological Characteristics. figshare. https://doi.org/10.6084/m9.figshare.29483816
@@ -298,6 +305,10 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
    
 ---
 # International Papers:
+
+1. Keçeci, M. (2025). Quantum Information at the Edge: Topological Opportunities in Nodal-Line Materials. figshare. https://doi.org/10.6084/m9.figshare.29484947
+
+1. Keçeci, M. (2025). Nodal-Line Semimetals: Unlocking Geometric Potential in Quantum Information. WorkflowHub. https://doi.org/10.48546/workflowhub.document.36.1
 
 1. Keçeci, M. (2025). From Weyl Fermions to Topological Matter: The Physics of Weyl Semimetals. Knowledge Commons. https://doi.org/10.17613/p79v7-kje79
 
