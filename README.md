@@ -43,6 +43,8 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2025). Dynamic vs Static Number Sequences: The Case of Keçeci and Oresme Numbers. https://doi.org/10.5281/zenodo.15833351
+
 Keçeci, M. (2025). Oresme (0.1.0). Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15833238
 
 Keçeci, M. (2025). Exploring Weyl Semimetals: Emergence of Exotic Electrons and Topological Order. HAL open science. https://hal.science/hal-05146435; https://doi.org/10.13140/RG.2.2.35594.17606
@@ -181,6 +183,8 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 # International Papers:
 
+68\. Keçeci, M. (2025). Dynamic vs Static Number Sequences: The Case of Keçeci and Oresme Numbers. https://doi.org/10.5281/zenodo.15833351
+
 67\. Keçeci, M. (2025). Oresme (0.1.0). Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15833238
 
 66\. Keçeci, M. (2025). Exploring Weyl Semimetals: Emergence of Exotic Electrons and Topological Order. HAL open science. https://hal.science/hal-05146435; https://doi.org/10.13140/RG.2.2.35594.17606
@@ -317,6 +321,8 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
    
 ---
 # International Papers:
+
+1. Keçeci, M. (2025). Dynamic vs Static Number Sequences: The Case of Keçeci and Oresme Numbers. https://doi.org/10.5281/zenodo.15833351
 
 1. Keçeci, M. (2025). Oresme (0.1.0). Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15833238
 
