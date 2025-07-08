@@ -61,6 +61,10 @@ Keçeci, M. (2025). Oresme (0.1.0). Open Science Articles (OSAs), Zenodo. https:
 
 Keçeci, M. (2025). Exploring Weyl Semimetals: Emergence of Exotic Electrons and Topological Order. HAL open science. https://hal.science/hal-05146435; https://doi.org/10.13140/RG.2.2.35594.17606
 
+Keçeci, M. (2025). The Rise of Weyl Semimetals: Exotic States and Topological Transitions. Authorea. https://doi.org/10.22541/au.175192231.19609379/v1
+
+Keçeci, M. (2025). Geometric Resilience in Quantum Systems: The Case of Nodal-Line Semimetals. Authorea. Authorea. https://doi.org/10.22541/au.175192307.76278430/v1
+
 Keçeci, M. (2025). Harnessing Geometry for Quantum Computation: Lessons from Nodal-Line Materials. Knowledge Commons. https://doi.org/10.17613/w6vmd-4vb84
 
 Keçeci, M. (2025). Quantum Information at the Edge: Topological Opportunities in Nodal-Line Materials. figshare. https://doi.org/10.6084/m9.figshare.29484947
@@ -195,23 +199,27 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 # International Papers:
 
-74\. Keçeci, Mehmet (2025). Dynamic and Static Approaches in Mathematics: Investigating Keçeci and Oresme Sequences. Knowledge Commons. https://doi.org/10.17613/gbdgx-d8y63
+75\. Keçeci, Mehmet (2025). Dynamic and Static Approaches in Mathematics: Investigating Keçeci and Oresme Sequences. Knowledge Commons. https://doi.org/10.17613/gbdgx-d8y63
 
-73\. Keçeci, Mehmet (2025). Dynamic-Static Properties of Keçeci and Oresme Number Sequences: A Comparative Examination. figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.29504960
+74\. Keçeci, Mehmet (2025). Dynamic-Static Properties of Keçeci and Oresme Number Sequences: A Comparative Examination. figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.29504960
 
-72\. Keçeci, M. (2025). Variability and Stability in Number Sequences: An Analysis of Keçeci and Oresme Numbers. WorkflowHub. https://doi.org/10.48546/workflowhub.document.37.1
+73\. Keçeci, M. (2025). Variability and Stability in Number Sequences: An Analysis of Keçeci and Oresme Numbers. WorkflowHub. https://doi.org/10.48546/workflowhub.document.37.1
 
-71\. Keçeci, M. (2025). Dynamic vs Static Number Sequences: The Case of Keçeci and Oresme Numbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15833351
+72\. Keçeci, M. (2025). Dynamic vs Static Number Sequences: The Case of Keçeci and Oresme Numbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15833351
 
-70\. Keçeci, M. (2025). A Graph-Theoretic Perspective on the Keçeci Layout: Structuring Cross-Disciplinary Inquiry. Preprints. https://doi.org/10.20944/preprints202507.0589
+71\. Keçeci, M. (2025). A Graph-Theoretic Perspective on the Keçeci Layout: Structuring Cross-Disciplinary Inquiry. Preprints. https://doi.org/10.20944/preprints202507.0589
 
-69\. Keçeci, M. (2025). Oresme. figshare. https://doi.org/10.6084/m9.figshare.29504708
+70\. Keçeci, M. (2025). Oresme. figshare. https://doi.org/10.6084/m9.figshare.29504708
 
-68\. Keçeci, M. (2025). Oresme [Data set]. WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.18.1 
+69\. Keçeci, M. (2025). Oresme [Data set]. WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.18.1 
 
-67\. Keçeci, M. (2025). Oresme (0.1.0). Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15833238
+68\. Keçeci, M. (2025). Oresme (0.1.0). Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15833238
 
-66\. Keçeci, M. (2025). Exploring Weyl Semimetals: Emergence of Exotic Electrons and Topological Order. HAL open science. https://hal.science/hal-05146435; https://doi.org/10.13140/RG.2.2.35594.17606
+67\. Keçeci, M. (2025). Exploring Weyl Semimetals: Emergence of Exotic Electrons and Topological Order. HAL open science. https://hal.science/hal-05146435; https://doi.org/10.13140/RG.2.2.35594.17606
+
+67\. Keçeci, M. (2025). The Rise of Weyl Semimetals: Exotic States and Topological Transitions. Authorea. https://doi.org/10.22541/au.175192231.19609379/v1
+
+66\. Keçeci, M. (2025). Geometric Resilience in Quantum Systems: The Case of Nodal-Line Semimetals. Authorea. Authorea. https://doi.org/10.22541/au.175192307.76278430/v1
 
 65\. Keçeci, M. (2025). Harnessing Geometry for Quantum Computation: Lessons from Nodal-Line Materials. Knowledge Commons. https://doi.org/10.17613/w6vmd-4vb84
 
@@ -363,6 +371,10 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 1. Keçeci, M. (2025). Oresme (0.1.0). Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15833238
 
 1. Keçeci, M. (2025). Exploring Weyl Semimetals: Emergence of Exotic Electrons and Topological Order. HAL open science. https://hal.science/hal-05146435; https://doi.org/10.13140/RG.2.2.35594.17606
+
+1. Keçeci, M. (2025). The Rise of Weyl Semimetals: Exotic States and Topological Transitions. Authorea. https://doi.org/10.22541/au.175192231.19609379/v1
+
+1. Keçeci, M. (2025). Geometric Resilience in Quantum Systems: The Case of Nodal-Line Semimetals. Authorea. Authorea. https://doi.org/10.22541/au.175192307.76278430/v1
 
 1. Keçeci, M. (2025). Harnessing Geometry for Quantum Computation: Lessons from Nodal-Line Materials. Knowledge Commons. https://doi.org/10.17613/w6vmd-4vb84
 
