@@ -47,6 +47,8 @@ Keçeci, M. (2025). A Graph-Theoretic Perspective on the Keçeci Layout: Structu
 
 Keçeci, M. (2025). Dynamic vs Static Number Sequences: The Case of Keçeci and Oresme Numbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15833351
 
+Keçeci, M. (2025). Oresme [Data set]. WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.18.1 
+
 Keçeci, M. (2025). Oresme (0.1.0). Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15833238
 
 Keçeci, M. (2025). Exploring Weyl Semimetals: Emergence of Exotic Electrons and Topological Order. HAL open science. https://hal.science/hal-05146435; https://doi.org/10.13140/RG.2.2.35594.17606
@@ -185,9 +187,11 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 # International Papers:
 
-69\. Keçeci, M. (2025). A Graph-Theoretic Perspective on the Keçeci Layout: Structuring Cross-Disciplinary Inquiry. Preprints. https://doi.org/10.20944/preprints202507.0589
+70\. Keçeci, M. (2025). A Graph-Theoretic Perspective on the Keçeci Layout: Structuring Cross-Disciplinary Inquiry. Preprints. https://doi.org/10.20944/preprints202507.0589
 
-68\. Keçeci, M. (2025). Dynamic vs Static Number Sequences: The Case of Keçeci and Oresme Numbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15833351
+69\. Keçeci, M. (2025). Dynamic vs Static Number Sequences: The Case of Keçeci and Oresme Numbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15833351
+
+68\. Keçeci, M. (2025). Oresme [Data set]. WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.18.1 
 
 67\. Keçeci, M. (2025). Oresme (0.1.0). Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15833238
 
@@ -329,6 +333,8 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 1. Keçeci, M. (2025). A Graph-Theoretic Perspective on the Keçeci Layout: Structuring Cross-Disciplinary Inquiry. Preprints. https://doi.org/10.20944/preprints202507.0589
 
 1. Keçeci, M. (2025). Dynamic vs Static Number Sequences: The Case of Keçeci and Oresme Numbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15833351
+
+1. Keçeci, M. (2025). Oresme [Data set]. WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.18.1 
 
 1. Keçeci, M. (2025). Oresme (0.1.0). Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15833238
 
