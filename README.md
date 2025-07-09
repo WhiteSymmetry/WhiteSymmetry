@@ -43,6 +43,8 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci,  M. (2025). Analysing the Dynamic and Static Structures of Keçeci and Oresme Sequences. Authorea. https://doi.org/10.22541/au.175199926.64529709/v1
+
 Keçeci,  M. (2025). Dynamic Sequences Versus Static Sequences: Keçeci and Oresme Numbers in Focus. Preprints. https://doi.org/10.20944/preprints202507.0781
 
 Keçeci, M. (2025). Mobility and Constancy in Mathematical Sequences: A Study on Keçeci and Oresme Numbers. OSF. https://doi.org/10.17605/osf.io/68r4v
@@ -203,6 +205,8 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 # International Papers:
 
+78\. Keçeci,  M. (2025). Analysing the Dynamic and Static Structures of Keçeci and Oresme Sequences. Authorea. https://doi.org/10.22541/au.175199926.64529709/v1
+
 77\. Keçeci,  M. (2025). Dynamic Sequences Versus Static Sequences: Keçeci and Oresme Numbers in Focus. Preprints. https://doi.org/10.20944/preprints202507.0781
 
 76\. Keçeci, M. (2025). Mobility and Constancy in Mathematical Sequences: A Study on Keçeci and Oresme Numbers. OSF. https://doi.org/10.17605/osf.io/68r4v
@@ -361,6 +365,8 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
    
 ---
 # International Papers:
+
+1. Keçeci,  M. (2025). Analysing the Dynamic and Static Structures of Keçeci and Oresme Sequences. Authorea. https://doi.org/10.22541/au.175199926.64529709/v1
 
 1. Keçeci,  M. (2025). Dynamic Sequences Versus Static Sequences: Keçeci and Oresme Numbers in Focus. Preprints. https://doi.org/10.20944/preprints202507.0781
 
