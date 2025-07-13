@@ -43,6 +43,14 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2025). oresmej [Data set]. ResearchGate. https://doi.org/10.13140/RG.2.2.30518.41284
+
+Keçeci, M. (2025). oresmej [Data set]. figshare. https://doi.org/10.6084/m9.figshare.29554532
+
+Keçeci, M. (2025). oresmej [Data set]. WorkflowHub. https://doi.org/10.48546/WORKFLOWHUB.DATAFILE.19.1
+
+Keçeci, M. (2025). oresmej. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15874178
+
 Keçeci,  M. (2025). Analysing the Dynamic and Static Structures of Keçeci and Oresme Sequences. Authorea. https://doi.org/10.22541/au.175199926.64529709/v1
 
 Keçeci,  M. (2025). Dynamic Sequences Versus Static Sequences: Keçeci and Oresme Numbers in Focus. Preprints. https://doi.org/10.20944/preprints202507.0781
@@ -205,6 +213,14 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 # International Papers:
 
+82\. Keçeci, M. (2025). oresmej [Data set]. ResearchGate. https://doi.org/10.13140/RG.2.2.30518.41284
+
+81\. Keçeci, M. (2025). oresmej [Data set]. figshare. https://doi.org/10.6084/m9.figshare.29554532
+
+80\. Keçeci, M. (2025). oresmej [Data set]. WorkflowHub. https://doi.org/10.48546/WORKFLOWHUB.DATAFILE.19.1
+
+79\. Keçeci, M. (2025). oresmej. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15874178
+
 78\. Keçeci,  M. (2025). Analysing the Dynamic and Static Structures of Keçeci and Oresme Sequences. Authorea. https://doi.org/10.22541/au.175199926.64529709/v1
 
 77\. Keçeci,  M. (2025). Dynamic Sequences Versus Static Sequences: Keçeci and Oresme Numbers in Focus. Preprints. https://doi.org/10.20944/preprints202507.0781
@@ -365,6 +381,14 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
    
 ---
 # International Papers:
+
+1. Keçeci, M. (2025). oresmej [Data set]. ResearchGate. https://doi.org/10.13140/RG.2.2.30518.41284
+
+1. Keçeci, M. (2025). oresmej [Data set]. figshare. https://doi.org/10.6084/m9.figshare.29554532
+
+1. Keçeci, M. (2025). oresmej [Data set]. WorkflowHub. https://doi.org/10.48546/WORKFLOWHUB.DATAFILE.19.1
+
+1. Keçeci, M. (2025). oresmej. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15874178
 
 1. Keçeci,  M. (2025). Analysing the Dynamic and Static Structures of Keçeci and Oresme Sequences. Authorea. https://doi.org/10.22541/au.175199926.64529709/v1
 
