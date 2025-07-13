@@ -995,7 +995,3 @@ e.	Teaching Astronomy Online
 f.	Flight mechanics - The basis
 
 ---
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=WhiteSymmetry/WhiteSymmetry&type=Date)](https://www.star-history.com/#WhiteSymmetry/WhiteSymmetry&Date)
-
