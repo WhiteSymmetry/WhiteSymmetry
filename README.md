@@ -67,7 +67,7 @@ Keçeci, Mehmet (2025). Dynamic and Static Approaches in Mathematics: Investigat
 
 Keçeci, Mehmet (2025). Dynamic-Static Properties of Keçeci and Oresme Number Sequences: A Comparative Examination. figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.29504960
 
-Keçeci, M. (2025). Variability and Stability in Number Sequences: An Analysis of Keçeci and Oresme Numbers. WorkflowHub. https://doi.org/10.48546/workflowhub.document.37.1
+Keçeci, M. (2025). Variability and Stability in Number Sequences: An Analysis of Keçeci and Oresme Numbers. WorkflowHub. https://doi.org/10.48546/workflowhub.document.37.1; https://doi.org/10.48546/workflowhub.document.37.2
 
 Keçeci, M. (2025). Dynamic vs Static Number Sequences: The Case of Keçeci and Oresme Numbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15833351
 
@@ -243,7 +243,7 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 74\. Keçeci, Mehmet (2025). Dynamic-Static Properties of Keçeci and Oresme Number Sequences: A Comparative Examination. figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.29504960
 
-73\. Keçeci, M. (2025). Variability and Stability in Number Sequences: An Analysis of Keçeci and Oresme Numbers. WorkflowHub. https://doi.org/10.48546/workflowhub.document.37.1
+73\. Keçeci, M. (2025). Variability and Stability in Number Sequences: An Analysis of Keçeci and Oresme Numbers. WorkflowHub. https://doi.org/10.48546/workflowhub.document.37.1; https://doi.org/10.48546/workflowhub.document.37.2
 
 72\. Keçeci, M. (2025). Dynamic vs Static Number Sequences: The Case of Keçeci and Oresme Numbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15833351
 
@@ -414,7 +414,7 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 1. Keçeci, Mehmet (2025). Dynamic-Static Properties of Keçeci and Oresme Number Sequences: A Comparative Examination. figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.29504960
 
-1. Keçeci, M. (2025). Variability and Stability in Number Sequences: An Analysis of Keçeci and Oresme Numbers. WorkflowHub. https://doi.org/10.48546/workflowhub.document.37.1
+1. Keçeci, M. (2025). Variability and Stability in Number Sequences: An Analysis of Keçeci and Oresme Numbers. WorkflowHub. https://doi.org/10.48546/workflowhub.document.37.1; https://doi.org/10.48546/workflowhub.document.37.2
 
 1. Keçeci, M. (2025). Dynamic vs Static Number Sequences: The Case of Keçeci and Oresme Numbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15833351
 
