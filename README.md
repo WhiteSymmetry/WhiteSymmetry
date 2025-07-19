@@ -199,7 +199,7 @@ Garrett, J., Luis, E., Peng, H.-H., Cera, T., Gobinathj, Borrow, J., Keçeci, M.
 
 Keçeci, M. (2021). The Next Stop: Future Planet Walks. In SEDS Space Arts 2021, Global Art Competition, Sri Lanka. https://doi.org/10.13140/RG.2.2.21394.12482
 
-Keçeci, M. (2020, October 25). Discourse on the second quantum revolution and nanotechnology applications in the midst of the COVID-19 pandemic of inequality. International Journal of Latest Research in Science and Technology, 9(5), 1–7. eISSN: 2278-5299. https://doi.org/10.5281/zenodo.7483395; https://doi.org/jtnm; https://www.mnkjournals.com/journal/ijlrst/Article.php?paper_id=11004
+Keçeci, M. (2020, October 25). Discourse on the second quantum revolution and nanotechnology applications in the midst of the COVID-19 pandemic of inequality. International Journal of Latest Research in Science and Technology, 9(5), 1–7. eISSN: 2278-5299. https://doi.org/10.5281/zenodo.7483395; https://doi.org/jtfr; https://www.mnkjournals.com/journal/ijlrst/Article.php?paper_id=11004
 
 Keçeci, M. (2019). Quantum and Art. Presented at International Workshop on Quantum Frontiers of Technology, TÜBİTAK, TÜSSİDE, Gebze, Türkiye. https://doi.org/10.13140/RG.2.2.27533.90089; https://tbae.tubitak.gov.tr/en/haber/quantum-frontiers-technology
 
@@ -373,7 +373,7 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
     
 10\.	Keçeci, M. (2021). The Next Stop: Future Planet Walks. In SEDS Space Arts 2021, Global Art Competition, Sri Lanka. https://doi.org/10.13140/RG.2.2.21394.12482
     
-9\.	Keçeci, M. (2020, October 25). Discourse on the second quantum revolution and nanotechnology applications in the midst of the COVID-19 pandemic of inequality. International Journal of Latest Research in Science and Technology, 9(5), 1–7. eISSN: 2278-5299. https://doi.org/10.5281/zenodo.7483395; https://doi.org/jtnm; https://www.mnkjournals.com/journal/ijlrst/Article.php?paper_id=11004
+9\.	Keçeci, M. (2020, October 25). Discourse on the second quantum revolution and nanotechnology applications in the midst of the COVID-19 pandemic of inequality. International Journal of Latest Research in Science and Technology, 9(5), 1–7. eISSN: 2278-5299. https://doi.org/10.5281/zenodo.7483395; https://doi.org/jtfr; https://www.mnkjournals.com/journal/ijlrst/Article.php?paper_id=11004
     
 8\.	Keçeci, M. (2019). Quantum and Art. Presented at International Workshop on Quantum Frontiers of Technology, TÜBİTAK, TÜSSİDE, Gebze, Türkiye. https://doi.org/10.13140/RG.2.2.27533.90089; https://tbae.tubitak.gov.tr/en/haber/quantum-frontiers-technology
    
@@ -546,7 +546,7 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 1. Keçeci, M. (2021). The Next Stop: Future Planet Walks. In SEDS Space Arts 2021, Global Art Competition, Sri Lanka. https://doi.org/10.13140/RG.2.2.21394.12482
 
-1. Keçeci, M. (2020). Discourse on the second quantum revolution and nanotechnology applications in the midst of the COVID-19 pandemic of inequality. International Journal of Latest Research in Science and Technology, 9 (5), 1–7. eISSN: 2278-5299, https://doi.org/10.5281/zenodo.7483395; https://doi.org/jtnm; https://www.mnkjournals.com/journal/ijlrst/Article.php?paper_id=11004
+1. Keçeci, M. (2020). Discourse on the second quantum revolution and nanotechnology applications in the midst of the COVID-19 pandemic of inequality. International Journal of Latest Research in Science and Technology, 9 (5), 1–7. eISSN: 2278-5299, https://doi.org/10.5281/zenodo.7483395; https://doi.org/jtfr; https://www.mnkjournals.com/journal/ijlrst/Article.php?paper_id=11004
 
 1. Keçeci, M. (2019). Quantum and Art. Presented at International Workshop on Quantum Frontiers of Technology, TÜBİTAK, TÜSSİDE, Gebze, Türkiye. https://doi.org/10.13140/RG.2.2.27533.90089
 
