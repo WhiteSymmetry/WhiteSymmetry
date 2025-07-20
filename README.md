@@ -47,6 +47,10 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2025). Stratum Model-Based Analysis of Topological Insulators Hosting Weyl and Majorana Fermions. WorkflowHub. https://doi.org/10.48546/workflowhub.document.39.1
+
+Keçeci, M. (2025). Quantum Computing Applications of Weyl-Majorana Hybrid States in Layered Systems via Stratum Model. figshare. https://doi.org/10.6084/m9.figshare.29606039
+
 Keçeci, M. (2025). Bridging Quantum Theory and Computation: The Role of Hilbert Spaces. WorkflowHub. https://doi.org/10.48546/workflowhub.document.38.1
 
 Keçeci, M. (2025). Hilbert Spaces and Quantum Information: Tools for Next-Generation Computing. figshare. https://doi.org/10.6084/m9.figshare.29604011
@@ -225,6 +229,10 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 # International Papers:
 
+88\. Keçeci, M. (2025). Stratum Model-Based Analysis of Topological Insulators Hosting Weyl and Majorana Fermions. WorkflowHub. https://doi.org/10.48546/workflowhub.document.39.1
+
+87\. Keçeci, M. (2025). Quantum Computing Applications of Weyl-Majorana Hybrid States in Layered Systems via Stratum Model. figshare. https://doi.org/10.6084/m9.figshare.29606039
+
 86\. Keçeci, M. (2025). Bridging Quantum Theory and Computation: The Role of Hilbert Spaces. WorkflowHub. https://doi.org/10.48546/workflowhub.document.38.1
 
 85\. Keçeci, M. (2025). Hilbert Spaces and Quantum Information: Tools for Next-Generation Computing. figshare. https://doi.org/10.6084/m9.figshare.29604011
@@ -401,6 +409,10 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
    
 ---
 # International Papers:
+
+1. Keçeci, M. (2025). Stratum Model-Based Analysis of Topological Insulators Hosting Weyl and Majorana Fermions. WorkflowHub. https://doi.org/10.48546/workflowhub.document.39.1
+
+1. Keçeci, M. (2025). Quantum Computing Applications of Weyl-Majorana Hybrid States in Layered Systems via Stratum Model. figshare. https://doi.org/10.6084/m9.figshare.29606039
 
 1. Keçeci, M. (2025). Bridging Quantum Theory and Computation: The Role of Hilbert Spaces. WorkflowHub. https://doi.org/10.48546/workflowhub.document.38.1
 
