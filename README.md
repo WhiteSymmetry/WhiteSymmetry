@@ -243,6 +243,10 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 # International Papers:
 
+95\. Keçeci, M. (2025). Geometric Interpretations of Keçeci Numbers with Neutrosophic and Hyperreal Numbers. Zenodo. https://doi.org/10.5281/zenodo.16344232
+
+94\. Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik ve Hipergerçek Sayılarla Geometrik Yorumlamaları. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16343568
+
 93\. Keçeci, M. (2025). adnus [Data set]. OSF. https://doi.org/10.17605/OSF.IO/9C26Y
 
 92\. Keçeci, M. (2025). adnus [Data set]. figshare. https://doi.org/10.6084/m9.figshare.29621336
@@ -433,6 +437,10 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
    
 ---
 # International Papers:
+
+1. Keçeci, M. (2025). Geometric Interpretations of Keçeci Numbers with Neutrosophic and Hyperreal Numbers. Zenodo. https://doi.org/10.5281/zenodo.16344232
+
+1. Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik ve Hipergerçek Sayılarla Geometrik Yorumlamaları. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16343568
 
 1. Keçeci, M. (2025). adnus [Data set]. OSF. https://doi.org/10.17605/OSF.IO/9C26Y
 
