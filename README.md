@@ -47,6 +47,18 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik ve Hipergerçek Uzaylarda Geometrik Analizi. WorkflowHub. https://doi.org/10.48546/workflowhub.document.40.1
+
+Keçeci, M. (2025). Geometric Interpretations of Keçeci Numbers within Neutrosophic and Hyperreal Number Systems. WorkflowHub. https://doi.org/10.48546/workflowhub.document.41.1
+
+Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik Hipergerçek Uzaylarda Geometrik Temsilleri. figshare. https://doi.org/10.6084/m9.figshare.29636750
+
+Keçeci, M. (2025). Geometric Representations of Keçeci Numbers in Neutrosophic Hyperreal Spaces. figshare. https://doi.org/10.6084/m9.figshare.29636849
+
+Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik Küme Teorisi ve Hipergerçek Uzaylarda İncelenmesi. OSF. https://doi.org/10.17605/OSF.IO/KVCB6
+
+Keçeci, M. (2025). Investigation of Keçeci Numbers via Neutrosophic Set Theory and Hyperreal Spaces. OSF. https://doi.org/10.17605/OSF.IO/VMK82
+
 Keçeci, M. (2025). Geometric Interpretations of Keçeci Numbers with Neutrosophic and Hyperreal Numbers. Zenodo. https://doi.org/10.5281/zenodo.16344232
 
 Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik ve Hipergerçek Sayılarla Geometrik Yorumlamaları. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16343568
@@ -243,6 +255,19 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 # International Papers:
 
+
+101\.Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik ve Hipergerçek Uzaylarda Geometrik Analizi. WorkflowHub. https://doi.org/10.48546/workflowhub.document.40.1
+
+100\.Keçeci, M. (2025). Geometric Interpretations of Keçeci Numbers within Neutrosophic and Hyperreal Number Systems. WorkflowHub. https://doi.org/10.48546/workflowhub.document.41.1
+
+99\.Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik Hipergerçek Uzaylarda Geometrik Temsilleri. figshare. https://doi.org/10.6084/m9.figshare.29636750
+
+98\.Keçeci, M. (2025). Geometric Representations of Keçeci Numbers in Neutrosophic Hyperreal Spaces. figshare. https://doi.org/10.6084/m9.figshare.29636849
+
+97\.Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik Küme Teorisi ve Hipergerçek Uzaylarda İncelenmesi. OSF. https://doi.org/10.17605/OSF.IO/KVCB6
+
+96\. Keçeci, M. (2025). Investigation of Keçeci Numbers via Neutrosophic Set Theory and Hyperreal Spaces. OSF. https://doi.org/10.17605/OSF.IO/VMK82
+
 95\. Keçeci, M. (2025). Geometric Interpretations of Keçeci Numbers with Neutrosophic and Hyperreal Numbers. Zenodo. https://doi.org/10.5281/zenodo.16344232
 
 94\. Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik ve Hipergerçek Sayılarla Geometrik Yorumlamaları. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16343568
@@ -437,6 +462,18 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
    
 ---
 # International Papers:
+
+1.Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik ve Hipergerçek Uzaylarda Geometrik Analizi. WorkflowHub. https://doi.org/10.48546/workflowhub.document.40.1
+
+1.Keçeci, M. (2025). Geometric Interpretations of Keçeci Numbers within Neutrosophic and Hyperreal Number Systems. WorkflowHub. https://doi.org/10.48546/workflowhub.document.41.1
+
+1.Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik Hipergerçek Uzaylarda Geometrik Temsilleri. figshare. https://doi.org/10.6084/m9.figshare.29636750
+
+1.Keçeci, M. (2025). Geometric Representations of Keçeci Numbers in Neutrosophic Hyperreal Spaces. figshare. https://doi.org/10.6084/m9.figshare.29636849
+
+1.Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik Küme Teorisi ve Hipergerçek Uzaylarda İncelenmesi. OSF. https://doi.org/10.17605/OSF.IO/KVCB6
+
+1. Keçeci, M. (2025). Investigation of Keçeci Numbers via Neutrosophic Set Theory and Hyperreal Spaces. OSF. https://doi.org/10.17605/OSF.IO/VMK82
 
 1. Keçeci, M. (2025). Geometric Interpretations of Keçeci Numbers with Neutrosophic and Hyperreal Numbers. Zenodo. https://doi.org/10.5281/zenodo.16344232
 
