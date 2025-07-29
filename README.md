@@ -47,6 +47,14 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2025). Hesaplamalı Matematikte Python’un Sınırları ve JAX ile Genişletilmesi: Harmonik Sayılar Üzerine Bir Uygulama. WorkflowHub.	 https://doi.org/10.48546/workflowhub.document.42.2
+
+Keçeci, M. (2025). The Limits of Python in Computational Mathematics and Their Extension with JAX: An Application on Harmonic Numbers. WorkflowHub.	 https://doi.org/10.48546/workflowhub.document.43.1
+
+Keçeci, M. (2025). Performans ve Ölçeklenebilirlik Analizi: Harmonik Seri Hesaplamalarında JAX ve Saf Python'un Karşılaştırılması. figshare. https://doi.org/10.6084/m9.figshare.29666675
+
+Keçeci, M. (2025). A Comparative Analysis of Performance and Scalability: Computing Harmonic Series with JAX versus Pure Python. figshare. https://doi.org/10.6084/m9.figshare.29666684
+
 Keçeci, M. (2025). A Comparative Study of Pure Python and JAX-Based Approaches in Computing Harmonic Series. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16576092
 
 Keçeci, M. (2025). Harmonik Serilerin Hesaplanmasında Saf Python ve JAX Tabanlı Yaklaşımların Karşılaştırılması. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16536195
@@ -261,6 +269,15 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 # International Papers:
 
+
+108\. Keçeci, M. (2025). Hesaplamalı Matematikte Python’un Sınırları ve JAX ile Genişletilmesi: Harmonik Sayılar Üzerine Bir Uygulama. WorkflowHub.	 https://doi.org/10.48546/workflowhub.document.42.2
+
+107\. Keçeci, M. (2025). The Limits of Python in Computational Mathematics and Their Extension with JAX: An Application on Harmonic Numbers. WorkflowHub.	 https://doi.org/10.48546/workflowhub.document.43.1
+
+106\. Keçeci, M. (2025). Performans ve Ölçeklenebilirlik Analizi: Harmonik Seri Hesaplamalarında JAX ve Saf Python'un Karşılaştırılması. figshare. https://doi.org/10.6084/m9.figshare.29666675
+
+105\. Keçeci, M. (2025). A Comparative Analysis of Performance and Scalability: Computing Harmonic Series with JAX versus Pure Python. figshare. https://doi.org/10.6084/m9.figshare.29666684
+
 104. Keçeci, M. (2025). A Comparative Study of Pure Python and JAX-Based Approaches in Computing Harmonic Series. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16576092
 
 103\.	Keçeci, M. (2025). Harmonik Serilerin Hesaplanmasında Saf Python ve JAX Tabanlı Yaklaşımların Karşılaştırılması. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16536195
@@ -473,6 +490,15 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
    
 ---
 # International Papers:
+
+
+1. Keçeci, M. (2025). Hesaplamalı Matematikte Python’un Sınırları ve JAX ile Genişletilmesi: Harmonik Sayılar Üzerine Bir Uygulama. WorkflowHub.	 https://doi.org/10.48546/workflowhub.document.42.2
+
+1. Keçeci, M. (2025). The Limits of Python in Computational Mathematics and Their Extension with JAX: An Application on Harmonic Numbers. WorkflowHub.	 https://doi.org/10.48546/workflowhub.document.43.1
+
+1. Keçeci, M. (2025). Performans ve Ölçeklenebilirlik Analizi: Harmonik Seri Hesaplamalarında JAX ve Saf Python'un Karşılaştırılması. figshare. https://doi.org/10.6084/m9.figshare.29666675
+
+1. Keçeci, M. (2025). A Comparative Analysis of Performance and Scalability: Computing Harmonic Series with JAX versus Pure Python. figshare. https://doi.org/10.6084/m9.figshare.29666684
 
 1. Keçeci, M. (2025). A Comparative Study of Pure Python and JAX-Based Approaches in Computing Harmonic Series. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16576092
 
