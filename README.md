@@ -49,7 +49,7 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 Keçeci, M. (2025). Harmonik Serilerin Hesaplanmasında Saf Python ve JAX Tabanlı Yaklaşımların Karşılaştırılması. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16536195
 
-Keçeci, M. (2025). The Keçeci Layout: A Deterministic, Order-Preserving Visualization Algorithm for Structured Systems. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16526799
+Keçeci, M. (2025). The Keçeci Layout: A Deterministic, Order-Preserving Visualization Algorithm for Structured Systems. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16526798
 
 Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik ve Hipergerçek Uzaylarda Geometrik Analizi. WorkflowHub. https://doi.org/10.48546/workflowhub.document.40.1
 
@@ -261,7 +261,7 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 103\.	Keçeci, M. (2025). Harmonik Serilerin Hesaplanmasında Saf Python ve JAX Tabanlı Yaklaşımların Karşılaştırılması. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16536195
 
-102\. Keçeci, M. (2025). The Keçeci Layout: A Deterministic, Order-Preserving Visualization Algorithm for Structured Systems. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16526799
+102\. Keçeci, M. (2025). The Keçeci Layout: A Deterministic, Order-Preserving Visualization Algorithm for Structured Systems. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16526798
 
 101\. Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik ve Hipergerçek Uzaylarda Geometrik Analizi. WorkflowHub. https://doi.org/10.48546/workflowhub.document.40.1
 
@@ -472,7 +472,7 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 1.	Keçeci, M. (2025). Harmonik Serilerin Hesaplanmasında Saf Python ve JAX Tabanlı Yaklaşımların Karşılaştırılması. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16536195
 
-1. Keçeci, M. (2025). The Keçeci Layout: A Deterministic, Order-Preserving Visualization Algorithm for Structured Systems. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16526799
+1. Keçeci, M. (2025). The Keçeci Layout: A Deterministic, Order-Preserving Visualization Algorithm for Structured Systems. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16526798
 
 1.Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik ve Hipergerçek Uzaylarda Geometrik Analizi. WorkflowHub. https://doi.org/10.48546/workflowhub.document.40.1
 
