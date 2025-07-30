@@ -47,6 +47,10 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2025). Hipergerçek Analiz ve Nötrosofik Kümelere Dayalı Keçeci Sayılarının Dinamik Modellenmesi. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/jy9mn-2va66
+
+Keçeci, M. (2025). Dynamic Modelling of Keçeci Numbers Based on Hyperreal Analysis and Neutrosophic Sets. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/n4cqw-efp22
+
 Keçeci, M. (2025). Harmonik Seri Hesaplamalarının Modernizasyonu: Geleneksel Python ve JAX Arasında Bir Performans Kıyaslaması. OSF. https://doi.org/10.17605/OSF.IO/BT5A3
 
 Keçeci, M. (2025). Modernising the Computation of Harmonic Series: A Performance Benchmark between JAX and Traditional Python. OSF. https://doi.org/10.17605/OSF.IO/56JDU
@@ -277,6 +281,10 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 # International Papers:
 
+114\. Keçeci, M. (2025). Hipergerçek Analiz ve Nötrosofik Kümelere Dayalı Keçeci Sayılarının Dinamik Modellenmesi. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/jy9mn-2va66
+
+113\. Keçeci, M. (2025). Dynamic Modelling of Keçeci Numbers Based on Hyperreal Analysis and Neutrosophic Sets. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/n4cqw-efp22
+
 112\. Keçeci, M. (2025). Harmonik Seri Hesaplamalarının Modernizasyonu: Geleneksel Python ve JAX Arasında Bir Performans Kıyaslaması. OSF. https://doi.org/10.17605/OSF.IO/BT5A3
 
 111\. Keçeci, M. (2025). Modernising the Computation of Harmonic Series: A Performance Benchmark between JAX and Traditional Python. OSF. https://doi.org/10.17605/OSF.IO/56JDU
@@ -505,6 +513,10 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
    
 ---
 # International Papers:
+
+1. Keçeci, M. (2025). Hipergerçek Analiz ve Nötrosofik Kümelere Dayalı Keçeci Sayılarının Dinamik Modellenmesi. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/jy9mn-2va66
+
+1. Keçeci, M. (2025). Dynamic Modelling of Keçeci Numbers Based on Hyperreal Analysis and Neutrosophic Sets. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/n4cqw-efp22
 
 1. Keçeci, M. (2025). Harmonik Seri Hesaplamalarının Modernizasyonu: Geleneksel Python ve JAX Arasında Bir Performans Kıyaslaması. OSF. https://doi.org/10.17605/OSF.IO/BT5A3
 
