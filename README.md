@@ -47,6 +47,8 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2025). The Signature of a Sequence: Variability and Stability in Keçeci and Oresme Numbers. ScienceOpen Preprints. https://doi.org/10.14293/PR2199.001860.v1
+
 Keçeci, M. (2025). Döngülerden Vektörleştirmeye: Harmonik Seriler için Saf Python ve JAX Performans Karşılaştırması. Authorea. https://doi.org/10.22541/au.175390609.94042878/v1
 
 Keçeci, M. (2025). From Loops to Vectorisation: A Performance Comparison of Pure Python and JAX for Harmonic Series Calculation. Authorea.	 https://doi.org/10.22541/au.175390610.08488249/v1
@@ -289,6 +291,8 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 # International Papers:
 
+119\. Keçeci, M. (2025). The Signature of a Sequence: Variability and Stability in Keçeci and Oresme Numbers. ScienceOpen Preprints. https://doi.org/10.14293/PR2199.001860.v1
+
 118\. Keçeci, M. (2025). Döngülerden Vektörleştirmeye: Harmonik Seriler için Saf Python ve JAX Performans Karşılaştırması. Authorea. https://doi.org/10.22541/au.175390609.94042878/v1
 
 117\. Keçeci, M. (2025). From Loops to Vectorisation: A Performance Comparison of Pure Python and JAX for Harmonic Series Calculation. Authorea.	 https://doi.org/10.22541/au.175390610.08488249/v1
@@ -529,6 +533,8 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
    
 ---
 # International Papers:
+
+1. Keçeci, M. (2025). The Signature of a Sequence: Variability and Stability in Keçeci and Oresme Numbers. ScienceOpen Preprints. https://doi.org/10.14293/PR2199.001860.v1
 
 1. Keçeci, M. (2025). Döngülerden Vektörleştirmeye: Harmonik Seriler için Saf Python ve JAX Performans Karşılaştırması. Authorea. https://doi.org/10.22541/au.175390609.94042878/v1
 
