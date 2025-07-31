@@ -47,6 +47,14 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2025). Döngülerden Vektörleştirmeye: Harmonik Seriler için Saf Python ve JAX Performans Karşılaştırması. Authorea. https://doi.org/10.22541/au.175390609.94042878/v1
+
+Keçeci, M. (2025). From Loops to Vectorisation: A Performance Comparison of Pure Python and JAX for Harmonic Series Calculation. Authorea.	 https://doi.org/10.22541/au.175390610.08488249/v1
+
+Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik Çerçevede Hipergerçek Dönüşümleri ve Uygulamaları. Authorea. https://doi.org/10.22541/au.175390599.93612305/v1
+
+Keçeci, M. (2025). Hyperreal Transformations and Applications of Keçeci Numbers in a Neutrosophic Framework. Authorea. https://doi.org/10.22541/au.175390600.02906392/v1
+
 Keçeci, M. (2025). Hipergerçek Analiz ve Nötrosofik Kümelere Dayalı Keçeci Sayılarının Dinamik Modellenmesi. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/jy9mn-2va66
 
 Keçeci, M. (2025). Dynamic Modelling of Keçeci Numbers Based on Hyperreal Analysis and Neutrosophic Sets. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/n4cqw-efp22
@@ -281,6 +289,14 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 # International Papers:
 
+118\. Keçeci, M. (2025). Döngülerden Vektörleştirmeye: Harmonik Seriler için Saf Python ve JAX Performans Karşılaştırması. Authorea. https://doi.org/10.22541/au.175390609.94042878/v1
+
+117\. Keçeci, M. (2025). From Loops to Vectorisation: A Performance Comparison of Pure Python and JAX for Harmonic Series Calculation. Authorea.	 https://doi.org/10.22541/au.175390610.08488249/v1
+
+116\. Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik Çerçevede Hipergerçek Dönüşümleri ve Uygulamaları. Authorea. https://doi.org/10.22541/au.175390599.93612305/v1
+
+115\. Keçeci, M. (2025). Hyperreal Transformations and Applications of Keçeci Numbers in a Neutrosophic Framework. Authorea. https://doi.org/10.22541/au.175390600.02906392/v1
+
 114\. Keçeci, M. (2025). Hipergerçek Analiz ve Nötrosofik Kümelere Dayalı Keçeci Sayılarının Dinamik Modellenmesi. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/jy9mn-2va66
 
 113\. Keçeci, M. (2025). Dynamic Modelling of Keçeci Numbers Based on Hyperreal Analysis and Neutrosophic Sets. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/n4cqw-efp22
@@ -513,6 +529,14 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
    
 ---
 # International Papers:
+
+1. Keçeci, M. (2025). Döngülerden Vektörleştirmeye: Harmonik Seriler için Saf Python ve JAX Performans Karşılaştırması. Authorea. https://doi.org/10.22541/au.175390609.94042878/v1
+
+1. Keçeci, M. (2025). From Loops to Vectorisation: A Performance Comparison of Pure Python and JAX for Harmonic Series Calculation. Authorea.	 https://doi.org/10.22541/au.175390610.08488249/v1
+
+1. Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik Çerçevede Hipergerçek Dönüşümleri ve Uygulamaları. Authorea. https://doi.org/10.22541/au.175390599.93612305/v1
+
+1. Keçeci, M. (2025). Hyperreal Transformations and Applications of Keçeci Numbers in a Neutrosophic Framework. Authorea. https://doi.org/10.22541/au.175390600.02906392/v1
 
 1. Keçeci, M. (2025). Hipergerçek Analiz ve Nötrosofik Kümelere Dayalı Keçeci Sayılarının Dinamik Modellenmesi. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/jy9mn-2va66
 
