@@ -47,6 +47,8 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2025). The Keçeci Layout: A Deterministic Visualisation Framework for the Structural Analysis of Ordered Systems in Chemistry and Environmental Science. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16696713
+
 Keçeci, M. (2025). oresmen (0.1.0). Zenodo. https://doi.org/10.5281/zenodo.16634186
 
 Keçeci, M. (2025). The Signature of a Sequence: Variability and Stability in Keçeci and Oresme Numbers. ScienceOpen Preprints. https://doi.org/10.14293/PR2199.001860.v1
@@ -293,6 +295,8 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 # International Papers:
 
+121\. Keçeci, M. (2025). The Keçeci Layout: A Deterministic Visualisation Framework for the Structural Analysis of Ordered Systems in Chemistry and Environmental Science. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16696713
+
 120\. Keçeci, M. (2025). oresmen (0.1.0). Zenodo. https://doi.org/10.5281/zenodo.16634186
 
 119\. Keçeci, M. (2025). The Signature of a Sequence: Variability and Stability in Keçeci and Oresme Numbers. ScienceOpen Preprints. https://doi.org/10.14293/PR2199.001860.v1
@@ -537,6 +541,8 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
    
 ---
 # International Papers:
+
+1. Keçeci, M. (2025). The Keçeci Layout: A Deterministic Visualisation Framework for the Structural Analysis of Ordered Systems in Chemistry and Environmental Science. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16696713
 
 1. Keçeci, M. (2025). oresmen (0.1.0). Zenodo. https://doi.org/10.5281/zenodo.16634186
 
