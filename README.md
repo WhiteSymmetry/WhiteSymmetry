@@ -47,6 +47,10 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2025). Genelleştirilmiş Keçeci Operatörleri: Collatz Yinelemesinin Nötrosofik ve Hiperreel Sayı Sistemlerinde Uzantıları. Authorea.	https://doi.org/10.22541/au.175433544.41244947/v1
+
+Keçeci, M. (2025). The Unifying Role of Hilbert Space in Quantum Field Theory and Information Science. Authorea. https://doi.org/10.22541/au.175433455.53782703/v1
+
 Keçeci, M. (2025). Keçeci ve Collatz Karşılaştırması: Benzer Algoritmalar, Farklı Çekiciler. figshare. https://doi.org/10.6084/m9.figshare.29815910
 
 Keçeci, M. (2025). Keçeci Varsayımı'nın Hesaplanabilirliği: Sonlu Adımda Kararlı Yapıya Yakınsama Sorunu. WorkflowHub. https://doi.org/10.48546/workflowhub.document.44.1; https://doi.org/10.48546/workflowhub.document.44.2
@@ -311,6 +315,10 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 # International Papers:
 
+131\. Keçeci, M. (2025). Genelleştirilmiş Keçeci Operatörleri: Collatz Yinelemesinin Nötrosofik ve Hiperreel Sayı Sistemlerinde Uzantıları. Authorea.	https://doi.org/10.22541/au.175433544.41244947/v1
+
+130\. Keçeci, M. (2025). The Unifying Role of Hilbert Space in Quantum Field Theory and Information Science. Authorea. https://doi.org/10.22541/au.175433455.53782703/v1
+
 129\. Keçeci, M. (2025). kececinumbers [Data set]. figshare. https://doi.org/10.6084/m9.figshare.29816414
 
 128\.	Keçeci, M. (2025). Keçeci ve Collatz Karşılaştırması: Benzer Algoritmalar, Farklı Çekiciler. figshare. https://doi.org/10.6084/m9.figshare.29815910
@@ -573,6 +581,10 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
    
 ---
 # International Papers:
+
+1. Keçeci, M. (2025). Genelleştirilmiş Keçeci Operatörleri: Collatz Yinelemesinin Nötrosofik ve Hiperreel Sayı Sistemlerinde Uzantıları. Authorea.	https://doi.org/10.22541/au.175433544.41244947/v1
+
+1. Keçeci, M. (2025). The Unifying Role of Hilbert Space in Quantum Field Theory and Information Science. Authorea. https://doi.org/10.22541/au.175433455.53782703/v1
 
 1.	Keçeci, M. (2025). Keçeci ve Collatz Karşılaştırması: Benzer Algoritmalar, Farklı Çekiciler. figshare. https://doi.org/10.6084/m9.figshare.29815910
 
@@ -1228,7 +1240,7 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
 198.	Electric Counter Attention T.E.K. (Türkiye Electric Corporation) (Internship), 1993
 199.	Enamelled Wire Production, EMTEL (Internship), 1992
 200.	Arabic Language Certificate I., II. Level, Egypt, Arab Radio, 1991
-201.	~1000 Badges & Certificates: 79 Elsevier, Pennylane (2 Certificate, 22 Badges) (https://pennylane.ai/profile/mkececi), B+C Microsoft Education 858 modules, 516 badges, 95 trophies, 1 reputation (https://learn.microsoft.com/en-us/users/mkececi/), 16 MVA, 30 Google, 3 ResellerClub, 3 Firefox, 1 WordPress, 3 Minecraft, 7 Fedora, 43 Spiceworks, 10 Edmodo, 27B+1C European Schoolnet, 30 Sociabble, 12 Udemy, 21 Brighttalk, 4 OpenWHO, Columbia+ (2C, 6B, https://badges.plus.columbia.edu/profile/mehmetkeeci404433/wallet), LinkedIn Learning (8C), Badgelist (27B, https://badgelist.com/u/mkececi), Credly (28B, https://www.credly.com/users/mkececi), BTK Akademi (5C), Accredible (5 C+B,	 https://www.credential.net/profile/mkececi/wallet), Badgr (151B,	 https://api.badgr.io/public/collections/55f6069cb6a8861abd957632b5a465a9) etc.
+201.	~1000 Badges & Certificates: 79 Elsevier, Pennylane (2 Certificate, 22 Badges) (https://pennylane.ai/profile/mkececi), B+C Microsoft Education 858 modules, 516 badges, 95 trophies, 1 reputation (https://learn.microsoft.com/en-us/users/mkececi/), 16 MVA, 30 Google, 3 ResellerClub, 3 Firefox, 1 WordPress, 3 Minecraft, 7 Fedora, 43 Spiceworks, 10 Edmodo, 27B+1C European Schoolnet, 30 Sociabble, 12 Udemy, 21 Brighttalk, 4 OpenWHO, Columbia+ (2C, 6B, https://badges.plus.columbia.edu/profile/mehmetkeeci404433/wallet), LinkedIn Learning (8C), Badgelist (27B, https://badgelist.com/u/mkececi), Credly (28B, https://www.credly.com/users/mkececi), BTK Akademi (5C), Accredible (5 C+B,	 https://www.credential.net/profile/mkececi/wallet), Badgr (151B,	https://api.badgr.io/public/collections/55f6069cb6a8861abd957632b5a465a9) etc.
 
 ---
 # Digital Badges & Certificates
@@ -1263,7 +1275,7 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
 28.	https://www.coursera.org/user/f50fe5dc943341246de13b30169ed87d
 29.	https://www.brighttalk.com/mybrighttalk/recently-viewed
 30.	https://wakelet.com/@mkececi
-31.	31.	https://medium.com/@mkececi 
+31.	https://medium.com/@mkececi 
 32.	https://www.growkudos.com/profile/Mehmet_Ke%C3%A7eci 
 33.	https://anaconda.org/bilgi 
 34.	https://pypi.org/user/WhiteSymmetry 
