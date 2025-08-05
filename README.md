@@ -47,6 +47,8 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2025). Keçeci Varsayımının Kuramsal ve Karşılaştırmalı Analizi. ResearchGate. https://dx.doi.org/10.13140/RG.2.2.21825.88165
+
 Keçeci, M. (2025). Genelleştirilmiş Keçeci Operatörleri: Collatz Yinelemesinin Nötrosofik ve Hiperreel Sayı Sistemlerinde Uzantıları. Authorea.	https://doi.org/10.22541/au.175433544.41244947/v1
 
 Keçeci, M. (2025). The Unifying Role of Hilbert Space in Quantum Field Theory and Information Science. Authorea. https://doi.org/10.22541/au.175433455.53782703/v1
@@ -315,6 +317,8 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 # International Papers:
 
+132\. Keçeci, M. (2025). Keçeci Varsayımının Kuramsal ve Karşılaştırmalı Analizi. ResearchGate. https://dx.doi.org/10.13140/RG.2.2.21825.88165
+
 131\. Keçeci, M. (2025). Genelleştirilmiş Keçeci Operatörleri: Collatz Yinelemesinin Nötrosofik ve Hiperreel Sayı Sistemlerinde Uzantıları. Authorea.	https://doi.org/10.22541/au.175433544.41244947/v1
 
 130\. Keçeci, M. (2025). The Unifying Role of Hilbert Space in Quantum Field Theory and Information Science. Authorea. https://doi.org/10.22541/au.175433455.53782703/v1
@@ -581,6 +585,8 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
    
 ---
 # International Papers:
+
+1. Keçeci, M. (2025). Keçeci Varsayımının Kuramsal ve Karşılaştırmalı Analizi. ResearchGate. https://dx.doi.org/10.13140/RG.2.2.21825.88165
 
 1. Keçeci, M. (2025). Genelleştirilmiş Keçeci Operatörleri: Collatz Yinelemesinin Nötrosofik ve Hiperreel Sayı Sistemlerinde Uzantıları. Authorea.	https://doi.org/10.22541/au.175433544.41244947/v1
 
