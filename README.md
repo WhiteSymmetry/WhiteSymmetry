@@ -59,7 +59,7 @@ Keçeci, M. (2025). Keçeci ve Collatz Karşılaştırması: Benzer Algoritmalar
 
 Keçeci, M. (2025). Keçeci Varsayımı'nın Hesaplanabilirliği: Sonlu Adımda Kararlı Yapıya Yakınsama Sorunu. WorkflowHub. https://doi.org/10.48546/workflowhub.document.44.1; https://doi.org/10.48546/workflowhub.document.44.2
 
-Keçeci, M. (2025). Keçeci Varsayımı ve Dinamik Sistemler: Farklı Başlangıç Koşullarında Yakınsama ve Döngüler. Open Science Output Articles (OSOAs), OSF.	 https://doi.org/10.17605/OSF.IO/68AFN
+Keçeci, M. (2025). Keçeci Varsayımı ve Dinamik Sistemler: Farklı Başlangıç Koşullarında Yakınsama ve Döngüler. Open Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/68AFN
 
 Keçeci, M. (2025). Keçeci Varsayımı: Periyodik Çekiciler ve Keçeci Asal Sayısı (KPN) Kavramı. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/g60hy-egx74
 
@@ -77,7 +77,7 @@ Keçeci, M. (2025). The Signature of a Sequence: Variability and Stability in Ke
 
 Keçeci, M. (2025). Döngülerden Vektörleştirmeye: Harmonik Seriler için Saf Python ve JAX Performans Karşılaştırması. Authorea. https://doi.org/10.22541/au.175390609.94042878/v1
 
-Keçeci, M. (2025). From Loops to Vectorisation: A Performance Comparison of Pure Python and JAX for Harmonic Series Calculation. Authorea.	 https://doi.org/10.22541/au.175390610.08488249/v1
+Keçeci, M. (2025). From Loops to Vectorisation: A Performance Comparison of Pure Python and JAX for Harmonic Series Calculation. Authorea. https://doi.org/10.22541/au.175390610.08488249/v1
 
 Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik Çerçevede Hipergerçek Dönüşümleri ve Uygulamaları. Authorea. https://doi.org/10.22541/au.175390599.93612305/v1
 
@@ -95,7 +95,7 @@ Keçeci, M. (2025). Hesaplamalı Matematikte Verimlilik ve Sürdürülebilirlik:
 
 Keçeci, M. (2025). Efficiency and Sustainability in Computational Mathematics: A JAX-Based Approach to the Harmonic Series. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/js67q-4wc71
 
-Keçeci, M. (2025). Hesaplamalı Matematikte Python’un Sınırları ve JAX ile Genişletilmesi: Harmonik Sayılar Üzerine Bir Uygulama. WorkflowHub.	 https://doi.org/10.48546/workflowhub.document.42.2
+Keçeci, M. (2025). Hesaplamalı Matematikte Python’un Sınırları ve JAX ile Genişletilmesi: Harmonik Sayılar Üzerine Bir Uygulama. Open Work Flow Articles (OWFAs), WorkflowHub.	 https://doi.org/10.48546/workflowhub.document.42.2
 
 Keçeci, M. (2025). The Limits of Python in Computational Mathematics and Their Extension with JAX: An Application on Harmonic Numbers. WorkflowHub.	 https://doi.org/10.48546/workflowhub.document.43.1
 
@@ -111,7 +111,7 @@ Keçeci, M. (2025). The Keçeci Layout: A Deterministic, Order-Preserving Visual
 
 Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik ve Hipergerçek Uzaylarda Geometrik Analizi. WorkflowHub. https://doi.org/10.48546/workflowhub.document.40.1
 
-Keçeci, M. (2025). Geometric Interpretations of Keçeci Numbers within Neutrosophic and Hyperreal Number Systems. WorkflowHub. https://doi.org/10.48546/workflowhub.document.41.1
+Keçeci, M. (2025). Geometric Interpretations of Keçeci Numbers within Neutrosophic and Hyperreal Number Systems. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.41.1
 
 Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik Hipergerçek Uzaylarda Geometrik Temsilleri. figshare. https://doi.org/10.6084/m9.figshare.29636750
 
@@ -139,7 +139,7 @@ Keçeci, M. (2025). Stratum Model-Based Analysis of Topological Insulators Hosti
 
 Keçeci, M. (2025). Quantum Computing Applications of Weyl-Majorana Hybrid States in Layered Systems via Stratum Model. figshare. https://doi.org/10.6084/m9.figshare.29606039
 
-Keçeci, M. (2025). Bridging Quantum Theory and Computation: The Role of Hilbert Spaces. WorkflowHub. https://doi.org/10.48546/workflowhub.document.38.1
+Keçeci, M. (2025). Bridging Quantum Theory and Computation: The Role of Hilbert Spaces. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.38.1; https://doi.org/10.48546/workflowhub.document.38.2; https://doi.org/10.48546/workflowhub.document.38.3
 
 Keçeci, M. (2025). Hilbert Spaces and Quantum Information: Tools for Next-Generation Computing. figshare. https://doi.org/10.6084/m9.figshare.29604011
 
