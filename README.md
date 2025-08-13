@@ -20,6 +20,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=WhiteSymmetry&theme=merko)](https://git.io/streak-stats)
 
 
+[![Mehmet Keçeci's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WhiteSymmetry)](https://github.com/WhiteSymmetry/WhiteSymmetry)
+
+
 [![Orcid](https://img.shields.io/badge/Orcid-12100E?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9937-9839)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-0077B5?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mehmet-Kececi)
 
