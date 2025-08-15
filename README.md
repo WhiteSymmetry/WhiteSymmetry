@@ -50,6 +50,8 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Dizilimi ile Hamilton Probleminin İnteraktif Keşfi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16883657
+
 Keçeci, M. (2025). Hilbert Space Theory and Its Implementation in Quantum Computing Systems. preprints.ru. https://doi.org/10.24108/preprints-3113653
 
 Keçeci, M. (2025). Characteristic Features of Keçeci and Oresme Number Sequences: Dynamic and Static Perspectives. HAL open science, hal-05169251. https://doi.org/10.13140/RG.2.2.24879.85922
@@ -328,6 +330,8 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 # International Papers:
 
+137\. Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Dizilimi ile Hamilton Probleminin İnteraktif Keşfi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16883657
+
 136\. Keçeci, M. (2025). Hilbert Space Theory and Its Implementation in Quantum Computing Systems. preprints.ru. https://doi.org/10.24108/preprints-3113653
 
 135\. Keçeci, M. (2025). Characteristic Features of Keçeci and Oresme Number Sequences: Dynamic and Static Perspectives. HAL open science, hal-05169251. https://doi.org/10.13140/RG.2.2.24879.85922
@@ -604,6 +608,8 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
    
 ---
 # International Papers:
+
+1. Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Dizilimi ile Hamilton Probleminin İnteraktif Keşfi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16883657
 
 1. Keçeci, M. (2025). Hilbert Space Theory and Its Implementation in Quantum Computing Systems. preprints.ru. https://doi.org/10.24108/preprints-3113653
 
