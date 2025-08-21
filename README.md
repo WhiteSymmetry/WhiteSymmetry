@@ -28,6 +28,7 @@
 [![Google Scholar](https://img.shields.io/badge/GoogleScholar-0077B5?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=PleXSXMAAAAJ&hl=en)
 
 [![Open Science Articles (OSAs)](https://img.shields.io/badge/OpenScienceArticles-0077B5?style=for-the-badge&logo=opensciencearticles&logoColor=white)](https://zenodo.org/communities/bilginomi/records)
+[![Open Fig Share Articles (OFSAs)](https://img.shields.io/badge/OpenFigShareArticles-0077B5?style=for-the-badge&logo=openfigsharearticles&logoColor=white)](https://zenodo.org/communities/bilginomi/records)
 
 
 ---
