@@ -59,6 +59,14 @@ Reviewer (30 International Scientific Journal, 2011 - ***, >100 English, Turkish
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Yerleşimi ile Hamilton Probleminin İnteraktif Keşfi. Open Fig Share Articles (OFSAs), figshare.	 https://doi.org/10.6084/m9.figshare.29958116
+
+Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Layout ile Hamilton Probleminin İnteraktif Keşfi. Open Science Output Articles (OSOAs), OSF.	 https://doi.org/10.17605/OSF.IO/E23US 
+
+Keçeci, M. (2025). Graf Teorisi Eğitiminde Z3 ve Keçeci Layout ile Hamilton Problemi. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/g5r9k-ksb90
+
+Keçeci, M. (2025). Graf Teorisi Eğitiminde Z3 ve Keçeci Dizilimi ile Hamilton Problemi. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.45.2
+
 Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Dizilimi ile Hamilton Probleminin İnteraktif Keşfi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16883657
 
 Keçeci, M. (2025). Hilbert Space Theory and Its Implementation in Quantum Computing Systems. preprints.ru. https://doi.org/10.24108/preprints-3113653
@@ -339,6 +347,14 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 # International Papers:
 
+141\. Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Yerleşimi ile Hamilton Probleminin İnteraktif Keşfi. Open Fig Share Articles (OFSAs), figshare.	 https://doi.org/10.6084/m9.figshare.29958116
+
+140\. Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Layout ile Hamilton Probleminin İnteraktif Keşfi. Open Science Output Articles (OSOAs), OSF.	 https://doi.org/10.17605/OSF.IO/E23US 
+
+139\. Keçeci, M. (2025). Graf Teorisi Eğitiminde Z3 ve Keçeci Layout ile Hamilton Problemi. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/g5r9k-ksb90
+
+138\. Keçeci, M. (2025). Graf Teorisi Eğitiminde Z3 ve Keçeci Dizilimi ile Hamilton Problemi. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.45.2
+
 137\. Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Dizilimi ile Hamilton Probleminin İnteraktif Keşfi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16883657
 
 136\. Keçeci, M. (2025). Hilbert Space Theory and Its Implementation in Quantum Computing Systems. preprints.ru. https://doi.org/10.24108/preprints-3113653
@@ -617,6 +633,14 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
    
 ---
 # International Papers:
+
+1.	Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Yerleşimi ile Hamilton Probleminin İnteraktif Keşfi. Open Fig Share Articles (OFSAs), figshare.	 https://doi.org/10.6084/m9.figshare.29958116
+
+1.	Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Layout ile Hamilton Probleminin İnteraktif Keşfi. Open Science Output Articles (OSOAs), OSF.	 https://doi.org/10.17605/OSF.IO/E23US 
+
+1.	Keçeci, M. (2025). Graf Teorisi Eğitiminde Z3 ve Keçeci Layout ile Hamilton Problemi. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/g5r9k-ksb90
+
+1.	Keçeci, M. (2025). Graf Teorisi Eğitiminde Z3 ve Keçeci Dizilimi ile Hamilton Problemi. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.45.2
 
 1. Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Dizilimi ile Hamilton Probleminin İnteraktif Keşfi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16883657
 
