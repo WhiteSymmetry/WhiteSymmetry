@@ -28,7 +28,11 @@
 [![Google Scholar](https://img.shields.io/badge/GoogleScholar-0077B5?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=PleXSXMAAAAJ&hl=en)
 
 [![Open Science Articles (OSAs)](https://img.shields.io/badge/OpenScienceArticles-0077B5?style=for-the-badge&logo=opensciencearticles&logoColor=white)](https://zenodo.org/communities/bilginomi/records)
-[![Open Fig Share Articles (OFSAs)](https://img.shields.io/badge/OpenFigShareArticles-0077B5?style=for-the-badge&logo=openfigsharearticles&logoColor=white)](https://zenodo.org/communities/bilginomi/records)
+[![Open Fig Share Articles (OFSAs)](https://img.shields.io/badge/OpenFigShareArticles-0077B5?style=for-the-badge&logo=openfigsharearticles&logoColor=white)](https://doi.org/10.6084/m9.figshare.c.7972292)
+[![Open Work Flow Articles (OWFAs)](https://img.shields.io/badge/OpenWorkFlowArticles-0077B5?style=for-the-badge&logo=openworkflowarticles&logoColor=white)](https://workflowhub.eu/collections/34)
+[![Open Science Knowledge Articles (OSKAs)](https://img.shields.io/badge/OpenScienceKnowledgeArticles-0077B5?style=for-the-badge&logo=openscienceknowledgearticles&logoColor=white)](https://works.hcommons.org/collections/03072025/)
+[![Open Science Output Articles (OSOAs)](https://img.shields.io/badge/OpenScienceOutputArticles-0077B5?style=for-the-badge&logo=openscienceuutputarticles&logoColor=white)](https://osf.io/j9f5c)
+
 
 
 ---
