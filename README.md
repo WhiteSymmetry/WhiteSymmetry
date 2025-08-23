@@ -59,6 +59,7 @@ Reviewer (~30 International Scientific Journal, 2011 - ***, >150 English, Turkis
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2025). Deterministic Visualization of Distribution Power Grids: Integration of Power Grid Model and Keçeci Layout. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16934620
 
 Keçeci, M. (2025). Interactive Exploration of the Hamiltonian Problem with Z3 and the Keçeci Layout. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29959778 
 
@@ -362,6 +363,8 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 # International Papers:
 
+149\. Keçeci, M. (2025). Deterministic Visualization of Distribution Power Grids: Integration of Power Grid Model and Keçeci Layout. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16934620
+
 148\. Keçeci, M. (2025). Interactive Exploration of the Hamiltonian Problem with Z3 and the Keçeci Layout. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29959778 
 
 147\. Keçeci, M. (2025). An Interactive Tool for Graph Theory Education: Exploring the Hamiltonian Problem with Z3 and the Keçeci Layout. Open Science Output Articles (OSOAs), OSF.	 https://doi.org/10.17605/OSF.IO/HZU8Y 
@@ -663,7 +666,9 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 ---
 # International Papers:
 
-Keçeci, M. (2025). Interactive Exploration of the Hamiltonian Problem with Z3 and the Keçeci Layout. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29959778 
+1. Keçeci, M. (2025). Deterministic Visualization of Distribution Power Grids: Integration of Power Grid Model and Keçeci Layout. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16934620
+
+1. Keçeci, M. (2025). Interactive Exploration of the Hamiltonian Problem with Z3 and the Keçeci Layout. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29959778 
 
 1.	Keçeci, M. (2025). An Interactive Tool for Graph Theory Education: Exploring the Hamiltonian Problem with Z3 and the Keçeci Layout. Open Science Output Articles (OSOAs), OSF.	 https://doi.org/10.17605/OSF.IO/HZU8Y 
 
