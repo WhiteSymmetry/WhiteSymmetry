@@ -59,6 +59,8 @@ Reviewer (~30 International Scientific Journal, 2011 - ***, >150 English, Turkis
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2025). Characterization of Keçeci Number Systems as Chaotic and Hyperchaotic Maps. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16954468
+
 Keçeci, M. (2025). Deterministic Visualization of Distribution Power Grids: Integration of Power Grid Model and Keçeci Layout. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16934620
 
 Keçeci, M. (2025). Interactive Exploration of the Hamiltonian Problem with Z3 and the Keçeci Layout. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29959778 
@@ -363,6 +365,8 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 # International Papers:
 
+150\. Keçeci, M. (2025). Characterization of Keçeci Number Systems as Chaotic and Hyperchaotic Maps. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16954468
+
 149\. Keçeci, M. (2025). Deterministic Visualization of Distribution Power Grids: Integration of Power Grid Model and Keçeci Layout. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16934620
 
 148\. Keçeci, M. (2025). Interactive Exploration of the Hamiltonian Problem with Z3 and the Keçeci Layout. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29959778 
@@ -665,6 +669,8 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
    
 ---
 # International Papers:
+
+1. Keçeci, M. (2025). Characterization of Keçeci Number Systems as Chaotic and Hyperchaotic Maps. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16954468
 
 1. Keçeci, M. (2025). Deterministic Visualization of Distribution Power Grids: Integration of Power Grid Model and Keçeci Layout. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16934620
 
