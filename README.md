@@ -321,7 +321,7 @@ Keçeci, M. (2025). kececinumbers [Data set]. Open Work Flow Articles (OWFAs), W
 
 Keçeci, M. (2025, May 10). Kececinumbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15377659
 
-Keçeci, M. (2025). From Majorana fermions to quantum devices: The role of nanomaterials in the second quantum era. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15331067
+Keçeci, M. (2025). From Majorana Fermions to Quantum Devices: The Role of Nanomaterials in the Second Quantum Era. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15331067
 
 Keçeci, M. (2025, May 1). Keçeci Layout. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15314328
 
@@ -629,7 +629,7 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
     
 20\.	Keçeci, M. (2025, May 10). Kececinumbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15377659
     
-19\.	Keçeci, M. (2025). From Majorana fermions to quantum devices: The role of nanomaterials in the second quantum era. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15331067
+19\.	Keçeci, M. (2025). From Majorana Fermions to Quantum Devices: The Role of Nanomaterials in the Second Quantum Era. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15331067
     
 18\.	Keçeci, M. (2025, May 1). Keçeci Layout. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15314328
     
@@ -932,7 +932,7 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 1. Keçeci, M. (2025, May 10). Kececinumbers. Zenodo. https://doi.org/10.5281/zenodo.15377659
 
-1. Keçeci, M. (2025). From Majorana fermions to quantum devices: The role of nanomaterials in the second quantum era. Zenodo. https://doi.org/10.5281/zenodo.15331067
+1. Keçeci, M. (2025). From Majorana Fermions to Quantum Devices: The Role of Nanomaterials in the Second Quantum Era. Zenodo. https://doi.org/10.5281/zenodo.15331067
 
 1. Keçeci, M. (2025, May 1). Keçeci Layout. Zenodo. https://doi.org/10.5281/zenodo.15314328
 
