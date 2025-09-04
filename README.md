@@ -77,7 +77,7 @@ Keçeci, M. (2025). A Novel Tool for Graph Theory Education: Interactive Explora
 
 Keçeci, M. (2025). Z3 ve Keçeci Layout ile Hamilton Problemi. ResearchGate.	https://doi.org/10.13140/RG.2.2.23316.97924 
 
-Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Yerleşimi ile Hamilton Probleminin İnteraktif Keşfi. Open Fig Share Articles (OFSAs), figshare.https://doi.org/10.6084/m9.figshare.29958116
+Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Yerleşimi ile Hamilton Probleminin İnteraktif Keşfi. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29958116
 
 Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Layout ile Hamilton Probleminin İnteraktif Keşfi. Open Science Output Articles (OSOAs), OSF.	https://doi.org/10.17605/OSF.IO/E23US 
 
@@ -103,7 +103,7 @@ Keçeci, M. (2025). The Unifying Role of Hilbert Space in Quantum Field Theory a
 
 Keçeci, M. (2025). Keçeci ve Collatz Karşılaştırması: Benzer Algoritmalar, Farklı Çekiciler. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29815910
 
-Keçeci, M. (2025). Keçeci Varsayımı'nın Hesaplanabilirliği: Sonlu Adımda Kararlı Yapıya Yakınsama Sorunu. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.44.1; https://doi.org/10.48546/workflowhub.document.44.2
+Keçeci, M. (2025). Keçeci Varsayımı'nın Hesaplanabilirliği: Sonlu Adımda Kararlı Yapıya Yakınsama Sorunu. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.44.1; https://doi.org/10.48546/workflowhub.document.44.2
 
 Keçeci, M. (2025). Keçeci Varsayımı ve Dinamik Sistemler: Farklı Başlangıç Koşullarında Yakınsama ve Döngüler. Open Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/68AFN
 
@@ -155,7 +155,7 @@ Keçeci, M. (2025). Harmonik Serilerin Hesaplanmasında Saf Python ve JAX Tabanl
 
 Keçeci, M. (2025). The Keçeci Layout: A Deterministic, Order-Preserving Visualization Algorithm for Structured Systems. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16526798
 
-Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik ve Hipergerçek Uzaylarda Geometrik Analizi. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.40.1
+Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik ve Hipergerçek Uzaylarda Geometrik Analizi. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.40.1
 
 Keçeci, M. (2025). Geometric Interpretations of Keçeci Numbers within Neutrosophic and Hyperreal Number Systems. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.41.1
 
@@ -175,13 +175,13 @@ Keçeci, M. (2025). adnus [Data set]. Science Output Articles (OSOAs), OSF. http
 
 Keçeci, M. (2025). adnus [Data set]. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29621336
 
-Keçeci, M. (2025). adnus [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.datafile.23.1
+Keçeci, M. (2025). adnus [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.23.1
 
 Keçeci, M. (2025). adnus. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16341919
 
 Keçeci, M. (2025). Echoes of Constancy: Waves of Change in the Keçeci and Oresme Sequences. In SciELO Preprints. https://doi.org/10.1590/SciELOPreprints.12584
 
-Keçeci, M. (2025). Stratum Model-Based Analysis of Topological Insulators Hosting Weyl and Majorana Fermions. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.39.1
+Keçeci, M. (2025). Stratum Model-Based Analysis of Topological Insulators Hosting Weyl and Majorana Fermions. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.39.1
 
 Keçeci, M. (2025). Quantum Computing Applications of Weyl-Majorana Hybrid States in Layered Systems via Stratum Model. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29606039
 
@@ -195,7 +195,7 @@ Keçeci, M. (2025). oresmej [Data set]. ResearchGate. https://doi.org/10.13140/R
 
 Keçeci, M. (2025). oresmej [Data set]. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29554532
 
-Keçeci, M. (2025). oresmej [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/WORKFLOWHUB.DATAFILE.19.1
+Keçeci, M. (2025). oresmej [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/WORKFLOWHUB.DATAFILE.19.1
 
 Keçeci, M. (2025). oresmej. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15874178
 
@@ -209,7 +209,7 @@ Keçeci, Mehmet (2025). Dynamic and Static Approaches in Mathematics: Investigat
 
 Keçeci, Mehmet (2025). Dynamic-Static Properties of Keçeci and Oresme Number Sequences: A Comparative Examination. Open Fig Share Articles (OFSAs), figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.29504960
 
-Keçeci, M. (2025). Variability and Stability in Number Sequences: An Analysis of Keçeci and Oresme Numbers. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.37.1; https://doi.org/10.48546/workflowhub.document.37.2
+Keçeci, M. (2025). Variability and Stability in Number Sequences: An Analysis of Keçeci and Oresme Numbers. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.37.1; https://doi.org/10.48546/workflowhub.document.37.2
 
 Keçeci, M. (2025). Dynamic vs Static Number Sequences: The Case of Keçeci and Oresme Numbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15833351
 
@@ -217,7 +217,7 @@ Keçeci, M. (2025). A Graph-Theoretic Perspective on the Keçeci Layout: Structu
 
 Keçeci, M. (2025). Oresme. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29504708
 
-Keçeci, M. (2025). Oresme [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.datafile.18.1 
+Keçeci, M. (2025). Oresme [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.18.1 
 
 Keçeci, M. (2025). Oresme (0.1.0). Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15833238
 
@@ -231,13 +231,13 @@ Keçeci, M. (2025). Harnessing Geometry for Quantum Computation: Lessons from No
 
 Keçeci, M. (2025). Quantum Information at the Edge: Topological Opportunities in Nodal-Line Materials. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29484947
 
-Keçeci, M. (2025). Nodal-Line Semimetals: Unlocking Geometric Potential in Quantum Information. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.36.1
+Keçeci, M. (2025). Nodal-Line Semimetals: Unlocking Geometric Potential in Quantum Information. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.36.1
 
 Keçeci, M. (2025). From Weyl Fermions to Topological Matter: The Physics of Weyl Semimetals. Open Science Knowledge Articles (OSKAs), Knowledge Commons  https://doi.org/10.17613/p79v7-kje79
 
 Keçeci, M. (2025). Weyl Semimetals and Their Unique Electronic and Topological Characteristics. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29483816
 
-Keçeci, M. (2025). Weyl Semimetals: Unveiling Novel Electronic Structures and Topological Properties. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.35.3
+Keçeci, M. (2025). Weyl Semimetals: Unveiling Novel Electronic Structures and Topological Properties. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.35.3
 
 Keçeci, M. (2025). When Nodes Have an Order: The Keçeci Layout for Structured System Visualization. HAL open science. https://hal.science/hal-05143155; https://doi.org/10.13140/RG.2.2.19098.76484
 
@@ -249,19 +249,19 @@ Keçeci, M. (2025). The Keçeci Layout: A Structural Approach for Interdisciplin
 
 Keçeci, M. (2025, July 3). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/9HTG3
 
-Keçeci, M. (2025). Beyond Topology: Deterministic and Order-Preserving Graph Visualization with the Keçeci Layout. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.34.4
+Keçeci, M. (2025). Beyond Topology: Deterministic and Order-Preserving Graph Visualization with the Keçeci Layout. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.34.4
 
 Keçeci, M. (2025). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15792684
 
 Keçeci, M. (2025). Technical and Theoretical Bridges Between Gravitational Wave Observations and Quantum Information Processing Systems. Authorea. July, 2025. https://doi.org/10.22541/au.175138854.46819184/v1
 
-Keçeci, M. (2025). New Technological and Methodological Approaches in Gravitational Wave Detection and Quantum Computing Development. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.33.1
+Keçeci, M. (2025). New Technological and Methodological Approaches in Gravitational Wave Detection and Quantum Computing Development. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.33.1
 
 Keçeci, M. (2025). Scalable Complexity in Fractal Geometry: The Keçeci Fractal Approach. Authorea. June, 2025. https://doi.org/10.22541/au.175131225.56823239/v1
 
-Keçeci, M. (2025). Keçeci Fractals. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.32.2
+Keçeci, M. (2025). Keçeci Fractals. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.32.2
 
-Keçeci, M. (2025). Keçeci Deterministic Zigzag Layout. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.31.1
+Keçeci, M. (2025). Keçeci Deterministic Zigzag Layout. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.31.1
 
 Keçeci, M. (2025). Keçeci Zigzag Layout Algorithm. Authorea. https://doi.org/10.22541/au.175087581.16524538/v1
 
@@ -303,13 +303,13 @@ Keçeci, M. (2025). Weyl semimetals: Discovery of exotic electronic states and t
 
 Keçeci, M. (2025, May 15). The Keçeci binomial square: A reinterpretation of the standard binomial expansion and its potential applications. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15425529
 
-Keçeci, M. (2025). kececisquares [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.datafile.15.1 
+Keçeci, M. (2025). kececisquares [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.15.1 
 
 Keçeci, M. (2025, May 14). Kececisquares. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15411670
 
 Keçeci, M. (2025, May 13). Scalable complexity: Mathematical analysis and potential for physical applications of the Keçeci circle fractal. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15392772
 
-Keçeci, M. (2025). kececifractals [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.datafile.16.3
+Keçeci, M. (2025). kececifractals [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.16.3
 
 Keçeci, M. (2025, May 13). Kececifractals. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15392518
 
@@ -317,7 +317,7 @@ Keçeci, M. (2025, May 11). Keçeci numbers and the Keçeci prime number: A pote
 
 Keçeci, M. (2025). kececinumbers [Data set]. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29816414
 
-Keçeci, M. (2025). kececinumbers [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.datafile.14.1; 10.48546/workflowhub.datafile.14.2; 10.48546/workflowhub.datafile.14.3
+Keçeci, M. (2025). kececinumbers [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.14.1; 10.48546/workflowhub.datafile.14.2; 10.48546/workflowhub.datafile.14.3
 
 Keçeci, M. (2025, May 10). Kececinumbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15377659
 
@@ -327,15 +327,15 @@ Keçeci, M. (2025, May 1). Keçeci Layout. Open Science Articles (OSAs), Zenodo.
 
 Keçeci, M. (2025). kececilayout. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29582084
 
-Keçeci, M. (2025). kececilayout [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.datafile.17.2
+Keçeci, M. (2025). kececilayout [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.17.2
 
 Keçeci, M. (2025, May 1). Kececilayout. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15313946 
 
-Keçeci, M. (2025). Grikod2 [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.datafile.13.1
+Keçeci, M. (2025). Grikod2 [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.13.1
 
 Keçeci, M. (2025, May 6). Grikod2. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15352206
 
-Keçeci, M. (2025). Grikod [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.datafile.12.2 
+Keçeci, M. (2025). Grikod [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.12.2 
 
 Keçeci, M. (2025, May 6). Grikod. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.12731345
 
@@ -383,7 +383,7 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 142\. Keçeci, M. (2025). Z3 ve Keçeci Layout ile Hamilton Problemi. ResearchGate.	https://doi.org/10.13140/RG.2.2.23316.97924 
 
-141\. Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Yerleşimi ile Hamilton Probleminin İnteraktif Keşfi. Open Fig Share Articles (OFSAs), figshare.https://doi.org/10.6084/m9.figshare.29958116
+141\. Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Yerleşimi ile Hamilton Probleminin İnteraktif Keşfi. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29958116
 
 140\. Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Layout ile Hamilton Probleminin İnteraktif Keşfi. Open Science Output Articles (OSOAs), OSF.	https://doi.org/10.17605/OSF.IO/E23US 
 
@@ -411,7 +411,7 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 128\.	Keçeci, M. (2025). Keçeci ve Collatz Karşılaştırması: Benzer Algoritmalar, Farklı Çekiciler. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29815910
 
-127\.	Keçeci, M. (2025). Keçeci Varsayımı'nın Hesaplanabilirliği: Sonlu Adımda Kararlı Yapıya Yakınsama Sorunu. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.44.1; https://doi.org/10.48546/workflowhub.document.44.2
+127\.	Keçeci, M. (2025). Keçeci Varsayımı'nın Hesaplanabilirliği: Sonlu Adımda Kararlı Yapıya Yakınsama Sorunu. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.44.1; https://doi.org/10.48546/workflowhub.document.44.2
 
 126\.	Keçeci, M. (2025). Keçeci Varsayımı ve Dinamik Sistemler: Farklı Başlangıç Koşullarında Yakınsama ve Döngüler. Open Science Output Articles (OSOAs), OSF.	 https://doi.org/10.17605/OSF.IO/68AFN
 
@@ -463,9 +463,9 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 102\. Keçeci, M. (2025). The Keçeci Layout: A Deterministic, Order-Preserving Visualization Algorithm for Structured Systems. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16526798
 
-101\. Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik ve Hipergerçek Uzaylarda Geometrik Analizi. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.40.1
+101\. Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik ve Hipergerçek Uzaylarda Geometrik Analizi. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.40.1
 
-100\. Keçeci, M. (2025). Geometric Interpretations of Keçeci Numbers within Neutrosophic and Hyperreal Number Systems. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.41.1
+100\. Keçeci, M. (2025). Geometric Interpretations of Keçeci Numbers within Neutrosophic and Hyperreal Number Systems. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.41.1
 
 99\. Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik Hipergerçek Uzaylarda Geometrik Temsilleri. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29636750
 
@@ -483,17 +483,17 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 92\. Keçeci, M. (2025). adnus [Data set]. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29621336
 
-91\. Keçeci, M. (2025). adnus [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.datafile.23.1
+91\. Keçeci, M. (2025). adnus [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.23.1
 
 90\. Keçeci, M. (2025). adnus. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16341919
 
 89\. Keçeci, M. (2025). Echoes of Constancy: Waves of Change in the Keçeci and Oresme Sequences. In SciELO Preprints. https://doi.org/10.1590/SciELOPreprints.12584
 
-88\. Keçeci, M. (2025). Stratum Model-Based Analysis of Topological Insulators Hosting Weyl and Majorana Fermions. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.39.1
+88\. Keçeci, M. (2025). Stratum Model-Based Analysis of Topological Insulators Hosting Weyl and Majorana Fermions. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.39.1
 
 87\. Keçeci, M. (2025). Quantum Computing Applications of Weyl-Majorana Hybrid States in Layered Systems via Stratum Model. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29606039
 
-86\. Keçeci, M. (2025). Bridging Quantum Theory and Computation: The Role of Hilbert Spaces. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.38.1
+86\. Keçeci, M. (2025). Bridging Quantum Theory and Computation: The Role of Hilbert Spaces. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.38.1
 
 85\. Keçeci, M. (2025). Hilbert Spaces and Quantum Information: Tools for Next-Generation Computing. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29604011
 
@@ -505,7 +505,7 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 81\. Keçeci, M. (2025). oresmej [Data set]. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29554532
 
-80\. Keçeci, M. (2025). oresmej [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/WORKFLOWHUB.DATAFILE.19.1
+80\. Keçeci, M. (2025). oresmej [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/WORKFLOWHUB.DATAFILE.19.1
 
 79\. Keçeci, M. (2025). oresmej. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15874178
 
@@ -519,7 +519,7 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 74\. Keçeci, Mehmet (2025). Dynamic-Static Properties of Keçeci and Oresme Number Sequences: A Comparative Examination. Open Fig Share Articles (OFSAs), figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.29504960
 
-73\. Keçeci, M. (2025). Variability and Stability in Number Sequences: An Analysis of Keçeci and Oresme Numbers. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.37.1; https://doi.org/10.48546/workflowhub.document.37.2
+73\. Keçeci, M. (2025). Variability and Stability in Number Sequences: An Analysis of Keçeci and Oresme Numbers. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.37.1; https://doi.org/10.48546/workflowhub.document.37.2
 
 72\. Keçeci, M. (2025). Dynamic vs Static Number Sequences: The Case of Keçeci and Oresme Numbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15833351
 
@@ -527,7 +527,7 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 70\. Keçeci, M. (2025). Oresme. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29504708
 
-69\. Keçeci, M. (2025). Oresme [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.datafile.18.1 
+69\. Keçeci, M. (2025). Oresme [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.18.1 
 
 68\. Keçeci, M. (2025). Oresme (0.1.0). Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15833238
 
@@ -541,13 +541,13 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 64\. Keçeci, M. (2025). Quantum Information at the Edge: Topological Opportunities in Nodal-Line Materials. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29484947
 
-63\. Keçeci, M. (2025). Nodal-Line Semimetals: Unlocking Geometric Potential in Quantum Information. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.36.1
+63\. Keçeci, M. (2025). Nodal-Line Semimetals: Unlocking Geometric Potential in Quantum Information. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.36.1
 
 62\. Keçeci, M. (2025). From Weyl Fermions to Topological Matter: The Physics of Weyl Semimetals. Open Science Knowledge Articles (OSKAs), Knowledge Commons  https://doi.org/10.17613/p79v7-kje79
 
 61\. Keçeci, M. (2025). Weyl Semimetals and Their Unique Electronic and Topological Characteristics. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29483816
 
-60\. Keçeci, M. (2025). Weyl Semimetals: Unveiling Novel Electronic Structures and Topological Properties. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.35.3
+60\. Keçeci, M. (2025). Weyl Semimetals: Unveiling Novel Electronic Structures and Topological Properties. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.35.3
 
 59\. Keçeci, M. (2025). When Nodes Have an Order: The Keçeci Layout for Structured System Visualization. HAL open science. https://hal.science/hal-05143155; https://doi.org/10.13140/RG.2.2.19098.76484
 
@@ -559,19 +559,19 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 55\. Keçeci, M. (2025, July 3). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/9HTG3
 
-54\. Keçeci, M. (2025). Beyond Topology: Deterministic and Order-Preserving Graph Visualization with the Keçeci Layout. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.34.4
+54\. Keçeci, M. (2025). Beyond Topology: Deterministic and Order-Preserving Graph Visualization with the Keçeci Layout. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.34.4
 
 53\. Keçeci, M. (2025). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15792684
 
 52\.	Keçeci, M. (2025). Technical and Theoretical Bridges Between Gravitational Wave Observations and Quantum Information Processing Systems. Authorea. https://doi.org/10.22541/au.175138854.46819184/v1
 
-51\.	Keçeci, M. (2025). New Technological and Methodological Approaches in Gravitational Wave Detection and Quantum Computing Development. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.33.1
+51\.	Keçeci, M. (2025). New Technological and Methodological Approaches in Gravitational Wave Detection and Quantum Computing Development. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.33.1
 
 50\.	Keçeci, M. (2025). Scalable Complexity in Fractal Geometry: The Keçeci Fractal Approach. Authorea. https://doi.org/10.22541/au.175131225.56823239/v1
 
-49\.	Keçeci, M. (2025). Keçeci Fractals. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.32.2
+49\.	Keçeci, M. (2025). Keçeci Fractals. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.32.2
 
-48\.	Keçeci, M. (2025). Keçeci Deterministic Zigzag Layout. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.31.1
+48\.	Keçeci, M. (2025). Keçeci Deterministic Zigzag Layout. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.31.1
     
 47\.	Keçeci, M. (2025). Keçeci Zigzag Layout Algorithm. Authorea. June, 2025. https://doi.org/10.22541/au.175087581.16524538/v1
     
@@ -613,19 +613,19 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
     
 28\.	Keçeci, M. (2025, May 15). The Keçeci binomial square: A reinterpretation of the standard binomial expansion and its potential applications. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15425529
     
-27\.	Keçeci, M. (2025). kececisquares [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.datafile.15.1
+27\.	Keçeci, M. (2025). kececisquares [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.15.1
     
 26\.	Keçeci, M. (2025, May 14). Kececisquares. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15411670
     
 25\.	Keçeci, M. (2025, May 13). Scalable complexity: Mathematical analysis and potential for physical applications of the Keçeci circle fractal. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15392772
     
-24\.	Keçeci, M. (2025). kececifractals [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.datafile.16.3
+24\.	Keçeci, M. (2025). kececifractals [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.16.3
     
 23\.	Keçeci, M. (2025, May 13). Kececifractals. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15392518
     
 22\.	Keçeci, M. (2025, May 11). Keçeci numbers and the Keçeci prime number: A potential number theoretic exploratory tool. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15381697
 
-21\. Keçeci, M. (2025). kececinumbers [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.datafile.14.1; 10.48546/workflowhub.datafile.14.2; 10.48546/workflowhub.datafile.14.3
+21\. Keçeci, M. (2025). kececinumbers [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.14.1; 10.48546/workflowhub.datafile.14.2; 10.48546/workflowhub.datafile.14.3
     
 20\.	Keçeci, M. (2025, May 10). Kececinumbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15377659
     
@@ -633,15 +633,15 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
     
 18\.	Keçeci, M. (2025, May 1). Keçeci Layout. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15314328
     
-17\.	Keçeci, M. (2025). kececilayout [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.datafile.17.1
+17\.	Keçeci, M. (2025). kececilayout [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.17.1
     
 16\.	Keçeci, M. (2025, May 1). Kececilayout. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15313946
     
-15\.	Keçeci, M. (2025). Grikod2 [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.datafile.13.1
+15\.	Keçeci, M. (2025). Grikod2 [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.13.1
     
 14\.	Keçeci, M. (2025, May 6). Grikod2. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15352206
     
-13\.	Keçeci, M. (2025). Grikod [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.datafile.12.2
+13\.	Keçeci, M. (2025). Grikod [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.12.2
     
 12\.	Keçeci, M. (2025, May 6). Grikod. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.12731345
     
@@ -688,7 +688,7 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 1.	Keçeci, M. (2025). Z3 ve Keçeci Layout ile Hamilton Problemi. ResearchGate.	https://doi.org/10.13140/RG.2.2.23316.97924 
 
-1.	Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Yerleşimi ile Hamilton Probleminin İnteraktif Keşfi. Open Fig Share Articles (OFSAs), figshare.https://doi.org/10.6084/m9.figshare.29958116
+1.	Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Yerleşimi ile Hamilton Probleminin İnteraktif Keşfi. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29958116
 
 1.	Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Layout ile Hamilton Probleminin İnteraktif Keşfi. Open Science Output Articles (OSOAs), OSF.	https://doi.org/10.17605/OSF.IO/E23US
 
@@ -714,7 +714,7 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 1.	Keçeci, M. (2025). Keçeci ve Collatz Karşılaştırması: Benzer Algoritmalar, Farklı Çekiciler. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29815910
 
-1.	Keçeci, M. (2025). Keçeci Varsayımı'nın Hesaplanabilirliği: Sonlu Adımda Kararlı Yapıya Yakınsama Sorunu. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.44.1; https://doi.org/10.48546/workflowhub.document.44.2
+1.	Keçeci, M. (2025). Keçeci Varsayımı'nın Hesaplanabilirliği: Sonlu Adımda Kararlı Yapıya Yakınsama Sorunu. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.44.1; https://doi.org/10.48546/workflowhub.document.44.2
 
 1.	Keçeci, M. (2025). Keçeci Varsayımı ve Dinamik Sistemler: Farklı Başlangıç Koşullarında Yakınsama ve Döngüler. Open Science Output Articles (OSOAs), OSF.	 https://doi.org/10.17605/OSF.IO/68AFN
 
@@ -766,9 +766,9 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 1. Keçeci, M. (2025). The Keçeci Layout: A Deterministic, Order-Preserving Visualization Algorithm for Structured Systems. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16526798
 
-1. Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik ve Hipergerçek Uzaylarda Geometrik Analizi. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.40.1
+1. Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik ve Hipergerçek Uzaylarda Geometrik Analizi. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.40.1
 
-1. Keçeci, M. (2025). Geometric Interpretations of Keçeci Numbers within Neutrosophic and Hyperreal Number Systems. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.41.1
+1. Keçeci, M. (2025). Geometric Interpretations of Keçeci Numbers within Neutrosophic and Hyperreal Number Systems. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.41.1
 
 1. Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik Hipergerçek Uzaylarda Geometrik Temsilleri. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29636750
 
@@ -786,17 +786,17 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 1. Keçeci, M. (2025). adnus [Data set]. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29621336
 
-1. Keçeci, M. (2025). adnus [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.datafile.23.1
+1. Keçeci, M. (2025). adnus [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.23.1
 
 1. Keçeci, M. (2025). adnus. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16341919
 
 1. Keçeci, M. (2025). Echoes of Constancy: Waves of Change in the Keçeci and Oresme Sequences. In SciELO Preprints. https://doi.org/10.1590/SciELOPreprints.12584
 
-1. Keçeci, M. (2025). Stratum Model-Based Analysis of Topological Insulators Hosting Weyl and Majorana Fermions. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.39.1
+1. Keçeci, M. (2025). Stratum Model-Based Analysis of Topological Insulators Hosting Weyl and Majorana Fermions. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.39.1
 
 1. Keçeci, M. (2025). Quantum Computing Applications of Weyl-Majorana Hybrid States in Layered Systems via Stratum Model. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29606039
 
-1. Keçeci, M. (2025). Bridging Quantum Theory and Computation: The Role of Hilbert Spaces. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.38.1
+1. Keçeci, M. (2025). Bridging Quantum Theory and Computation: The Role of Hilbert Spaces. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.38.1
 
 1. Keçeci, M. (2025). Hilbert Spaces and Quantum Information: Tools for Next-Generation Computing. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29604011
 
@@ -806,7 +806,7 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 1. Keçeci, M. (2025). oresmej [Data set]. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29554532
 
-1. Keçeci, M. (2025). oresmej [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/WORKFLOWHUB.DATAFILE.19.1
+1. Keçeci, M. (2025). oresmej [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/WORKFLOWHUB.DATAFILE.19.1
 
 1. Keçeci, M. (2025). oresmej. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15874178
 
@@ -820,7 +820,7 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 1. Keçeci, Mehmet (2025). Dynamic-Static Properties of Keçeci and Oresme Number Sequences: A Comparative Examination. Open Fig Share Articles (OFSAs), figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.29504960
 
-1. Keçeci, M. (2025). Variability and Stability in Number Sequences: An Analysis of Keçeci and Oresme Numbers. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.37.1; https://doi.org/10.48546/workflowhub.document.37.2
+1. Keçeci, M. (2025). Variability and Stability in Number Sequences: An Analysis of Keçeci and Oresme Numbers. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.37.1; https://doi.org/10.48546/workflowhub.document.37.2
 
 1. Keçeci, M. (2025). Dynamic vs Static Number Sequences: The Case of Keçeci and Oresme Numbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15833351
 
@@ -828,7 +828,7 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 1. Keçeci, M. (2025). Oresme. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29504708
 
-1. Keçeci, M. (2025). Oresme [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.datafile.18.1 
+1. Keçeci, M. (2025). Oresme [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.18.1 
 
 1. Keçeci, M. (2025). Oresme (0.1.0). Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15833238
 
@@ -842,13 +842,13 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 1. Keçeci, M. (2025). Quantum Information at the Edge: Topological Opportunities in Nodal-Line Materials. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29484947
 
-1. Keçeci, M. (2025). Nodal-Line Semimetals: Unlocking Geometric Potential in Quantum Information. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.36.1
+1. Keçeci, M. (2025). Nodal-Line Semimetals: Unlocking Geometric Potential in Quantum Information. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.36.1
 
 1. Keçeci, M. (2025). From Weyl Fermions to Topological Matter: The Physics of Weyl Semimetals. Open Science Knowledge Articles (OSKAs), Knowledge Commons  https://doi.org/10.17613/p79v7-kje79
 
 1. Keçeci, M. (2025). Weyl Semimetals and Their Unique Electronic and Topological Characteristics. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29483816
 
-1. Keçeci, M. (2025). Weyl Semimetals: Unveiling Novel Electronic Structures and Topological Properties. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.35.3
+1. Keçeci, M. (2025). Weyl Semimetals: Unveiling Novel Electronic Structures and Topological Properties. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.35.3
 
 1. Keçeci, M. (2025). When Nodes Have an Order: The Keçeci Layout for Structured System Visualization. HAL open science. https://hal.science/hal-05143155; https://doi.org/10.13140/RG.2.2.19098.76484
 
@@ -860,19 +860,19 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 1. Keçeci, M. (2025, July 3). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/9HTG3
 
-1. Keçeci, M. (2025). Beyond Topology: Deterministic and Order-Preserving Graph Visualization with the Keçeci Layout. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.34.4
+1. Keçeci, M. (2025). Beyond Topology: Deterministic and Order-Preserving Graph Visualization with the Keçeci Layout. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.34.4
 
 1. Keçeci, M. (2025). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. https://doi.org/10.5281/zenodo.15792684
 
 1. Keçeci, M. (2025). Technical and Theoretical Bridges Between Gravitational Wave Observations and Quantum Information Processing Systems. Authorea. July, 2025. https://doi.org/10.22541/au.175138854.46819184/v1
 
-1. Keçeci, M. (2025). New Technological and Methodological Approaches in Gravitational Wave Detection and Quantum Computing Development. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.33.1
+1. Keçeci, M. (2025). New Technological and Methodological Approaches in Gravitational Wave Detection and Quantum Computing Development. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.33.1
   
 1. Keçeci, M. (2025). Scalable Complexity in Fractal Geometry: The Keçeci Fractal Approach. Authorea. June, 2025. https://doi.org/10.22541/au.175131225.56823239/v1
 
-1. Keçeci, M. (2025). Keçeci Fractals. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.32.2
+1. Keçeci, M. (2025). Keçeci Fractals. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.32.2
   
-1. Keçeci, M. (2025). Keçeci Deterministic Zigzag Layout. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.document.31.1 
+1. Keçeci, M. (2025). Keçeci Deterministic Zigzag Layout. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.31.1 
   
 1. Keçeci, M. (2025). Keçeci Zigzag Layout Algorithm. Authorea. June, 2025. https://doi.org/10.22541/au.175087581.16524538/v1
    
@@ -914,13 +914,13 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 1. Keçeci, M. (2025, May 15). The Keçeci binomial square: A reinterpretation of the standard binomial expansion and its potential applications. Zenodo. https://doi.org/10.5281/zenodo.15425529
 
-1. Keçeci, M. (2025). kececisquares [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.datafile.15.1 
+1. Keçeci, M. (2025). kececisquares [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.15.1 
 
 1. Keçeci, M. (2025, May 14). Kececisquares. Zenodo. https://doi.org/10.5281/zenodo.15411670
 
 1. Keçeci, M. (2025, May 13). Scalable complexity: Mathematical analysis and potential for physical applications of the Keçeci circle fractal. Zenodo. https://doi.org/10.5281/zenodo.15392772
 
-1. Keçeci, M. (2025). kececifractals [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.datafile.16.3
+1. Keçeci, M. (2025). kececifractals [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.16.3
 
 1. Keçeci, M. (2025, May 13). Kececifractals. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15392518
 
@@ -928,7 +928,7 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 1. Keçeci, M. (2025). kececinumbers [Data set]. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29816414
 
-1. Keçeci, M. (2025). kececinumbers [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.datafile.14.1; 10.48546/workflowhub.datafile.14.2; 10.48546/workflowhub.datafile.14.3
+1. Keçeci, M. (2025). kececinumbers [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.14.1; 10.48546/workflowhub.datafile.14.2; 10.48546/workflowhub.datafile.14.3
 
 1. Keçeci, M. (2025, May 10). Kececinumbers. Zenodo. https://doi.org/10.5281/zenodo.15377659
 
@@ -938,15 +938,15 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 1. Keçeci, M. (2025). kececilayout. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29582084
 
-1. Keçeci, M. (2025). kececilayout [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.datafile.17.2 
+1. Keçeci, M. (2025). kececilayout [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.17.2 
 
 1. Keçeci, M. (2025, May 1). Kececilayout. Zenodo. https://doi.org/10.5281/zenodo.15313946
 
-1. Keçeci, M. (2025). Grikod2 [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.datafile.13.1
+1. Keçeci, M. (2025). Grikod2 [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.13.1
 
 1. Keçeci, M. (2025, May 6). Grikod2. Zenodo. https://doi.org/10.5281/zenodo.15352206
    
-1. Keçeci, M. (2025). Grikod [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub https://doi.org/10.48546/workflowhub.datafile.12.2 
+1. Keçeci, M. (2025). Grikod [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.12.2 
 
 1. Keçeci, M. (2025, May 6). Grikod. Zenodo. https://doi.org/10.5281/zenodo.12731345
 
