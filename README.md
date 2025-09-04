@@ -347,19 +347,19 @@ Keçeci, M. (2020, October 25). Discourse on the second quantum revolution and n
 
 Keçeci, M. (2019). Quantum and Art. Presented at International Workshop on Quantum Frontiers of Technology, TÜBİTAK, TÜSSİDE, Gebze, Türkiye. https://doi.org/10.13140/RG.2.2.27533.90089; https://tbae.tubitak.gov.tr/en/haber/quantum-frontiers-technology
 
-Keçeci, M. (2019, December 6). 2 Boyutlu Tek Katmanlı Yapıların Su Arıtımında Kullanımının Stratejik Önemi (Strategic Importance of Use of 2 Dimensional Monolayer Structures in Water Purification). 23. Sıvı Hâl Sempozyumu (23rd Liquid State Symposium), Pîrî Reis University, Türkiye. https://doi.org/10.5281/zenodo.15567811; https://www.researchgate.net/publication/337812505
+Keçeci, M. (2019, December 6). 2 Boyutlu Tek Katmanlı Yapıların Su Arıtımında Kullanımının Stratejik Önemi [Strategic Importance of Use of 2 Dimensional Monolayer Structures in Water Purification] [Conference presentation]. 23. Sıvı Hâl Sempozyumu (23rd Liquid State Symposium), Pîrî Reis University, Türkiye. https://doi.org/10.5281/zenodo.15567811; https://www.researchgate.net/publication/337812505
 
-Keçeci, M. (2017, July 19–21). Açık Dijital Rozetlerin Eğitim ve Kariyer Planlamasında Kullanımı (Use of open digital badges in education and career planning). ADIM Fizik Günleri VI, Balıkesir Üniversitesi (ADIM Physics Days VI, Balıkesir University), Türkiye. https://doi.org/10.5281/zenodo.15567962; https://adimfizikvi.balikesir.edu.tr; https://www.researchgate.net/publication/318658786
+Keçeci, M. (2017, July 19–21). Açık Dijital Rozetlerin Eğitim ve Kariyer Planlamasında Kullanımı [Use of open digital badges in education and career planning] [Conference presentation]. ADIM Fizik Günleri VI, Balıkesir Üniversitesi (ADIM Physics Days VI, Balıkesir University), Türkiye. https://doi.org/10.5281/zenodo.15567962; https://adimfizikvi.balikesir.edu.tr; https://www.researchgate.net/publication/318658786
 
 Keçeci, M. (2011). 2n-dimensional at Fujii model instanton-like solutions and coupling constant's role between instantons with higher derivatives. Turkish Journal of Physics, 35(2), 173–178. ISSN: 1300-0101, eISSN: 1303-6122. https://doi.org/10.3906/fiz-1012-66
 
 Keçeci, M. (2005, September 13–16). 2n-boyutlu Fujii modelinde instanton çözümleri ve bağlantı sabitinin instantonlar arasındaki rolü. Presented at World Year of Physics 2005 Turkish Physical Society 23rd International Physics Congress, Muğla University, Türkiye. https://dx.doi.org/10.13140/RG.2.1.1441.4887
 
-Keçeci, M. (2005, May). Konformal invaryant Fujii modelinin instanton tipi tam çözümü. Presented at Geleneksel Erzurum Fizik Günleri-II, Atatürk University, Türkiye. https://dx.doi.org/10.13140/RG.2.1.3538.6408
+Keçeci, M. (2005, May). Konformal invaryant Fujii modelinin instanton tipi tam çözümü [Instanton-like exact solution of the conformal invariant Fujii model] [Conference presentation]. Traditional Erzurum Physics Days-II, Atatürk University, Türkiye. https://dx.doi.org/10.13140/RG.2.1.3538.6408
 
-Keçeci, M. (2002, September 16–20). Exact instanton-like solution conformal invariant of Fujii model, construct for four-dimensional and subderivative. Presented at Working Group II, Turkish Nonlinear Science Working Group, Karaburun/Izmir, Türkiye. https://dx.doi.org/10.13140/RG.2.1.1638.0964
+Keçeci, M. (2002, September 16–20). Exact instanton-like solution conformal invariant of Fujii model, construct for four-dimensional and subderivative [Conference presentation]. Presented at Working Group II, Turkish Nonlinear Science Working Group, Karaburun/Izmir, Türkiye. https://dx.doi.org/10.13140/RG.2.1.1638.0964
 
-Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebze Teknik Üniversitesi, Fen Bilimleri Fakültesi, Fizik.
+Keçeci, M. (2001). Konformal spinör alan teorileri [Conformal spinor field theories] [Master's thesis, Gebze Technical University]. YÖK National Thesis Center. https://tez.yok.gov.tr/UlusalTezMerkezi/tezSorguSonucYeni.jsp (Thesis No: 109951)
 
 ---
 
@@ -653,19 +653,19 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
     
 8\.	Keçeci, M. (2019). Quantum and Art. Presented at International Workshop on Quantum Frontiers of Technology, TÜBİTAK, TÜSSİDE, Gebze, Türkiye. https://doi.org/10.13140/RG.2.2.27533.90089; https://tbae.tubitak.gov.tr/en/haber/quantum-frontiers-technology
    
-7\.	Keçeci, M. (2019, December 6). 2 Boyutlu Tek Katmanlı Yapıların Su Arıtımında Kullanımının Stratejik Önemi (Strategic Importance of Use of 2 Dimensional Monolayer Structures in Water Purification). 23. Sıvı Hâl Sempozyumu (23rd Liquid State Symposium), Pîrî Reis University, Türkiye. https://doi.org/10.5281/zenodo.15567811; https://www.researchgate.net/publication/337812505
-   
-6\.	Keçeci, M. (2017, July 19–21). Açık Dijital Rozetlerin Eğitim ve Kariyer Planlamasında Kullanımı (Use of open digital badges in education and career planning). ADIM Fizik Günleri VI, Balıkesir Üniversitesi (ADIM Physics Days VI, Balıkesir University), Türkiye. https://doi.org/10.5281/zenodo.15567962; https://adimfizikvi.balikesir.edu.tr; https://www.researchgate.net/publication/318658786
-   
+7\.	Keçeci, M. (2019, December 6). 2 Boyutlu Tek Katmanlı Yapıların Su Arıtımında Kullanımının Stratejik Önemi [Strategic Importance of Use of 2 Dimensional Monolayer Structures in Water Purification] [Conference presentation]. 23. Sıvı Hâl Sempozyumu (23rd Liquid State Symposium), Pîrî Reis University, Türkiye. https://doi.org/10.5281/zenodo.15567811; https://www.researchgate.net/publication/337812505
+
+6\.	Keçeci, M. (2017, July 19–21). Açık Dijital Rozetlerin Eğitim ve Kariyer Planlamasında Kullanımı [Use of open digital badges in education and career planning] [Conference presentation]. ADIM Fizik Günleri VI, Balıkesir Üniversitesi (ADIM Physics Days VI, Balıkesir University), Türkiye. https://doi.org/10.5281/zenodo.15567962; https://adimfizikvi.balikesir.edu.tr; https://www.researchgate.net/publication/318658786
+
 5\.	Keçeci, M. (2011). 2n-dimensional at Fujii model instanton-like solutions and coupling constant's role between instantons with higher derivatives. Turkish Journal of Physics, 35(2), 173–178. ISSN: 1300-0101, eISSN: 1303-6122. https://doi.org/10.3906/fiz-1012-66
-   
+
 4\.	Keçeci, M. (2005, September 13–16). 2n-boyutlu Fujii modelinde instanton çözümleri ve bağlantı sabitinin instantonlar arasındaki rolü. Presented at World Year of Physics 2005 Turkish Physical Society 23rd International Physics Congress, Muğla University, Türkiye. https://dx.doi.org/10.13140/RG.2.1.1441.4887
-   
-3\.	Keçeci, M. (2005, May). Konformal invaryant Fujii modelinin instanton tipi tam çözümü. Presented at Geleneksel Erzurum Fizik Günleri-II, Atatürk University, Türkiye. https://dx.doi.org/10.13140/RG.2.1.3538.6408
-   
-2\.	Keçeci, M. (2002, September 16–20). Exact instanton-like solution conformal invariant of Fujii model, construct for four-dimensional and subderivative. Presented at Working Group II, Turkish Nonlinear Science Working Group, Karaburun/Izmir, Türkiye. https://dx.doi.org/10.13140/RG.2.1.1638.0964
-   
-1\.	Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebze Teknik Üniversitesi, Fen Bilimleri Fakültesi, Fizik.
+
+3\.	Keçeci, M. (2005, May). Konformal invaryant Fujii modelinin instanton tipi tam çözümü [Instanton-like exact solution of the conformal invariant Fujii model] [Conference presentation]. Traditional Erzurum Physics Days-II, Atatürk University, Türkiye. https://dx.doi.org/10.13140/RG.2.1.3538.6408
+
+2\.	Keçeci, M. (2002, September 16–20). Exact instanton-like solution conformal invariant of Fujii model, construct for four-dimensional and subderivative [Conference presentation]. Presented at Working Group II, Turkish Nonlinear Science Working Group, Karaburun/Izmir, Türkiye. https://dx.doi.org/10.13140/RG.2.1.1638.0964
+
+1\.	Keçeci, M. (2001). Konformal spinör alan teorileri [Conformal spinor field theories] [Master's thesis, Gebze Technical University]. YÖK National Thesis Center. https://tez.yok.gov.tr/UlusalTezMerkezi/tezSorguSonucYeni.jsp (Thesis No: 109951)
    
 ---
 # International Papers:
@@ -958,19 +958,19 @@ Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans tezi). Gebz
 
 1. Keçeci, M. (2019). Quantum and Art. Presented at International Workshop on Quantum Frontiers of Technology, TÜBİTAK, TÜSSİDE, Gebze, Türkiye. https://doi.org/10.13140/RG.2.2.27533.90089
 
-1. Keçeci, M. (2019, December 6). 2 Boyutlu Tek Katmanlı Yapıların Su Arıtımında Kullanımının Stratejik Önemi (Strategic Importance of Use of 2 Dimensional Monolayer Structures in Water Purification). 23. Sıvı Hâl Sempozyumu (23rd Liquid State Symposium), Pîrî Reis University, Türkiye. https://doi.org/10.5281/zenodo.15567811; https://www.researchgate.net/publication/337812505
+1. Keçeci, M. (2019, December 6). 2 Boyutlu Tek Katmanlı Yapıların Su Arıtımında Kullanımının Stratejik Önemi [Strategic Importance of Use of 2 Dimensional Monolayer Structures in Water Purification] [Conference presentation]. 23. Sıvı Hâl Sempozyumu (23rd Liquid State Symposium), Pîrî Reis University, Türkiye. https://doi.org/10.5281/zenodo.15567811; https://www.researchgate.net/publication/337812505
 
-1. Keçeci, M. (2017, July 19–21). Açık Dijital Rozetlerin Eğitim ve Kariyer Planlamasında Kullanımı, ADIM Fizik Günleri VI, Fen-Edebiyat Fakültesi, Fizik Bölümü, Balıkesir Üniversitesi, Türkiye. https://doi.org/10.5281/zenodo.15567962; https://adimfizikvi.balikesir.edu.tr; https://www.researchgate.net/publication/318658786 (English translation: Use of open digital badges in education and career planning. Presented at ADIM Physics Days VI, Balıkesir University)
+1. Keçeci, M. (2017, July 19–21). Açık Dijital Rozetlerin Eğitim ve Kariyer Planlamasında Kullanımı [Use of open digital badges in education and career planning] [Conference presentation]. ADIM Fizik Günleri VI, Balıkesir Üniversitesi (ADIM Physics Days VI, Balıkesir University), Türkiye. https://doi.org/10.5281/zenodo.15567962; https://adimfizikvi.balikesir.edu.tr; https://www.researchgate.net/publication/318658786
 
-1. Keçeci, M. (2011). 2n-dimensional at Fujii model instanton-like solutions and coupling constant's role between instantons with higher derivatives. Turkish Journal of Physics, 35 (2), 173–178. ISSN: 1300-0101, eISSN: 1303-6122, https://doi.org/10.3906/fiz-1012-66; https://doi.org/jp4p; https://journals.tubitak.gov.tr/physics/vol35/iss2/10/
+1. Keçeci, M. (2011). 2n-dimensional at Fujii model instanton-like solutions and coupling constant's role between instantons with higher derivatives. Turkish Journal of Physics, 35(2), 173–178. ISSN: 1300-0101, eISSN: 1303-6122. https://doi.org/10.3906/fiz-1012-66
 
-1. Keçeci, M. (2005, September 13–16). 2n-boyutlu Fujii modelinde instanton çözümleri ve bağlantı sabitinin instantonlar arasındaki rolü. 2005 Dünya Fizik Yılı Türk Fizik Derneği 23. Uluslararası Fizik Kongresi, Muğla Üniversitesi, Türkiye. https://dx.doi.org/10.13140/RG.2.1.1441.4887 (Instanton Solutions in the 2n-Dimensional Fujii Model and the Role of the Coupling Constant Between Instantons. Presented at World Year of Physics 2005 Turkish Physical Society 23rd International Physics Congress, Muğla University)
+1. Keçeci, M. (2005, September 13–16). 2n-boyutlu Fujii modelinde instanton çözümleri ve bağlantı sabitinin instantonlar arasındaki rolü. Presented at World Year of Physics 2005 Turkish Physical Society 23rd International Physics Congress, Muğla University, Türkiye. https://dx.doi.org/10.13140/RG.2.1.1441.4887
 
-1. Keçeci, M. (2005, May). Konformal invaryant Fujii modelinin instanton tipi tam çözümü. Geleneksel Erzurum Fizik Günleri-II, Atatürk Üniversitesi, Türkiye. https://dx.doi.org/10.13140/RG.2.1.3538.6408 (Exact Instanton-like Solution of the Conformally Invariant Fujii Model. Presented at Traditional Erzurum Physics Days-II, Atatürk University)
+1. Keçeci, M. (2005, May). Konformal invaryant Fujii modelinin instanton tipi tam çözümü [Instanton-like exact solution of the conformal invariant Fujii model] [Conference presentation]. Traditional Erzurum Physics Days-II, Atatürk University, Türkiye. https://dx.doi.org/10.13140/RG.2.1.3538.6408
 
-1. Keçeci, M. (2002, September 16–20). Exact instanton-like solution conformal invariant of Fujii model, construct for four-dimensional and subderivative. Presented at Working Group II, Turkish Nonlinear Science Working Group, Karaburun/Izmir, Türkiye. https://dx.doi.org/10.13140/RG.2.1.1638.0964
+1. Keçeci, M. (2002, September 16–20). Exact instanton-like solution conformal invariant of Fujii model, construct for four-dimensional and subderivative [Conference presentation]. Presented at Working Group II, Turkish Nonlinear Science Working Group, Karaburun/Izmir, Türkiye. https://dx.doi.org/10.13140/RG.2.1.1638.0964
 
-1. Keçeci, M. (2001). Konformal Spinör Alan Teorileri (Yüksek Lisans Tezi). Gebze Teknik Üniversitesi, Fen Bilimleri Fakültesi, Fizik, Gebze/Kocaeli, Türkiye. (Conformal Spinor Field Theories (Master's Thesis). Gebze Technical University, Faculty of Science, Physics)
+1. Keçeci, M. (2001). Konformal spinör alan teorileri [Conformal spinor field theories] [Master's thesis, Gebze Technical University]. YÖK National Thesis Center. https://tez.yok.gov.tr/UlusalTezMerkezi/tezSorguSonucYeni.jsp (Thesis No: 109951)
 
 ---
 
