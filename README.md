@@ -964,7 +964,7 @@ Keçeci, M. (2001). Konformal spinör alan teorileri [Conformal spinor field the
 
 1. Keçeci, M. (2011). 2n-dimensional at Fujii model instanton-like solutions and coupling constant's role between instantons with higher derivatives. Turkish Journal of Physics, 35(2), 173–178. ISSN: 1300-0101, eISSN: 1303-6122. https://doi.org/10.3906/fiz-1012-66
 
-1. Keçeci, M. (2005, September 13–16). 2n-boyutlu Fujii modelinde instanton çözümleri ve bağlantı sabitinin instantonlar arasındaki rolü. Presented at World Year of Physics 2005 Turkish Physical Society 23rd International Physics Congress, Muğla University, Türkiye. https://dx.doi.org/10.13140/RG.2.1.1441.4887
+1. Keçeci, M. (2005, September 13–16). 2n-boyutlu Fujii modelinde instanton çözümleri ve bağlantı sabitinin instantonlar arasındaki rolü [Instanton solutions in the 2n-dimensional Fujii model and the role of the coupling constant among instantons]. Presented at World Year of Physics 2005 Turkish Physical Society 23rd International Physics Congress, Muğla University, Türkiye. https://dx.doi.org/10.13140/RG.2.1.1441.4887
 
 1. Keçeci, M. (2005, May). Konformal invaryant Fujii modelinin instanton tipi tam çözümü [Instanton-like exact solution of the conformal invariant Fujii model] [Conference presentation]. Traditional Erzurum Physics Days-II, Atatürk University, Türkiye. https://dx.doi.org/10.13140/RG.2.1.3538.6408
 
