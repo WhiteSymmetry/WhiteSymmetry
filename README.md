@@ -1202,12 +1202,12 @@ https://badges.plus.columbia.edu/4e747f60-0ebc-423c-a7ac-ff8ab8da3f0d
 34.	Quantum Computing Hardware Certificate, Global Quantum Program, Womanium, 2023
 35.	Quantum Computing & Programming, Womanium Global Quantum Program, QNickel Diploma, Womanium, QWorld, QNickel7-52, 2023
 36.	Introduction to Programming with Neutral Atoms Certificate, QuEra Computing Inc. & Womanium, July'23
-37.	Quantum Key Distribution (QKD), QMercury Diploma, Womanium Global Quantum Program 2023, Womanium, QWorld, 2023
-38.	Quantum Error Correction (QEC), QZinc, Womanium Global Quantum Program, QWorld, 2023
+37.	Quantum Key Distribution (QKD), QMercury Diploma, Womanium Global Quantum Program 2023, Womanium, QWorld, QMercury1-78, 2023
+38.	Quantum Error Correction (QEC), Womanium Global Quantum Program, QWorld, QZinc1-156, 2023
 39.	Quantum Computing Software Certificate, Womanium Quantum Global Quantum Program, 2023
 40.	QHack 2023 Certificate (Advanced), Xanadu, 2023
 https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a6f-a6223364cd3c.png	
-41.	Quantum Computing Hardware Certificate, Global Quantum Computing & Entrepreneurship Program, Certificate Number: 35199426, Womanium, 2022
+41.	41.	From Qubits to Quantum Computers, Womanium Quantum 2022: Global Quantum Computing & Entrepreneurship Program, Womanium Quantum Computing Hardware Program, Number: 35199426, Womanium, 2022
 42.	Quantum Computing & Programming, Womanium Global Quantum Computing & Entrepreneurship Program, Diploma Number: QSilver14-50, QWorld, Aug 2022
 43.	Monkeypox: Introductory course for African outbreak contexts, OpenWHO, WHO, 05.25.2022
 44.	Monkeypox: Epidemiology, preparedness and response for African outbreak contexts, OpenWHO, WHO, 05.25.2022
