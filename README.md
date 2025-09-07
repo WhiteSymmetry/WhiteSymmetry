@@ -26,6 +26,8 @@
 [![Orcid](https://img.shields.io/badge/Orcid-12100E?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9937-9839)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-0077B5?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mehmet-Kececi)
 [![Google Scholar](https://img.shields.io/badge/GoogleScholar-0077B5?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=PleXSXMAAAAJ&hl=en)
+[![Academia](https://img.shields.io/badge/Academia-0077B5?style=for-the-badge&logo=academia&logoColor=white)](https://independent.academia.edu/mkececi)
+
 
 [![Open Science Articles (OSAs)](https://img.shields.io/badge/OpenScienceArticles-0077B5?style=for-the-badge&logo=opensciencearticles&logoColor=white)](https://zenodo.org/communities/bilginomi/records)
 [![Open Fig Share Articles (OFSAs)](https://img.shields.io/badge/OpenFigShareArticles-0077B5?style=for-the-badge&logo=openfigsharearticles&logoColor=white)](https://doi.org/10.6084/m9.figshare.c.7972292)
