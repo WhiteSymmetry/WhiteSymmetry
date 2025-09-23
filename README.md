@@ -1244,7 +1244,19 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
 73.	Certified Edjineer, 2020
 74.	Sountrap Certified Educator & Expert, 2020
 75.	Adobe Creative Educator (Trendsetter, 12 Certificates, 13 Badges), 2020
-76.	Julia for Data Science, JuliaAcademy, 2020 (Introduction to Julia, Getting Started with JuliaAcademy, Foundations of Machine Learning, Deep Learning with Flux.jl, Parallel Computing, The World of Machine Learning with Knet)
+76.	Julia Academy (JuliaAcademy, 12 Certificates), https://juliaacademy.com:
+•	Computational Modeling in Julia with Applications to the COVID-19 Pandemic, Serial No: cert_trp9nnhj, 2023-05-12 
+•	Julia Programming for Nervous Beginners, Award No: cert_vmvc2blk, 2023-05-12
+•	Decision Making Under Uncertainty with POMDPs.jl, Certificate No: cert_cwwmvx9h, 2023-05-12
+•	Introduction to DataFrames.jl, Serial No: cert_bxsbnq51, 2023-05-12
+•	Introduction to DataFrames.jl (v1.1.1), Serial No. cert_t5zmkddp, 2023-05-12
+•	Julia for Data Science, Certificate No: cert_vz5jt0pw, 2020-09-28
+•	Parallel Computing, Certificate No: cert_kq5d7d0d, 2020-05-04
+•	Deep Learning with Flux.jl, 2020-05-04
+•	The world of Machine Learning with Knet, Certificate No: cert_1mb4904n, 2020-04-07
+•	Foundations of Machine Learning, Certificate No: cert_08zvss5s, 2020-03-02
+•	Introduction to Julia (for programmers), Award No: cert_mqqx8txq, 2020-03-02
+•	Getting Started With JuliaAcademy, 2020-03-02
 77.	Learning Python, Sep 20, 2020, LinkedIn Learning, Certificate Id:	  Ad8kqQiVh5o8TYDezjyyeWaHuCpB, https://www.linkedin.com/learning/certificates/be80476d7cceb1ae0b14736dcdab70d163a6b339815af5ad73dbf0f44d9ad41e  
 78.	Time Management: Working from Home, Sep 15, 2020, LinkedIn Learning & Program: PMI®  (Project Management Institute, Inc.) Registered Education Provider, Provider ID: #4101,  Certificate No: AbgVkahYuljE01qnSVd6D-3XaeG7, PDUs/Contact Hours: 1.25, Activity #:  100020003926 & Field of Study: Personal Development, Program: National Association of State  Boards of Accountancy (NASBA), Registry ID: #140940, Certificate No:  AXFs33FrKhz4w7OTBsSCuSGEz5JR, Continuing Professional Education Credit (CPE): 2.20, https://www.linkedin.com/learning/certificates/048fd7c6079df7c079fa6fa64648d2a9dfec1e4dcd7a5ed8e524ee7afa8e6fda 
 79.	BTK Academy (3 Participation Certificates, 4 Completed Courses), 2020 (Google Dijital Vatandaşlık ve Çevrim İçi Güvenlik, Bilgi Teknolojileri İletişim Kurumu, BTK Akademi, 10.09.2020)
