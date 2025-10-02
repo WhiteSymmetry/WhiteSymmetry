@@ -61,11 +61,11 @@ Reviewer (~30 International Scientific Journal, 2011 - ***, >150 English, Turkis
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
-Keçeci, M. (2025). Recursion Optimisation and Extreme Noise Tolerance in Quantum Error Correction Algorithms: Assessing the Potential for a Quantum Leap. https://doi.org/10.5281/zenodo.17243336
+Keçeci, M. (2025). Recursion Optimisation and Extreme Noise Tolerance in Quantum Error Correction Algorithms: Assessing the Potential for a Quantum Leap. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.17243336
 
-Keçeci, M. (2025). Scalability and Error Management in High-Qubit-Count Quantum Computing: Surface Codes, Topological Materials, and Hybrid Algorithmic Approaches. https://doi.org/10.5281/zenodo.17227501
+Keçeci, M. (2025). Scalability and Error Management in High-Qubit-Count Quantum Computing: Surface Codes, Topological Materials, and Hybrid Algorithmic Approaches. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.17227501
 
-Keçeci, M. (2025). Error Minimisation in Autonomous and Convolutional Quantum Algorithms through Artificial Intelligence Integration in the Context of the Künneth Theorem. https://doi.org/10.5281/zenodo.17214806
+Keçeci, M. (2025). Error Minimisation in Autonomous and Convolutional Quantum Algorithms through Artificial Intelligence Integration in the Context of the Künneth Theorem. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.17214806
 
 Keçeci, M. (2025). Characterization of Keçeci Number Systems as Chaotic and Hyperchaotic Maps. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16954468
 
