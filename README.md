@@ -61,11 +61,11 @@ Reviewer (~30 International Scientific Journal, 2011 - ***, >150 English, Turkis
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
-Keçeci, M. (2025). Weyl ve Majorana Fermiyonlarını İçeren Katmanlı Yapıların Stratum Modeli ile İncelenmesi. https://doi.org/10.5281/zenodo.17295984
+Keçeci, M. (2025). Weyl ve Majorana Fermiyonlarını İçeren Katmanlı Yapıların Stratum Modeli ile İncelenmesi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.17295984
 
-Keçeci, M. (2025). Accelerating Quantum Algorithm Simulations in Multi-Processor Architectures: Optimisation Techniques with Cython, Numba, and Jax. https://doi.org/10.5281/zenodo.17287508
+Keçeci, M. (2025). Accelerating Quantum Algorithm Simulations in Multi-Processor Architectures: Optimisation Techniques with Cython, Numba, and Jax. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.17287508
 
-Keçeci, M. (2025). The Impact of Metric Selection and Algorithmic Optimisation on Large-Scale Surface Codes in Quantum Error Correction. https://doi.org/10.5281/zenodo.17259861
+Keçeci, M. (2025). The Impact of Metric Selection and Algorithmic Optimisation on Large-Scale Surface Codes in Quantum Error Correction. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.17259861
 
 Keçeci, M. (2025). Recursion Optimisation and Extreme Noise Tolerance in Quantum Error Correction Algorithms: Assessing the Potential for a Quantum Leap. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.17243336
 
@@ -379,11 +379,11 @@ Keçeci, M. (2001). Konformal spinör alan teorileri [Conformal spinor field the
 
 # International Papers:
 
-156\. Keçeci, M. (2025). Weyl ve Majorana Fermiyonlarını İçeren Katmanlı Yapıların Stratum Modeli ile İncelenmesi. https://doi.org/10.5281/zenodo.17295984
+156\. Keçeci, M. (2025). Weyl ve Majorana Fermiyonlarını İçeren Katmanlı Yapıların Stratum Modeli ile İncelenmesi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.17295984
 
-155\. Keçeci, M. (2025). Accelerating Quantum Algorithm Simulations in Multi-Processor Architectures: Optimisation Techniques with Cython, Numba, and Jax. https://doi.org/10.5281/zenodo.17287508
+155\. Keçeci, M. (2025). Accelerating Quantum Algorithm Simulations in Multi-Processor Architectures: Optimisation Techniques with Cython, Numba, and Jax. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.17287508
 
-154\. Keçeci, M. (2025). The Impact of Metric Selection and Algorithmic Optimisation on Large-Scale Surface Codes in Quantum Error Correction. https://doi.org/10.5281/zenodo.17259861
+154\. Keçeci, M. (2025). The Impact of Metric Selection and Algorithmic Optimisation on Large-Scale Surface Codes in Quantum Error Correction. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.17259861
 
 153\. Keçeci, M. (2025). Recursion Optimisation and Extreme Noise Tolerance in Quantum Error Correction Algorithms: Assessing the Potential for a Quantum Leap. https://doi.org/10.5281/zenodo.17243336
 
@@ -696,11 +696,11 @@ Keçeci, M. (2001). Konformal spinör alan teorileri [Conformal spinor field the
 ---
 # International Papers:
 
-1. Keçeci, M. (2025). Weyl ve Majorana Fermiyonlarını İçeren Katmanlı Yapıların Stratum Modeli ile İncelenmesi. https://doi.org/10.5281/zenodo.17295984
+1. Keçeci, M. (2025). Weyl ve Majorana Fermiyonlarını İçeren Katmanlı Yapıların Stratum Modeli ile İncelenmesi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.17295984
 
-1. Keçeci, M. (2025). Accelerating Quantum Algorithm Simulations in Multi-Processor Architectures: Optimisation Techniques with Cython, Numba, and Jax. https://doi.org/10.5281/zenodo.17287508
+1. Keçeci, M. (2025). Accelerating Quantum Algorithm Simulations in Multi-Processor Architectures: Optimisation Techniques with Cython, Numba, and Jax. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.17287508
 
-1. Keçeci, M. (2025). The Impact of Metric Selection and Algorithmic Optimisation on Large-Scale Surface Codes in Quantum Error Correction. https://doi.org/10.5281/zenodo.17259861
+1. Keçeci, M. (2025). The Impact of Metric Selection and Algorithmic Optimisation on Large-Scale Surface Codes in Quantum Error Correction. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.17259861
 
 1. Keçeci, M. (2025). Recursion Optimisation and Extreme Noise Tolerance in Quantum Error Correction Algorithms: Assessing the Potential for a Quantum Leap. https://doi.org/10.5281/zenodo.17243336
 
