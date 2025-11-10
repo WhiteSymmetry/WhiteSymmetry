@@ -1438,53 +1438,53 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
 201.	Electric Counter Attention T.E.K. (Türkiye Electric Corporation) (Internship), 1993
 202.	Enamelled Wire Production, EMTEL (Internship), 1992
 203.	Arabic Language Certificate I., II. Level, Egypt, Arab Radio, 1991
-204.	~1000 Badges & Certificates: 79 Elsevier, PennyLane (3 Certificate, 22 Badges) (https://pennylane.ai/profile/mkececi), B+C Microsoft Education 858 modules, 516 badges, 95 trophies, 1 reputation (https://learn.microsoft.com/en-us/users/mkececi/), 16 MVA, 30 Google, 3 ResellerClub, 3 Firefox, 1 WordPress, 3 Minecraft, 7 Fedora, 43 Spiceworks, 10 Edmodo, 27B+1C European Schoolnet, 30 Sociabble, 12 Udemy, 21 Brighttalk, 4 OpenWHO, Columbia+ (2C, 6B, https://badges.plus.columbia.edu/profile/mehmetkeeci404433/wallet), LinkedIn Learning (8C), Badgelist (27B, https://badgelist.com/u/mkececi), Credly (28B,	 https://www.credly.com/users/mkececi), BTK Akademi (5C), Accredible (5 C+B,	 https://www.credential.net/profile/mkececi/wallet), Badgr (151B,	 https://api.badgr.io/public/collections/55f6069cb6a8861abd957632b5a465a9) etc.
+204.	~1000 Badges & Certificates: 79 Elsevier, PennyLane (3 Certificate, 22 Badges) (https://pennylane.ai/profile/mkececi), B+C Microsoft Education 858 modules, 516 badges, 95 trophies, 1 reputation (https://learn.microsoft.com/en-us/users/mkececi/), 16 MVA, 30 Google, 3 ResellerClub, 3 Firefox, 1 WordPress, 3 Minecraft, 7 Fedora, 43 Spiceworks, 10 Edmodo, 27B+1C European Schoolnet, 30 Sociabble, 12 Udemy, 21 Brighttalk, 4 OpenWHO, Columbia+ (2C, 6B, https://badges.plus.columbia.edu/profile/mehmetkeeci404433/wallet), LinkedIn Learning (8C), Badgelist (27B, https://badgelist.com/u/mkececi), Credly (28B,	 https://www.credly.com/users/mkececi), BTK Akademi (5C), Accredible (5 C+B,	 https://www.credential.net/profile/mkececi/wallet), Badgr (151B,	 https://badges.parchment.com/public/collections/55f6069cb6a8861abd957632b5a465a9) etc.
 
 ---
 # Digital Badges & Certificates
 
-1.	https://www.credly.com/users/mkececi 
-2.	https://api.badgr.io/public/collections/55f6069cb6a8861abd957632b5a465a9 
-3.	https://badgr.com/public/issuers/yP8s_p1_RW2xLbBXM_NL0Q/badges 
-4.	https://www.credential.net/profile/mkececi/wallet
-5.	https://openbadgepassport.com/app/profile/15961
-6.	https://edex.adobe.com/community/member/_9cgemrxj
-7.	https://badgelist.com/u/mkececi 
-8.	https://badgelist.com/u/Mehmet-Kececi 
-9.	https://www.linkedin.com/learning/certificates/47b23dc546a920aa98f813617e795e8ea9e034f99ad58a78cc68e794c72d5eac 
-10.	https://www.linkedin.com/learning/certificates/bfd9e11dc7c9a6044f5074f2bd5dbf6bd48e4688f539a650f8a3686fcd7d7538 
-11.	https://www.linkedin.com/learning/certificates/be80476d7cceb1ae0b14736dcdab70d163a6b339815af5ad73dbf0f44d9ad41e 
-12.	https://www.linkedin.com/learning/certificates/048fd7c6079df7c079fa6fa64648d2a9dfec1e4dcd7a5ed8e524ee7afa8e6fda 
-13.	https://badges.plus.columbia.edu/4e747f60-0ebc-423c-a7ac-ff8ab8da3f0d 
-14.	https://badges.plus.columbia.edu/18f4fbec-2b56-41b0-8460-f4a61a58d5ed 
-15.	https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a6f-a6223364cd3c.png 
-16.	https://verify.skilljar.com/c/p552dp5oqc5y 
-17.	https://verify.skilljar.com/c/k86h2o7qxjbg 
-18.	https://verify.skilljar.com/c/tqo7aiesb6tr 
-19.	https://verify.skilljar.com/c/6ii26u8oqke7 
-20.	https://verify.skilljar.com/c/shkbvnp3eyq5 
-21.	https://verify.skilljar.com/c/cgvzjyvboprs 
-22.	https://verify.skilljar.com/c/ex9egmt93aqf 
-23.	https://verify.skilljar.com/c/wvyzyrmo8n7i 
-24.	https://verify.skilljar.com/c/gafbb2325b9a 
-25.	https://pennylane.ai/profile/mkececi 
-26.	https://learn.microsoft.com/en-us/users/mkececi 
-27.	https://badges.plus.columbia.edu/profile/mehmetkeeci404433/wallet 
-28.	https://www.coursera.org/user/f50fe5dc943341246de13b30169ed87d
-29.	https://www.brighttalk.com/mybrighttalk/recently-viewed
-30.	https://wakelet.com/@mkececi
-31.	https://medium.com/@mkececi 
-32.	https://www.growkudos.com/profile/Mehmet_Ke%C3%A7eci 
-33.	https://anaconda.org/bilgi 
-34.	https://pypi.org/user/WhiteSymmetry 
-35.	https://github.com/WhiteSymmetry
-36.	https://osf.io/j9f5c/
-37.	https://figshare.com/authors/Mehmet_Ke_eci/14301782
-38.	https://www.goodreads.com/author/show/12062046.Mehmet_Ke_eci
-39.	https://hcommons.org/members/mkececi
-40.	https://cv.hal.science/mehmet-kececi
-41.	https://developers.google.com/profile/u/mkececi 
-42.	https://digitalworld.coursify.me/ 
+1.	https://www.credly.com/users/mkececi
+2.	https://badges.parchment.com/public/collections/55f6069cb6a8861abd957632b5a465a9
+4.	https://badgr.com/public/issuers/yP8s_p1_RW2xLbBXM_NL0Q/badges 
+5.	https://www.credential.net/profile/mkececi/wallet
+6.	https://openbadgepassport.com/app/profile/15961
+7.	https://edex.adobe.com/community/member/_9cgemrxj
+8.	https://badgelist.com/u/mkececi 
+9.	https://badgelist.com/u/Mehmet-Kececi 
+10.	https://www.linkedin.com/learning/certificates/47b23dc546a920aa98f813617e795e8ea9e034f99ad58a78cc68e794c72d5eac 
+11.	https://www.linkedin.com/learning/certificates/bfd9e11dc7c9a6044f5074f2bd5dbf6bd48e4688f539a650f8a3686fcd7d7538 
+12.	https://www.linkedin.com/learning/certificates/be80476d7cceb1ae0b14736dcdab70d163a6b339815af5ad73dbf0f44d9ad41e 
+13.	https://www.linkedin.com/learning/certificates/048fd7c6079df7c079fa6fa64648d2a9dfec1e4dcd7a5ed8e524ee7afa8e6fda 
+14.	https://badges.plus.columbia.edu/4e747f60-0ebc-423c-a7ac-ff8ab8da3f0d 
+15.	https://badges.plus.columbia.edu/18f4fbec-2b56-41b0-8460-f4a61a58d5ed 
+16.	https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a6f-a6223364cd3c.png 
+17.	https://verify.skilljar.com/c/p552dp5oqc5y 
+18.	https://verify.skilljar.com/c/k86h2o7qxjbg 
+19.	https://verify.skilljar.com/c/tqo7aiesb6tr 
+20.	https://verify.skilljar.com/c/6ii26u8oqke7 
+21.	https://verify.skilljar.com/c/shkbvnp3eyq5 
+22.	https://verify.skilljar.com/c/cgvzjyvboprs 
+23.	https://verify.skilljar.com/c/ex9egmt93aqf 
+24.	https://verify.skilljar.com/c/wvyzyrmo8n7i 
+25.	https://verify.skilljar.com/c/gafbb2325b9a 
+26.	https://pennylane.ai/profile/mkececi 
+27.	https://learn.microsoft.com/en-us/users/mkececi 
+28.	https://badges.plus.columbia.edu/profile/mehmetkeeci404433/wallet 
+29.	https://www.coursera.org/user/f50fe5dc943341246de13b30169ed87d
+30.	https://www.brighttalk.com/mybrighttalk/recently-viewed
+31.	https://wakelet.com/@mkececi
+32.	https://medium.com/@mkececi 
+33.	https://www.growkudos.com/profile/Mehmet_Ke%C3%A7eci 
+34.	https://anaconda.org/bilgi 
+35.	https://pypi.org/user/WhiteSymmetry 
+36.	https://github.com/WhiteSymmetry
+37.	https://osf.io/j9f5c/
+38.	https://figshare.com/authors/Mehmet_Ke_eci/14301782
+39.	https://www.goodreads.com/author/show/12062046.Mehmet_Ke_eci
+40.	https://hcommons.org/members/mkececi
+41.	https://cv.hal.science/mehmet-kececi
+42.	https://developers.google.com/profile/u/mkececi 
+43.	https://digitalworld.coursify.me/ 
 100% completed:
 a.	Aerospace Propulsion
 b.	Aerospace Engineering
