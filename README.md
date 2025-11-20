@@ -62,6 +62,8 @@ Reviewer (~30 International Scientific Journal, 2011 - ***, >150 English, Turkis
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2025). From Chaos to Clarity: The Keçeci Layout for Order-Dependent Systems. https://doi.org/10.5281/zenodo.17665771
+
 Keçeci, M. (2025). Kuantum Hesaplamada Doğruluk, Gürültü ve Ölçeklenebilirlik: NISQ Çağı ve Ötesi için Stratejiler. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.17342849
 
 Keçeci, M. (2025). Weyl ve Majorana Fermiyonlarını İçeren Katmanlı Yapıların Stratum Modeli ile İncelenmesi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.17295984
@@ -382,6 +384,8 @@ Keçeci, M. (2001). Konformal spinör alan teorileri [Conformal spinor field the
 
 # International Papers:
 
+158\. Keçeci, M. (2025). From Chaos to Clarity: The Keçeci Layout for Order-Dependent Systems. https://doi.org/10.5281/zenodo.17665771
+
 157\. Keçeci, M. (2025). Kuantum Hesaplamada Doğruluk, Gürültü ve Ölçeklenebilirlik: NISQ Çağı ve Ötesi için Stratejiler. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.17342849
 
 156\. Keçeci, M. (2025). Weyl ve Majorana Fermiyonlarını İçeren Katmanlı Yapıların Stratum Modeli ile İncelenmesi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.17295984
@@ -700,6 +704,8 @@ Keçeci, M. (2001). Konformal spinör alan teorileri [Conformal spinor field the
    
 ---
 # International Papers:
+
+1. Keçeci, M. (2025). From Chaos to Clarity: The Keçeci Layout for Order-Dependent Systems. https://doi.org/10.5281/zenodo.17665771
 
 1. Keçeci, M. (2025). Kuantum Hesaplamada Doğruluk, Gürültü ve Ölçeklenebilirlik: NISQ Çağı ve Ötesi için Stratejiler. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.17342849
 
