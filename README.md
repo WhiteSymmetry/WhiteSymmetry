@@ -87,10 +87,10 @@ mindmap
         Graf teorisi ve görselleştirme araçları
         oresmej
           ::icon(fa fa-code-branch)
-          Java için oresme
+          Jax için oresme
         oresmen
           ::icon(fa fa-code-branch)
-          .NET için oresme
+          Numba için oresme
     Keçeci Projeleri
       kececilayout
         ::icon(fa fa-sitemap)
@@ -107,10 +107,7 @@ mindmap
     Araçlar ve Kütüphaneler
       ::icon(fa fa-tools)
       Python Kütüphaneleri
-      Mermaid
-      NetworkX
-      igraph
-      graph-tool  
+ 
 ```
 
 ---
