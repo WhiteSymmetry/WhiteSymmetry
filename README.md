@@ -55,30 +55,17 @@
 ---
 
 
-```mermaid
 graph TD;
-grikod
-grikod2
-adnus
-oresme
-    oresmej
-    oresmen
-kececilayout
-kececifractals
-kececisquares
-kececinumbers
-end
-grikod[<a href="https://github.com/KuantumBS/grikod"                 style="text-decoration:none;">grikod</a>          <br><span style="font-size:10px;">grikod</span>];
-grikod2[<a href="https://github.com/KuantumBS/grikod2"   style="text-decoration:none;">grikod2</a>   <br><span style="font-size:10px;">grikod2</span>];
-adnus[<a href="https://github.com/WhiteSymmetry/adnus"       style="text-decoration:none;">adnus</a>     <br><span style="font-size:10px;">adnus</span>];
-oresme[<a href="https://github.com/WhiteSymmetry/oresme"       style="text-decoration:none;">oresme</a>     <br><span style="font-size:10px;">oresme</span>];
-oresmej[<a href="https://github.com/WhiteSymmetry/oresmej" style="text-decoration:none;">oresmej</a>  <br><span style="font-size:10px;">oresmej</span>];
-oresmen[<a href="https://github.com/WhiteSymmetry/oresmen" style="text-decoration:none;">oresmen</a>  <br><span style="font-size:10px;">oresmen</span>];
-kececilayout[<a href="https://github.com/WhiteSymmetry/kececilayout" style="text-decoration:none;">oresmen</a>  <br><span style="font-size:10px;">kececilayout</span>];
-kececifractals[<a href="https://github.com/WhiteSymmetry/kececifractals" style="text-decoration:none;">kececifractals</a>  <br><span style="font-size:10px;">oresmen</span>];
-kececisquares[<a href="https://github.com/WhiteSymmetry/kececisquares" style="text-decoration:none;">oresmen</a>  <br><span style="font-size:10px;">kececisquares</span>];
-kececinumbers[<a href="https://github.com/WhiteSymmetry/kececinumbers" style="text-decoration:none;">kececinumbers</a>  <br><span style="font-size:10px;">oresmen</span>];
-```
+    grikod[<a href="https://github.com/KuantumBS/grikod" style="text-decoration:none;">grikod</a> <br><span style="font-size:10px;">grikod</span>];
+    grikod2[<a href="https://github.com/KuantumBS/grikod2" style="text-decoration:none;">grikod2</a> <br><span style="font-size:10px;">grikod2</span>];
+    adnus[<a href="https://github.com/WhiteSymmetry/adnus" style="text-decoration:none;">adnus</a> <br><span style="font-size:10px;">adnus</span>];
+    oresme[<a href="https://github.com/WhiteSymmetry/oresme" style="text-decoration:none;">oresme</a> <br><span style="font-size:10px;">oresme</span>];
+    oresmej[<a href="https://github.com/WhiteSymmetry/oresmej" style="text-decoration:none;">oresmej</a> <br><span style="font-size:10px;">oresmej</span>];
+    oresmen[<a href="https://github.com/WhiteSymmetry/oresmen" style="text-decoration:none;">oresmen</a> <br><span style="font-size:10px;">oresmen</span>];
+    kececilayout[<a href="https://github.com/WhiteSymmetry/kececilayout" style="text-decoration:none;">kececilayout</a> <br><span style="font-size:10px;">kececilayout</span>];
+    kececifractals[<a href="https://github.com/WhiteSymmetry/kececifractals" style="text-decoration:none;">kececifractals</a> <br><span style="font-size:10px;">kececifractals</span>];
+    kececisquares[<a href="https://github.com/WhiteSymmetry/kececisquares" style="text-decoration:none;">kececisquares</a> <br><span style="font-size:10px;">kececisquares</span>];
+    kececinumbers[<a href="https://github.com/WhiteSymmetry/kececinumbers" style="text-decoration:none;">kececinumbers</a> <br><span style="font-size:10px;">kececinumbers</span>];
 
 ---
 
