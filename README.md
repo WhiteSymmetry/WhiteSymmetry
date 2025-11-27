@@ -54,8 +54,8 @@
     </a>
 ---
 
-
-graph TD;
+```mermaid
+  graph TD;
     grikod[<a href="https://github.com/KuantumBS/grikod" style="text-decoration:none;">grikod</a> <br><span style="font-size:10px;">grikod</span>];
     grikod2[<a href="https://github.com/KuantumBS/grikod2" style="text-decoration:none;">grikod2</a> <br><span style="font-size:10px;">grikod2</span>];
     adnus[<a href="https://github.com/WhiteSymmetry/adnus" style="text-decoration:none;">adnus</a> <br><span style="font-size:10px;">adnus</span>];
@@ -66,6 +66,7 @@ graph TD;
     kececifractals[<a href="https://github.com/WhiteSymmetry/kececifractals" style="text-decoration:none;">kececifractals</a> <br><span style="font-size:10px;">kececifractals</span>];
     kececisquares[<a href="https://github.com/WhiteSymmetry/kececisquares" style="text-decoration:none;">kececisquares</a> <br><span style="font-size:10px;">kececisquares</span>];
     kececinumbers[<a href="https://github.com/WhiteSymmetry/kececinumbers" style="text-decoration:none;">kececinumbers</a> <br><span style="font-size:10px;">kececinumbers</span>];
+```
 
 ---
 
