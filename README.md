@@ -68,6 +68,51 @@
     kececinumbers[<a href="https://github.com/WhiteSymmetry/kececinumbers" style="text-decoration:none;">kececinumbers</a> <br><span style="font-size:10px;">kececinumbers</span>];
 ```
 
+```mermaid
+mindmap
+  root((Matematik ve Görselleştirme Projeleri))
+    Temel Projeler
+      grikod
+        ::icon(fa fa-code)
+        Temel matematiksel algoritmalar
+      grikod2
+        ::icon(fa fa-code)
+        Geliştirilmiş matematiksel algoritmalar
+    Görselleştirme ve Graf Teorisi
+      adnus
+        ::icon(fa fa-project-diagram)
+        Graf teorisi ve görselleştirme
+      oresme
+        ::icon(fa fa-project-diagram)
+        Graf teorisi ve görselleştirme araçları
+        oresmej
+          ::icon(fa fa-code-branch)
+          Java için oresme
+        oresmen
+          ::icon(fa fa-code-branch)
+          .NET için oresme
+    Keçeci Projeleri
+      kececilayout
+        ::icon(fa fa-sitemap)
+        Graf düzenleme ve görselleştirme
+      kececifractals
+        ::icon(fa fa-infinity)
+        Fraktal görselleştirme
+      kececisquares
+        ::icon(fa fa-th)
+        Kare düzenlemeleri
+      kececinumbers
+        ::icon(fa fa-sort-numeric-down)
+        Sayısal desenler ve görselleştirme
+    Araçlar ve Kütüphaneler
+      ::icon(fa fa-tools)
+      Python Kütüphaneleri
+      Mermaid
+      NetworkX
+      igraph
+      graph-tool  
+```
+
 ---
 
 Physicist (Completed the dissertation phase of the Ph.D. in Physics), Reviewer, Author, Teacher & Lecturer, Occupational Safety Specialist
