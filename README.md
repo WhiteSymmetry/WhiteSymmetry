@@ -70,15 +70,15 @@
 
 ```mermaid
 mindmap
-  root((Matematik ve Görselleştirme Projeleri))
-    Temel Projeler
+  root((Keçeci Projeleri))
+    Temel Altyapı Projeleri
       grikod
         ::icon(fa fa-code)
         Temel matematiksel algoritmalar
       grikod2
         ::icon(fa fa-code)
         Geliştirilmiş matematiksel algoritmalar
-    Görselleştirme ve Graf Teorisi
+    Graf Teorisi ve Görselleştirme
       adnus
         ::icon(fa fa-project-diagram)
         Graf teorisi ve görselleştirme
@@ -91,7 +91,7 @@ mindmap
         oresmen
           ::icon(fa fa-code-branch)
           Numba için oresme
-    Keçeci Projeleri
+    Keçeci Görselleştirme Projeleri
       kececilayout
         ::icon(fa fa-sitemap)
         Graf düzenleme ve görselleştirme
@@ -104,10 +104,9 @@ mindmap
       kececinumbers
         ::icon(fa fa-sort-numeric-down)
         Sayısal desenler ve görselleştirme
-    Araçlar ve Kütüphaneler
+    Kullanılan Araçlar ve Kütüphaneler
       ::icon(fa fa-tools)
       Python Kütüphaneleri
- 
 ```
 
 ---
