@@ -17,7 +17,7 @@
 
 ![Mehmet Keçeci's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteSymmetry&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=WhiteSymmetry&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=WhiteSymmetry&theme=default)](https://git.io/streak-stats)
 
 
 [![Mehmet Keçeci's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WhiteSymmetry&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/WhiteSymmetry/WhiteSymmetry)
