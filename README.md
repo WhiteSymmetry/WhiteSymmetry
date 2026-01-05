@@ -109,6 +109,10 @@ Reviewer (~30 International Scientific Journal, 2011 - ***, >150 English, Turkis
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2025). KHA-256: A Next-Generation Cryptographic Hash Function Based on Keçeci Numbers and Mathematical Constants. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18156885
+
+Keçeci, M. (2025). KHA-256. GitHub, PyPI, Anaconda, Zenodo. https://doi.org/10.5281/zenodo.18089401 & https://github.com/WhiteSymmetry/kha256 & https://pypi.org/project/kha256 & https://anaconda.org/bilgi/kha256 
+
 Keçeci, M. (2025). From Chaos to Clarity: The Keçeci Layout for Order-Dependent Systems. https://doi.org/10.5281/zenodo.17665770
 
 Keçeci, M. (2025). Kuantum Hesaplamada Doğruluk, Gürültü ve Ölçeklenebilirlik: NISQ Çağı ve Ötesi için Stratejiler. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.17342849
@@ -385,7 +389,7 @@ Keçeci, M. (2025). kececinumbers [Data set]. Open Fig Share Articles (OFSAs), f
 
 Keçeci, M. (2025). kececinumbers [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.14.1; 10.48546/workflowhub.datafile.14.2; 10.48546/workflowhub.datafile.14.3
 
-Keçeci, M. (2025, May 10). Kececinumbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15377659
+Keçeci, M. (2025, May 10). Kececinumbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15377659 & https://github.com/WhiteSymmetry/kececinumbers & https://pypi.org/project/kececinumbers & https://anaconda.org/bilgi/kececinumbers
 
 Keçeci, M. (2025). From Majorana Fermions to Quantum Devices: The Role of Nanomaterials in the Second Quantum Era. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15331067
 
@@ -430,6 +434,10 @@ Keçeci, M. (2001). Konformal spinör alan teorileri [Conformal spinor field the
 ---
 
 # International Papers:
+
+160\. Keçeci, M. (2025). KHA-256: A Next-Generation Cryptographic Hash Function Based on Keçeci Numbers and Mathematical Constants. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18156885
+
+159\. Keçeci, M. (2025). KHA-256. GitHub, PyPI, Anaconda, Zenodo. https://doi.org/10.5281/zenodo.18089401 & https://github.com/WhiteSymmetry/kha256 & https://pypi.org/project/kha256 & https://anaconda.org/bilgi/kha256 
 
 158\. Keçeci, M. (2025). From Chaos to Clarity: The Keçeci Layout for Order-Dependent Systems. https://doi.org/10.5281/zenodo.17665770
 
@@ -751,6 +759,10 @@ Keçeci, M. (2001). Konformal spinör alan teorileri [Conformal spinor field the
    
 ---
 # International Papers:
+
+1. Keçeci, M. (2025). KHA-256: A Next-Generation Cryptographic Hash Function Based on Keçeci Numbers and Mathematical Constants. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18156885
+
+1. Keçeci, M. (2025). KHA-256. GitHub, PyPI, Anaconda, Zenodo. https://doi.org/10.5281/zenodo.18089401 & https://github.com/WhiteSymmetry/kha256 & https://pypi.org/project/kha256 & https://anaconda.org/bilgi/kha256 
 
 1. Keçeci, M. (2025). From Chaos to Clarity: The Keçeci Layout for Order-Dependent Systems. https://doi.org/10.5281/zenodo.17665770
 
