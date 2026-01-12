@@ -109,6 +109,8 @@ Reviewer (~30 International Scientific Journal, 2011 - ***, >150 English, Turkis
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2026). Onuncu Yüzyıl Âlimi İmâm İsmâil el-Cevherî: Aerodinamik Biliminin İkinci Kurucusu. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18217812
+
 Keçeci, M. (2025). KHA-256: A Next-Generation Cryptographic Hash Function Based on Keçeci Numbers and Mathematical Constants. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18156885
 
 Keçeci, M. (2025). KHA-256. GitHub, PyPI, Anaconda, Zenodo. https://doi.org/10.5281/zenodo.18089401 & https://github.com/WhiteSymmetry/kha256 & https://pypi.org/project/kha256 & https://anaconda.org/bilgi/kha256 
@@ -435,6 +437,8 @@ Keçeci, M. (2001). Konformal spinör alan teorileri [Conformal spinor field the
 
 # International Papers:
 
+161\. Keçeci, M. (2026). Onuncu Yüzyıl Âlimi İmâm İsmâil el-Cevherî: Aerodinamik Biliminin İkinci Kurucusu. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18217812
+
 160\. Keçeci, M. (2025). KHA-256: A Next-Generation Cryptographic Hash Function Based on Keçeci Numbers and Mathematical Constants. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18156885
 
 159\. Keçeci, M. (2025). KHA-256. GitHub, PyPI, Anaconda, Zenodo. https://doi.org/10.5281/zenodo.18089401 & https://github.com/WhiteSymmetry/kha256 & https://pypi.org/project/kha256 & https://anaconda.org/bilgi/kha256 
@@ -759,6 +763,10 @@ Keçeci, M. (2001). Konformal spinör alan teorileri [Conformal spinor field the
    
 ---
 # International Papers:
+
+1. Keçeci, M. (2026). Onuncu Yüzyıl Âlimi İmâm İsmâil el-Cevherî: Aerodinamik Biliminin İkinci Kurucusu. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18217812
+
+1. Keçeci, M. (2025). KHA-256: A Next-Generation Cryptographic Hash Function Based on Keçeci Numbers and Mathematical Constants. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18156885
 
 1. Keçeci, M. (2025). KHA-256: A Next-Generation Cryptographic Hash Function Based on Keçeci Numbers and Mathematical Constants. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18156885
 
@@ -1509,6 +1517,7 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
 204.	~1000 Badges & Certificates: 79 Elsevier, PennyLane (3 Certificate, 22 Badges) (https://pennylane.ai/profile/mkececi), B+C Microsoft Education 858 modules, 516 badges, 95 trophies, 1 reputation (https://learn.microsoft.com/en-us/users/mkececi/), 16 MVA, 30 Google, 3 ResellerClub, 3 Firefox, 1 WordPress, 3 Minecraft, 7 Fedora, 43 Spiceworks, 10 Edmodo, 27B+1C European Schoolnet, 30 Sociabble, 12 Udemy, 21 Brighttalk, 4 OpenWHO, Columbia+ (2C, 6B, https://badges.plus.columbia.edu/profile/mehmetkeeci404433/wallet), LinkedIn Learning (8C), Badgelist (27B, https://badgelist.com/u/mkececi), Credly (28B,	 https://www.credly.com/users/mkececi), BTK Akademi (5C), Accredible (5 C+B,	 https://www.credential.net/profile/mkececi/wallet), Parchment Digital Badges (151B, https://badges.parchment.com/public/collections/55f6069cb6a8861abd957632b5a465a9) etc.
 
 ---
+
 # Digital Badges & Certificates
 
     1. https://www.credly.com/users/mkececi 
@@ -1561,3 +1570,12 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
         f. Flight mechanics - The basis
 
 ---
+
+# Software Repositories:
+
+1. https://github.com/WhiteSymmetry
+2. https://pypi.org/project/???/
+3. https://anaconda.org/bilgi
+4. https://prefix.dev/channels/bilgi
+5. https://crates.io/users/WhiteSymmetry (Rust)
+
