@@ -1210,7 +1210,7 @@ Keçeci, M. (2001). Konformal spinör alan teorileri [Conformal spinor field the
 
 1. Küresel Gambit: The Global Gambit, ISBN: 9781006625435, Blurb
 
-1. Keçeci, M. (2021). Öz Farkındalık: Mindfulness (Bilgeliğin Üçüncü Adımı: Third Step of Wisdom), ISBN: 9781034850311, Blurb
+1. Keçeci, M. (2021). Öz Farkındalık: Self-Awareness (Bilgeliğin İkinci Adımı: Second Step of Wisdom), ISBN: 9781034850311, Blurb
 
 1. Keçeci, M. (2023). Digital Art Therapy I, ISBN: 9798211486119, Blurb
 
