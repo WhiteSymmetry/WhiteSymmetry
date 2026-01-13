@@ -1574,7 +1574,7 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
 # Software Repositories:
 
 1. https://github.com/WhiteSymmetry
-2. https://pypi.org/project/???/
+2. https://pypi.org/user/WhiteSymmetry/
 3. https://anaconda.org/bilgi
 4. https://prefix.dev/channels/bilgi
 5. https://crates.io/users/WhiteSymmetry (Rust)
