@@ -373,53 +373,53 @@ Keçeci, M. (2025). Nodal-line semimetals: A geometric advantage in quantum info
 
 Keçeci, M. (2025). Weyl semimetals: Discovery of exotic electronic states and topological phases. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15447116
 
-Keçeci, M. (2025, May 15). The Keçeci binomial square: A reinterpretation of the standard binomial expansion and its potential applications. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15425529
+Keçeci, M. (2025). The Keçeci binomial square: A reinterpretation of the standard binomial expansion and its potential applications. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15425529
 
 Keçeci, M. (2025). kececisquares [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.15.1 
 
-Keçeci, M. (2025, May 14). Kececisquares. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15411670
+Keçeci, M. (2025). Kececisquares. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15411670
 
-Keçeci, M. (2025, May 13). Scalable complexity: Mathematical analysis and potential for physical applications of the Keçeci circle fractal. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15392772
+Keçeci, M. (2025). Scalable complexity: Mathematical analysis and potential for physical applications of the Keçeci circle fractal. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15392772
 
 Keçeci, M. (2025). kececifractals [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.16.3
 
-Keçeci, M. (2025, May 13). Kececifractals. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15392518
+Keçeci, M. (2025). Kececifractals. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15392518
 
-Keçeci, M. (2025, May 11). Keçeci numbers and the Keçeci prime number: A potential number theoretic exploratory tool. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15381697
+Keçeci, M. (2025). Keçeci numbers and the Keçeci prime number: A potential number theoretic exploratory tool. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15381697
 
 Keçeci, M. (2025). kececinumbers [Data set]. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29816414
 
 Keçeci, M. (2025). kececinumbers [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.14.1; 10.48546/workflowhub.datafile.14.2; 10.48546/workflowhub.datafile.14.3
 
-Keçeci, M. (2025, May 10). Kececinumbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15377659 & https://github.com/WhiteSymmetry/kececinumbers & https://pypi.org/project/kececinumbers & https://anaconda.org/bilgi/kececinumbers
+Keçeci, M. (2025). Kececinumbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15377659 & https://github.com/WhiteSymmetry/kececinumbers & https://pypi.org/project/kececinumbers & https://anaconda.org/bilgi/kececinumbers
 
 Keçeci, M. (2025). From Majorana Fermions to Quantum Devices: The Role of Nanomaterials in the Second Quantum Era. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15331067
 
-Keçeci, M. (2025, May 1). Keçeci Layout. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15314328
+Keçeci, M. (2025). Keçeci Layout. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15314328
 
 Keçeci, M. (2025). kececilayout. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29582084
 
 Keçeci, M. (2025). kececilayout [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.17.2
 
-Keçeci, M. (2025, May 1). Kececilayout. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15313946 
+Keçeci, M. (2025). Kececilayout. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15313946 
 
 Keçeci, M. (2025). Grikod2 [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.13.1
 
-Keçeci, M. (2025, May 6). Grikod2. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15352206
+Keçeci, M. (2025). Grikod2. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15352206
 
 Keçeci, M. (2025). Grikod [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.12.2 
 
-Keçeci, M. (2025, May 6). Grikod. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.12731345
+Keçeci, M. (2025). Grikod. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.12731345
 
 Garrett, J., Luis, E., Peng, H.-H., Cera, T., Gobinathj, Borrow, J., Keçeci, M., Splines, Iyer, S., Liu, Y., cjw, & Gasanov, M. (2022–2023). garrettj403/SciencePlots (Versions 2.1.1, 2.1.0, 2.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10206719 (v2.1.1); https://doi.org/10.5281/zenodo.7986336 (v2.1.0); https://doi.org/10.5281/zenodo.7394724 (v2.0.1)
 
 Keçeci, M. (2021). The Next Stop: Future Planet Walks. In SEDS Space Arts 2021, Global Art Competition, Sri Lanka. https://doi.org/10.13140/RG.2.2.21394.12482; https://doi.org/10.6084/m9.figshare.22005449
 
-Keçeci, M. (2020, October 25). Discourse on the second quantum revolution and nanotechnology applications in the midst of the COVID-19 pandemic of inequality. International Journal of Latest Research in Science and Technology, 9(5), 1–7. eISSN: 2278-5299. https://doi.org/10.5281/zenodo.7483395; https://doi.org/jtfr; https://www.mnkjournals.com/journal/ijlrst/Article.php?paper_id=11004
+Keçeci, M. (2020). Discourse on the second quantum revolution and nanotechnology applications in the midst of the COVID-19 pandemic of inequality. International Journal of Latest Research in Science and Technology, 9(5), 1–7. eISSN: 2278-5299. https://doi.org/10.5281/zenodo.7483395; https://doi.org/jtfr; https://www.mnkjournals.com/journal/ijlrst/Article.php?paper_id=11004
 
 Keçeci, M. (2019). Quantum and Art. Presented at International Workshop on Quantum Frontiers of Technology, TÜBİTAK, TÜSSİDE, Gebze, Türkiye. https://doi.org/10.13140/RG.2.2.27533.90089; https://tbae.tubitak.gov.tr/en/haber/quantum-frontiers-technology
 
-Keçeci, M. (2019, December 6). 2 Boyutlu Tek Katmanlı Yapıların Su Arıtımında Kullanımının Stratejik Önemi [Strategic Importance of Use of 2 Dimensional Monolayer Structures in Water Purification] [Conference presentation]. 23. Sıvı Hâl Sempozyumu (23rd Liquid State Symposium), Pîrî Reis University, Türkiye. https://doi.org/10.5281/zenodo.15567811; https://www.researchgate.net/publication/337812505
+Keçeci, M. (2019). 2 Boyutlu Tek Katmanlı Yapıların Su Arıtımında Kullanımının Stratejik Önemi [Strategic Importance of Use of 2 Dimensional Monolayer Structures in Water Purification] [Conference presentation]. 23. Sıvı Hâl Sempozyumu (23rd Liquid State Symposium), Pîrî Reis University, Türkiye. https://doi.org/10.5281/zenodo.15567811; https://www.researchgate.net/publication/337812505
 
 Keçeci, M. (2017, July 19–21). Açık Dijital Rozetlerin Eğitim ve Kariyer Planlamasında Kullanımı [Use of open digital badges in education and career planning] [Conference presentation]. ADIM Fizik Günleri VI, Balıkesir Üniversitesi (ADIM Physics Days VI, Balıkesir University), Türkiye. https://doi.org/10.5281/zenodo.15567962; https://adimfizikvi.balikesir.edu.tr; https://www.researchgate.net/publication/318658786
 
@@ -437,7 +437,9 @@ Keçeci, M. (2001). Konformal spinör alan teorileri [Conformal spinor field the
 
 # Technical Report
 
-Keçeci, M. (2026, Ocak 24). Keçeci Fraktalları ile Dalga Saçılmasının Modellenmesi (0.1.8). Zenodo. https://doi.org/10.5281/zenodo.18359915
+Keçeci, M. (2026). Keçeci Fraktalları ile Dalga Saçılmasının Modellenmesi. Zenodo. https://doi.org/10.5281/zenodo.18359915
+
+Keçeci, M. (2026, Ocak 24). Keçeci Fraktalları ile Dalga Saçılmasının Modellenmesi. Zenodo. https://doi.org/10.5281/zenodo.18359915
 
 Keçeci, M. (2026). Python 3.15.0a3 ve 3.11.14 Mikrobenchmark Performans Analizi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18355457
 
