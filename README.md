@@ -437,6 +437,8 @@ Keçeci, M. (2001). Konformal spinör alan teorileri [Conformal spinor field the
 
 # Technical Report
 
+Keçeci, M. (2026, Ocak 24). Keçeci Fraktalları ile Dalga Saçılmasının Modellenmesi (0.1.8). Zenodo. https://doi.org/10.5281/zenodo.18359915
+
 Keçeci, M. (2026). Python 3.15.0a3 ve 3.11.14 Mikrobenchmark Performans Analizi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18355457
 
 Keçeci, M. (2026). Microbenchmark Performance Analysis: Python 3.15.0a3 vs 3.11.14. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18355481
