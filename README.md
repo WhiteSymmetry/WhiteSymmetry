@@ -109,7 +109,7 @@ Reviewer (~30 International Scientific Journal, 2011 - ***, >150 English, Turkis
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
-Keçeci, M. (2026). 2n-Boyutlu Fujii Modelinde Instanton Benzeri Çözümler ve Yüksek Türevli Instantonlar Arasındaki Kuplaj Sabitinin Rolü. https://doi.org/10.5281/zenodo.18398161
+Keçeci, M. (2026). 2n-Boyutlu Fujii Modelinde Instanton Benzeri Çözümler ve Yüksek Türevli Instantonlar Arasındaki Kuplaj Sabitinin Rolü. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18398161
 
 Keçeci, M. (2026). Onuncu Yüzyıl Âlimi İmâm İsmâil el-Cevherî: Aerodinamik Biliminin İkinci Kurucusu. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18217812
 
