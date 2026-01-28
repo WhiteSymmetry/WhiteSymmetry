@@ -109,6 +109,10 @@ Reviewer (~30 International Scientific Journal, 2011 - ***, >150 English, Turkis
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2001). The Keçeci-Fujii Model Derived from Akdeniz-Dane Model: 2n-Dimensional Instanton Solutions, Higher-Derivative Interactions and Quantum Information Applications. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18399634
+
+Keçeci, M. (2001). Akdeniz-Dane Modelinden Keçeci-Fujii Modeline: 2n-Boyutlu Instanton Çözümleri, Yüksek Türevli \\ Etkileşimler ve Kuantum Bilgi Uygulamaları. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18399540
+
 Keçeci, M. (2026). 2n-Boyutlu Fujii Modelinde Instanton Benzeri Çözümler ve Yüksek Türevli Instantonlar Arasındaki Kuplaj Sabitinin Rolü. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18398161
 
 Keçeci, M. (2026). Onuncu Yüzyıl Âlimi İmâm İsmâil el-Cevherî: Aerodinamik Biliminin İkinci Kurucusu. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18217812
@@ -451,6 +455,12 @@ Keçeci, M. (2026). Microbenchmark Performance Analysis: Python 3.15.0a3 vs 3.11
     
 # International Papers:
 
+164\. Keçeci, M. (2001). The Keçeci-Fujii Model Derived from Akdeniz-Dane Model: 2n-Dimensional Instanton Solutions, Higher-Derivative Interactions and Quantum Information Applications. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18399634
+
+163\. Keçeci, M. (2001). Akdeniz-Dane Modelinden Keçeci-Fujii Modeline: 2n-Boyutlu Instanton Çözümleri, Yüksek Türevli \\ Etkileşimler ve Kuantum Bilgi Uygulamaları. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18399540
+
+162\. Keçeci, M. (2026). 2n-Boyutlu Fujii Modelinde Instanton Benzeri Çözümler ve Yüksek Türevli Instantonlar Arasındaki Kuplaj Sabitinin Rolü. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18398161
+
 161\. Keçeci, M. (2026). Onuncu Yüzyıl Âlimi İmâm İsmâil el-Cevherî: Aerodinamik Biliminin İkinci Kurucusu. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18217812
 
 160\. Keçeci, M. (2025). KHA-256: A Next-Generation Cryptographic Hash Function Based on Keçeci Numbers and Mathematical Constants. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18156885
@@ -777,6 +787,12 @@ Keçeci, M. (2026). Microbenchmark Performance Analysis: Python 3.15.0a3 vs 3.11
    
 ---
 # International Papers:
+
+1. Keçeci, M. (2001). The Keçeci-Fujii Model Derived from Akdeniz-Dane Model: 2n-Dimensional Instanton Solutions, Higher-Derivative Interactions and Quantum Information Applications. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18399634
+
+1. Keçeci, M. (2001). Akdeniz-Dane Modelinden Keçeci-Fujii Modeline: 2n-Boyutlu Instanton Çözümleri, Yüksek Türevli \\ Etkileşimler ve Kuantum Bilgi Uygulamaları. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18399540
+
+1. Keçeci, M. (2026). 2n-Boyutlu Fujii Modelinde Instanton Benzeri Çözümler ve Yüksek Türevli Instantonlar Arasındaki Kuplaj Sabitinin Rolü. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18398161
 
 1. Keçeci, M. (2026). Onuncu Yüzyıl Âlimi İmâm İsmâil el-Cevherî: Aerodinamik Biliminin İkinci Kurucusu. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18217812
 
