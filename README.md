@@ -109,6 +109,8 @@ Reviewer (~30 International Scientific Journal, 2011 - ***, >150 English, Turkis
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2026). Tenth-Century Scholar Imam Ismail al-Jawhari: The Second Founder of Aerodynamics. https://doi.org/10.5281/zenodo.18418431
+
 Keçeci, M. (2001). The Keçeci-Fujii Model Derived from Akdeniz-Dane Model: 2n-Dimensional Instanton Solutions, Higher-Derivative Interactions and Quantum Information Applications. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18399634
 
 Keçeci, M. (2001). Akdeniz-Dane Modelinden Keçeci-Fujii Modeline: 2n-Boyutlu Instanton Çözümleri, Yüksek Türevli \\ Etkileşimler ve Kuantum Bilgi Uygulamaları. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18399540
