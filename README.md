@@ -1598,7 +1598,8 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
     38. https://www.goodreads.com/author/show/12062046.Mehmet_Ke_eci 
     39. https://hcommons.org/members/mkececi
     40. https://cv.hal.science/mehmet-kececi  
-    41. https://digitalworld.coursify.me 
+    41. https://digitalworld.coursify.me
+    42. https://www.open.edu/openlearn/profiles/zw123087/achievements
 100% completed:
         a. Aerospace Propulsion
         b. Aerospace Engineering
