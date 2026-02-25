@@ -447,11 +447,15 @@ Keçeci, M. (2001). Konformal spinör alan teorileri [Conformal spinor field the
 
 Keçeci, M. (2026). Keçeci Fraktalları ile Dalga Saçılmasının Modellenmesi. Zenodo. https://doi.org/10.5281/zenodo.18359915
 
-Keçeci, M. (2026, Ocak 24). Keçeci Fraktalları ile Dalga Saçılmasının Modellenmesi. Zenodo. https://doi.org/10.5281/zenodo.18359915
-
 Keçeci, M. (2026). Python 3.15.0a3 ve 3.11.14 Mikrobenchmark Performans Analizi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18355457
 
 Keçeci, M. (2026). Microbenchmark Performance Analysis: Python 3.15.0a3 vs 3.11.14. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18355481
+
+---
+
+# Yazılım/Software
+
+Keçeci, M. (2026). Ezan. Open Science Articles (OSAs), Zenodo. 10.5281/zenodo.18722150
 
 ---
     
@@ -1124,12 +1128,6 @@ Keçeci, M. (2026). Microbenchmark Performance Analysis: Python 3.15.0a3 vs 3.11
 
 ---
 
-# Yazılım/Software
-
-1. Keçeci, M. (2026). Ezan. Open Science Articles (OSAs), Zenodo. 10.5281/zenodo.18722150
-
----
-
 # Other Citation Indexes/Indices:
 
 1. TR Dizin: https://search.trdizin.gov.tr/tr/yayin/detay/116593
@@ -1316,6 +1314,7 @@ Keçeci, M. (2026). Microbenchmark Performance Analysis: Python 3.15.0a3 vs 3.11
 
 1. Ciência ID: 411D- 32F4-237F
 ---
+
 # Internships, Courses, Certificates
 
 1. Quantum Anneling, QCobalt Workshop, QCobalt8-10, QPakistan, QWorld, October 2025
