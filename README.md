@@ -109,6 +109,8 @@ Reviewer (~30 International Scientific Journal, 2011 - ***, >150 English, Turkis
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2026). Nodal-Line Yarımetalleri: Kuantum Bilişiminde Geometrik Bir Avantaj. Open Pub Articles (OPAs). https://doi.org/10.21428/aaf7bfa8.7cda9748, https://opas.pubpub.org/pub/lqhxrioo
+
 Keçeci, M. (2026). Majorana Fermiyonlarından Kuantum Cihazlarına: İkinci Kuantum Çağında Nanomalzemelerin Rolü. Open Pub Articles (OPAs). https://doi.org/10.21428/aaf7bfa8.215373ff, https://opas.pubpub.org/pub/odgdo83p
 
 Keçeci, M. (2026). Tenth-Century Scholar Imam Ismail al-Jawhari: The Second Founder of Aerodynamics. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18418431
