@@ -1303,6 +1303,13 @@ Keçeci, M. (2026). Ezan. Open Science Articles (OSAs), Zenodo. 10.5281/zenodo.1
 1. https://scholar.google.com/citations?user=PleXSXMAAAAJ
 
 1. https://www.scopus.com/authid/detail.uri?authorId=39762289000
+   
+1. https://commons.datacite.org/orcid.org/0000-0001-9937-9839
+
+1. https://profiles.impactstory.org/u/0000-0001-9937-9839
+
+1. https://europepmc.org/authors/0000-0001-9937-9839
+   
 
    # Scientific IDs
 
@@ -1317,6 +1324,9 @@ Keçeci, M. (2026). Ezan. Open Science Articles (OSAs), Zenodo. 10.5281/zenodo.1
 1. SciProfiles: 110585
 
 1. Ciência ID: 411D- 32F4-237F
+
+1. Google Scholar: PleXSXMAAAAJ
+   
 ---
 
 # Internships, Courses, Certificates
