@@ -109,7 +109,7 @@ Reviewer (~30 International Scientific Journal, 2011 - ***, >150 English, Turkis
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
-Keçeci, Mehmet (2026), “Majorana Fermiyonlarından Kuantum Cihazlarına: 2. Kuantum Çağında Nanomalzemeler”, Mendeley Data, V1, doi: 10.17632/7zn25dktdh.1
+Keçeci, M. (2026). Majorana Fermiyonlarından Kuantum Cihazlarına: 2. Kuantum Çağında Nanomalzemeler. Mendeley Data, https://doi.org/10.17632/7zn25dktdh 
 
 Keçeci, M. (2026). Nodal-Line Yarımetalleri: Kuantum Bilişiminde Geometrik Bir Avantaj. Open Pub Articles (OPAs). https://doi.org/10.21428/aaf7bfa8.7cda9748, https://opas.pubpub.org/pub/lqhxrioo
 
@@ -1633,3 +1633,8 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
 4. https://prefix.dev/channels/bilgi
 5. https://crates.io/users/WhiteSymmetry (Rust)
 
+---
+
+# International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
+
+1. Keçeci, Mehmet (2026), “Majorana Fermiyonlarından Kuantum Cihazlarına: 2. Kuantum Çağında Nanomalzemeler”, Mendeley Data, V1, doi: 10.17632/7zn25dktdh.1
