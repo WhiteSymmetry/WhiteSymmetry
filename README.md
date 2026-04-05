@@ -373,7 +373,7 @@ Keçeci, M. (2025). Kütleçekimsel Dalga Gözlemleri ile Kuantum Bilgisayar Tek
 
 Keçeci, M. (2025). Accuracy, Noise, and Scalability in Quantum Computation: Strategies for the NISQ Era and Beyond. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15515113
 
-Keçeci, M. (2025). Kuantum Hata Düzeltme Kodlarının Tekâmülü ve Ölçeklenebilir Kuantum Hesaplamaya Etkileri: Güncel Yaklaşımlar ve Gelecek Perspektifleri. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.17328712
+Keçeci, M. (2025). Kuantum Hata Düzeltme Kodlarının Tekâmülü ve Ölçeklenebilir Kuantum Hesaplamaya Etkileri: Güncel Yaklaşımlar ve Gelecek Perspektifleri. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.17328711
 
 Keçeci, M. (2025). Quantum Error Correction Codes and Their Impact on Scalable Quantum Computation: Current Approaches and Future Perspectives. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15499657
 
