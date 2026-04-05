@@ -449,7 +449,7 @@ Keçeci, M. (2005, May). Konformal invaryant Fujii modelinin instanton tipi tam 
 
 Keçeci, M. (2002, September 16–20). Exact instanton-like solution conformal invariant of Fujii model, construct for four-dimensional and subderivative [Conference presentation]. Presented at Working Group II, Turkish Nonlinear Science Working Group, Karaburun/Izmir, Türkiye. https://dx.doi.org/10.13140/RG.2.1.1638.0964
 
-Keçeci, M. (2001). Konformal spinör alan teorileri [Conformal spinor field theories] [Master's thesis, Gebze Technical University]. YÖK National Thesis Center. https://tez.yok.gov.tr/UlusalTezMerkezi/tezSorguSonucYeni.jsp (Thesis No: 109951)
+Keçeci, M. (2001). Konformal Spinör Alan Teorileri [Conformal Spinor Field Theories] [Master's thesis, Gebze Technical University]. YÖK National Thesis Center. https://tez.yok.gov.tr/UlusalTezMerkezi/tezSorguSonucYeni.jsp (Thesis No: 109951)
 
 ---
 
@@ -799,7 +799,7 @@ Keçeci, M. (2026). Ezan. Open Science Articles (OSAs), Zenodo. 10.5281/zenodo.1
 
 2\.	Keçeci, M. (2002, September 16–20). Exact instanton-like solution conformal invariant of Fujii model, construct for four-dimensional and subderivative [Conference presentation]. Presented at Working Group II, Turkish Nonlinear Science Working Group, Karaburun/Izmir, Türkiye. https://dx.doi.org/10.13140/RG.2.1.1638.0964
 
-1\.	Keçeci, M. (2001). Konformal spinör alan teorileri [Conformal spinor field theories] [Master's thesis, Gebze Technical University]. YÖK National Thesis Center. https://tez.yok.gov.tr/UlusalTezMerkezi/tezSorguSonucYeni.jsp (Thesis No: 109951)
+1\.	Keçeci, M. (2001). Konformal Spinör Alan Teorileri [Conformal Spinor Field Theories] [Master's thesis, Gebze Technical University]. YÖK National Thesis Center. https://tez.yok.gov.tr/UlusalTezMerkezi/tezSorguSonucYeni.jsp (Thesis No: 109951)
    
 ---
 # International Papers:
@@ -1134,7 +1134,7 @@ Keçeci, M. (2026). Ezan. Open Science Articles (OSAs), Zenodo. 10.5281/zenodo.1
 
 1. Keçeci, M. (2002, September 16–20). Exact instanton-like solution conformal invariant of Fujii model, construct for four-dimensional and subderivative [Conference presentation]. Presented at Working Group II, Turkish Nonlinear Science Working Group, Karaburun/Izmir, Türkiye. https://dx.doi.org/10.13140/RG.2.1.1638.0964
 
-1. Keçeci, M. (2001). Konformal spinör alan teorileri [Conformal spinor field theories] [Master's thesis, Gebze Technical University]. YÖK National Thesis Center. https://tez.yok.gov.tr/UlusalTezMerkezi/tezSorguSonucYeni.jsp (Thesis No: 109951)
+1. Keçeci, M. (2001). Konformal Spinör Alan Teorileri [Conformal Spinor Field Theories] [Master's thesis, Gebze Technical University]. YÖK National Thesis Center. https://tez.yok.gov.tr/UlusalTezMerkezi/tezSorguSonucYeni.jsp (Thesis No: 109951)
 
 ---
 
