@@ -407,7 +407,7 @@ Keçeci, M. (2025). Keçeci numbers and the Keçeci prime number: A potential nu
 
 Keçeci, M. (2025). kececinumbers [Data set]. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29816414
 
-Keçeci, M. (2025). kececinumbers [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.14.1; 10.48546/workflowhub.datafile.14.2; 10.48546/workflowhub.datafile.14.3
+Keçeci, M. (2025). kececinumbers [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.14.1; https://doi.org/10.48546/workflowhub.datafile.14.2;	 https://doi.org/10.48546/workflowhub.datafile.14.3
 
 Keçeci, M. (2025). Kececinumbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15377659 & https://github.com/WhiteSymmetry/kececinumbers & https://pypi.org/project/kececinumbers & https://anaconda.org/bilgi/kececinumbers
 
@@ -466,6 +466,74 @@ Keçeci, M. (2026). Microbenchmark Performance Analysis: Python 3.15.0a3 vs 3.11
 # Yazılım/Software
 
 Keçeci, M. (2026). Ezan. Open Science Articles (OSAs), Zenodo. 10.5281/zenodo.18722150
+
+Garrett, J., Luis, E., Peng, H.-H., Cera, T., Gobinathj, Borrow, J., Keçeci, M., Splines, Iyer, S., Liu, Y., cjw, & Gasanov, M. (2022–2023). garrettj403/SciencePlots (Versions 2.1.1, 2.1.0, 2.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10206719 (v2.1.1);	 https://doi.org/10.5281/zenodo.7986336 (v2.1.0); https://doi.org/10.5281/zenodo.7394724 (v2.0.1)
+
+Keçeci, M. (20265). Spacecurves. https://github.com/WhiteSymmetry/spacecurves 
+
+Keçeci, M. (2025). Grikod2 [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub.	 https://doi.org/10.48546/workflowhub.datafile.13.1 
+
+Keçeci, M. (2025). Grikod2. Open Science Articles (OSAs), Zenodo.	 https://doi.org/10.5281/zenodo.15352206 
+
+Keçeci, M. (2025). Grikod [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub.	 https://doi.org/10.48546/workflowhub.datafile.12.2 
+
+Keçeci, M. (2025). Grikod. Open Science Articles (OSAs), Zenodo.	 https://doi.org/10.5281/zenodo.12731345 
+
+https://github.com/KuantumBS/grikod
+
+https://github.com/KuantumBS/grikod2 
+
+https://prefix.dev/channels/bilgi/packages/grikod 
+
+https://github.com/WhiteSymmetry/graycoder
+
+https://github.com/WhiteSymmetry/grikodrs
+
+Keçeci, M. (2026). GriKod: A safe Rust library implementing the standard Gray code conversion. https://github.com/WhiteSymmetry/grikodrs 
+
+Keçeci, M. (2025). From Chaos to Clarity: The Keçeci Layout for Order-Dependent Systems. https://doi.org/10.5281/zenodo.17665770 
+
+Keçeci, M. (2025). Deterministic Visualization of Distribution Power Grids: Integration of Power Grid Model and Keçeci Layout. Open Science Articles (OSAs), Zenodo.	 https://doi.org/10.5281/zenodo.16934620 
+
+Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Dizilimi ile Hamilton Probleminin İnteraktif Keşfi. Open Science Articles (OSAs), Zenodo.	 https://doi.org/10.5281/zenodo.16883657 
+
+Keçeci, M. (2025). The Keçeci Layout: A Deterministic Visualisation Framework for the Structural Analysis of Ordered Systems in Chemistry and Environmental Science. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16696713 
+
+Keçeci, M. (2025). The Keçeci Layout: A Deterministic, Order-Preserving Visualization Algorithm for Structured Systems. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16526798 
+
+Keçeci, M. (2025). Keçeci Deterministic Zigzag Layout. WorkflowHub.	 https://doi.org/10.48546/workflowhub.document.31.1 
+
+Keçeci, M. (2025). Keçeci Zigzag Layout Algorithm. Authorea.	 https://doi.org/10.22541/au.175087581.16524538/v1 
+
+Keçeci, M. (2025). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15792684 
+
+Keçeci, M. (2025). When Nodes Have an Order: The Keçeci Layout for Structured System Visualization. HAL open science. https://hal.science/hal-05143155;	 https://doi.org/10.13140/RG.2.2.19098.76484 
+
+Keçeci, M. (2025). The Keçeci Layout: A Cross-Disciplinary Graphical Framework for Structural Analysis of Ordered Systems. Authorea. https://doi.org/10.22541/au.175156702.26421899/v1 
+
+Keçeci, M. (2025). Beyond Traditional Diagrams: The Keçeci Layout for Structural Thinking. Knowledge Commons. https://doi.org/10.17613/v4w94-ak572 
+
+Keçeci, M. (2025). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.29468135 
+
+Keçeci, M. (2025, July 3). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. OSF. https://doi.org/10.17605/OSF.IO/9HTG3 
+
+Keçeci, M. (2025). Beyond Topology: Deterministic and Order-Preserving Graph Visualization with the Keçeci Layout. WorkflowHub. https://doi.org/10.48546/workflowhub.document.34.4 
+
+Keçeci, M. (2025). A Graph-Theoretic Perspective on the Keçeci Layout: Structuring Cross-Disciplinary Inquiry. Preprints. https://doi.org/10.20944/preprints202507.0589.v1 
+
+Keçeci, M. (2025). Keçeci Layout. Open Science Articles (OSAs), Zenodo.	 https://doi.org/10.5281/zenodo.15314328 
+
+Keçeci, M. (2025). kececilayout [Data set]. WorkflowHub.	 https://doi.org/10.48546/workflowhub.datafile.17.1 
+
+Keçeci, M. (2025, May 1). Kececilayout. Open Science Articles (OSAs), Zenodo.	 https://doi.org/10.5281/zenodo.15313946 
+
+https://github.com/WhiteSymmetry/kececilayout 
+
+https://pypi.org/project/kececilayout
+
+https://anaconda.org/channels/bilgi/packages/kececilayout/overview 
+
+https://prefix.dev/channels/bilgi/packages/kececilayout
 
 ---
     
@@ -759,7 +827,7 @@ Keçeci, M. (2026). Ezan. Open Science Articles (OSAs), Zenodo. 10.5281/zenodo.1
     
 22\.	Keçeci, M. (2025, May 11). Keçeci numbers and the Keçeci prime number: A potential number theoretic exploratory tool. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15381697
 
-21\. Keçeci, M. (2025). kececinumbers [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.14.1; 10.48546/workflowhub.datafile.14.2; 10.48546/workflowhub.datafile.14.3
+21\. Keçeci, M. (2025). kececinumbers [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.14.1; https://doi.org/10.48546/workflowhub.datafile.14.2;	 https://doi.org/10.48546/workflowhub.datafile.14.3
     
 20\.	Keçeci, M. (2025, May 10). Kececinumbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15377659
     
@@ -1092,7 +1160,7 @@ Keçeci, M. (2026). Ezan. Open Science Articles (OSAs), Zenodo. 10.5281/zenodo.1
 
 1. Keçeci, M. (2025). kececinumbers [Data set]. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29816414
 
-1. Keçeci, M. (2025). kececinumbers [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.14.1; 10.48546/workflowhub.datafile.14.2; 10.48546/workflowhub.datafile.14.3
+1. Keçeci, M. (2025). kececinumbers [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.14.1; https://doi.org/10.48546/workflowhub.datafile.14.2;	 https://doi.org/10.48546/workflowhub.datafile.14.3
 
 1. Keçeci, M. (2025, May 10). Kececinumbers. Zenodo. https://doi.org/10.5281/zenodo.15377659
 
