@@ -109,6 +109,8 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 200 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2026). spacecurves (0.1.3). Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.19672791
+
 Keçeci, M. (2026). Kuantum Hesaplamada Uzay Dolduran Eğriler: Moleküler Simülasyonlardan Hata Düzeltmeye. Open Science Articles (OSAs), Zenodo.	https://doi.org/10.5281/zenodo.19666944
 
 Keçeci, M. (2026). Hilbert Uzayları Üzerinden Kuantum Mekaniğini Anlamak: Kuantum Hesaplamada Uygulamalar. Open Science Articles (OSAs), Zenodo.	 https://doi.org/10.5281/zenodo.19221265
@@ -471,7 +473,9 @@ Keçeci, M. (2026). Ezan. Open Science Articles (OSAs), Zenodo. 10.5281/zenodo.1
 
 Garrett, J., Luis, E., Peng, H.-H., Cera, T., Gobinathj, Borrow, J., Keçeci, M., Splines, Iyer, S., Liu, Y., cjw, & Gasanov, M. (2022–2023). garrettj403/SciencePlots (Versions 2.1.1, 2.1.0, 2.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10206719 (v2.1.1);	 https://doi.org/10.5281/zenodo.7986336 (v2.1.0); https://doi.org/10.5281/zenodo.7394724 (v2.0.1)
 
-Keçeci, M. (20265). Spacecurves. https://github.com/WhiteSymmetry/spacecurves 
+Keçeci, M. (20265). Spacecurves. https://github.com/WhiteSymmetry/spacecurves
+
+Keçeci, M. (2026). spacecurves (0.1.3). Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.19672791
 
 Keçeci, M. (2025). Grikod2 [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub.	 https://doi.org/10.48546/workflowhub.datafile.13.1 
 
