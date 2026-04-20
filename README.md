@@ -109,6 +109,8 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 200 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2026). Kuantum Hesaplamada Uzay Dolduran Eğriler: Moleküler Simülasyonlardan Hata Düzeltmeye. https://doi.org/10.5281/zenodo.19666944
+
 Keçeci, M. (2026). Hilbert Uzayları Üzerinden Kuantum Mekaniğini Anlamak: Kuantum Hesaplamada Uygulamalar. Open Science Articles (OSAs), Zenodo.	 https://doi.org/10.5281/zenodo.19221265
 
 Keçeci, M. (2026). Majorana Fermiyonlarından Kuantum Cihazlarına: 2. Kuantum Çağında Nanomalzemeler. Mendeley Data, https://doi.org/10.17632/7zn25dktdh 
@@ -155,7 +157,7 @@ Keçeci, M. (2025). Interactive Exploration of the Hamiltonian Problem with Z3 a
 
 Keçeci, M. (2025). An Interactive Tool for Graph Theory Education: Exploring the Hamiltonian Problem with Z3 and the Keçeci Layout. Open Science Output Articles (OSOAs), OSF.	 https://doi.org/10.17605/OSF.IO/HZU8Y 
 
-Keçeci, M. (2025). The Hamiltonian Problem in Graph Theory Education: An Interactive Approach Using Z3 and the Keçeci Layout. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/mvq42-h4262
+Keçeci, M. (2025). The Hamiltonian Problem in Graph Theory Education: An Interactive Approach Using Z3 and the Keçeci Layout. Open Science Knowledge Articles (OSKAs), . https://doi.org/10.17613/mvq42-h4262
 
 Keçeci, M. (2025). Solving the Hamiltonian Problem in Graph Theory Education with Z3 and the Keçeci Layout. Open Work Flow Articles (OWFAs), WorkflowHub.	 https://doi.org/10.48546/workflowhub.document.48.2
 
@@ -169,7 +171,7 @@ Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Yerle
 
 Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Layout ile Hamilton Probleminin İnteraktif Keşfi. Open Science Output Articles (OSOAs), OSF.	https://doi.org/10.17605/OSF.IO/E23US 
 
-Keçeci, M. (2025). Graf Teorisi Eğitiminde Z3 ve Keçeci Layout ile Hamilton Problemi. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/g5r9k-ksb90
+Keçeci, M. (2025). Graf Teorisi Eğitiminde Z3 ve Keçeci Layout ile Hamilton Problemi. Open Science Knowledge Articles (OSKAs), . https://doi.org/10.17613/g5r9k-ksb90
 
 Keçeci, M. (2025). Graf Teorisi Eğitiminde Z3 ve Keçeci Dizilimi ile Hamilton Problemi. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.45.2
 
@@ -195,9 +197,9 @@ Keçeci, M. (2025). Keçeci Varsayımı'nın Hesaplanabilirliği: Sonlu Adımda 
 
 Keçeci, M. (2025). Keçeci Varsayımı ve Dinamik Sistemler: Farklı Başlangıç Koşullarında Yakınsama ve Döngüler. Open Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/68AFN
 
-Keçeci, M. (2025). Keçeci Varsayımı: Periyodik Çekiciler ve Keçeci Asal Sayısı (KPN) Kavramı. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/g60hy-egx74
+Keçeci, M. (2025). Keçeci Varsayımı: Periyodik Çekiciler ve Keçeci Asal Sayısı (KPN) Kavramı. Open Science Knowledge Articles (OSKAs), . https://doi.org/10.17613/g60hy-egx74
 
-Keçeci, M. (2025). Hilbert Space: The Mathematical Engine of Quantum Information Processing. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/6gagh-4dw41
+Keçeci, M. (2025). Hilbert Space: The Mathematical Engine of Quantum Information Processing. Open Science Knowledge Articles (OSKAs), . https://doi.org/10.17613/6gagh-4dw41
 
 Keçeci, M. (2025). Hilbert Space as the Geometric Foundation of Quantum Mechanics and Computing. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/ZXDBK
 
@@ -293,7 +295,7 @@ Keçeci,  M. (2025). Dynamic Sequences Versus Static Sequences: Keçeci and Ores
 
 Keçeci, M. (2025). Mobility and Constancy in Mathematical Sequences: A Study on Keçeci and Oresme Numbers. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/osf.io/68r4v
 
-Keçeci, Mehmet (2025). Dynamic and Static Approaches in Mathematics: Investigating Keçeci and Oresme Sequences. Open Science Knowledge Articles (OSKAs), Knowledge Commons  https://doi.org/10.17613/gbdgx-d8y63
+Keçeci, Mehmet (2025). Dynamic and Static Approaches in Mathematics: Investigating Keçeci and Oresme Sequences. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/gbdgx-d8y63
 
 Keçeci, Mehmet (2025). Dynamic-Static Properties of Keçeci and Oresme Number Sequences: A Comparative Examination. Open Fig Share Articles (OFSAs), figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.29504960
 
@@ -315,13 +317,13 @@ Keçeci, M. (2025). The Rise of Weyl Semimetals: Exotic States and Topological T
 
 Keçeci, M. (2025). Geometric Resilience in Quantum Systems: The Case of Nodal-Line Semimetals. Authorea. Authorea. https://doi.org/10.22541/au.175192307.76278430/v1
 
-Keçeci, M. (2025). Harnessing Geometry for Quantum Computation: Lessons from Nodal-Line Materials. Open Science Knowledge Articles (OSKAs), Knowledge Commons  https://doi.org/10.17613/w6vmd-4vb84
+Keçeci, M. (2025). Harnessing Geometry for Quantum Computation: Lessons from Nodal-Line Materials. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/w6vmd-4vb84
 
 Keçeci, M. (2025). Quantum Information at the Edge: Topological Opportunities in Nodal-Line Materials. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29484947
 
 Keçeci, M. (2025). Nodal-Line Semimetals: Unlocking Geometric Potential in Quantum Information. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.36.1
 
-Keçeci, M. (2025). From Weyl Fermions to Topological Matter: The Physics of Weyl Semimetals. Open Science Knowledge Articles (OSKAs), Knowledge Commons  https://doi.org/10.17613/p79v7-kje79
+Keçeci, M. (2025). From Weyl Fermions to Topological Matter: The Physics of Weyl Semimetals. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/p79v7-kje79
 
 Keçeci, M. (2025). Weyl Semimetals and Their Unique Electronic and Topological Characteristics. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29483816
 
@@ -331,7 +333,7 @@ Keçeci, M. (2025). When Nodes Have an Order: The Keçeci Layout for Structured 
 
 Keçeci, M. (2025). The Keçeci Layout: A Cross-Disciplinary Graphical Framework for Structural Analysis of Ordered Systems. Authorea. https://doi.org/10.22541/au.175156702.26421899/v1
 
-Keçeci, M. (2025). Beyond Traditional Diagrams: The Keçeci Layout for Structural Thinking. Open Science Knowledge Articles (OSKAs), Knowledge Commons  https://doi.org/10.17613/v4w94-ak572
+Keçeci, M. (2025). Beyond Traditional Diagrams: The Keçeci Layout for Structural Thinking. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/v4w94-ak572
 
 Keçeci, M. (2025). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. Open Fig Share Articles (OFSAs), figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.29468135
 
@@ -717,7 +719,7 @@ https://prefix.dev/channels/bilgi/packages/kececilayout
 
 76\. Keçeci, M. (2025). Mobility and Constancy in Mathematical Sequences: A Study on Keçeci and Oresme Numbers. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/osf.io/68r4v
 
-75\. Keçeci, Mehmet (2025). Dynamic and Static Approaches in Mathematics: Investigating Keçeci and Oresme Sequences. Open Science Knowledge Articles (OSKAs), Knowledge Commons  https://doi.org/10.17613/gbdgx-d8y63
+75\. Keçeci, Mehmet (2025). Dynamic and Static Approaches in Mathematics: Investigating Keçeci and Oresme Sequences. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/gbdgx-d8y63
 
 74\. Keçeci, Mehmet (2025). Dynamic-Static Properties of Keçeci and Oresme Number Sequences: A Comparative Examination. Open Fig Share Articles (OFSAs), figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.29504960
 
@@ -739,13 +741,13 @@ https://prefix.dev/channels/bilgi/packages/kececilayout
 
 66\. Keçeci, M. (2025). Geometric Resilience in Quantum Systems: The Case of Nodal-Line Semimetals. Authorea. Authorea. https://doi.org/10.22541/au.175192307.76278430/v1
 
-65\. Keçeci, M. (2025). Harnessing Geometry for Quantum Computation: Lessons from Nodal-Line Materials. Open Science Knowledge Articles (OSKAs), Knowledge Commons  https://doi.org/10.17613/w6vmd-4vb84
+65\. Keçeci, M. (2025). Harnessing Geometry for Quantum Computation: Lessons from Nodal-Line Materials. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/w6vmd-4vb84
 
 64\. Keçeci, M. (2025). Quantum Information at the Edge: Topological Opportunities in Nodal-Line Materials. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29484947
 
 63\. Keçeci, M. (2025). Nodal-Line Semimetals: Unlocking Geometric Potential in Quantum Information. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.36.1
 
-62\. Keçeci, M. (2025). From Weyl Fermions to Topological Matter: The Physics of Weyl Semimetals. Open Science Knowledge Articles (OSKAs), Knowledge Commons  https://doi.org/10.17613/p79v7-kje79
+62\. Keçeci, M. (2025). From Weyl Fermions to Topological Matter: The Physics of Weyl Semimetals. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/p79v7-kje79
 
 61\. Keçeci, M. (2025). Weyl Semimetals and Their Unique Electronic and Topological Characteristics. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29483816
 
@@ -755,7 +757,7 @@ https://prefix.dev/channels/bilgi/packages/kececilayout
 
 58\. Keçeci, M. (2025). The Keçeci Layout: A Cross-Disciplinary Graphical Framework for Structural Analysis of Ordered Systems. Authorea. https://doi.org/10.22541/au.175156702.26421899/v1
 
-57\. Keçeci, M. (2025). Beyond Traditional Diagrams: The Keçeci Layout for Structural Thinking. Open Science Knowledge Articles (OSKAs), Knowledge Commons  https://doi.org/10.17613/v4w94-ak572
+57\. Keçeci, M. (2025). Beyond Traditional Diagrams: The Keçeci Layout for Structural Thinking. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/v4w94-ak572
 
 56\. Keçeci, M. (2025). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. Open Fig Share Articles (OFSAs), figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.29468135
 
@@ -1048,7 +1050,7 @@ https://prefix.dev/channels/bilgi/packages/kececilayout
 
 1. Keçeci, M. (2025). Mobility and Constancy in Mathematical Sequences: A Study on Keçeci and Oresme Numbers. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/osf.io/68r4v
 
-1. Keçeci, Mehmet (2025). Dynamic and Static Approaches in Mathematics: Investigating Keçeci and Oresme Sequences. Open Science Knowledge Articles (OSKAs), Knowledge Commons  https://doi.org/10.17613/gbdgx-d8y63
+1. Keçeci, Mehmet (2025). Dynamic and Static Approaches in Mathematics: Investigating Keçeci and Oresme Sequences. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/gbdgx-d8y63
 
 1. Keçeci, Mehmet (2025). Dynamic-Static Properties of Keçeci and Oresme Number Sequences: A Comparative Examination. Open Fig Share Articles (OFSAs), figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.29504960
 
@@ -1070,13 +1072,13 @@ https://prefix.dev/channels/bilgi/packages/kececilayout
 
 1. Keçeci, M. (2025). Geometric Resilience in Quantum Systems: The Case of Nodal-Line Semimetals. Authorea. Authorea. https://doi.org/10.22541/au.175192307.76278430/v1
 
-1. Keçeci, M. (2025). Harnessing Geometry for Quantum Computation: Lessons from Nodal-Line Materials. Open Science Knowledge Articles (OSKAs), Knowledge Commons  https://doi.org/10.17613/w6vmd-4vb84
+1. Keçeci, M. (2025). Harnessing Geometry for Quantum Computation: Lessons from Nodal-Line Materials. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/w6vmd-4vb84
 
 1. Keçeci, M. (2025). Quantum Information at the Edge: Topological Opportunities in Nodal-Line Materials. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29484947
 
 1. Keçeci, M. (2025). Nodal-Line Semimetals: Unlocking Geometric Potential in Quantum Information. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.36.1
 
-1. Keçeci, M. (2025). From Weyl Fermions to Topological Matter: The Physics of Weyl Semimetals. Open Science Knowledge Articles (OSKAs), Knowledge Commons  https://doi.org/10.17613/p79v7-kje79
+1. Keçeci, M. (2025). From Weyl Fermions to Topological Matter: The Physics of Weyl Semimetals. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/p79v7-kje79
 
 1. Keçeci, M. (2025). Weyl Semimetals and Their Unique Electronic and Topological Characteristics. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29483816
 
@@ -1086,7 +1088,7 @@ https://prefix.dev/channels/bilgi/packages/kececilayout
 
 1. Keçeci, M. (2025). The Keçeci Layout: A Cross-Disciplinary Graphical Framework for Structural Analysis of Ordered Systems. Authorea. https://doi.org/10.22541/au.175156702.26421899/v1
 
-1. Keçeci, M. (2025). Beyond Traditional Diagrams: The Keçeci Layout for Structural Thinking. Open Science Knowledge Articles (OSKAs), Knowledge Commons  https://doi.org/10.17613/v4w94-ak572
+1. Keçeci, M. (2025). Beyond Traditional Diagrams: The Keçeci Layout for Structural Thinking. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/v4w94-ak572
 
 1. Keçeci, M. (2025). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. Open Fig Share Articles (OFSAs), figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.29468135
 
