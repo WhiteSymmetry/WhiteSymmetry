@@ -545,6 +545,9 @@ https://anaconda.org/channels/bilgi/packages/kececilayout/overview
 
 https://prefix.dev/channels/bilgi/packages/kececilayout
 
+Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.4724116
+
+
 ---
     
 # International Papers:
