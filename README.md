@@ -111,7 +111,7 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 200 English, Turki
 
 Keçeci, M. (2026). Keçeci Eğrisi: Dairesel Temelli Parametrik Bir Uzay Doldurma Eğrisi Âilesi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.19796066
 
-Keçeci, M. (2026). Space-Filling Curves for Quantum Computing: From Molecular Simulations to Error Correction. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.19794073
+Keçeci, M. (2026). Space-Filling Curves for Quantum Computing: From Molecular Simulations to Error Correction. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.19793852
 
 Keçeci, M. (2026). kececicurve. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.19696338
 
