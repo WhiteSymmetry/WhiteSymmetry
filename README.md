@@ -26,7 +26,7 @@
 [![Open Science Knowledge Articles (OSKAs)](https://img.shields.io/badge/OpenScienceKnowledgeArticles-0077B5?style=for-the-badge&logo=openscienceknowledgearticles&logoColor=white)](https://works.hcommons.org/collections/03072025/)
 [![Open Science Output Articles (OSOAs)](https://img.shields.io/badge/OpenScienceOutputArticles-0077B5?style=for-the-badge&logo=openscienceuutputarticles&logoColor=white)](https://osf.io/j9f5c)
 
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/WhiteSymmetry?theme=chartreuse&font=Shanti&ext=heatmap)
 
 ---
   <a
