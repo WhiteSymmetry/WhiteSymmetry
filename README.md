@@ -115,7 +115,7 @@ Keçeci, M. (2026). Space-Filling Curves for Quantum Computing: From Molecular S
 
 Keçeci, M. (2026). kececicurve. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.19696338
 
-Keçeci, M. (2026). spacecurves (0.1.3). Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.19672791
+Keçeci, M. (2026). spacecurves. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.19672791
 
 Keçeci, M. (2026). Kuantum Hesaplamada Uzay Dolduran Eğriler: Moleküler Simülasyonlardan Hata Düzeltmeye. Open Science Articles (OSAs), Zenodo.	https://doi.org/10.5281/zenodo.19666944
 
