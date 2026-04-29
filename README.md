@@ -109,6 +109,8 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 200 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2026). Keçeci Curve: A Circular-Based Parametric Space-Filling Curve Family. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.19885259
+
 Keçeci, M. (2026). Keçeci Eğrisi: Dairesel Temelli Parametrik Bir Uzay Doldurma Eğrisi Âilesi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.19796065
 
 Keçeci, M. (2026). Space-Filling Curves for Quantum Computing: From Molecular Simulations to Error Correction. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.19793852
