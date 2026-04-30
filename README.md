@@ -26,8 +26,6 @@
 [![Open Science Knowledge Articles (OSKAs)](https://img.shields.io/badge/OpenScienceKnowledgeArticles-0077B5?style=for-the-badge&logo=openscienceknowledgearticles&logoColor=white)](https://works.hcommons.org/collections/03072025/)
 [![Open Science Output Articles (OSOAs)](https://img.shields.io/badge/OpenScienceOutputArticles-0077B5?style=for-the-badge&logo=openscienceuutputarticles&logoColor=white)](https://osf.io/j9f5c)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/WhiteSymmetry?theme=chartreuse&font=Shanti&ext=heatmap)
-
 ---
   <a
     id="cy-effective-orcid-url"
@@ -475,7 +473,9 @@ Keçeci, M. (2026). Microbenchmark Performance Analysis: Python 3.15.0a3 vs 3.11
 
 ---
 
-# Yazılım/Software
+# Yazılım/Software/Animation/Image/Table/Other
+
+Keçeci, M. (2026). Keçeci Eğrisi Üzerinde Dalga Yoğunluğu [Animation]. https://doi.org/10.13140/RG.2.2.16364.53125
 
 Keçeci, M. (2026). kececicurve. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.19696338
 
