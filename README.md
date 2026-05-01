@@ -475,6 +475,8 @@ Keçeci, M. (2026). Microbenchmark Performance Analysis: Python 3.15.0a3 vs 3.11
 
 # Yazılım/Software/Animation/Image/Table/Other
 
+Keçeci, M. (2026). kececicurve. IEEE Dataport. https://dx.doi.org/10.21227/s756-cy21 
+
 Keçeci, M. (2026). Keçeci Eğrisi Üzerinde Dalga Yoğunluğu [Animation]. https://doi.org/10.13140/RG.2.2.16364.53125
 
 Keçeci, M. (2026). kececicurve. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.19696338
