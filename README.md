@@ -1474,7 +1474,7 @@ https://badges.plus.columbia.edu/4e747f60-0ebc-423c-a7ac-ff8ab8da3f0d
 42.	Quantum Computing Software Certificate, Womanium Quantum Global Quantum Program, 2023
 43.	QHack 2023 Certificate (Advanced), Xanadu, 2023
 https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a6f-a6223364cd3c.png	
-44.	41.	From Qubits to Quantum Computers, Womanium Quantum 2022: Global Quantum Computing & Entrepreneurship Program, Womanium Quantum Computing Hardware Program, Number: 35199426, Womanium, 2022
+44.	From Qubits to Quantum Computers, Womanium Quantum 2022: Global Quantum Computing & Entrepreneurship Program, Womanium Quantum Computing Hardware Program, Number: 35199426, Womanium, 2022
 45.	Quantum Computing & Programming, Womanium Global Quantum Computing & Entrepreneurship Program, Diploma Number: QSilver14-50, QWorld, Aug 2022
 46.	Monkeypox: Introductory course for African outbreak contexts, OpenWHO, WHO, 05.25.2022
 47.	Monkeypox: Epidemiology, preparedness and response for African outbreak contexts, OpenWHO, WHO, 05.25.2022
@@ -1486,13 +1486,12 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
 53.	Inclusion & Diversity in scientific publishing: why it’s a requirement, not a choice, 26.08.2021, Elsevier
 54.	Introduction to Quantum Computing, 08.25.2021, by Yassin Marco, Udemy
 55.	Microsoft Esports Leader, Microsoft Education, 24.08.2021
-56.	Quantum Engineering: Photonics in Quantum Computing and Quantum Networking, IEEE
-57.	Quantum, July 28, 2021
-58.	Mote Certified Educator, 27.07.2021
-59.	Create an E-book Cover Using Canva, 26.07.2021, Coursera, ID: FKT59GZXJQPS,	 https://www.coursera.org/account/accomplishments/certificate/FKT59GZXJQPS 
-60.	Disaster Awareness Training (Afet Farkındalık Eğitimi), Kocaeli AFAD, 06.07.2021
-61.	Understanding Disaster Risks, 26.07.2021, Republic of Türkiye Ministry of Interior Disaster and Emergency Management (AFAD)
-62.	Certified, Kızılay (Red Crescent), 2021
+56.	Quantum Engineering: Photonics in Quantum Computing and Quantum Networking, IEEE Quantum, July 28, 2021
+57.	Mote Certified Educator, 27.07.2021
+58.	Create an E-book Cover Using Canva, 26.07.2021, Coursera, ID: FKT59GZXJQPS,	 https://www.coursera.org/account/accomplishments/certificate/FKT59GZXJQPS 
+59.	Disaster Awareness Training (Afet Farkındalık Eğitimi), Kocaeli AFAD, 06.07.2021
+60.	Understanding Disaster Risks, 26.07.2021, Republic of Türkiye Ministry of Interior Disaster and Emergency Management (AFAD)
+61.	Certified, Kızılay (Red Crescent), 2021
 63.	Basic Training for ISO 45001:2018 Occupational Health & Safety Management Systems, Sigmacert, 09.05.202
 64.	Theme 1: Uniting Funders, Doers, and Custodians of Research to Strategically and Comprehensively Advance Quality Gender Research for SDGs, Elsevier, 2021
 65.	Sustainable Development Goals for Researchers, Elsevier, 2021
