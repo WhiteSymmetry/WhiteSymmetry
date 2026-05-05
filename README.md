@@ -475,6 +475,8 @@ Keçeci, M. (2026). Microbenchmark Performance Analysis: Python 3.15.0a3 vs 3.11
 
 # Yazılım/Software/Animation/Image/Table/Other
 
+Keçeci, M. (2026). gridshape. https://github.com/WhiteSymmetry/gridshape
+
 Keçeci, M. (2026). kececicurve. IEEE Dataport. https://dx.doi.org/10.21227/s756-cy21 
 
 Keçeci, M. (2026). Keçeci Eğrisi Üzerinde Dalga Yoğunluğu [Animation]. https://doi.org/10.13140/RG.2.2.16364.53125
@@ -1722,11 +1724,44 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
 
 1. https://github.com/WhiteSymmetry
 2. https://pypi.org/user/WhiteSymmetry/
-3. https://anaconda.org/bilgi
-4. https://prefix.dev/channels/bilgi
-5. https://crates.io/users/WhiteSymmetry (Rust)
+4. https://anaconda.org/bilgi
+5. https://prefix.dev/channels/bilgi
+6. https://crates.io/users/WhiteSymmetry (Rust)
+---
+
+# Python Project
+
+
+1. gridshape: A Python module for drawing geometric shapes on a cell matrix with high‑resolution subgrid support, statistical analysis and visualisation.
+2. kececifractals: Keçeci Fractals: Keçeci-style circle fractal.
+3. kececisquares: Keçeci Binomial Squares (Keçeci Binom Kareleri): The Keçeci Binomial Square is a series of binomial coefficients forming a square or other geometric shapes region within Khayyam (مثلث خیام), Pascal, Binomial Triangle, selected from a specified starting row with defined size and alignment.
+4. kececicurve: kececicurve, Keçeci Curve, Keçeci Eğrisi Modülü.
+5. kha256: Keçeci Hash Algorithm (Keçeci Hash Algoritması), KHA-256.
+6. kececilayout: Çeşitli graf kütüphaneleri için sıralı-zigzag yerleşimleri sağlayan bir Python paketi.
+7. kececinumbers: Keçeci Numbers: An Exploration of a Dynamic Sequence Across Diverse Number Sets.
+8. spacecurves: Space Curves (spacecurves, Uzay Eğrileri): Uzay Dolduran Eğriler Modülü.
+9. oresmen: A module for generating Oresme numbers (harmonic series partial sums).
+10. ezan: Namaz vakitleri ve kıble hesaplama aracı.
+11. adnus: A Python library for Advanced Number Systems (AdNuS), including Bicomplex, Neutrosophic, Hyperreal numbers, reals, Complex, Quaternion, Octonion, Sedenion, Pathion, Chingon, Routon, Voudon.
+12. grikod2: Converts binary numbers to Gray Code. grikod2 (Gray Code, Grey Code).
+13. oresmej: Oresme numbers refer to the sums related to the harmonic series.
+14. grikod: Converts binary numbers to Gray Code. Grikod (Gray Code, Grey Code).
+15. oresme: Oresme numbers refer to the sums related to the harmonic series
 
 ---
+
+# Rust Projesi
+
+1. grikod. https://crates.io/crates/grikod
+2. https://github.com/WhiteSymmetry/grikodrs
+
+---
+
+ # R Projesi
+
+ 1. graykoder. https://github.com/WhiteSymmetry/graycoder
+
+ 
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
