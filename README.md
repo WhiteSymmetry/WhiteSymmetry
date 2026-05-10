@@ -1578,91 +1578,92 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
 117.	Introduction to Psychology, Psychological First Aid (PFA), Kiron, 2020
 118.	Nodes Program Used in Search and Rescue Activities, 28.01.2020, Ministry of Interior, Disaster and Emergency Management Directorate (AFAD)
 119.	Disaster Awareness Training Program for Individuals and Families, 28.01.2020, Ministry of Interior, Disaster and Emergency Management Directorate (AFAD)
-120.	Flipgrid Certified Educator, 2019
-121.	Unleash creativity with MakeCode and Minecraft: Education Edition & My M. Journey, Code Builder, Example M. Lesson, Classroom Management, Multiplayer, World Setup, Microsoft, 2018
-122.	Physical computing for the non-computer science educator, Microsoft, 2018
-123.	Computational Thinking and its importance in education, Microsoft, 2018
-124.	How to Infuse Computational Thinking in your Teaching with Maker Challenges, Microsoft, 2018
-125.	Getting started with Azure for Education, Microsoft Education, 2018
-126.	OneNote Staff Notebook: Tools for staff collaboration, Microsoft, 2017
-127.	OneNote Class Notebook: A teacher's all-in-one notebook for students, Microsoft, 2017
-128.	Getting Started with OneNote, Microsoft, 2017
-129.	Streamline efficiency with Office 365 apps, Microsoft, 2017
-130.	Microsoft Forms: Creating Authentic Assessments, Microsoft, 2017
-131.	Teach Student-Led Computer Science Advocacy, Microsoft, 2017
-132.	Working with a visual learning tool (Sensavis). Microsoft, 2017
-133.	Microsoft Innovative Educator Expert 2017-2021
-134.	Microsoft Master Trainer, 2016-2021
-135.	Skype in the Classroom Expert. Microsoft, 2017
-136.	LEGO® MINDSTORMS® Education EV3. Microsoft, 2017
-137.	LEGO® MINDSTORMS® Education EV3 - In the Classroom. Microsoft, 2017
-138.	LEGO® MINDSTORMS® Education EV3 – Programming. Microsoft, 2017
-139.	LEGO® MINDSTORMS® Education EV3 - Getting Started. Microsoft, 2017
-140.	Create a world of tomorrow in your classroom with Windows 10, 2017
-141.	Game Development Crash Course w/Solar2D: Fast and EASY!, 02.23.2017, by J.A. Whye, Udemy
-142.	Build and Deploy Your First Decentralized App with Etherem, 12.10.2017, by Gary Simon, Udemy
-143.	Best Online Excel Training | Best Shortcuts in 30 mins, 02.24.2017, by Yoda Learning, Udemy
-144.	Deploying Android Apps to Different App Stores - Correctly!, 02.26.2017, by Jason Low, Udemy
-145.	How to Create Your Udemy Course, 02.24.2017, by Udemy Instructor Team, Udemy
-146.	Adobe Presenter ile Powerpointlerden Elearning yapalım, 02.24.2017, by Ercan Altuğ Yılmaz, Udemy
-147.	Udemy LIVE 2016, 02.24.2017, by Udemy Instructor Team, Udemy
-148.	How to Self-Study English Online, 02.24.2017, by Nikki Joslin, Udemy
-149.	Lean In Presents: Centered Leadership, 03.06.2017, by Joanna Barsh, LeanIn Foundation, Udemy
-150.	El Islam: Una Religión de Paz, 03.06.2017, by Claudia Ruiz Arriola, Udemy
-151.	The biography of Prophet Muhammad part 1, 03.12.2017, by Islamic Guidance, Udemy
-152.	CK-12 Certified Educator. CK-12 Foundation, 2018-2022
-153.	Summer School 101 & 201. Microsoft, 2017
-154.	Windows 10 and Classroom Agility. Microsoft, 2017
-155.	Introduction to Microsoft Teams, Microsoft, 2017
-156.	The Student Teacher Education Program, Microsoft, 2017
-157.	Reimagine the writing process with Microsoft in Education, Microsoft, 2017
-158.	Creating a digitally inclusive learning community, Microsoft, 2017
-159.	Microsoft DevOps200.3: Continuous Integration and Continuous Deployment, 10.06.2017, Certification Number: 49bde4faf53f40abb6b0ac51961fc451
-160.	Training teachers to author accessible content. Microsoft, 2017
-161.	Problem-Based Learning. Microsoft, 2017
-162.	Online Marketing Basic Training. TOBB, İŞKUR, ÇSGB Ministry confirmed (Türkiye), Google Dijital Atölye (Digital Garage), 2017 (Dijital Pazarlamanın Temelleri, Google Dijital Atölye, Google EMEA, IAB Europe, Certificate No: LBB N26 W8Q)
-163.	Teaching Sustainable Development Goals. Microsoft, 2017
-164.	Introduction to Kodu. Microsoft, 2017
-165.	TweetMeet. Microsoft, 2017
-166.	Make What's Next Through Collaboration, Citizenship, and Creative Thinking. Microsoft, 2017
-167.	Design, Deploy & Transform Workshop. Microsoft, 2017
-168.	MIE Trainer. Microsoft, 2016
-169.	Teacher academy: Windows 10. Microsoft, 2016
-170.	Digital Inking with Surface. Microsoft, 2016 145. Digital Citizenship. Microsoft, 2016
-171.	Step up to Computer Science.
-172.	Occupational Safety Specialist, OSS-C, Ministry of Labour and Social Security of the
-173.	Republic of Türkiye, 2016
-174.	Certified Microsoft Innovative Educator. Microsoft, 2016
-175.	Teacher academy: Windows 10. Microsoft, 2016
-176.	Digital Inking with Surface. Microsoft, 2016
-177.	Digital Citizenship. Microsoft, 2016
-178.	Step up to Computer Science. Microsoft, 2016
-179.	Amplifying Student Voice. Microsoft, 2016 154. Microsoft Imagine Academy. Microsoft, 2016
-180.	Prepare to Teach Creative Coding Through Games and Apps. Microsoft, 2016
-181.	Teacher Academy: Office 365. Microsoft, 2016
-182.	Introduction to Microsoft Classroom. Microsoft, 2016
-183.	Hour of Code: Facilitation Training and Lots of Resources! Microsoft, 2016
-184.	Teacher Academy: OneNote, The Ultimate Collaboration Tool. Microsoft, 2016
-185.	Technology Enriched Instruction. Microsoft, 2016 161. Educator Community Contributor. Microsoft, 2016 162. Educator Community Influencer. Microsoft, 2016
-186.	21st Century Learning Design. Microsoft, 2016
-187.	Microsoft in Education. Microsoft, 2016
-188.	Microsoft in the Classroom. Microsoft, 2016
-189.	MIE Trainer Academy Learning Path. Microsoft, 2016
-190.	Teaching with Technology 2016. Microsoft, 2016
-191.	Teaching with Technology Basics. Microsoft, 2016
-192.	Minecraft Certified Educator, Minecraft, 2016
-193.	Certified Web Solutions Provider: Web Çözümleri Sağlayıcısı Sertifikası, ResellerClub University, 2016
-194.	Occupational Safety and Health (OSH, Marmara University), 2015
-195.	120 Hour English Course (Dilko), 2005
-196.	Master Computer Teacher Certificate from M.E.B. (National Education Ministry), 2000
-197.	Expert Computer Teacher Certificate from Governorship (Yalova & Istanbul), 2000
-198.	Pedagogical Formation (University of Kocaeli), 1998
-199.	Astronomy Course (University of Ege), 1997
-200.	720 Hour English Course (University of Kocaeli), 1993-1994
-201.	Electric Counter Attention T.E.K. (Türkiye Electric Corporation) (Internship), 1993
-202.	Enamelled Wire Production, EMTEL (Internship), 1992
-203.	Arabic Language Certificate I., II. Level, Egypt, Arab Radio, 1991
-204.	~1000 Badges & Certificates: 79 Elsevier, PennyLane (3 Certificate, 22 Badges) (https://pennylane.ai/profile/mkececi), B+C Microsoft Education 858 modules, 516 badges, 95 trophies, 1 reputation (https://learn.microsoft.com/en-us/users/mkececi/), 16 MVA, 30 Google, 3 ResellerClub, 3 Firefox, 1 WordPress, 3 Minecraft, 7 Fedora, 43 Spiceworks, 10 Edmodo, 27B+1C European Schoolnet, 30 Sociabble, 12 Udemy, 21 Brighttalk, 4 OpenWHO, Columbia+ (2C, 6B, https://badges.plus.columbia.edu/profile/mehmetkeeci404433/wallet), LinkedIn Learning (8C), Badgelist (27B, https://badgelist.com/u/mkececi), Credly (28B,	 https://www.credly.com/users/mkececi), BTK Akademi (5C), Accredible (5 C+B,	 https://www.credential.net/profile/mkececi/wallet), Parchment Digital Badges (151B, https://badges.parchment.com/public/collections/55f6069cb6a8861abd957632b5a465a9) etc.
+120.	1. Meteorit Araştırmaları Çalıştayı Katılım Belgesi, Türk Meteorit Çalışma Grubu, 21-22.06.2019
+121.	Flipgrid Certified Educator, 2019
+122.	Unleash creativity with MakeCode and Minecraft: Education Edition & My M. Journey, Code Builder, Example M. Lesson, Classroom Management, Multiplayer, World Setup, Microsoft, 2018
+123.	Physical computing for the non-computer science educator, Microsoft, 2018
+124.	Computational Thinking and its importance in education, Microsoft, 2018
+125.	How to Infuse Computational Thinking in your Teaching with Maker Challenges, Microsoft, 2018
+126.	Getting started with Azure for Education, Microsoft Education, 2018
+127.	OneNote Staff Notebook: Tools for staff collaboration, Microsoft, 2017
+128.	OneNote Class Notebook: A teacher's all-in-one notebook for students, Microsoft, 2017
+129.	Getting Started with OneNote, Microsoft, 2017
+130.	Streamline efficiency with Office 365 apps, Microsoft, 2017
+131.	Microsoft Forms: Creating Authentic Assessments, Microsoft, 2017
+132.	Teach Student-Led Computer Science Advocacy, Microsoft, 2017
+133.	Working with a visual learning tool (Sensavis). Microsoft, 2017
+134.	Microsoft Innovative Educator Expert 2017-2021
+135.	Microsoft Master Trainer, 2016-2021
+136.	Skype in the Classroom Expert. Microsoft, 2017
+137.	LEGO® MINDSTORMS® Education EV3. Microsoft, 2017
+138.	LEGO® MINDSTORMS® Education EV3 - In the Classroom. Microsoft, 2017
+139.	LEGO® MINDSTORMS® Education EV3 – Programming. Microsoft, 2017
+140.	LEGO® MINDSTORMS® Education EV3 - Getting Started. Microsoft, 2017
+141.	Create a world of tomorrow in your classroom with Windows 10, 2017
+142.	Game Development Crash Course w/Solar2D: Fast and EASY!, 02.23.2017, by J.A. Whye, Udemy
+143.	Build and Deploy Your First Decentralized App with Etherem, 12.10.2017, by Gary Simon, Udemy
+144.	Best Online Excel Training | Best Shortcuts in 30 mins, 02.24.2017, by Yoda Learning, Udemy
+145.	Deploying Android Apps to Different App Stores - Correctly!, 02.26.2017, by Jason Low, Udemy
+146.	How to Create Your Udemy Course, 02.24.2017, by Udemy Instructor Team, Udemy
+147.	Adobe Presenter ile Powerpointlerden Elearning yapalım, 02.24.2017, by Ercan Altuğ Yılmaz, Udemy
+148.	Udemy LIVE 2016, 02.24.2017, by Udemy Instructor Team, Udemy
+149.	How to Self-Study English Online, 02.24.2017, by Nikki Joslin, Udemy
+150.	Lean In Presents: Centered Leadership, 03.06.2017, by Joanna Barsh, LeanIn Foundation, Udemy
+151.	El Islam: Una Religión de Paz, 03.06.2017, by Claudia Ruiz Arriola, Udemy
+152.	The biography of Prophet Muhammad part 1, 03.12.2017, by Islamic Guidance, Udemy
+153.	CK-12 Certified Educator. CK-12 Foundation, 2018-2022
+154.	Summer School 101 & 201. Microsoft, 2017
+155.	Windows 10 and Classroom Agility. Microsoft, 2017
+156.	Introduction to Microsoft Teams, Microsoft, 2017
+157.	The Student Teacher Education Program, Microsoft, 2017
+158.	Reimagine the writing process with Microsoft in Education, Microsoft, 2017
+159.	Creating a digitally inclusive learning community, Microsoft, 2017
+160.	Microsoft DevOps200.3: Continuous Integration and Continuous Deployment, 10.06.2017, Certification Number: 49bde4faf53f40abb6b0ac51961fc451
+161.	Training teachers to author accessible content. Microsoft, 2017
+162.	Problem-Based Learning. Microsoft, 2017
+163.	Online Marketing Basic Training. TOBB, İŞKUR, ÇSGB Ministry confirmed (Türkiye), Google Dijital Atölye (Digital Garage), 2017 (Dijital Pazarlamanın Temelleri, Google Dijital Atölye, Google EMEA, IAB Europe, Certificate No: LBB N26 W8Q)
+164.	Teaching Sustainable Development Goals. Microsoft, 2017
+165.	Introduction to Kodu. Microsoft, 2017
+166.	TweetMeet. Microsoft, 2017
+167.	Make What's Next Through Collaboration, Citizenship, and Creative Thinking. Microsoft, 2017
+168.	Design, Deploy & Transform Workshop. Microsoft, 2017
+169.	MIE Trainer. Microsoft, 2016
+170.	Teacher academy: Windows 10. Microsoft, 2016
+171.	Digital Inking with Surface. Microsoft, 2016 145. Digital Citizenship. Microsoft, 2016
+172.	Step up to Computer Science.
+173.	Occupational Safety Specialist, OSS-C, Ministry of Labour and Social Security of the
+174.	Republic of Türkiye, 2016
+175.	Certified Microsoft Innovative Educator. Microsoft, 2016
+176.	Teacher academy: Windows 10. Microsoft, 2016
+177.	Digital Inking with Surface. Microsoft, 2016
+178.	Digital Citizenship. Microsoft, 2016
+179.	Step up to Computer Science. Microsoft, 2016
+180.	Amplifying Student Voice. Microsoft, 2016 154. Microsoft Imagine Academy. Microsoft, 2016
+181.	Prepare to Teach Creative Coding Through Games and Apps. Microsoft, 2016
+182.	Teacher Academy: Office 365. Microsoft, 2016
+183.	Introduction to Microsoft Classroom. Microsoft, 2016
+184.	Hour of Code: Facilitation Training and Lots of Resources! Microsoft, 2016
+185.	Teacher Academy: OneNote, The Ultimate Collaboration Tool. Microsoft, 2016
+186.	Technology Enriched Instruction. Microsoft, 2016 161. Educator Community Contributor. Microsoft, 2016 162. Educator Community Influencer. Microsoft, 2016
+187.	21st Century Learning Design. Microsoft, 2016
+188.	Microsoft in Education. Microsoft, 2016
+189.	Microsoft in the Classroom. Microsoft, 2016
+190.	MIE Trainer Academy Learning Path. Microsoft, 2016
+191.	Teaching with Technology 2016. Microsoft, 2016
+192.	Teaching with Technology Basics. Microsoft, 2016
+193.	Minecraft Certified Educator, Minecraft, 2016
+194.	Certified Web Solutions Provider: Web Çözümleri Sağlayıcısı Sertifikası, ResellerClub University, 2016
+195.	Occupational Safety and Health (OSH, Marmara University), 2015
+196.	120 Hour English Course (Dilko), 2005
+197.	Master Computer Teacher Certificate from M.E.B. (National Education Ministry), 2000
+198.	Expert Computer Teacher Certificate from Governorship (Yalova & Istanbul), 2000
+199.	Pedagogical Formation (University of Kocaeli), 1998
+200.	Astronomy Course (University of Ege), 1997
+201.	720 Hour English Course (University of Kocaeli), 1993-1994
+202.	Electric Counter Attention T.E.K. (Türkiye Electric Corporation) (Internship), 1993
+203.	Enamelled Wire Production, EMTEL (Internship), 1992
+204.	Arabic Language Certificate I., II. Level, Egypt, Arab Radio, 1991
+205.	~1000 Badges & Certificates: 79 Elsevier, PennyLane (3 Certificate, 22 Badges) (https://pennylane.ai/profile/mkececi), B+C Microsoft Education 858 modules, 516 badges, 95 trophies, 1 reputation (https://learn.microsoft.com/en-us/users/mkececi/), 16 MVA, 30 Google, 3 ResellerClub, 3 Firefox, 1 WordPress, 3 Minecraft, 7 Fedora, 43 Spiceworks, 10 Edmodo, 27B+1C European Schoolnet, 30 Sociabble, 12 Udemy, 21 Brighttalk, 4 OpenWHO, Columbia+ (2C, 6B, https://badges.plus.columbia.edu/profile/mehmetkeeci404433/wallet), LinkedIn Learning (8C), Badgelist (27B, https://badgelist.com/u/mkececi), Credly (28B,	 https://www.credly.com/users/mkececi), BTK Akademi (5C), Accredible (5 C+B,	 https://www.credential.net/profile/mkececi/wallet), Parchment Digital Badges (151B, https://badges.parchment.com/public/collections/55f6069cb6a8861abd957632b5a465a9) etc.
 
 ---
 
