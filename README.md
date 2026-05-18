@@ -107,6 +107,8 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 200 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2026). Keçeci Eğrisi Âilesinin Yerellik Performansı ve Kuantum Durum Simülasyonlarındaki Uygulamaları. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.20263326
+
 Keçeci, M. (2026). Keçeci Curve: A Circular-Based Parametric Space-Filling Curve Family. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.19885259
 
 Keçeci, M. (2026). Keçeci Eğrisi: Dairesel Temelli Parametrik Bir Uzay Doldurma Eğrisi Âilesi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.19796065
@@ -297,9 +299,9 @@ Keçeci, M. (2025). oresmej [Data set]. Open Work Flow Articles (OWFAs), Workflo
 
 Keçeci, M. (2025). oresmej. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15874178
 
-Keçeci,  M. (2025). Analysing the Dynamic and Static Structures of Keçeci and Oresme Sequences. Authorea. https://doi.org/10.22541/au.175199926.64529709/v1
+Keçeci, M. (2025). Analysing the Dynamic and Static Structures of Keçeci and Oresme Sequences. Authorea. https://doi.org/10.22541/au.175199926.64529709/v1
 
-Keçeci,  M. (2025). Dynamic Sequences Versus Static Sequences: Keçeci and Oresme Numbers in Focus. Preprints. https://doi.org/10.20944/preprints202507.0781.v1
+Keçeci, M. (2025). Dynamic Sequences Versus Static Sequences: Keçeci and Oresme Numbers in Focus. Preprints. https://doi.org/10.20944/preprints202507.0781.v1
 
 Keçeci, M. (2025). Mobility and Constancy in Mathematical Sequences: A Study on Keçeci and Oresme Numbers. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/osf.io/68r4v
 
@@ -734,9 +736,9 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 79\. Keçeci, M. (2025). oresmej. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15874178
 
-78\. Keçeci,  M. (2025). Analysing the Dynamic and Static Structures of Keçeci and Oresme Sequences. Authorea. https://doi.org/10.22541/au.175199926.64529709/v1
+78\. Keçeci, M. (2025). Analysing the Dynamic and Static Structures of Keçeci and Oresme Sequences. Authorea. https://doi.org/10.22541/au.175199926.64529709/v1
 
-77\. Keçeci,  M. (2025). Dynamic Sequences Versus Static Sequences: Keçeci and Oresme Numbers in Focus. Preprints. https://doi.org/10.20944/preprints202507.0781.v1
+77\. Keçeci, M. (2025). Dynamic Sequences Versus Static Sequences: Keçeci and Oresme Numbers in Focus. Preprints. https://doi.org/10.20944/preprints202507.0781.v1
 
 76\. Keçeci, M. (2025). Mobility and Constancy in Mathematical Sequences: A Study on Keçeci and Oresme Numbers. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/osf.io/68r4v
 
