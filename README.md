@@ -107,6 +107,8 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 200 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2026). From Nanotechnology to Topological Quantum Computers: An Interdisciplinary Leap. Cambridge Open Engage. https://doi.org/10.33774/coe-2026-jlpg5
+
 Keçeci, M. (2026). Keçeci Eğrisi Âilesinin Yerellik Performansı ve Kuantum Durum Simülasyonlarındaki Uygulamaları. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.20263326
 
 Keçeci, M. (2026). Keçeci Curve: A Circular-Based Parametric Space-Filling Curve Family. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.19885259
