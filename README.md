@@ -167,7 +167,7 @@ Keçeci, M. (2025). Deterministic Visualization of Distribution Power Grids: Int
 
 Keçeci, M. (2025). Interactive Exploration of the Hamiltonian Problem with Z3 and the Keçeci Layout. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29959778 
 
-Keçeci, M. (2025). An Interactive Tool for Graph Theory Education: Exploring the Hamiltonian Problem with Z3 and the Keçeci Layout. Open Science Output Articles (OSOAs), OSF.	 https://doi.org/10.17605/OSF.IO/HZU8Y 
+Keçeci, M. (2025). An Interactive Tool for Graph Theory Education: Exploring the Hamiltonian Problem with Z3 and the Keçeci Layout. OSF.	 https://doi.org/10.17605/OSF.IO/HZU8Y 
 
 Keçeci, M. (2025). The Hamiltonian Problem in Graph Theory Education: An Interactive Approach Using Z3 and the Keçeci Layout. Open Science Knowledge Articles (OSKAs), . https://doi.org/10.17613/mvq42-h4262
 
@@ -181,7 +181,7 @@ Keçeci, M. (2025). Z3 ve Keçeci Layout ile Hamilton Problemi. ResearchGate.	ht
 
 Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Yerleşimi ile Hamilton Probleminin İnteraktif Keşfi. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29958116
 
-Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Layout ile Hamilton Probleminin İnteraktif Keşfi. Open Science Output Articles (OSOAs), OSF.	https://doi.org/10.17605/OSF.IO/E23US 
+Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Layout ile Hamilton Probleminin İnteraktif Keşfi. OSF.	https://doi.org/10.17605/OSF.IO/E23US 
 
 Keçeci, M. (2025). Graf Teorisi Eğitiminde Z3 ve Keçeci Layout ile Hamilton Problemi. Open Science Knowledge Articles (OSKAs), . https://doi.org/10.17613/g5r9k-ksb90
 
@@ -207,7 +207,7 @@ Keçeci, M. (2025). Keçeci ve Collatz Karşılaştırması: Benzer Algoritmalar
 
 Keçeci, M. (2025). Keçeci Varsayımı'nın Hesaplanabilirliği: Sonlu Adımda Kararlı Yapıya Yakınsama Sorunu. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.44.1; https://doi.org/10.48546/workflowhub.document.44.2
 
-Keçeci, M. (2025). Keçeci Varsayımı ve Dinamik Sistemler: Farklı Başlangıç Koşullarında Yakınsama ve Döngüler. Open Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/68AFN
+Keçeci, M. (2025). Keçeci Varsayımı ve Dinamik Sistemler: Farklı Başlangıç Koşullarında Yakınsama ve Döngüler. OSF. https://doi.org/10.17605/OSF.IO/68AFN
 
 Keçeci, M. (2025). Keçeci Varsayımı: Periyodik Çekiciler ve Keçeci Asal Sayısı (KPN) Kavramı. Open Science Knowledge Articles (OSKAs), . https://doi.org/10.17613/g60hy-egx74
 
@@ -600,7 +600,7 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 148\. Keçeci, M. (2025). Interactive Exploration of the Hamiltonian Problem with Z3 and the Keçeci Layout. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29959778 
 
-147\. Keçeci, M. (2025). An Interactive Tool for Graph Theory Education: Exploring the Hamiltonian Problem with Z3 and the Keçeci Layout. Open Science Output Articles (OSOAs), OSF.	 https://doi.org/10.17605/OSF.IO/HZU8Y 
+147\. Keçeci, M. (2025). An Interactive Tool for Graph Theory Education: Exploring the Hamiltonian Problem with Z3 and the Keçeci Layout. OSF.	 https://doi.org/10.17605/OSF.IO/HZU8Y 
 
 146\. Keçeci, M. (2025). The Hamiltonian Problem in Graph Theory Education: An Interactive Approach Using Z3 and the Keçeci Layout. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/mvq42-h4262
 
@@ -614,7 +614,7 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 141\. Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Yerleşimi ile Hamilton Probleminin İnteraktif Keşfi. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29958116
 
-140\. Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Layout ile Hamilton Probleminin İnteraktif Keşfi. Open Science Output Articles (OSOAs), OSF.	https://doi.org/10.17605/OSF.IO/E23US 
+140\. Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Layout ile Hamilton Probleminin İnteraktif Keşfi. OSF.	https://doi.org/10.17605/OSF.IO/E23US 
 
 139\. Keçeci, M. (2025). Graf Teorisi Eğitiminde Z3 ve Keçeci Layout ile Hamilton Problemi. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/g5r9k-ksb90
 
@@ -642,7 +642,7 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 127\.	Keçeci, M. (2025). Keçeci Varsayımı'nın Hesaplanabilirliği: Sonlu Adımda Kararlı Yapıya Yakınsama Sorunu. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.44.1; https://doi.org/10.48546/workflowhub.document.44.2
 
-126\.	Keçeci, M. (2025). Keçeci Varsayımı ve Dinamik Sistemler: Farklı Başlangıç Koşullarında Yakınsama ve Döngüler. Open Science Output Articles (OSOAs), OSF.	 https://doi.org/10.17605/OSF.IO/68AFN
+126\.	Keçeci, M. (2025). Keçeci Varsayımı ve Dinamik Sistemler: Farklı Başlangıç Koşullarında Yakınsama ve Döngüler. OSF.	 https://doi.org/10.17605/OSF.IO/68AFN
 
 125\.	Keçeci, M. (2025). Keçeci Varsayımı: Periyodik Çekiciler ve Keçeci Asal Sayısı (KPN) Kavramı. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/g60hy-egx74
 
@@ -935,7 +935,7 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 1. Keçeci, M. (2025). Interactive Exploration of the Hamiltonian Problem with Z3 and the Keçeci Layout. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29959778 
 
-1.	Keçeci, M. (2025). An Interactive Tool for Graph Theory Education: Exploring the Hamiltonian Problem with Z3 and the Keçeci Layout. Open Science Output Articles (OSOAs), OSF.	 https://doi.org/10.17605/OSF.IO/HZU8Y 
+1.	Keçeci, M. (2025). An Interactive Tool for Graph Theory Education: Exploring the Hamiltonian Problem with Z3 and the Keçeci Layout. OSF.	 https://doi.org/10.17605/OSF.IO/HZU8Y 
 
 1.	Keçeci, M. (2025). The Hamiltonian Problem in Graph Theory Education: An Interactive Approach Using Z3 and the Keçeci Layout. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/mvq42-h4262
 
@@ -949,7 +949,7 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 1.	Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Yerleşimi ile Hamilton Probleminin İnteraktif Keşfi. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29958116
 
-1.	Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Layout ile Hamilton Probleminin İnteraktif Keşfi. Open Science Output Articles (OSOAs), OSF.	https://doi.org/10.17605/OSF.IO/E23US
+1.	Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Layout ile Hamilton Probleminin İnteraktif Keşfi. OSF.	https://doi.org/10.17605/OSF.IO/E23US
 
 1.	Keçeci, M. (2025). Graf Teorisi Eğitiminde Z3 ve Keçeci Layout ile Hamilton Problemi. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/g5r9k-ksb90
 
@@ -975,7 +975,7 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 1.	Keçeci, M. (2025). Keçeci Varsayımı'nın Hesaplanabilirliği: Sonlu Adımda Kararlı Yapıya Yakınsama Sorunu. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.44.1; https://doi.org/10.48546/workflowhub.document.44.2
 
-1.	Keçeci, M. (2025). Keçeci Varsayımı ve Dinamik Sistemler: Farklı Başlangıç Koşullarında Yakınsama ve Döngüler. Open Science Output Articles (OSOAs), OSF.	 https://doi.org/10.17605/OSF.IO/68AFN
+1.	Keçeci, M. (2025). Keçeci Varsayımı ve Dinamik Sistemler: Farklı Başlangıç Koşullarında Yakınsama ve Döngüler. OSF.	 https://doi.org/10.17605/OSF.IO/68AFN
 
 1.	Keçeci, M. (2025). Keçeci Varsayımı: Periyodik Çekiciler ve Keçeci Asal Sayısı (KPN) Kavramı. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/g60hy-egx74
 
