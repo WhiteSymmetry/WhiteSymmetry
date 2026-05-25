@@ -24,7 +24,7 @@
 [![Open Fig Share Articles (OFSAs)](https://img.shields.io/badge/OpenFigShareArticles-0077B5?style=for-the-badge&logo=openfigsharearticles&logoColor=white)](https://doi.org/10.6084/m9.figshare.c.7972292)
 [![Open Work Flow Articles (OWFAs)](https://img.shields.io/badge/OpenWorkFlowArticles-0077B5?style=for-the-badge&logo=openworkflowarticles&logoColor=white)](https://workflowhub.eu/collections/34)
 [![Open Science Knowledge Articles (OSKAs)](https://img.shields.io/badge/OpenScienceKnowledgeArticles-0077B5?style=for-the-badge&logo=openscienceknowledgearticles&logoColor=white)](https://works.hcommons.org/collections/03072025/)
-[![Open Science Output Articles (OSOAs)](https://img.shields.io/badge/OpenScienceOutputArticles-0077B5?style=for-the-badge&logo=openscienceuutputarticles&logoColor=white)](https://osf.io/j9f5c)
+[![OSF](https://img.shields.io/badge/OpenScienceOutputArticles-0077B5?style=for-the-badge&logo=openscienceuutputarticles&logoColor=white)](https://osf.io/j9f5c)
 
 ---
   <a
@@ -213,7 +213,7 @@ Keçeci, M. (2025). Keçeci Varsayımı: Periyodik Çekiciler ve Keçeci Asal Sa
 
 Keçeci, M. (2025). Hilbert Space: The Mathematical Engine of Quantum Information Processing. Open Science Knowledge Articles (OSKAs), . https://doi.org/10.17613/6gagh-4dw41
 
-Keçeci, M. (2025). Hilbert Space as the Geometric Foundation of Quantum Mechanics and Computing. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/ZXDBK
+Keçeci, M. (2025). Hilbert Space as the Geometric Foundation of Quantum Mechanics and Computing. OSF. https://doi.org/10.17605/OSF.IO/ZXDBK
 
 Keçeci, M. (2025). Keçeci Varsayımı: Collatz Genelleştirmesi Olarak Çoklu Cebirsel Sistemlerde Yinelemeli Dinamikler. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16702475
 
@@ -235,9 +235,9 @@ Keçeci, M. (2025). Hipergerçek Analiz ve Nötrosofik Kümelere Dayalı Keçeci
 
 Keçeci, M. (2025). Dynamic Modelling of Keçeci Numbers Based on Hyperreal Analysis and Neutrosophic Sets. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/n4cqw-efp22
 
-Keçeci, M. (2025). Harmonik Seri Hesaplamalarının Modernizasyonu: Geleneksel Python ve JAX Arasında Bir Performans Kıyaslaması. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/BT5A3
+Keçeci, M. (2025). Harmonik Seri Hesaplamalarının Modernizasyonu: Geleneksel Python ve JAX Arasında Bir Performans Kıyaslaması. OSF. https://doi.org/10.17605/OSF.IO/BT5A3
 
-Keçeci, M. (2025). Modernising the Computation of Harmonic Series: A Performance Benchmark between JAX and Traditional Python. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/56JDU
+Keçeci, M. (2025). Modernising the Computation of Harmonic Series: A Performance Benchmark between JAX and Traditional Python. OSF. https://doi.org/10.17605/OSF.IO/56JDU
 
 Keçeci, M. (2025). Hesaplamalı Matematikte Verimlilik ve Sürdürülebilirlik: Harmonik Seri İçin JAX Tabanlı Bir Yaklaşım. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/bfw58-cbm15 
 
@@ -265,15 +265,15 @@ Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik Hipergerçek Uzaylarda Ge
 
 Keçeci, M. (2025). Geometric Representations of Keçeci Numbers in Neutrosophic Hyperreal Spaces. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29636849
 
-Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik Küme Teorisi ve Hipergerçek Uzaylarda İncelenmesi. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/KVCB6
+Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik Küme Teorisi ve Hipergerçek Uzaylarda İncelenmesi. OSF. https://doi.org/10.17605/OSF.IO/KVCB6
 
-Keçeci, M. (2025). Investigation of Keçeci Numbers via Neutrosophic Set Theory and Hyperreal Spaces. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/VMK82
+Keçeci, M. (2025). Investigation of Keçeci Numbers via Neutrosophic Set Theory and Hyperreal Spaces. OSF. https://doi.org/10.17605/OSF.IO/VMK82
 
 Keçeci, M. (2025). Geometric Interpretations of Keçeci Numbers with Neutrosophic and Hyperreal Numbers. Zenodo. https://doi.org/10.5281/zenodo.16344232
 
 Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik ve Hipergerçek Sayılarla Geometrik Yorumlamaları. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16343568
 
-Keçeci, M. (2025). adnus [Data set]. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/9C26Y
+Keçeci, M. (2025). adnus [Data set]. OSF. https://doi.org/10.17605/OSF.IO/9C26Y
 
 Keçeci, M. (2025). adnus [Data set]. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29621336
 
@@ -305,7 +305,7 @@ Keçeci, M. (2025). Analysing the Dynamic and Static Structures of Keçeci and O
 
 Keçeci, M. (2025). Dynamic Sequences Versus Static Sequences: Keçeci and Oresme Numbers in Focus. Preprints. https://doi.org/10.20944/preprints202507.0781.v1
 
-Keçeci, M. (2025). Mobility and Constancy in Mathematical Sequences: A Study on Keçeci and Oresme Numbers. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/osf.io/68r4v
+Keçeci, M. (2025). Mobility and Constancy in Mathematical Sequences: A Study on Keçeci and Oresme Numbers. OSF. https://doi.org/10.17605/osf.io/68r4v
 
 Keçeci, Mehmet (2025). Dynamic and Static Approaches in Mathematics: Investigating Keçeci and Oresme Sequences. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/gbdgx-d8y63
 
@@ -349,7 +349,7 @@ Keçeci, M. (2025). Beyond Traditional Diagrams: The Keçeci Layout for Structur
 
 Keçeci, M. (2025). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. Open Fig Share Articles (OFSAs), figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.29468135
 
-Keçeci, M. (2025, July 3). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/9HTG3
+Keçeci, M. (2025, July 3). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. OSF. https://doi.org/10.17605/OSF.IO/9HTG3
 
 Keçeci, M. (2025). Beyond Topology: Deterministic and Order-Preserving Graph Visualization with the Keçeci Layout. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.34.4
 
@@ -648,7 +648,7 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 124\. Keçeci, M. (2025). Hilbert Space: The Mathematical Engine of Quantum Information Processing. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/6gagh-4dw41
 
-123\. Keçeci, M. (2025). Hilbert Space as the Geometric Foundation of Quantum Mechanics and Computing. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/ZXDBK
+123\. Keçeci, M. (2025). Hilbert Space as the Geometric Foundation of Quantum Mechanics and Computing. OSF. https://doi.org/10.17605/OSF.IO/ZXDBK
 
 122\. Keçeci, M. (2025). Keçeci Varsayımı: Collatz Genelleştirmesi Olarak Çoklu Cebirsel Sistemlerde Yinelemeli Dinamikler. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16702475
 
@@ -670,9 +670,9 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 113\. Keçeci, M. (2025). Dynamic Modelling of Keçeci Numbers Based on Hyperreal Analysis and Neutrosophic Sets. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/n4cqw-efp22
 
-112\. Keçeci, M. (2025). Harmonik Seri Hesaplamalarının Modernizasyonu: Geleneksel Python ve JAX Arasında Bir Performans Kıyaslaması. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/BT5A3
+112\. Keçeci, M. (2025). Harmonik Seri Hesaplamalarının Modernizasyonu: Geleneksel Python ve JAX Arasında Bir Performans Kıyaslaması. OSF. https://doi.org/10.17605/OSF.IO/BT5A3
 
-111\. Keçeci, M. (2025). Modernising the Computation of Harmonic Series: A Performance Benchmark between JAX and Traditional Python. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/56JDU
+111\. Keçeci, M. (2025). Modernising the Computation of Harmonic Series: A Performance Benchmark between JAX and Traditional Python. OSF. https://doi.org/10.17605/OSF.IO/56JDU
 
 110\. Keçeci, M. (2025). Hesaplamalı Matematikte Verimlilik ve Sürdürülebilirlik: Harmonik Seri İçin JAX Tabanlı Bir Yaklaşım. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/bfw58-cbm15 
 
@@ -700,15 +700,15 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 98\. Keçeci, M. (2025). Geometric Representations of Keçeci Numbers in Neutrosophic Hyperreal Spaces. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29636849
 
-97\. Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik Küme Teorisi ve Hipergerçek Uzaylarda İncelenmesi. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/KVCB6
+97\. Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik Küme Teorisi ve Hipergerçek Uzaylarda İncelenmesi. OSF. https://doi.org/10.17605/OSF.IO/KVCB6
 
-96\. Keçeci, M. (2025). Investigation of Keçeci Numbers via Neutrosophic Set Theory and Hyperreal Spaces. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/VMK82
+96\. Keçeci, M. (2025). Investigation of Keçeci Numbers via Neutrosophic Set Theory and Hyperreal Spaces. OSF. https://doi.org/10.17605/OSF.IO/VMK82
 
 95\. Keçeci, M. (2025). Geometric Interpretations of Keçeci Numbers with Neutrosophic and Hyperreal Numbers. Zenodo. https://doi.org/10.5281/zenodo.16344232
 
 94\. Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik ve Hipergerçek Sayılarla Geometrik Yorumlamaları. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16343568
 
-93\. Keçeci, M. (2025). adnus [Data set]. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/9C26Y
+93\. Keçeci, M. (2025). adnus [Data set]. OSF. https://doi.org/10.17605/OSF.IO/9C26Y
 
 92\. Keçeci, M. (2025). adnus [Data set]. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29621336
 
@@ -742,7 +742,7 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 77\. Keçeci, M. (2025). Dynamic Sequences Versus Static Sequences: Keçeci and Oresme Numbers in Focus. Preprints. https://doi.org/10.20944/preprints202507.0781.v1
 
-76\. Keçeci, M. (2025). Mobility and Constancy in Mathematical Sequences: A Study on Keçeci and Oresme Numbers. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/osf.io/68r4v
+76\. Keçeci, M. (2025). Mobility and Constancy in Mathematical Sequences: A Study on Keçeci and Oresme Numbers. OSF. https://doi.org/10.17605/osf.io/68r4v
 
 75\. Keçeci, Mehmet (2025). Dynamic and Static Approaches in Mathematics: Investigating Keçeci and Oresme Sequences. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/gbdgx-d8y63
 
@@ -786,7 +786,7 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 56\. Keçeci, M. (2025). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. Open Fig Share Articles (OFSAs), figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.29468135
 
-55\. Keçeci, M. (2025, July 3). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/9HTG3
+55\. Keçeci, M. (2025, July 3). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. OSF. https://doi.org/10.17605/OSF.IO/9HTG3
 
 54\. Keçeci, M. (2025). Beyond Topology: Deterministic and Order-Preserving Graph Visualization with the Keçeci Layout. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.34.4
 
@@ -981,7 +981,7 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 1. Keçeci, M. (2025). Hilbert Space: The Mathematical Engine of Quantum Information Processing. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/6gagh-4dw41
 
-1. Keçeci, M. (2025). Hilbert Space as the Geometric Foundation of Quantum Mechanics and Computing. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/ZXDBK
+1. Keçeci, M. (2025). Hilbert Space as the Geometric Foundation of Quantum Mechanics and Computing. OSF. https://doi.org/10.17605/OSF.IO/ZXDBK
 
 1. Keçeci, M. (2025). Keçeci Varsayımı: Collatz Genelleştirmesi Olarak Çoklu Cebirsel Sistemlerde Yinelemeli Dinamikler. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16702475
 
@@ -1003,9 +1003,9 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 1. Keçeci, M. (2025). Dynamic Modelling of Keçeci Numbers Based on Hyperreal Analysis and Neutrosophic Sets. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/n4cqw-efp22
 
-1. Keçeci, M. (2025). Harmonik Seri Hesaplamalarının Modernizasyonu: Geleneksel Python ve JAX Arasında Bir Performans Kıyaslaması. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/BT5A3
+1. Keçeci, M. (2025). Harmonik Seri Hesaplamalarının Modernizasyonu: Geleneksel Python ve JAX Arasında Bir Performans Kıyaslaması. OSF. https://doi.org/10.17605/OSF.IO/BT5A3
 
-1. Keçeci, M. (2025). Modernising the Computation of Harmonic Series: A Performance Benchmark between JAX and Traditional Python. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/56JDU
+1. Keçeci, M. (2025). Modernising the Computation of Harmonic Series: A Performance Benchmark between JAX and Traditional Python. OSF. https://doi.org/10.17605/OSF.IO/56JDU
 
 1. Keçeci, M. (2025). Hesaplamalı Matematikte Verimlilik ve Sürdürülebilirlik: Harmonik Seri İçin JAX Tabanlı Bir Yaklaşım. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/bfw58-cbm15 
 
@@ -1033,15 +1033,15 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 1. Keçeci, M. (2025). Geometric Representations of Keçeci Numbers in Neutrosophic Hyperreal Spaces. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29636849
 
-1. Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik Küme Teorisi ve Hipergerçek Uzaylarda İncelenmesi. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/KVCB6
+1. Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik Küme Teorisi ve Hipergerçek Uzaylarda İncelenmesi. OSF. https://doi.org/10.17605/OSF.IO/KVCB6
 
-1. Keçeci, M. (2025). Investigation of Keçeci Numbers via Neutrosophic Set Theory and Hyperreal Spaces. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/VMK82
+1. Keçeci, M. (2025). Investigation of Keçeci Numbers via Neutrosophic Set Theory and Hyperreal Spaces. OSF. https://doi.org/10.17605/OSF.IO/VMK82
 
 1. Keçeci, M. (2025). Geometric Interpretations of Keçeci Numbers with Neutrosophic and Hyperreal Numbers. Zenodo. https://doi.org/10.5281/zenodo.16344232
 
 1. Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik ve Hipergerçek Sayılarla Geometrik Yorumlamaları. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16343568
 
-1. Keçeci, M. (2025). adnus [Data set]. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/9C26Y
+1. Keçeci, M. (2025). adnus [Data set]. OSF. https://doi.org/10.17605/OSF.IO/9C26Y
 
 1. Keçeci, M. (2025). adnus [Data set]. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29621336
 
@@ -1073,7 +1073,7 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 1. Keçeci,  M. (2025). Dynamic Sequences Versus Static Sequences: Keçeci and Oresme Numbers in Focus. Preprints. https://doi.org/10.20944/preprints202507.0781.v1
 
-1. Keçeci, M. (2025). Mobility and Constancy in Mathematical Sequences: A Study on Keçeci and Oresme Numbers. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/osf.io/68r4v
+1. Keçeci, M. (2025). Mobility and Constancy in Mathematical Sequences: A Study on Keçeci and Oresme Numbers. OSF. https://doi.org/10.17605/osf.io/68r4v
 
 1. Keçeci, Mehmet (2025). Dynamic and Static Approaches in Mathematics: Investigating Keçeci and Oresme Sequences. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/gbdgx-d8y63
 
@@ -1117,7 +1117,7 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 1. Keçeci, M. (2025). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. Open Fig Share Articles (OFSAs), figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.29468135
 
-1. Keçeci, M. (2025, July 3). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. Science Output Articles (OSOAs), OSF. https://doi.org/10.17605/OSF.IO/9HTG3
+1. Keçeci, M. (2025, July 3). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. OSF. https://doi.org/10.17605/OSF.IO/9HTG3
 
 1. Keçeci, M. (2025). Beyond Topology: Deterministic and Order-Preserving Graph Visualization with the Keçeci Layout. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.34.4
 
