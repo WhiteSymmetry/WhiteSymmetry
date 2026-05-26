@@ -107,6 +107,8 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 200 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2026). Weyl semimetals. OSF. https://doi.org/10.31219/osf.io/849xv_v8
+
 Keçeci, M. (2026). From Nanotechnology to Topological Quantum Computers: An Interdisciplinary Leap. Cambridge Open Engage. https://doi.org/10.33774/coe-2026-jlpg5
 
 Keçeci, M. (2026). Keçeci Eğrisi Âilesinin Yerellik Performansı ve Kuantum Durum Simülasyonlarındaki Uygulamaları. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.20263326
@@ -133,9 +135,9 @@ Keçeci, M. (2026). Majorana Fermiyonlarından Kuantum Cihazlarına: İkinci Kua
 
 Keçeci, M. (2026). Tenth-Century Scholar Imam Ismail al-Jawhari: The Second Founder of Aerodynamics. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18418431
 
-Keçeci, M. (2001). The Keçeci-Fujii Model Derived from Akdeniz-Dane Model: 2n-Dimensional Instanton Solutions, Higher-Derivative Interactions and Quantum Information Applications. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18399634
+Keçeci, M. (2026). The Keçeci-Fujii Model Derived from Akdeniz-Dane Model: 2n-Dimensional Instanton Solutions, Higher-Derivative Interactions and Quantum Information Applications. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18399634
 
-Keçeci, M. (2001). Akdeniz-Dane Modelinden Keçeci-Fujii Modeline: 2n-Boyutlu Instanton Çözümleri, Yüksek Türevli \\ Etkileşimler ve Kuantum Bilgi Uygulamaları. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18399540
+Keçeci, M. (2026). Akdeniz-Dane Modelinden Keçeci-Fujii Modeline: 2n-Boyutlu Instanton Çözümleri, Yüksek Türevli Etkileşimler ve Kuantum Bilgi Uygulamaları. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18399540
 
 Keçeci, M. (2026). 2n-Boyutlu Fujii Modelinde Instanton Benzeri Çözümler ve Yüksek Türevli Instantonlar Arasındaki Kuplaj Sabitinin Rolü. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18398161
 
