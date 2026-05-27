@@ -107,7 +107,7 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 200 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
-Keçeci, M. (2026). Weyl semimetals. OSF. https://doi.org/10.31219/osf.io/849xv_v8
+Keçeci, M. (2026). Weyl semimetals. OSF. https://doi.org/10.31219/osf.io/849xv_v9
 
 Keçeci, M. (2026). From Nanotechnology to Topological Quantum Computers: An Interdisciplinary Leap. Cambridge Open Engage. https://doi.org/10.33774/coe-2026-jlpg5
 
@@ -565,7 +565,7 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 
 ---
-    
+   
 # International Papers:
 
 164\. Keçeci, M. (2001). The Keçeci-Fujii Model Derived from Akdeniz-Dane Model: 2n-Dimensional Instanton Solutions, Higher-Derivative Interactions and Quantum Information Applications. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18399634
@@ -803,9 +803,9 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 49\.	Keçeci, M. (2025). Keçeci Fractals. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.32.2
 
 48\.	Keçeci, M. (2025). Keçeci Deterministic Zigzag Layout. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.31.1
-    
+   
 47\.	Keçeci, M. (2025). Keçeci Zigzag Layout Algorithm. Authorea. June, 2025. https://doi.org/10.22541/au.175087581.16524538/v1
-    
+   
 46\.	Keçeci, M. (2025). Keçeci's Arithmetical Square. Authorea. June, 2025. https://doi.org/10.22541/au.175070836.63624913/v1
     
 45\.	Keçeci, M. (2025). Keçeci Numbers and the Keçeci Prime Number. Authorea. June, 2025. https://doi.org/10.22541/au.174890181.14730464/v1
@@ -1206,12 +1206,12 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 1. Keçeci, M. (2025). Grikod2 [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.13.1
 
 1. Keçeci, M. (2025, May 6). Grikod2. Zenodo. https://doi.org/10.5281/zenodo.15352206
-   
+
 1. Keçeci, M. (2025). Grikod [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.12.2 
 
 1. Keçeci, M. (2025, May 6). Grikod. Zenodo. https://doi.org/10.5281/zenodo.12731345
 
-1. Garrett, J., Luis, E., Peng, H.-H., Cera, T., Gobinathj, Borrow, J., Keçeci, M., Splines, Iyer, S., Liu, Y., cjw, & Gasanov, M. (2022–2023). garrettj403/SciencePlots (Versions 2.1.1, 2.1.0, 2.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10206719  (v2.1.1); https://doi.org/10.5281/zenodo.7986336  (v2.1.0); https://doi.org/10.5281/zenodo.7394724  (v2.0.1)
+1. Garrett, J., Luis, E., Peng, H.-H., Cera, T., Gobinathj, Borrow, J., Keçeci, M., Splines, Iyer, S., Liu, Y., cjw, & Gasanov, M. (2022–2023). garrettj403/SciencePlots (Versions 2.1.1, 2.1.0, 2.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10206719 (v2.1.1); https://doi.org/10.5281/zenodo.7986336 (v2.1.0); https://doi.org/10.5281/zenodo.7394724 (v2.0.1)
 
 1. Keçeci, M. (2021). The Next Stop: Future Planet Walks. In SEDS Space Arts 2021, Global Art Competition, Sri Lanka. https://doi.org/10.13140/RG.2.2.21394.12482; https://doi.org/10.6084/m9.figshare.22005449
 
@@ -1412,9 +1412,9 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 1. https://profiles.impactstory.org/u/0000-0001-9937-9839
 
 1. https://europepmc.org/authors/0000-0001-9937-9839
-   
 
-   # Scientific IDs
+
+# Scientific IDs
 
 1. Web of Science ResearcherID: H-7476-2014
 
@@ -1429,7 +1429,7 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 1. Ciência ID: 411D- 32F4-237F
 
 1. Google Scholar: PleXSXMAAAAJ
-   
+
 ---
 
 # Internships, Courses, Certificates
@@ -1678,7 +1678,7 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
 
     1. https://www.credly.com/users/mkececi 
     2. https://badges.parchment.com/public/collections/55f6069cb6a8861abd957632b5a465a9 
-    3. https://badges.parchment.com/public/issuers/yP8s_p1_RW2xLbBXM_NL0Q/badges  
+    3. https://badges.parchment.com/public/issuers/yP8s_p1_RW2xLbBXM_NL0Q/badges
     4. https://www.credential.net/profile/mkececi/wallet 
     5. https://openbadgepassport.com/app/profile/15961 
     6. https://edex.adobe.com/community/member/_9cgemrxj 
@@ -1705,7 +1705,7 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
     27. https://badges.plus.columbia.edu/profile/mehmetkeeci404433/wallet 
     28. https://www.coursera.org/user/f50fe5dc943341246de13b30169ed87d
     29. https://www.brighttalk.com/mybrighttalk/recently-viewed
-    30. https://wakelet.com/@mkececi  
+    30. https://wakelet.com/@mkececi
     31. https://medium.com/@mkececi 
     32. https://www.growkudos.com/profile/Mehmet_Ke%C3%A7eci 
     33. https://anaconda.org/bilgi 
@@ -1715,7 +1715,7 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
     37. https://figshare.com/authors/Mehmet_Ke_eci/14301782 
     38. https://www.goodreads.com/author/show/12062046.Mehmet_Ke_eci 
     39. https://hcommons.org/members/mkececi
-    40. https://cv.hal.science/mehmet-kececi  
+    40. https://cv.hal.science/mehmet-kececi
     41. https://digitalworld.coursify.me
     42. https://www.open.edu/openlearn/profiles/zw123087/achievements
 100% completed:
