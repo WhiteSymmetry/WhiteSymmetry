@@ -1464,8 +1464,8 @@ https://badges.plus.columbia.edu/4e747f60-0ebc-423c-a7ac-ff8ab8da3f0d
 24.	Mendeley Advisor, 2024
 25.	Practical Introduction to Quantum-Safe Cryptography, IBM, Nov 2, 2024, Diploma Number: 57832e33-eb4b-4542-94a6-00f5650a9a92
 26.	Basics of Quantum Information, IBM, Nov 1, 2024, Diploma Number: 6155bf93-65f9-4b1f-9640-5ca7380b4a87
-27.	Quantum Business Foundations, IBM, Oct 31, 2024, iploma Number: 4f629c23-0b19-40bf-a1c5-d9f268c94699
-28.	Variational Algorithm Design, IBM, Oct 30, 2024, iploma Number: 492863ba-5624-48c0-8af0-6d13a70e47e0
+27.	Quantum Business Foundations, IBM, Oct 31, 2024, Diploma Number: 4f629c23-0b19-40bf-a1c5-d9f268c94699
+28.	Variational Algorithm Design, IBM, Oct 30, 2024, Diploma Number: 492863ba-5624-48c0-8af0-6d13a70e47e0
 29.	Ingenii QML for Medical Imaging Course, 25.11.2024
 30.	Ingenii Quantum Machine Learning Fundamentals Course, 08.10.2024
 31.	Quantum with String Diagrams, Diploma Number: Quantum with String Diagrams1-16, Quantum Barsaat 2024, QWorld & QPakistan, August 2024
