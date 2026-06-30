@@ -1461,13 +1461,15 @@ https://badges.plus.columbia.edu/4e747f60-0ebc-423c-a7ac-ff8ab8da3f0d
 21.	Gönüllü Oryantasyon Semineri, Türk Kızılay Akademi, Diploma Number: sJacJt6FFB
 22.	Kızılay Uyum Eğitimi, Türk Kızılay Akademi, Belge No: zs1Sl3NaVS, 31 Aralık 2024
 23.	NASA-National Aeronautics and Space Administration, NASA Open Science
-24.	Basics of Quantum Information, IBM, 01.11.2024, Diploma Number: 6155bf93-65f9-4b1f-9640-5ca7380b4a87
-25.	Mendeley Advisor, 2024
-26.	Practical Introduction to Quantum-Safe Cryptography, IBM, 2024, Diploma Number: 57832e33-eb4b-4542-94a6-00f5650a9a92
-27.	Ingenii QML for Medical Imaging Course, 25.11.2024
-28.	Ingenii Quantum Machine Learning Fundamentals Course, 08.10.2024
-29.	Quantum with String Diagrams, Diploma Number: Quantum with String Diagrams1-16, Quantum Barsaat 2024, QWorld & QPakistan, August 2024
-30.	QCobalt, Quantum Annealing, Quantum Barsaat 2024, QWorld & QPakistan, Diploma Number: QCobalt6-18, July 2024
+24.	Mendeley Advisor, 2024
+25.	Practical Introduction to Quantum-Safe Cryptography, IBM, Nov 2, 2024, Diploma Number: 57832e33-eb4b-4542-94a6-00f5650a9a92
+26.	Basics of Quantum Information, IBM, Nov 1, 2024, Diploma Number: 6155bf93-65f9-4b1f-9640-5ca7380b4a87
+27.	Quantum Business Foundations, IBM, Oct 31, 2024, iploma Number: 4f629c23-0b19-40bf-a1c5-d9f268c94699
+28.	Variational Algorithm Design, IBM, Oct 30, 2024, iploma Number: 492863ba-5624-48c0-8af0-6d13a70e47e0
+29.	Ingenii QML for Medical Imaging Course, 25.11.2024
+30.	Ingenii Quantum Machine Learning Fundamentals Course, 08.10.2024
+31.	Quantum with String Diagrams, Diploma Number: Quantum with String Diagrams1-16, Quantum Barsaat 2024, QWorld & QPakistan, August 2024
+32.	QCobalt, Quantum Annealing, Quantum Barsaat 2024, QWorld & QPakistan, Diploma Number: QCobalt6-18, July 2024
 31.	QBronze Using Qiskit, Quantum Computing & Programming, Quantum Barsaat 2024, QWorld & QPakistan & Qiskit, Diploma Number: QBronze137-25, July 2024
 32.	QPrep: Preparation for Quantum Computing & Programming, Quantum Barsaat 2024, QWorld & QPakistan, Diploma Number: QPrep14-32, July 2024
 33.	Quantum Annealing, QClass23/24, Diploma Number: QCobalt4-21, University of Latvia Faculty of Computing, QWorld, May 2024
