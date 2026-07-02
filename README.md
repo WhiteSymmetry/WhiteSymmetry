@@ -107,6 +107,8 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 200 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2026). Zayıf Sinyallerden Güçlü X-Işınlarına: Amplifikasyonun Fiziksel Temelleri, Teknolojik Uygulamaları ve Gelecek Perspektifleri. https://doi.org/10.5281/zenodo.21137301
+
 Keçeci, M. (2026). Weyl semimetals. OSF. https://doi.org/10.31219/osf.io/849xv_v9
 
 Keçeci, M. (2026). From Nanotechnology to Topological Quantum Computers: An Interdisciplinary Leap. Cambridge Open Engage. https://doi.org/10.33774/coe-2026-jlpg5
