@@ -1764,6 +1764,7 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
 13. oresmej: Oresme numbers refer to the sums related to the harmonic series.
 14. grikod: Converts binary numbers to Gray Code. Grikod (Gray Code, Grey Code).
 15. oresme: Oresme numbers refer to the sums related to the harmonic series
+16. grikod3: Converts binary numbers to Gray Code. grikod2 (Gray Code, Grey Code).
 
 ---
 
