@@ -1,4 +1,11 @@
+<div align="center">
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+    <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-green-animate.svg" />
+  </picture>
+
+</div>
 ![GitHub followers](https://img.shields.io/github/followers/WhiteSymmetry?label=Follow&style=social)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WhiteSymmetry&theme=2077)
