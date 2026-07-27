@@ -176,7 +176,7 @@ Keçeci, M. (2025). Interactive Exploration of the Hamiltonian Problem with Z3 a
 
 Keçeci, M. (2025). An Interactive Tool for Graph Theory Education: Exploring the Hamiltonian Problem with Z3 and the Keçeci Layout. OSF.	 https://doi.org/10.17605/OSF.IO/HZU8Y 
 
-Keçeci, M. (2025). The Hamiltonian Problem in Graph Theory Education: An Interactive Approach Using Z3 and the Keçeci Layout. Open Science Knowledge Articles (OSKAs), . https://doi.org/10.17613/mvq42-h4262
+Keçeci, M. (2025). The Hamiltonian Problem in Graph Theory Education: An Interactive Approach Using Z3 and the Keçeci Layout. Open Science Knowledge Articles (OSKAs). https://doi.org/10.17613/mvq42-h4262
 
 Keçeci, M. (2025). Solving the Hamiltonian Problem in Graph Theory Education with Z3 and the Keçeci Layout. Open Work Flow Articles (OWFAs), WorkflowHub.	 https://doi.org/10.48546/workflowhub.document.48.2
 
@@ -190,7 +190,7 @@ Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Yerle
 
 Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Layout ile Hamilton Probleminin İnteraktif Keşfi. OSF.	https://doi.org/10.17605/OSF.IO/E23US 
 
-Keçeci, M. (2025). Graf Teorisi Eğitiminde Z3 ve Keçeci Layout ile Hamilton Problemi. Open Science Knowledge Articles (OSKAs), . https://doi.org/10.17613/g5r9k-ksb90
+Keçeci, M. (2025). Graf Teorisi Eğitiminde Z3 ve Keçeci Layout ile Hamilton Problemi. Open Science Knowledge Articles (OSKAs). https://doi.org/10.17613/g5r9k-ksb90
 
 Keçeci, M. (2025). Graf Teorisi Eğitiminde Z3 ve Keçeci Dizilimi ile Hamilton Problemi. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.45.2
 
@@ -216,9 +216,9 @@ Keçeci, M. (2025). Keçeci Varsayımı'nın Hesaplanabilirliği: Sonlu Adımda 
 
 Keçeci, M. (2025). Keçeci Varsayımı ve Dinamik Sistemler: Farklı Başlangıç Koşullarında Yakınsama ve Döngüler. OSF. https://doi.org/10.17605/OSF.IO/68AFN
 
-Keçeci, M. (2025). Keçeci Varsayımı: Periyodik Çekiciler ve Keçeci Asal Sayısı (KPN) Kavramı. Open Science Knowledge Articles (OSKAs), . https://doi.org/10.17613/g60hy-egx74
+Keçeci, M. (2025). Keçeci Varsayımı: Periyodik Çekiciler ve Keçeci Asal Sayısı (KPN) Kavramı. Open Science Knowledge Articles (OSKAs). https://doi.org/10.17613/g60hy-egx74
 
-Keçeci, M. (2025). Hilbert Space: The Mathematical Engine of Quantum Information Processing. Open Science Knowledge Articles (OSKAs), . https://doi.org/10.17613/6gagh-4dw41
+Keçeci, M. (2025). Hilbert Space: The Mathematical Engine of Quantum Information Processing. Open Science Knowledge Articles (OSKAs). https://doi.org/10.17613/6gagh-4dw41
 
 Keçeci, M. (2025). Hilbert Space as the Geometric Foundation of Quantum Mechanics and Computing. OSF. https://doi.org/10.17605/OSF.IO/ZXDBK
 
