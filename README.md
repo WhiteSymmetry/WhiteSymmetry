@@ -1463,7 +1463,7 @@ https://badges.plus.columbia.edu/4e747f60-0ebc-423c-a7ac-ff8ab8da3f0d
 18.	Destek AFAD Gönüllüsü Eğitimi, 25 saat, 10-14.02.2025, Katılım Belgesi, Belge No: 32184, Ümraniye AFAD, İstanbul, T.C. İstanbul Valiliği İl Afet ve Acil Durum Müdürlüğü, 14.02.2025
 19.	İşyerlerinde Yangın Risklerinin Yönetimi Eğitimi, 24 saat, Başarı Belgesi, İstanbul Sanayi Odası (Istanbul Chamber of Industry), İSO Akademi, Belgeyi Onaylayan: Murat Çalışır, Belge No: ISG-00224-379, 15.10.2024 – 14.01.2025
 20.	Elements of Quantum Computing and Programming, QCourse501-2-88, QWorld, September 2024- December 2024
-21.	Gradle Build Caching with Develocity, Gradle Inc., Diploma Number: d1a09899-d943-4235-b5a7-1fed0d3a2e11, 2024
+21.	Gradle Build Caching with Develocity, DPE University: Gradle Inc., Diploma Number: d1a09899-d943-4235-b5a7-1fed0d3a2e11, 2024
 22.	Gönüllü Oryantasyon Semineri, Türk Kızılay Akademi, Diploma Number: sJacJt6FFB
 23.	Kızılay Uyum Eğitimi, Türk Kızılay Akademi, Belge No: zs1Sl3NaVS, 31 Aralık 2024
 24.	NASA-National Aeronautics and Space Administration, NASA Open Science
