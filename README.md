@@ -259,6 +259,46 @@ mindmap
       ezan
 ```
 
+![Projects](https://img.shields.io/badge/Projects-16-blue)
+![Language](https://img.shields.io/badge/Language-Python-yellow)
+![Scope](https://img.shields.io/badge/Scope-Scientific%20%26%20Mathematical-brightgreen)
+
+### Keçeci Projects
+
+| Category | Projects | Notes |
+|---|---|---|
+| Core | grikod, grikod2, grikod3, kha256 | Gray code and hashing |
+| Number Systems | adnus | Advanced number systems |
+| Graph & Layout | oresme, oresmej, oresmen, kececilayout, gridshape, spacecurves | Graph theory, layouts, and geometry |
+| Visualizations | kececifractals, kececicurve, kececisquares, kececinumbers | Fractals, curves, and numeric patterns |
+| Applications | ezan | Prayer times and qibla |
+
+```mermaid
+mindmap
+  root((Keçeci Projects))
+    Core
+      grikod
+      grikod2
+      grikod3
+      kha256
+    Number Systems
+      adnus
+    Graph & Layout
+      oresme
+      oresmej
+      oresmen
+      kececilayout
+      gridshape
+      spacecurves
+    Visualizations
+      kececifractals
+      kececicurve
+      kececisquares
+      kececinumbers
+    Applications
+      ezan
+```
+
 ---
 
 Physicist (Completed the dissertation phase of the Ph.D. in Physics), Reviewer, Author, Teacher & Lecturer, Occupational Safety Specialist, Editor
