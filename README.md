@@ -43,15 +43,19 @@
     </a>
 ---
 
+![Projects](https://img.shields.io/badge/Projects-18-blue)
+![Languages](https://img.shields.io/badge/Languages-Python%2C%20R%2C%20Rust-yellow)
+![Scope](https://img.shields.io/badge/Scope-Scientific%20%26%20Mathematical-brightgreen)
+
 ### Keçeci Projects
 
-| Category | Projects |
-|---|---|
-| Core | grikod, grikod2, grikod3, kha256 |
-| Number Systems | adnus |
-| Graph & Layout | oresme, oresmej, oresmen, kececilayout, gridshape, spacecurves |
-| Visualizations | kececifractals, kececicurve, kececisquares, kececinumbers |
-| Applications | ezan |
+| Category | Projects | Notes |
+|---|---|---|
+| Core | grikod, grikod2, grikod3, graycoder, grikodrs, kha256 | Gray code and hashing |
+| Number Systems | adnus | Advanced number systems |
+| Graph & Layout | oresme, oresmej, oresmen, kececilayout, gridshape, spacecurves | Graph theory, layouts, and geometry |
+| Visualizations | kececifractals, kececicurve, kececisquares, kececinumbers | Fractals, curves, and numeric patterns |
+| Applications | ezan | Prayer times and qibla |
 
 
 ```mermaid
@@ -240,46 +244,8 @@ mindmap
       grikod
       grikod2
       grikod3
-      kha256
-    Number Systems
-      adnus
-    Graph & Layout
-      oresme
-      oresmej
-      oresmen
-      kececilayout
-      gridshape
-      spacecurves
-    Visualizations
-      kececifractals
-      kececicurve
-      kececisquares
-      kececinumbers
-    Applications
-      ezan
-```
-
-![Projects](https://img.shields.io/badge/Projects-16-blue)
-![Language](https://img.shields.io/badge/Language-Python-yellow)
-![Scope](https://img.shields.io/badge/Scope-Scientific%20%26%20Mathematical-brightgreen)
-
-### Keçeci Projects
-
-| Category | Projects | Notes |
-|---|---|---|
-| Core | grikod, grikod2, grikod3, kha256 | Gray code and hashing |
-| Number Systems | adnus | Advanced number systems |
-| Graph & Layout | oresme, oresmej, oresmen, kececilayout, gridshape, spacecurves | Graph theory, layouts, and geometry |
-| Visualizations | kececifractals, kececicurve, kececisquares, kececinumbers | Fractals, curves, and numeric patterns |
-| Applications | ezan | Prayer times and qibla |
-
-```mermaid
-mindmap
-  root((Keçeci Projects))
-    Core
-      grikod
-      grikod2
-      grikod3
+      graycoder
+      grikodrs
       kha256
     Number Systems
       adnus
