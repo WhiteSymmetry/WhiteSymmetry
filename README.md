@@ -63,6 +63,8 @@ graph TD;
     grikod[<a href="https://github.com/KuantumBS/grikod" style="text-decoration:none;">grikod</a> <br><span style="font-size:10px;">grikod</span>];
     grikod2[<a href="https://github.com/KuantumBS/grikod2" style="text-decoration:none;">grikod2</a> <br><span style="font-size:10px;">grikod2</span>];
     grikod3[<a href="https://github.com/KuantumBS/grikod3" style="text-decoration:none;">grikod3</a> <br><span style="font-size:10px;">grikod3</span>];
+    grikoder[<a href="https://github.com/WhiteSymmetry/graycoder" style="text-decoration:none;">grikoder</a> <br><span style="font-size:10px;">grikod3er</span>];
+    grikodrs[<a href="https://github.com/WhiteSymmetry/grikodrs" style="text-decoration:none;">grikodrs</a> <br><span style="font-size:10px;">grikodrs</span>];
     adnus[<a href="https://github.com/WhiteSymmetry/adnus" style="text-decoration:none;">adnus</a> <br><span style="font-size:10px;">adnus</span>];
     oresme[<a href="https://github.com/WhiteSymmetry/oresme" style="text-decoration:none;">oresme</a> <br><span style="font-size:10px;">oresme</span>];
     oresmej[<a href="https://github.com/WhiteSymmetry/oresmej" style="text-decoration:none;">oresmej</a> <br><span style="font-size:10px;">oresmej</span>];
@@ -91,6 +93,12 @@ mindmap
       grikod3
         ::icon(fa fa-code)
         Binary to Gray code conversion
+      graycoder
+        ::icon(fa fa-code)
+        Binary to Gray Code dönüşümü
+      grikodrs
+        ::icon(fa fa-code)
+        Binary to Gray Code dönüşümü
       kha256
         ::icon(fa fa-hashtag)
         Keçeci Hash Algorithm (KHA-256)
@@ -149,6 +157,12 @@ mindmap
       grikod3
         ::icon(fa fa-code)
         Binary to Gray Code dönüşümü
+      graycoder
+        ::icon(fa fa-code)
+        Binary to Gray Code dönüşümü
+      grikodrs
+        ::icon(fa fa-code)
+        Binary to Gray Code dönüşümü
       kha256
         ::icon(fa fa-hashtag)
         Keçeci Hash Algorithm (KHA-256)
@@ -204,6 +218,10 @@ mindmap
       grikod2
         Gray code conversion
       grikod3
+        Gray code conversion
+      graycoder
+        Gray code conversion
+      grikodrs
         Gray code conversion
       kha256
         Keçeci Hash Algorithm
