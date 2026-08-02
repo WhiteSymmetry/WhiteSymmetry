@@ -43,60 +43,61 @@
     </a>
 ---
 
-```mermaid
-  graph TD;
-    grikod[<a href="https://github.com/KuantumBS/grikod" style="text-decoration:none;">grikod</a> <br><span style="font-size:10px;">grikod</span>];
-    grikod2[<a href="https://github.com/KuantumBS/grikod2" style="text-decoration:none;">grikod2</a> <br><span style="font-size:10px;">grikod2</span>];
-    adnus[<a href="https://github.com/WhiteSymmetry/adnus" style="text-decoration:none;">adnus</a> <br><span style="font-size:10px;">adnus</span>];
-    oresme[<a href="https://github.com/WhiteSymmetry/oresme" style="text-decoration:none;">oresme</a> <br><span style="font-size:10px;">oresme</span>];
-    oresmej[<a href="https://github.com/WhiteSymmetry/oresmej" style="text-decoration:none;">oresmej</a> <br><span style="font-size:10px;">oresmej</span>];
-    oresmen[<a href="https://github.com/WhiteSymmetry/oresmen" style="text-decoration:none;">oresmen</a> <br><span style="font-size:10px;">oresmen</span>];
-    kececilayout[<a href="https://github.com/WhiteSymmetry/kececilayout" style="text-decoration:none;">kececilayout</a> <br><span style="font-size:10px;">kececilayout</span>];
-    kececifractals[<a href="https://github.com/WhiteSymmetry/kececifractals" style="text-decoration:none;">kececifractals</a> <br><span style="font-size:10px;">kececifractals</span>];
-    kececisquares[<a href="https://github.com/WhiteSymmetry/kececisquares" style="text-decoration:none;">kececisquares</a> <br><span style="font-size:10px;">kececisquares</span>];
-    kececinumbers[<a href="https://github.com/WhiteSymmetry/kececinumbers" style="text-decoration:none;">kececinumbers</a> <br><span style="font-size:10px;">kececinumbers</span>];
-```
-
-```mermaid
 mindmap
   root((Keçeci Projeleri))
     Temel Altyapı Projeleri
       grikod
         ::icon(fa fa-code)
-        Temel matematiksel algoritmalar
+        Binary to Gray Code dönüşümü
       grikod2
         ::icon(fa fa-code)
-        Geliştirilmiş matematiksel algoritmalar
-    Graf Teorisi ve Görselleştirme
+        Binary to Gray Code dönüşümü
+      grikod3
+        ::icon(fa fa-code)
+        Binary to Gray Code dönüşümü
+      kha256
+        ::icon(fa fa-hashtag)
+        Keçeci Hash Algorithm (KHA-256)
+    Sayısal Sistemler ve Yapılar
       adnus
-        ::icon(fa fa-project-diagram)
-        Graf teorisi ve görselleştirme
+        ::icon(fa fa-cubes)
+        Gelişmiş sayı sistemleri
+    Graf Teorisi ve Görselleştirme
       oresme
         ::icon(fa fa-project-diagram)
-        Graf teorisi ve görselleştirme araçları
-        oresmej
-          ::icon(fa fa-code-branch)
-          Jax için oresme
-        oresmen
-          ::icon(fa fa-code-branch)
-          Numba için oresme
-    Keçeci Görselleştirme Projeleri
+        Oresme sayıları ve graf yapıları
+      oresmej
+        ::icon(fa fa-code-branch)
+        JAX için Oresme
+      oresmen
+        ::icon(fa fa-code-branch)
+        Numba için Oresme
       kececilayout
         ::icon(fa fa-sitemap)
-        Graf düzenleme ve görselleştirme
+        Graf yerleşim algoritmaları
+      gridshape
+        ::icon(fa fa-th)
+        Hücre matrisi üzerinde şekil çizimi
+      spacecurves
+        ::icon(fa fa-wave-square)
+        Uzay dolduran eğriler
+    Keçeci Görselleştirme Projeleri
       kececifractals
         ::icon(fa fa-infinity)
         Fraktal görselleştirme
+      kececicurve
+        ::icon(fa fa-pen-nib)
+        Keçeci Eğrisi
       kececisquares
-        ::icon(fa fa-th)
-        Kare düzenlemeleri
+        ::icon(fa fa-th-large)
+        Binomial squares / şekil düzenleri
       kececinumbers
         ::icon(fa fa-sort-numeric-down)
-        Sayısal desenler ve görselleştirme
-    Kullanılan Araçlar ve Kütüphaneler
-      ::icon(fa fa-tools)
-      Python Kütüphaneleri
-```
+        Sayısal diziler ve desenler
+    Uygulamalı Araçlar
+      ezan
+        ::icon(fa fa-mosque)
+        Namaz vakitleri ve kıble hesaplama
 
 ---
 
