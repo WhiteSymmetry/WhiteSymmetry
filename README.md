@@ -43,6 +43,17 @@
     </a>
 ---
 
+### Keçeci Projects
+
+| Category | Projects |
+|---|---|
+| Core | grikod, grikod2, grikod3, kha256 |
+| Number Systems | adnus |
+| Graph & Layout | oresme, oresmej, oresmen, kececilayout, gridshape, spacecurves |
+| Visualizations | kececifractals, kececicurve, kececisquares, kececinumbers |
+| Applications | ezan |
+
+
 ```mermaid
 graph TD;
     grikod[<a href="https://github.com/KuantumBS/grikod" style="text-decoration:none;">grikod</a> <br><span style="font-size:10px;">grikod</span>];
@@ -122,26 +133,6 @@ mindmap
 ```
 
 ```mermaid
-graph TD;
-    grikod[<a href="https://github.com/KuantumBS/grikod" style="text-decoration:none;">grikod</a> <br><span style="font-size:10px;">grikod</span>];
-    grikod2[<a href="https://github.com/KuantumBS/grikod2" style="text-decoration:none;">grikod2</a> <br><span style="font-size:10px;">grikod2</span>];
-    grikod3[<a href="https://github.com/KuantumBS/grikod3" style="text-decoration:none;">grikod3</a> <br><span style="font-size:10px;">grikod3</span>];
-    adnus[<a href="https://github.com/WhiteSymmetry/adnus" style="text-decoration:none;">adnus</a> <br><span style="font-size:10px;">adnus</span>];
-    oresme[<a href="https://github.com/WhiteSymmetry/oresme" style="text-decoration:none;">oresme</a> <br><span style="font-size:10px;">oresme</span>];
-    oresmej[<a href="https://github.com/WhiteSymmetry/oresmej" style="text-decoration:none;">oresmej</a> <br><span style="font-size:10px;">oresmej</span>];
-    oresmen[<a href="https://github.com/WhiteSymmetry/oresmen" style="text-decoration:none;">oresmen</a> <br><span style="font-size:10px;">oresmen</span>];
-    kececicurve[<a href="https://github.com/WhiteSymmetry/kececicurve" style="text-decoration:none;">kececicurve</a> <br><span style="font-size:10px;">kececicurve</span>];
-    kececilayout[<a href="https://github.com/WhiteSymmetry/kececilayout" style="text-decoration:none;">kececilayout</a> <br><span style="font-size:10px;">kececilayout</span>];
-    kececifractals[<a href="https://github.com/WhiteSymmetry/kececifractals" style="text-decoration:none;">kececifractals</a> <br><span style="font-size:10px;">kececifractals</span>];
-    kececisquares[<a href="https://github.com/WhiteSymmetry/kececisquares" style="text-decoration:none;">kececisquares</a> <br><span style="font-size:10px;">kececisquares</span>];
-    kececinumbers[<a href="https://github.com/WhiteSymmetry/kececinumbers" style="text-decoration:none;">kececinumbers</a> <br><span style="font-size:10px;">kececinumbers</span>];
-    kha256[<a href="https://github.com/WhiteSymmetry/kha256" style="text-decoration:none;">kha256</a> <br><span style="font-size:10px;">kha256</span>];
-    gridshape[<a href="https://github.com/WhiteSymmetry/gridshape" style="text-decoration:none;">gridshape</a> <br><span style="font-size:10px;">gridshape</span>];
-    spacecurves[<a href="https://github.com/WhiteSymmetry/spacecurves" style="text-decoration:none;">spacecurves</a> <br><span style="font-size:10px;">spacecurves</span>];
-    ezan[<a href="https://github.com/WhiteSymmetry/ezan" style="text-decoration:none;">ezan</a> <br><span style="font-size:10px;">ezan</span>];
-```
-
-```mermaid
 mindmap
   root((Keçeci Projeleri))
     Temel Altyapı Projeleri
@@ -197,6 +188,75 @@ mindmap
       ezan
         ::icon(fa fa-mosque)
         Namaz vakitleri ve kıble hesaplama
+```
+
+
+```mermaid
+mindmap
+  root((Keçeci Projects))
+    Core
+      grikod
+        Gray code conversion
+      grikod2
+        Gray code conversion
+      grikod3
+        Gray code conversion
+      kha256
+        Keçeci Hash Algorithm
+    Number Systems
+      adnus
+        Advanced number systems
+    Graph & Layout
+      oresme
+        Oresme numbers
+      oresmej
+        Oresme for JAX
+      oresmen
+        Oresme for Numba
+      kececilayout
+        Graph layout algorithms
+      gridshape
+        Cell-matrix shape drawing
+      spacecurves
+        Space-filling curves
+    Visualizations
+      kececifractals
+        Circle fractals
+      kececicurve
+        Keçeci curve
+      kececisquares
+        Binomial squares
+      kececinumbers
+        Number sequences
+    Applications
+      ezan
+        Prayer times and qibla
+```
+
+```mermaid
+mindmap
+  root((Keçeci Projects))
+    Core
+      grikod
+      grikod2
+      grikod3
+      kha256
+    Number Systems
+      adnus
+    Graph & Layout
+      oresme
+      oresmej
+      oresmen
+      kececilayout
+      gridshape
+      spacecurves
+    Visualizations
+      kececifractals
+      kececicurve
+      kececisquares
+      kececinumbers
+    Applications
+      ezan
 ```
 
 ---
