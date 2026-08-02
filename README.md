@@ -2,7 +2,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/WhiteSymmetry?label=Follow&style=social)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WhiteSymmetry&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WhiteSymmetry&theme=2077&name=WhiteSymmetry)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WhiteSymmetry&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WhiteSymmetry&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WhiteSymmetry&theme=2077)
