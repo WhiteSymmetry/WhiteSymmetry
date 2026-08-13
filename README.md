@@ -291,6 +291,8 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 200 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2026). Weyl–Süperiletken Heteroyapılarda Topolojik Arayüz Mühendisliği: Stratum Modeli ile Ortaya Çıkan Majorana Yayları, Non-Abelian Örgüleme ve K‑Teorisi Sınıflandırması. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.21908118
+
 Keçeci, M. (2026). From Feeble Signals to Intense X-rays: Physical Foundations, Technological Applications, and Future Perspectives of Amplification. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.21235074
 
 Keçeci, M. (2026). Zayıf Sinyallerden Güçlü X-Işınlarına: Amplifikasyonun Fiziksel Temelleri, Teknolojik Uygulamaları ve Gelecek Perspektifleri. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.21137301
