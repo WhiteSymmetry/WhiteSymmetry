@@ -1561,21 +1561,13 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 1. https://www.blurb.com/user/mkececi
 
-1. https://www.amazon.com/stores/Mehmet-Ke%C3%A7eci/author/B00WH281P0
-
 1. https://www.kobo.com/us/en/ebook/dusunduren-alntlar
 
 1. https://www.lulu.com/spotlight/mkececi
 
 1. https://www.overdrive.com/creators/937291/mehmet-kececi
 
-1. https://books.apple.com/us/author/mehmet-ke%C3%A7eci/id1014080843
-
-1. https://draft2digital.com/book/894352
-
-1. https://draft2digital.com/book/2932509
-
-1. https://www.smashwords.com/profile/view/mkececi
+1. 1. https://www.amazon.com/stores/Mehmet-Ke%C3%A7eci/author/B00WH281P0 (achive)
 
 ---
 
