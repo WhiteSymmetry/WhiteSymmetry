@@ -1696,7 +1696,7 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
 73. Becoming a peer reviewer, Elsevier, 2021
 74. Certified Peer Reviewer Course, Elsevier, 2021
 75. Fundamentals of peer review, Elsevier, 2021
-76. Newsela Certified Educator Program, Newsela Learning, 18.01.2021	 https://verify.skilljar.com/c/p552dp5oqc5y
+76. Newsela Certified Educator Program, Newsela Learning, 18.01.2021	 https://verify.ar.com/c/p552dp5oqc5y
 77. WeVideo Expert Creator, 2021
 78. Wakelet Community Leader, 2020
 79. 0.504x: Sorting Truth from Fiction: Civic Online Reasoning, 16.11.2020, edX & MITx https://courses.edx.org/certificates/045b69cbc5ce45ba87f5736e2d3068cf
@@ -1864,6 +1864,7 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
 1. https://badges.plus.columbia.edu/4e747f60-0ebc-423c-a7ac-ff8ab8da3f0d 
 1. https://badges.plus.columbia.edu/18f4fbec-2b56-41b0-8460-f4a61a58d5ed 
 1. https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a6f-a6223364cd3c.png
+1. https://verify.skilljar.com/c/kqxbvjnyhkjr
 1. https://verify.skilljar.com/c/8xksegkr7tiz
 1. https://verify.skilljar.com/c/p552dp5oqc5y 
 1. https://verify.skilljar.com/c/k86h2o7qxjbg 
