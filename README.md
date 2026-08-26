@@ -43,7 +43,7 @@
 
 ![Projects](https://img.shields.io/badge/Projects-18-blue)
 ![Languages](https://img.shields.io/badge/Languages-Python%2C%20R%2C%20Rust-yellow)
-![Scope](https://img.shields.io/badge/Scope-Scientific%20%26%20Mathematical-brightgreen)
+![Scope](https://img.shields.io/badge/Scope-Scientific%20%26%20Mathematical-green)
 
 ### Keçeci Projects
 
@@ -1879,7 +1879,8 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
 1. https://badges.plus.columbia.edu/profile/mehmetkeeci404433/wallet 
 1. https://www.coursera.org/account/accomplishments/certificate/FKT59GZXJQPS
 1. https://www.coursera.org/account/accomplishments/certificate/T4RGHM49UEV5
-1. https://www.brighttalk.com/mybrighttalk/recently-viewed
+1. https://www.brighttalk.com/webcast/6793/591340
+1. https://www.brighttalk.com/webcast/6793/635461
 1. https://wakelet.com/@mkececi
 1. https://medium.com/@mkececi 
 1. https://www.growkudos.com/profile/Mehmet_Ke%C3%A7eci 
