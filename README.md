@@ -1864,6 +1864,7 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
 1. https://badges.plus.columbia.edu/4e747f60-0ebc-423c-a7ac-ff8ab8da3f0d 
 1. https://badges.plus.columbia.edu/18f4fbec-2b56-41b0-8460-f4a61a58d5ed 
 1. https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a6f-a6223364cd3c.png
+1. https://verify.skilljar.com/c/n5n3qbzvs7rk
 1. https://verify.skilljar.com/c/kqxbvjnyhkjr
 1. https://verify.skilljar.com/c/8xksegkr7tiz
 1. https://verify.skilljar.com/c/p552dp5oqc5y 
