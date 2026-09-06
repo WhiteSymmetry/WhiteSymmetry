@@ -655,7 +655,11 @@ Keçeci, M. (2005, May). Konformal invaryant Fujii modelinin instanton tipi tam 
 
 Keçeci, M. (2002, September 16–20). Exact instanton-like solution conformal invariant of Fujii model, construct for four-dimensional and subderivative [Conference presentation]. Presented at Working Group II, Turkish Nonlinear Science Working Group, Karaburun/Izmir, Türkiye. https://dx.doi.org/10.13140/RG.2.1.1638.0964
 
-Keçeci, M. (2001). Konformal Spinör Alan Teorileri [Conformal Spinor Field Theories] [Master's thesis, Gebze Technical University]. YÖK National Thesis Center. https://tez.yok.gov.tr/UlusalTezMerkezi/tezSorguSonucYeni.jsp (Thesis No: 109951)
+Keçeci, M. (2001). Konformal Spinör Alan Teorileri [Conformal Spinor Field Theories] [Master's thesis, Gebze Technical University]. YÖK National Thesis Center. https://tez.yok.gov.tr/UlusalTezMerkezi/giris.jsp (Thesis No: 109951)
+
+Resmî YÖK: 
+KEÇECİ, M. (2001). Konforal spinör alan teorileri (Tez No. 109951) [Yüksek lisans tezi, GEBZE YÜKSEK TEKNOLOJİ ENSTİTÜSÜ]. Ulusal Tez Merkezi. https://tez.yok.gov.tr/UlusalTezMerkezi/giris.jsp
+Not: Tezin adı YÖK sistemine yanlış geçmiştir: "Konforal", "Konformal" olacaktır.
 
 ---
 
