@@ -1601,6 +1601,8 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 1. https://nanohub.org/members/321995
 
+1. https://cv.hal.science/mehmet-kececi
+
 
 # Scientific IDs
 
