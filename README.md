@@ -1620,94 +1620,96 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 # Internships, Courses, Certificates
 
-1. Develocity Build Analysis and Optimization, DPE University: Gradle Inc., July 5, 2026, Yeterlilik Kimliği (ID): 6ae5b67a-afb2-40ed-808b-8b84877c8332
-2. Quantum Computing & Programming, QNickel Workshop, QPoland, Fundacja Quantum AI, QWorld, Qiskit, QNickel26-5, May 2026.
-3. Certificate of Appreciation. This certificate is proudly. Presented to Mehmet Keçeci in recognition of exceptional professionalism, timely feedback, and thoughtful academic evaluation during the peer-review process of the manuscript titled: "...". icSmartGrid 2026, Suceava/Romania.
-4. Quantum Computing & Programming, QSilver Workshop, QPloand, QWORLD, Fundacja Quantum AI, QSilver36-1, March 2026.
-5. Quantum Anneling, QCobalt Workshop, QCobalt8-10, QPakistan, QWorld, October 2025
-6. Quantum Sensing Workshop, Building Quantum Foundation QBarsaat 2025, Quantum Sensing Workshop1-3, QPakistan, QWorld, October 2025.
-7. 2025 Quantum Program, The Washington Institute for STEM, Entrepreneurship and Research, Badge ID: 049a61e1-4dfe-415c-a788-9faebf0aa085, 08/21/2025.	 https://www.virtualbadge.io/certificate-validator?credential=049a61e1-4dfe-415c-a788-9faebf0aa085 
-8. Module 5. Quantum Algorithms for Nonlinear Problems, The Washington Institute for STEM, Entrepreneurship and Research, 08/11/2025.
+1. AI on AMD, 11 Sep 2026, AMD AI Academy, https://academy.amd.com/certs/31042/D2B26D1D192A43549C46508592F73776166320.pdf
+2. AI Agents 101: Building AI Agents with MCP and Open-Source Inference, 11 Sep 2026, AMD AI Academy, https://academy.amd.com/certs/31042/D2B26D1D192A43549C46508592F73776166281.pdf
+2. Develocity Build Analysis and Optimization, DPE University: Gradle Inc., July 5, 2026, Yeterlilik Kimliği (ID): 6ae5b67a-afb2-40ed-808b-8b84877c8332
+3. Quantum Computing & Programming, QNickel Workshop, QPoland, Fundacja Quantum AI, QWorld, Qiskit, QNickel26-5, May 2026.
+4. Certificate of Appreciation. This certificate is proudly. Presented to Mehmet Keçeci in recognition of exceptional professionalism, timely feedback, and thoughtful academic evaluation during the peer-review process of the manuscript titled: "...". icSmartGrid 2026, Suceava/Romania.
+5. Quantum Computing & Programming, QSilver Workshop, QPloand, QWORLD, Fundacja Quantum AI, QSilver36-1, March 2026.
+6. Quantum Anneling, QCobalt Workshop, QCobalt8-10, QPakistan, QWorld, October 2025
+7. Quantum Sensing Workshop, Building Quantum Foundation QBarsaat 2025, Quantum Sensing Workshop1-3, QPakistan, QWorld, October 2025.
+8. 2025 Quantum Program, The Washington Institute for STEM, Entrepreneurship and Research, Badge ID: 049a61e1-4dfe-415c-a788-9faebf0aa085, 08/21/2025.	 https://www.virtualbadge.io/certificate-validator?credential=049a61e1-4dfe-415c-a788-9faebf0aa085 
+9. Module 5. Quantum Algorithms for Nonlinear Problems, The Washington Institute for STEM, Entrepreneurship and Research, 08/11/2025.
 https://www.virtualbadge.io/certificate-validator?credential=04d261e1-943e-40d9-b454-6600d8d87d42
-9. Module 2. Quantum Algorithms to Solve Partial Differential Equations, The Washington Institute for STEM, Entrepreneurship and Research, 06/08/2025, https://www.virtualbadge.io/certificate-validator?credential=f58c5aa0-8734-44a7-b5f5-28be52f72ddd 
-10. PennyLane LCU Challenge at the Womanium & Wiser Quantum Program 2025, July 2025. https://cloud.pennylane.ai/profiles/ob/certificates/permalink/a7f8a33a-e192-43b7-9d25-1ff65162ae59
-11. Introduction to PennyLane Certificate, PennyLane, 30.06.2025.	 https://pennylane.ai/profile/mkececi/certificate/introduction-to-pennylane
-12. Introduction to Quantum Computing, Completion certificate, D-Wave, 21.06.2025
-13. Introduction to Artificial Intelligence (2023), LinkedIn Learning, National Association of State Boards of Accountancy (NASBA), 18.06.2025.
+10. Module 2. Quantum Algorithms to Solve Partial Differential Equations, The Washington Institute for STEM, Entrepreneurship and Research, 06/08/2025, https://www.virtualbadge.io/certificate-validator?credential=f58c5aa0-8734-44a7-b5f5-28be52f72ddd 
+11. PennyLane LCU Challenge at the Womanium & Wiser Quantum Program 2025, July 2025. https://cloud.pennylane.ai/profiles/ob/certificates/permalink/a7f8a33a-e192-43b7-9d25-1ff65162ae59
+12. Introduction to PennyLane Certificate, PennyLane, 30.06.2025.	 https://pennylane.ai/profile/mkececi/certificate/introduction-to-pennylane
+13. Introduction to Quantum Computing, Completion certificate, D-Wave, 21.06.2025
+14. Introduction to Artificial Intelligence (2023), LinkedIn Learning, National Association of State Boards of Accountancy (NASBA), 18.06.2025.
 https://www.linkedin.com/learning/certificates/47b23dc546a920aa98f813617e795e8ea9e034f99ad58a78cc68e794c72d5eac &
 https://www.linkedin.com/learning/certificates/bfd9e11dc7c9a6044f5074f2bd5dbf6bd48e4688f539a650f8a3686fcd7d7538 
-14. Learning AI Through Visualization, Columbia+, 150372189, June 16, 2025,
+15. Learning AI Through Visualization, Columbia+, 150372189, June 16, 2025,
 https://badges.plus.columbia.edu/4e747f60-0ebc-423c-a7ac-ff8ab8da3f0d
-15. Quantum Computing & Programming, Diploma Number: QNickel20-50, CRS4, QWorld, QItaly, DLAB, April 2025.
-16. Quantitative Techniques, Columbia+, 139237802, April 6, 2025.	 https://badges.plus.columbia.edu/18f4fbec-2b56-41b0-8460-f4a61a58d5ed
-17. Quantum Computing & Programming, Diploma Number: QBronze153-27, QWorld, Qiskit, CRS4, DLAB, QItaly153, February 2025
-18. Temel Yangın Bilgisi, T.C. İstanbul Valiliği İl Afet ve Acil Durum Müdürlüğü, AFAD, 18.02.2025, Sertifika: d7d2124759490
-19. Destek AFAD Gönüllüsü Eğitimi, 25 saat, 10-14.02.2025, Katılım Belgesi, Belge No: 32184, Ümraniye AFAD, İstanbul, T.C. İstanbul Valiliği İl Afet ve Acil Durum Müdürlüğü, 14.02.2025
-20. İşyerlerinde Yangın Risklerinin Yönetimi Eğitimi, 24 saat, Başarı Belgesi, İstanbul Sanayi Odası (Istanbul Chamber of Industry), İSO Akademi, Belgeyi Onaylayan: Murat Çalışır, Belge No: ISG-00224-379, 15.10.2024 – 14.01.2025
-21. Elements of Quantum Computing and Programming, QCourse501-2-88, QWorld, September 2024- December 2024
-22. Gradle Build Caching with Develocity, DPE University: Gradle Inc., Diploma Number: d1a09899-d943-4235-b5a7-1fed0d3a2e11, 2024
-23. Gönüllü Oryantasyon Semineri, Türk Kızılay Akademi, Diploma Number: sJacJt6FFB
-24. Kızılay Uyum Eğitimi, Türk Kızılay Akademi, Belge No: zs1Sl3NaVS, 31 Aralık 2024
-25. NASA-National Aeronautics and Space Administration, NASA Open Science
-26. Mendeley Advisor, 2024.
-27. Practical Introduction to Quantum-Safe Cryptography, IBM, Nov 2, 2024, Diploma Number: 57832e33-eb4b-4542-94a6-00f5650a9a92
-28. Basics of Quantum Information, IBM, Nov 1, 2024, Diploma Number: 6155bf93-65f9-4b1f-9640-5ca7380b4a87
-29. Quantum Business Foundations, IBM, Oct 31, 2024, Diploma Number: 4f629c23-0b19-40bf-a1c5-d9f268c94699
-30. Variational Algorithm Design, IBM, Oct 30, 2024, Diploma Number: 492863ba-5624-48c0-8af0-6d13a70e47e0
-31. Ingenii QML for Medical Imaging Course, 25.11.2024
-32. Ingenii Quantum Machine Learning Fundamentals Course, 08.10.2024
-33. Quantum with String Diagrams, Diploma Number: Quantum with String Diagrams1-16, Quantum Barsaat 2024, QWorld & QPakistan, August 2024
-34. QCobalt, Quantum Annealing, Quantum Barsaat 2024, QWorld & QPakistan, Diploma Number: QCobalt6-18, July 2024
-35. QBronze Using Qiskit, Quantum Computing & Programming, Quantum Barsaat 2024, QWorld & QPakistan & Qiskit, Diploma Number: QBronze137-25, July 2024
-36. QPrep: Preparation for Quantum Computing & Programming, Quantum Barsaat 2024, QWorld & QPakistan, Diploma Number: QPrep14-32, July 2024
-37. Quantum Annealing, QClass23/24, Diploma Number: QCobalt4-21, University of Latvia Faculty of Computing, QWorld, May 2024
-38. Topological Quantum Computing, QClass23/24, Diploma Number: QTitanium1-28, University of Latvia Faculty of Computing, CQTech, QWorld, May 2024
-39. Quantum Error Correction (QEC), QClass23/24, Diploma Number: QZinc2-27, University of Latvia Faculty of Computing, QWorld, May 2024
-40. QHack 2024 Coding Challenge Completionist, ID: 45fd53e4-dc95-4849-add2-5ad26fb7b764, Xanadu, 2024.03.05
-41. Elements of Quantum Computing and Programming. QCourse501-1 Certificate, QCourse501-1-107, QClass23/24, QWorld, Sept. 23-Jan. 2024
-42. Womanium Global Quantum Sensing Training Program, Womanium Global Quantum Program 2023, ID: 35199426, 08.11.2023
-43. Quantum Computing Hardware Certificate, Global Quantum Program, Womanium, 2023
-44. Quantum Computing & Programming, Womanium Global Quantum Program, QNickel Diploma, Womanium, QWorld, QNickel7-52, 2023
-45. Introduction to Programming with Neutral Atoms Certificate, QuEra Computing Inc. & Womanium, July'23
-46. Quantum Key Distribution (QKD), QMercury Diploma, Womanium Global Quantum Program 2023, Womanium, QWorld, QMercury1-78, 2023
-47. Quantum Error Correction (QEC), Womanium Global Quantum Program, QWorld, QZinc1-156, 2023
-48. Quantum Computing Software Certificate, Womanium Quantum Global Quantum Program, 2023
-49. QHack 2023 Certificate (Advanced), Xanadu, 2023
+16. Quantum Computing & Programming, Diploma Number: QNickel20-50, CRS4, QWorld, QItaly, DLAB, April 2025.
+17. Quantitative Techniques, Columbia+, 139237802, April 6, 2025.	 https://badges.plus.columbia.edu/18f4fbec-2b56-41b0-8460-f4a61a58d5ed
+18. Quantum Computing & Programming, Diploma Number: QBronze153-27, QWorld, Qiskit, CRS4, DLAB, QItaly153, February 2025
+19. Temel Yangın Bilgisi, T.C. İstanbul Valiliği İl Afet ve Acil Durum Müdürlüğü, AFAD, 18.02.2025, Sertifika: d7d2124759490
+20. Destek AFAD Gönüllüsü Eğitimi, 25 saat, 10-14.02.2025, Katılım Belgesi, Belge No: 32184, Ümraniye AFAD, İstanbul, T.C. İstanbul Valiliği İl Afet ve Acil Durum Müdürlüğü, 14.02.2025
+21. İşyerlerinde Yangın Risklerinin Yönetimi Eğitimi, 24 saat, Başarı Belgesi, İstanbul Sanayi Odası (Istanbul Chamber of Industry), İSO Akademi, Belgeyi Onaylayan: Murat Çalışır, Belge No: ISG-00224-379, 15.10.2024 – 14.01.2025
+22. Elements of Quantum Computing and Programming, QCourse501-2-88, QWorld, September 2024- December 2024
+23. Gradle Build Caching with Develocity, DPE University: Gradle Inc., Diploma Number: d1a09899-d943-4235-b5a7-1fed0d3a2e11, 2024
+24. Gönüllü Oryantasyon Semineri, Türk Kızılay Akademi, Diploma Number: sJacJt6FFB
+25. Kızılay Uyum Eğitimi, Türk Kızılay Akademi, Belge No: zs1Sl3NaVS, 31 Aralık 2024
+26. NASA-National Aeronautics and Space Administration, NASA Open Science
+27. Mendeley Advisor, 2024.
+28. Practical Introduction to Quantum-Safe Cryptography, IBM, Nov 2, 2024, Diploma Number: 57832e33-eb4b-4542-94a6-00f5650a9a92
+29. Basics of Quantum Information, IBM, Nov 1, 2024, Diploma Number: 6155bf93-65f9-4b1f-9640-5ca7380b4a87
+30. Quantum Business Foundations, IBM, Oct 31, 2024, Diploma Number: 4f629c23-0b19-40bf-a1c5-d9f268c94699
+31. Variational Algorithm Design, IBM, Oct 30, 2024, Diploma Number: 492863ba-5624-48c0-8af0-6d13a70e47e0
+32. Ingenii QML for Medical Imaging Course, 25.11.2024
+33. Ingenii Quantum Machine Learning Fundamentals Course, 08.10.2024
+34. Quantum with String Diagrams, Diploma Number: Quantum with String Diagrams1-16, Quantum Barsaat 2024, QWorld & QPakistan, August 2024
+35. QCobalt, Quantum Annealing, Quantum Barsaat 2024, QWorld & QPakistan, Diploma Number: QCobalt6-18, July 2024
+36. QBronze Using Qiskit, Quantum Computing & Programming, Quantum Barsaat 2024, QWorld & QPakistan & Qiskit, Diploma Number: QBronze137-25, July 2024
+37. QPrep: Preparation for Quantum Computing & Programming, Quantum Barsaat 2024, QWorld & QPakistan, Diploma Number: QPrep14-32, July 2024
+38. Quantum Annealing, QClass23/24, Diploma Number: QCobalt4-21, University of Latvia Faculty of Computing, QWorld, May 2024
+39. Topological Quantum Computing, QClass23/24, Diploma Number: QTitanium1-28, University of Latvia Faculty of Computing, CQTech, QWorld, May 2024
+40. Quantum Error Correction (QEC), QClass23/24, Diploma Number: QZinc2-27, University of Latvia Faculty of Computing, QWorld, May 2024
+41. QHack 2024 Coding Challenge Completionist, ID: 45fd53e4-dc95-4849-add2-5ad26fb7b764, Xanadu, 2024.03.05
+42. Elements of Quantum Computing and Programming. QCourse501-1 Certificate, QCourse501-1-107, QClass23/24, QWorld, Sept. 23-Jan. 2024
+43. Womanium Global Quantum Sensing Training Program, Womanium Global Quantum Program 2023, ID: 35199426, 08.11.2023
+44. Quantum Computing Hardware Certificate, Global Quantum Program, Womanium, 2023
+45. Quantum Computing & Programming, Womanium Global Quantum Program, QNickel Diploma, Womanium, QWorld, QNickel7-52, 2023
+46. Introduction to Programming with Neutral Atoms Certificate, QuEra Computing Inc. & Womanium, July'23
+47. Quantum Key Distribution (QKD), QMercury Diploma, Womanium Global Quantum Program 2023, Womanium, QWorld, QMercury1-78, 2023
+48. Quantum Error Correction (QEC), Womanium Global Quantum Program, QWorld, QZinc1-156, 2023
+49. Quantum Computing Software Certificate, Womanium Quantum Global Quantum Program, 2023
+50. QHack 2023 Certificate (Advanced), Xanadu, 2023
 https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a6f-a6223364cd3c.png	
-50. From Qubits to Quantum Computers, Womanium Quantum 2022: Global Quantum Computing & Entrepreneurship Program, Womanium Quantum Computing Hardware Program, Number: 35199426, Womanium, 2022
-51. Quantum Computing & Programming, Womanium Global Quantum Computing & Entrepreneurship Program, Diploma Number: QSilver14-50, QWorld, Aug 2022
-52. Monkeypox: Introductory course for African outbreak contexts, OpenWHO, WHO, 05.25.2022
-53. Monkeypox: Epidemiology, preparedness and response for African outbreak contexts, OpenWHO, WHO, 05.25.2022
-54. İşyerlerinde Acil Durum Yönetimi, ISG-2021-280952, İstanbul Sanayi Odası (Istanbul Chamber of Industry), İSO, İSOAkademi, 11.2021-12.2021
-55. Quantum Computing & Programming, Diploma Number: QBronze72-27, QWorld, Qiskit, QTurkey, December 2021
-56. Quantum Computing & Programming, Diploma Number: QBronze65-19, QWorld, Qiskit, QLibya, September 2021
-57. Quantum Computing & Programming, QBronze (QBronze65-19, QLibya, 2021 & QBronze72-27, QTürkiye, 2021 & QBronze137-25, QPakistan, 2024 & QBronze153-27, QItaly, 2025), QSilver (QSilver4-8, QTürkiye & QSilver7, QPakistan & QSilver12, QLibya, QSilver14-50 (<Womanium Quantum>)), QWorld, 2021-22; Quantum Computing Hardware Certificate, Womanium Quantum 2022: Global Quantum Computing & Entrepreneurship Program
-58. IEEE Quantum AI Sustainability Symposium, IEEE Quantum, September 01, 2021
-59. Inclusion & Diversity in scientific publishing: why it’s a requirement, not a choice, 26.08.2021, Elsevier
-60. Introduction to Quantum Computing, 08.25.2021, by Yassin Marco, Udemy
-61. Microsoft Esports Leader, Microsoft Education, 24.08.2021
-62. Quantum Engineering: Photonics in Quantum Computing and Quantum Networking, IEEE
-63. Quantum, July 28, 2021
-64. Mote Certified Educator, 27.07.2021
-65. Create an E-book Cover Using Canva, 26.07.2021, Coursera, ID: FKT59GZXJQPS, https://www.coursera.org/account/accomplishments/certificate/FKT59GZXJQPS
-66. Disaster Awareness Training (Afet Farkındalık Eğitimi), Kocaeli AFAD, 06.07.2021
-67. Understanding Disaster Risks, 26.07.2021, Republic of Türkiye Ministry of Interior Disaster and Emergency Management (AFAD), Certified, Kızılay (Red Crescent), 2021
-68. Basic Training for ISO 45001:2018 Occupational Health & Safety Management Systems, Sigmacert, 09.05.2020
-69. Theme 1: Uniting Funders, Doers, and Custodians of Research to Strategically and Comprehensively Advance Quality Gender Research for SDGs, Elsevier, 2021
-70. Sustainable Development Goals for Researchers, Elsevier, 2021
-71. Social impact, Elsevier, 2021
-72. Going through peer review, Elsevier, 2021
-73. Becoming a peer reviewer, Elsevier, 2021
-74. Certified Peer Reviewer Course, Elsevier, 2021
-75. Fundamentals of peer review, Elsevier, 2021
-76. Newsela Certified Educator Program, Newsela Learning, 18.01.2021, https://verify.ar.com/c/p552dp5oqc5y
-77. WeVideo Expert Creator, 2021
-78. Wakelet Community Leader, 2020
-79. 0.504x: Sorting Truth from Fiction: Civic Online Reasoning, 16.11.2020, edX & MITx, https://courses.edx.org/certificates/045b69cbc5ce45ba87f5736e2d3068cf
-80. ISO 9001:2015 Kalite Yönetim Sistemi Temel Eğitimi (Quality Management System Basic Training), Sigmacert, 05.11.2020
-81. Certified Edjineer, 2020
-82. Sountrap Certified Educator & Expert, 2020
-83. Adobe Creative Educator (Trendsetter, 12 Certificates, 13 Badges), 2020
+51. From Qubits to Quantum Computers, Womanium Quantum 2022: Global Quantum Computing & Entrepreneurship Program, Womanium Quantum Computing Hardware Program, Number: 35199426, Womanium, 2022
+52. Quantum Computing & Programming, Womanium Global Quantum Computing & Entrepreneurship Program, Diploma Number: QSilver14-50, QWorld, Aug 2022
+53. Monkeypox: Introductory course for African outbreak contexts, OpenWHO, WHO, 05.25.2022
+54. Monkeypox: Epidemiology, preparedness and response for African outbreak contexts, OpenWHO, WHO, 05.25.2022
+55. İşyerlerinde Acil Durum Yönetimi, ISG-2021-280952, İstanbul Sanayi Odası (Istanbul Chamber of Industry), İSO, İSOAkademi, 11.2021-12.2021
+56. Quantum Computing & Programming, Diploma Number: QBronze72-27, QWorld, Qiskit, QTurkey, December 2021
+57. Quantum Computing & Programming, Diploma Number: QBronze65-19, QWorld, Qiskit, QLibya, September 2021
+58. Quantum Computing & Programming, QBronze (QBronze65-19, QLibya, 2021 & QBronze72-27, QTürkiye, 2021 & QBronze137-25, QPakistan, 2024 & QBronze153-27, QItaly, 2025), QSilver (QSilver4-8, QTürkiye & QSilver7, QPakistan & QSilver12, QLibya, QSilver14-50 (<Womanium Quantum>)), QWorld, 2021-22; Quantum Computing Hardware Certificate, Womanium Quantum 2022: Global Quantum Computing & Entrepreneurship Program
+59. IEEE Quantum AI Sustainability Symposium, IEEE Quantum, September 01, 2021
+60. Inclusion & Diversity in scientific publishing: why it’s a requirement, not a choice, 26.08.2021, Elsevier
+61. Introduction to Quantum Computing, 08.25.2021, by Yassin Marco, Udemy
+62. Microsoft Esports Leader, Microsoft Education, 24.08.2021
+63. Quantum Engineering: Photonics in Quantum Computing and Quantum Networking, IEEE
+64. Quantum, July 28, 2021
+65. Mote Certified Educator, 27.07.2021
+66. Create an E-book Cover Using Canva, 26.07.2021, Coursera, ID: FKT59GZXJQPS, https://www.coursera.org/account/accomplishments/certificate/FKT59GZXJQPS
+67. Disaster Awareness Training (Afet Farkındalık Eğitimi), Kocaeli AFAD, 06.07.2021
+68. Understanding Disaster Risks, 26.07.2021, Republic of Türkiye Ministry of Interior Disaster and Emergency Management (AFAD), Certified, Kızılay (Red Crescent), 2021
+69. Basic Training for ISO 45001:2018 Occupational Health & Safety Management Systems, Sigmacert, 09.05.2020
+70. Theme 1: Uniting Funders, Doers, and Custodians of Research to Strategically and Comprehensively Advance Quality Gender Research for SDGs, Elsevier, 2021
+71. Sustainable Development Goals for Researchers, Elsevier, 2021
+72. Social impact, Elsevier, 2021
+73. Going through peer review, Elsevier, 2021
+74. Becoming a peer reviewer, Elsevier, 2021
+75. Certified Peer Reviewer Course, Elsevier, 2021
+76. Fundamentals of peer review, Elsevier, 2021
+77. Newsela Certified Educator Program, Newsela Learning, 18.01.2021, https://verify.ar.com/c/p552dp5oqc5y
+78. WeVideo Expert Creator, 2021
+79. Wakelet Community Leader, 2020
+80. 0.504x: Sorting Truth from Fiction: Civic Online Reasoning, 16.11.2020, edX & MITx, https://courses.edx.org/certificates/045b69cbc5ce45ba87f5736e2d3068cf
+81. ISO 9001:2015 Kalite Yönetim Sistemi Temel Eğitimi (Quality Management System Basic Training), Sigmacert, 05.11.2020
+82. Certified Edjineer, 2020
+83. Sountrap Certified Educator & Expert, 2020
+84. Adobe Creative Educator (Trendsetter, 12 Certificates, 13 Badges), 2020
 84.Julia Academy (JuliaAcademy, 12 Certificates), https://juliaacademy.com:
     • Computational Modeling in Julia with Applications to the COVID-19 Pandemic, Serial No: cert_trp9nnhj, 2023-05-12 
     • Julia Programming for Nervous Beginners, Award No: cert_vmvc2blk, 2023-05-12
