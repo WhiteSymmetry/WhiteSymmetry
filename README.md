@@ -24,6 +24,7 @@
 [![Open Work Flow Articles (OWFAs)](https://img.shields.io/badge/OpenWorkFlowArticles-0077B5?style=for-the-badge&logo=openworkflowarticles&logoColor=white)](https://workflowhub.eu/collections/34)
 [![Open Science Knowledge Articles (OSKAs)](https://img.shields.io/badge/OpenScienceKnowledgeArticles-0077B5?style=for-the-badge&logo=openscienceknowledgearticles&logoColor=white)](https://works.hcommons.org/collections/03072025/)
 [![OSF](https://img.shields.io/badge/OpenScienceOutputArticles-0077B5?style=for-the-badge&logo=openscienceuutputarticles&logoColor=white)](https://osf.io/j9f5c)
+[![ISNI](https://img.shields.io/badge/ISNI-0077B5?style=for-the-badge&logo=isni&logoColor=white)](https://isni.org/isni/0000000530972211)
 
 ---
   <a
