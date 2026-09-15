@@ -1456,6 +1456,8 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 1. https://www.scopus.com/authid/detail.uri?authorId=39762289000
 
+1. https://isni.org/isni/0000000530972211
+
 ---
 
 # Books:
@@ -1572,7 +1574,7 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 1. https://www.overdrive.com/creators/937291/mehmet-kececi
 
-1. 1. https://www.amazon.com/stores/Mehmet-Ke%C3%A7eci/author/B00WH281P0 (achive)
+1. https://www.amazon.com/stores/Mehmet-Ke%C3%A7eci/author/B00WH281P0 (achive)
 
 ---
 
@@ -1604,6 +1606,8 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 1. https://cv.hal.science/mehmet-kececi
 
+1. https://isni.org/isni/0000000530972211
+
 
 # Scientific IDs
 
@@ -1620,6 +1624,8 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 1. Ciência ID: 411D- 32F4-237F
 
 1. Google Scholar: PleXSXMAAAAJ
+
+1. ISNI: 0000000530972211
 
 ---
 
