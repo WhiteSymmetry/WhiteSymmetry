@@ -1608,6 +1608,10 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 1. https://isni.org/isni/0000000530972211
 
+1. https://sciprofiles.com/profile/mkececi
+
+1. https://figshare.com/authors/Mehmet_Ke_eci/14301782
+
 
 # Scientific IDs
 
