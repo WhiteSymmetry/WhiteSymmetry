@@ -1584,7 +1584,7 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 1. https://www.researchgate.net/profile/Mehmet-Kececi
 
-1. https://independent.academia.edu/MehmetKececi
+1. https://independent.academia.edu/mkececi
 
 1. https://dergipark.org.tr/tr/pub/@mkececi
 
