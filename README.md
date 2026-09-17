@@ -1938,6 +1938,7 @@ Links:
 1. https://cv.hal.science/mehmet-kececi
 1. https://hackaday.io/pages/884180
 1. https://www.producthunt.com/@mkecheci
+1. https://loop.frontiersin.org/people/905355/overview
 
 ---
 
