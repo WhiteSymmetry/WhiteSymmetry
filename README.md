@@ -1922,6 +1922,8 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
 1. https://connect.symfony.com/profile/mkececi
 1. https://hackaday.io/pages/884180
 1. https://www.producthunt.com/@mkecheci
+1. Navigate EdTech – Choosing Wisely for Learners, 2025, https://www.europeanschoolnetacademy.eu/certificates/a9c8d3df605d4299bda80d1fcd884280
+1. Setting up Virtual Exchanges for Language Learning, 2025, https://www.europeanschoolnetacademy.eu/certificates/12910ad31fb94fe1a258a67290818ce0
 1. https://www.open.edu/openlearn/profiles/zw123087/achievements
    
 100% completed:
