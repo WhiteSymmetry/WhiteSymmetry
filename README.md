@@ -1907,6 +1907,24 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
 1. https://www.coursera.org/account/accomplishments/certificate/T4RGHM49UEV5
 1. https://www.brighttalk.com/webcast/6793/591340
 1. https://www.brighttalk.com/webcast/6793/635461
+1. Navigate EdTech – Choosing Wisely for Learners, 2025, https://www.europeanschoolnetacademy.eu/certificates/a9c8d3df605d4299bda80d1fcd884280
+1. Setting up Virtual Exchanges for Language Learning, 2025, https://www.europeanschoolnetacademy.eu/certificates/12910ad31fb94fe1a258a67290818ce0
+1. https://www.open.edu/openlearn/profiles/zw123087/achievements
+1. https://connect.symfony.com/profile/mkececi
+1. https://digitalworld.coursify.me
+
+100% completed:
+a. Aerospace Propulsion
+b. Aerospace Engineering
+c. VCE Physics Astronomy Course
+d. Special Class through NASA
+e. Teaching Astronomy Online
+f. Flight mechanics - The basis
+
+---
+
+Links:
+
 1. https://wakelet.com/@mkececi
 1. https://medium.com/@mkececi 
 1. https://www.growkudos.com/profile/Mehmet_Ke%C3%A7eci 
@@ -1918,21 +1936,8 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
 1. https://www.goodreads.com/author/show/12062046.Mehmet_Ke_eci 
 1. https://hcommons.org/members/mkececi
 1. https://cv.hal.science/mehmet-kececi
-1. https://digitalworld.coursify.me
-1. https://connect.symfony.com/profile/mkececi
 1. https://hackaday.io/pages/884180
 1. https://www.producthunt.com/@mkecheci
-1. Navigate EdTech – Choosing Wisely for Learners, 2025, https://www.europeanschoolnetacademy.eu/certificates/a9c8d3df605d4299bda80d1fcd884280
-1. Setting up Virtual Exchanges for Language Learning, 2025, https://www.europeanschoolnetacademy.eu/certificates/12910ad31fb94fe1a258a67290818ce0
-1. https://www.open.edu/openlearn/profiles/zw123087/achievements
-   
-100% completed:
-a. Aerospace Propulsion
-b. Aerospace Engineering
-c. VCE Physics Astronomy Course
-d. Special Class through NASA
-e. Teaching Astronomy Online
-f. Flight mechanics - The basis
 
 ---
 
@@ -1943,6 +1948,7 @@ f. Flight mechanics - The basis
 4. https://anaconda.org/bilgi
 5. https://prefix.dev/channels/bilgi
 6. https://crates.io/users/WhiteSymmetry (Rust)
+   
 ---
 
 # Python Project
