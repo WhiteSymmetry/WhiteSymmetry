@@ -1987,6 +1987,53 @@ Links:
 
 ---
  
-# International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
+# Work:
 
-1. Keçeci, Mehmet (2026), “Majorana Fermiyonlarından Kuantum Cihazlarına: 2. Kuantum Çağında Nanomalzemeler”, Mendeley Data, V1, doi: 10.17632/7zn25dktdh.1
+2024-***: Editor
+
+2010-2014: Biyofizik Öğretim Görevlisi: Biophysics Lecturer
+
+2010-2014 arası üniversitede ki öğrenci sayım: 1585
+
+2013–13.06.2014 Lecturer: Bioinformatics, Information Technologies I-II, Istanbul Medipol University
+Faculties (Nursing, Health Management, Law, Nutrition and Dietetics, Physical Therapy and Rehabilitation, Pharmacy)
+Lecturer: Health Information Systems, Health Information System and Applications I-II, Istanbul Medipol University
+Faculties (Medical Documentation and Secretarial Program)
+Lecturer: Fundamental Information Technologies and Instrumentations, Istanbul Medipol University
+Faculties (Medical Documentation and Secretarial Program, Justice Higher Vocational School)
+Lecturer: Information and Communication Technologies, Istanbul Medipol University
+ Faculties (Operating Theatre Services, Dental Prosthesis Technology, Dialysis, Pharmacy
+Services, Audiometry, Optician, Medical Documentation and Secretarial, Medical Imaging
+Techniques, Medical Laboratory Techniques, Radiotherapy)
+
+2013–2014 Hukuk, Sağlık Bilimleri, Eczacılık, MYO Fakülteleri, İstanbul Medipol Üniversitesi Öğretim Görevlisi 
+    Sağlık Bilgi Sistemleri: (Tıbbi Dökümantasyon ve Sekreterlik)
+    Sağlık Bilgi Sistemleri Uygulamaları I: (Tıbbi Dökümantasyon ve Sekreterlik)
+    Sağlık Bilgi Sistemleri Uygulamaları II: (Tıbbi Dökümantasyon ve Sekreterlik)
+    Bilişim Teknolojileri ve Araçları I: (Fizyoterapi ve Rehabilitasyon, Hemşirelik, Beslenme ve Diyetetik, Sağlık Yönetimi, Eczacılık, Hukuk)
+    Bilişim Teknolojileri ve Araçları II: (Fizyoterapi ve Rehabilitasyon, Hemşirelik, Beslenme ve Diyetetik, Sağlık Yönetimi, Eczacılık)
+    Temel Bilişim Teknolojileri: (Tıbbi Dökümantasyon ve Sekreterlik, Adalet MYO): 56
+    Biyoenformatik/Biyobilişim: 16
+    Bilgi ve İletişim Teknolojileri: (Ameliyathane Hizmetleri, Diş Protez Teknolojisi, Diyaliz, Eczane Hizmetleri, Odyometri, Optisyenlik, Tıbbi Dokümantasyon ve Sekreterlik, Tıbbi Görüntüleme 
+Teknikleri, Tıbbi Laboratuvar Teknikleri, Radyoterapi): 81
+Güz Dönemi Öğrenci Sayısı: 632   
+Yaz Dönemi Öğrenci Sayısı: 578 Toplam: 632+153= 785
+
+2012–2013 Lecturer: Information Technologies, Istanbul Medipol University
+Law, Physical Therapy and Rehabilitation, Nursing, Pharmacy, Nutrition and Dietetics
+2012–2013 Bilgi Teknolojileri ve Araçları Öğr. Gör. - İstanbul Medipol Üniversitesi (Hukuk Fakültesi, Sağlık Bilimleri Fakültesi  (Fizyoterapi ve Rehabilitasyon, Hemşirelik, Beslenme ve Diyetetik), Eczacılık Fakültesi)
+Güz+Yaz Dönemi Öğrenci Sayısı: 379
+
+2011–2012 Lecturer: Information Technologies, Istanbul Medipol University Physical Therapy and Rehabilitation, Nursing, Health Management, Pharmacy
+2011–2012 Bilgi Teknolojileri ve Araçları Öğr. Gör. - İstanbul Medipol Üniversitesi (Hukuk Fakültesi, Sağlık Bilimleri Fakültesi  (Sağlık Yönetimi, Fizyoterapi ve Rehabilitasyon, Hemşirelik), Eczacılık Fakültesi)
+Güz+Yaz Dönemi Öğrenci Sayısı: 315
+
+2010–2011 Lecturer: Information Technologies, Istanbul Medipol University
+Faculties (Nursing, Health Management, Physiotherapy and Rehabilitation, Pharmacy)
+2010–2011 Bilgi Teknolojileri ve Araçları Öğr. Gör. - İstanbul Medipol Üniversitesi (Sağlık Bilimleri Fakültesi (Sağlık Yönetimi, Hemşirelik))
+Güz+Yaz Dönemi Öğrenci Sayısı: 106
+
+2008–2010 General Manager
+
+1999–2008: Teacher, C++ Programmer: Fizik, Fen Bilgisi ve Bilgisayar Öğretmeni, C++ Programcısı
+
