@@ -1993,7 +1993,7 @@ Links:
 
 2010-2014: Biyofizik Öğretim Görevlisi: Biophysics Lecturer
 
-2010-2014 arası üniversitede ki öğrenci sayım: 1585
+2010-2014 arası üniversitedeki öğrenci sayım: 1585
 
 2013–13.06.2014 Lecturer: Bioinformatics, Information Technologies I-II, Istanbul Medipol University
 Faculties (Nursing, Health Management, Law, Nutrition and Dietetics, Physical Therapy and Rehabilitation, Pharmacy)
@@ -2005,8 +2005,7 @@ Lecturer: Information and Communication Technologies, Istanbul Medipol Universit
  Faculties (Operating Theatre Services, Dental Prosthesis Technology, Dialysis, Pharmacy
 Services, Audiometry, Optician, Medical Documentation and Secretarial, Medical Imaging
 Techniques, Medical Laboratory Techniques, Radiotherapy)
-
-2013–2014 Hukuk, Sağlık Bilimleri, Eczacılık, MYO Fakülteleri, İstanbul Medipol Üniversitesi Öğretim Görevlisi 
+2013–13.06.2014 Hukuk, Sağlık Bilimleri, Eczacılık, MYO Fakülteleri, İstanbul Medipol Üniversitesi Öğretim Görevlisi 
     Sağlık Bilgi Sistemleri: (Tıbbi Dökümantasyon ve Sekreterlik)
     Sağlık Bilgi Sistemleri Uygulamaları I: (Tıbbi Dökümantasyon ve Sekreterlik)
     Sağlık Bilgi Sistemleri Uygulamaları II: (Tıbbi Dökümantasyon ve Sekreterlik)
@@ -2033,7 +2032,7 @@ Faculties (Nursing, Health Management, Physiotherapy and Rehabilitation, Pharmac
 2010–2011 Bilgi Teknolojileri ve Araçları Öğr. Gör. - İstanbul Medipol Üniversitesi (Sağlık Bilimleri Fakültesi (Sağlık Yönetimi, Hemşirelik))
 Güz+Yaz Dönemi Öğrenci Sayısı: 106
 
-2008–2010 General Manager
+2008–2010: General Manager
 
 1999–2008: Teacher, C++ Programmer: Fizik, Fen Bilgisi ve Bilgisayar Öğretmeni, C++ Programcısı
 
