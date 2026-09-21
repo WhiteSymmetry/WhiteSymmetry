@@ -1578,7 +1578,7 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 ---
 
-# Scientific Links:
+# Scientific & General Links:
 
 1. https://orcid.org/0000-0001-9937-9839
 
@@ -1611,6 +1611,21 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 1. https://sciprofiles.com/profile/mkececi
 
 1. https://figshare.com/authors/Mehmet_Ke_eci/14301782
+
+1. https://wakelet.com/@mkececi
+1. https://medium.com/@mkececi 
+1. https://www.growkudos.com/profile/Mehmet_Ke%C3%A7eci 
+1. https://anaconda.org/bilgi 
+1. https://pypi.org/user/WhiteSymmetry 
+1. https://github.com/WhiteSymmetry
+1. https://osf.io/j9f5c/ 
+1. https://figshare.com/authors/Mehmet_Ke_eci/14301782 
+1. https://www.goodreads.com/author/show/12062046.Mehmet_Ke_eci 
+1. https://hcommons.org/members/mkececi
+1. https://hackaday.io/pages/884180
+1. https://www.producthunt.com/@mkecheci
+1. https://loop.frontiersin.org/people/905355/overview
+1. https://portfolium.com/mkececi
 
 
 # Scientific IDs
@@ -1920,25 +1935,6 @@ c. VCE Physics Astronomy Course
 d. Special Class through NASA
 e. Teaching Astronomy Online
 f. Flight mechanics - The basis
-
----
-
-Links:
-
-1. https://wakelet.com/@mkececi
-1. https://medium.com/@mkececi 
-1. https://www.growkudos.com/profile/Mehmet_Ke%C3%A7eci 
-1. https://anaconda.org/bilgi 
-1. https://pypi.org/user/WhiteSymmetry 
-1. https://github.com/WhiteSymmetry
-1. https://osf.io/j9f5c/ 
-1. https://figshare.com/authors/Mehmet_Ke_eci/14301782 
-1. https://www.goodreads.com/author/show/12062046.Mehmet_Ke_eci 
-1. https://hcommons.org/members/mkececi
-1. https://cv.hal.science/mehmet-kececi
-1. https://hackaday.io/pages/884180
-1. https://www.producthunt.com/@mkecheci
-1. https://loop.frontiersin.org/people/905355/overview
 
 ---
 
