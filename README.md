@@ -1581,37 +1581,21 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 # Scientific & General Links:
 
 1. https://orcid.org/0000-0001-9937-9839
-
 1. https://www.researchgate.net/profile/Mehmet-Kececi
-
 1. https://independent.academia.edu/mkececi
-
 1. https://dergipark.org.tr/tr/pub/@mkececi
-
 1. https://www.webofscience.com/wos/author/record/H-7476-2014
-
 1. https://inspirehep.net/authors/1361774
-
 1. https://scholar.google.com/citations?user=PleXSXMAAAAJ
-
 1. https://www.scopus.com/authid/detail.uri?authorId=39762289000
-   
 1. https://commons.datacite.org/orcid.org/0000-0001-9937-9839
-
 1. https://profiles.impactstory.org/u/0000-0001-9937-9839
-
 1. https://europepmc.org/authors/0000-0001-9937-9839
-
 1. https://nanohub.org/members/321995
-
 1. https://cv.hal.science/mehmet-kececi
-
 1. https://isni.org/isni/0000000530972211
-
 1. https://sciprofiles.com/profile/mkececi
-
 1. https://figshare.com/authors/Mehmet_Ke_eci/14301782
-
 1. https://wakelet.com/@mkececi
 1. https://medium.com/@mkececi 
 1. https://www.growkudos.com/profile/Mehmet_Ke%C3%A7eci 
@@ -1619,7 +1603,6 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 1. https://pypi.org/user/WhiteSymmetry 
 1. https://github.com/WhiteSymmetry
 1. https://osf.io/j9f5c/ 
-1. https://figshare.com/authors/Mehmet_Ke_eci/14301782 
 1. https://www.goodreads.com/author/show/12062046.Mehmet_Ke_eci 
 1. https://hcommons.org/members/mkececi
 1. https://hackaday.io/pages/884180
@@ -1631,19 +1614,12 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 # Scientific IDs
 
 1. Web of Science ResearcherID: H-7476-2014
-
 1. ORCID: 0000-0001-9937-9839
-
 1. Scopus Author ID: 39762289000
-
 1. Loop profile: 905355
-
 1. SciProfiles: 110585
-
 1. Ciência ID: 411D- 32F4-237F
-
 1. Google Scholar: PleXSXMAAAAJ
-
 1. ISNI: 0000000530972211
 
 ---
