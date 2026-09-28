@@ -414,7 +414,7 @@ Keçeci, M. (2025). The Keçeci Layout: A Deterministic Visualisation Framework 
 
 Keçeci, M. (2025). oresmen (0.1.0). Zenodo. https://doi.org/10.5281/zenodo.16634186
 
-Keçeci, M. (2025). The Signature of a Sequence: Variability and Stability in Keçeci and Oresme Numbers. ScienceOpen Preprints. https://doi.org/10.14293/PR2199.001860.v1
+Keçeci, M. (2025). The Signature of a Sequence: Variability and Stability in Keçeci and Oresme Numbers. ScienceOpen Preprints. https://doi.org/10.14293/PR2199.001860.v2
 
 Keçeci, M. (2025). Döngülerden Vektörleştirmeye: Harmonik Seriler için Saf Python ve JAX Performans Karşılaştırması. Authorea. https://doi.org/10.22541/au.175390609.94042878/v1
 
@@ -853,7 +853,7 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 120\. Keçeci, M. (2025). oresmen (0.1.0). Zenodo. https://doi.org/10.5281/zenodo.16634186
 
-119\. Keçeci, M. (2025). The Signature of a Sequence: Variability and Stability in Keçeci and Oresme Numbers. ScienceOpen Preprints. https://doi.org/10.14293/PR2199.001860.v1
+119\. Keçeci, M. (2025). The Signature of a Sequence: Variability and Stability in Keçeci and Oresme Numbers. ScienceOpen Preprints. https://doi.org/10.14293/PR2199.001860.v2
 
 118\. Keçeci, M. (2025). Döngülerden Vektörleştirmeye: Harmonik Seriler için Saf Python ve JAX Performans Karşılaştırması. Authorea. https://doi.org/10.22541/au.175390609.94042878/v1
 
@@ -1186,7 +1186,7 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 1. Keçeci, M. (2025). oresmen (0.1.0). Zenodo. https://doi.org/10.5281/zenodo.16634186
 
-1. Keçeci, M. (2025). The Signature of a Sequence: Variability and Stability in Keçeci and Oresme Numbers. ScienceOpen Preprints. https://doi.org/10.14293/PR2199.001860.v1
+1. Keçeci, M. (2025). The Signature of a Sequence: Variability and Stability in Keçeci and Oresme Numbers. ScienceOpen Preprints. https://doi.org/10.14293/PR2199.001860.v2
 
 1. Keçeci, M. (2025). Döngülerden Vektörleştirmeye: Harmonik Seriler için Saf Python ve JAX Performans Karşılaştırması. Authorea. https://doi.org/10.22541/au.175390609.94042878/v1
 
