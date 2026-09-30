@@ -1626,8 +1626,9 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 # Internships, Courses, Certificates
 
-1. AI on AMD, 11 Sep 2026, AMD AI Academy, https://academy.amd.com/certs/31042/D2B26D1D192A43549C46508592F73776166320.pdf
-2. AI Agents 101: Building AI Agents with MCP and Open-Source Inference, 11 Sep 2026, AMD AI Academy, https://academy.amd.com/certs/31042/D2B26D1D192A43549C46508592F73776166281.pdf
+1. Digital well-being by design: a whole-school approach, 2026, https://www.europeanschoolnetacademy.eu/certificates/1c76e9c17b6e4606bea89104061f456c
+2. AI on AMD, 11 Sep 2026, AMD AI Academy, https://academy.amd.com/certs/31042/D2B26D1D192A43549C46508592F73776166320.pdf
+3. AI Agents 101: Building AI Agents with MCP and Open-Source Inference, 11 Sep 2026, AMD AI Academy, https://academy.amd.com/certs/31042/D2B26D1D192A43549C46508592F73776166281.pdf
 2. Develocity Build Analysis and Optimization, DPE University: Gradle Inc., July 5, 2026, Yeterlilik Kimliği (ID): 6ae5b67a-afb2-40ed-808b-8b84877c8332
 3. Quantum Computing & Programming, QNickel Workshop, QPoland, Fundacja Quantum AI, QWorld, Qiskit, QNickel26-5, May 2026.
 4. Certificate of Appreciation. This certificate is proudly. Presented to Mehmet Keçeci in recognition of exceptional professionalism, timely feedback, and thoughtful academic evaluation during the peer-review process of the manuscript titled: "...". icSmartGrid 2026, Suceava/Romania.
@@ -1855,7 +1856,7 @@ https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/df50a12c-8605-99c3-4a
 208. Electric Counter Attention T.E.K. (Türkiye Electric Corporation) (Internship), 1993
 209. Enamelled Wire Production, EMTEL (Internship), 1992
 210. Arabic Language Certificate I., II. Level, Egypt, Arab Radio, 1991
-211. ~1000 Badges & Certificates: 79 Elsevier, PennyLane (3 Certificate, 22 Badges) (https://pennylane.ai/profile/mkececi), B+C Microsoft Education 858 modules, 516 badges, 95 trophies, 1 reputation (https://learn.microsoft.com/en-us/users/mkececi/), 16 MVA, 30 Google, 3 ResellerClub, 3 Firefox, 1 WordPress, 3 Minecraft, 7 Fedora, 43 Spiceworks, 10 Edmodo, 27B+1C European Schoolnet, 30 Sociabble, 12 Udemy, 21 Brighttalk, 4 OpenWHO, Columbia+ (2C, 6B, https://badges.plus.columbia.edu/profile/mehmetkeeci404433/wallet), LinkedIn Learning (8C), Badgelist (27B, https://badgelist.com/u/mkececi), Credly (28B,	 https://www.credly.com/users/mkececi), BTK Akademi (5C), Accredible (5 C+B,	 https://www.credential.net/profile/mkececi/wallet), Parchment Digital Badges (151B,	 https://badges.parchment.com/public/collections/55f6069cb6a8861abd957632b5a465a9) etc.
+211. ~1000 Badges & Certificates: 79 Elsevier, PennyLane (3 Certificate, 22 Badges) (https://pennylane.ai/profile/mkececi), B+C Microsoft Education 858 modules, 516 badges, 95 trophies, 1 reputation (https://learn.microsoft.com/en-us/users/mkececi/), 16 MVA, 30 Google, 3 ResellerClub, 3 Firefox, 1 WordPress, 3 Minecraft, 7 Fedora, 43 Spiceworks, 10 Edmodo, 27B+1C European Schoolnet, 30 Sociabble, 12 Udemy, 21 Brighttalk, 4 OpenWHO, Columbia+ (2C, 6B, https://badges.plus.columbia.edu/profile/mehmetkeeci404433/wallet), LinkedIn Learning (8C), Badgelist (27B, https://badgelist.com/u/mkececi), Credly (28B, https://www.credly.com/users/mkececi), BTK Akademi (5C), Accredible (5 C+B,	 https://www.credential.net/profile/mkececi/wallet), Parchment Digital Badges (151B,	 https://badges.parchment.com/public/collections/55f6069cb6a8861abd957632b5a465a9) etc.
 
 ---
 
