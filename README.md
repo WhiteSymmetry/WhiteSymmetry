@@ -56,7 +56,7 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 250 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
-Keçeci, M. (2026). kececicurve (Version V1) [Data set]. Open Dataverse Articles (ODAs), Harvard Dataverse. https://doi.org/10.7910/DVN/BWKWOY
+Keçeci, M. (2026). kececicurve (Version V1) [Data set]. Open Dataverse Articles (ODAs), Harvard Dataverse. https://doi.org/10.7910/DVN/BWKWOY; https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BWKWOY
 
 Keçeci, M. (2026). X-Ray Amplification: Physics, Technology, and Perspectives. Open Pub Articles (OPAs). https://doi.org/10.21428/aaf7bfa8.e4eab22d
   
