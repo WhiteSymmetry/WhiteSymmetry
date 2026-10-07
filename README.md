@@ -56,6 +56,8 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 250 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2026). X-Ray Amplification: Physics, Technology, and Perspectives. Open Pub Articles (OPAs). https://doi.org/10.21428/aaf7bfa8.e4eab22d
+  
 Keçeci, M. (2026). Non-Lineer Alan Teorilerinden Topolojik Kuantum Hesaplamaya Karma Ardaşık Düzen Modellemesi ve Verimlilik Analizi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23096428
 
 Keçeci, M. (2026). Weyl–Süperiletken Heteroyapılarda Topolojik Arayüz Mühendisliği: Stratum Modeli ile Ortaya Çıkan Majorana Yayları, Non-Abelian Örgüleme ve K‑Teorisi Sınıflandırması. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.21908118
