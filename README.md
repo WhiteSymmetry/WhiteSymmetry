@@ -878,8 +878,6 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 
 1. Keçeci, M. (2025). KHA-256: A Next-Generation Cryptographic Hash Function Based on Keçeci Numbers and Mathematical Constants. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18156885
 
-1. Keçeci, M. (2025). KHA-256: A Next-Generation Cryptographic Hash Function Based on Keçeci Numbers and Mathematical Constants. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18156885
-
 1. Keçeci, M. (2025). KHA-256. GitHub, PyPI, Anaconda, Zenodo. https://doi.org/10.5281/zenodo.18089401 & https://github.com/WhiteSymmetry/kha256 & https://pypi.org/project/kha256 & https://anaconda.org/bilgi/kha256 
 
 1. Keçeci, M. (2025). From Chaos to Clarity: The Keçeci Layout for Order-Dependent Systems. https://doi.org/10.5281/zenodo.17665770
