@@ -39,9 +39,11 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 250 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2026). Sınırdaki Paradigma Değişimi: Kuantum Tünelleme Bariyerinden Karbon Nanotüplere ve Hesaplama Gücüne Uzanan Kuantum Limitleri. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23267798
+
 Keçeci, M. (2026). r3cal: Çok Dilli, Gömülebilir ve Standartlara Uygun Bir Direnç Renk Kodu Hesaplayıcı Kütüphanesi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23251543
 
-Keçeci, M. (2026). Signal Enhancement in X-Ray Technologies: Theoretical Foundations, Technological Implications, and Future Perspectives. SSRN. http://dx.doi.org/10.2139/ssrn.7579539 
+Keçeci, M. (2026). Signal Enhancement in X-Ray Technologies: Theoretical Foundations, Technological Implications, and Future Perspectives. SSRN. http://dx.doi.org/10.2139/ssrn.7579539
 
 Keçeci, M. (2026). kececicurve (Version V1) [Data set]. Open Dataverse Articles (ODAs), Harvard Dataverse. https://doi.org/10.7910/DVN/BWKWOY; https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BWKWOY
 
