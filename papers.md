@@ -1,6 +1,33 @@
-![Projects](https://img.shields.io/badge/Projects-18-blue)
-![Languages](https://img.shields.io/badge/Languages-Python%2C%20R%2C%20Rust-yellow)
-![Scope](https://img.shields.io/badge/Scope-Scientific%20%26%20Mathematical-green)
+
+[![Orcid](https://img.shields.io/badge/Orcid-12100E?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9937-9839)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-0077B5?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mehmet-Kececi)
+[![Google Scholar](https://img.shields.io/badge/GoogleScholar-0077B5?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=PleXSXMAAAAJ&hl=en)
+[![Academia](https://img.shields.io/badge/Academia-0077B5?style=for-the-badge&logo=academia&logoColor=white)](https://independent.academia.edu/mkececi)
+[![SciProfiles](https://img.shields.io/badge/SciProfiles-0077B5?style=for-the-badge&logo=academia&logoColor=white)](https://sciprofiles.com/profile/mkececi)
+
+
+[![Open Science Articles (OSAs)](https://img.shields.io/badge/OpenScienceArticles-0077B5?style=for-the-badge&logo=opensciencearticles&logoColor=white)](https://zenodo.org/communities/bilginomi/records)
+[![Open Fig Share Articles (OFSAs)](https://img.shields.io/badge/OpenFigShareArticles-0077B5?style=for-the-badge&logo=openfigsharearticles&logoColor=white)](https://doi.org/10.6084/m9.figshare.c.7972292)
+[![Open Work Flow Articles (OWFAs)](https://img.shields.io/badge/OpenWorkFlowArticles-0077B5?style=for-the-badge&logo=openworkflowarticles&logoColor=white)](https://workflowhub.eu/collections/34)
+[![Open Science Knowledge Articles (OSKAs)](https://img.shields.io/badge/OpenScienceKnowledgeArticles-0077B5?style=for-the-badge&logo=openscienceknowledgearticles&logoColor=white)](https://works.hcommons.org/collections/03072025/)
+[![OSF](https://img.shields.io/badge/OpenScienceOutputArticles-0077B5?style=for-the-badge&logo=openscienceuutputarticles&logoColor=white)](https://osf.io/j9f5c)
+[![ISNI](https://img.shields.io/badge/ISNI-0077B5?style=for-the-badge&logo=isni&logoColor=white)](https://isni.org/isni/0000000530972211)
+
+---
+  <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0001-9937-9839"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0001-9937-9839
+    </a>
+---
 
 ---
 
