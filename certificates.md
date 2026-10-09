@@ -1,8 +1,11 @@
 # Internships, Courses, Certificates
 
-1. Digital well-being by design: a whole-school approach, 2026, https://www.europeanschoolnetacademy.eu/certificates/1c76e9c17b6e4606bea89104061f456c
-2. AI on AMD, 11 Sep 2026, AMD AI Academy, https://academy.amd.com/certs/31042/D2B26D1D192A43549C46508592F73776166320.pdf
-3. AI Agents 101: Building AI Agents with MCP and Open-Source Inference, 11 Sep 2026, AMD AI Academy, https://academy.amd.com/certs/31042/D2B26D1D192A43549C46508592F73776166281.pdf
+1. Mentoring Programme – IEC Member mentees, IEC Academy & Capacity Building, 9 Oct. 2026.
+1. New IEC Standardization Expert, IEC Academy & Capacity Building, 9 Oct. 2026.
+1. Online Standards Development (authoring), IEC Academy & Capacity Building, 9 Oct. 2026.
+2. Digital well-being by design: a whole-school approach, 2026, https://www.europeanschoolnetacademy.eu/certificates/1c76e9c17b6e4606bea89104061f456c
+3. AI on AMD, 11 Sep 2026, AMD AI Academy, https://academy.amd.com/certs/31042/D2B26D1D192A43549C46508592F73776166320.pdf
+4. AI Agents 101: Building AI Agents with MCP and Open-Source Inference, 11 Sep 2026, AMD AI Academy, https://academy.amd.com/certs/31042/D2B26D1D192A43549C46508592F73776166281.pdf
 2. Develocity Build Analysis and Optimization, DPE University: Gradle Inc., July 5, 2026, Yeterlilik Kimliği (ID): 6ae5b67a-afb2-40ed-808b-8b84877c8332
 3. Quantum Computing & Programming, QNickel Workshop, QPoland, Fundacja Quantum AI, QWorld, Qiskit, QNickel26-5, May 2026.
 4. Certificate of Appreciation. This certificate is proudly. Presented to Mehmet Keçeci in recognition of exceptional professionalism, timely feedback, and thoughtful academic evaluation during the peer-review process of the manuscript titled: "...". icSmartGrid 2026, Suceava/Romania.
