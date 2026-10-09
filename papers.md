@@ -1,5 +1,3 @@
----
-
 ![Projects](https://img.shields.io/badge/Projects-18-blue)
 ![Languages](https://img.shields.io/badge/Languages-Python%2C%20R%2C%20Rust-yellow)
 ![Scope](https://img.shields.io/badge/Scope-Scientific%20%26%20Mathematical-green)
