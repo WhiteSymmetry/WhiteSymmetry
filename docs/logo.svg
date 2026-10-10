@@ -1,0 +1,214 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1024 1024">
+
+  <defs>
+
+    <linearGradient id="bg"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1320"/>
+      <stop offset="100%" stop-color="#1c2740"/>
+    </linearGradient>
+
+    <linearGradient id="ice"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#b8e8ff"/>
+    </linearGradient>
+
+    <linearGradient id="mint"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f4fffd"/>
+      <stop offset="100%" stop-color="#8de8d0"/>
+    </linearGradient>
+
+    <linearGradient id="violet"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8f4ff"/>
+      <stop offset="100%" stop-color="#ccbfff"/>
+    </linearGradient>
+
+    <linearGradient id="peach"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff6ec"/>
+      <stop offset="100%" stop-color="#ffd7b0"/>
+    </linearGradient>
+
+    <filter id="shadow"
+            x="-30%"
+            y="-30%"
+            width="160%"
+            height="160%">
+
+      <feDropShadow dx="0"
+                    dy="12"
+                    stdDeviation="18"
+                    flood-color="#000000"
+                    flood-opacity="0.25"/>
+
+    </filter>
+
+  </defs>
+
+  <!-- Background -->
+
+  <rect width="1024"
+        height="1024"
+        fill="url(#bg)"/>
+
+  <!-- Frame -->
+
+  <rect x="40"
+        y="40"
+        width="944"
+        height="944"
+        rx="48"
+        fill="none"
+        stroke="#324055"
+        stroke-width="2"/>
+
+  <!-- Title -->
+
+  <text x="512"
+        y="95"
+        text-anchor="middle"
+        fill="#ffffff"
+        font-size="56"
+        font-family="Segoe UI,Arial"
+        font-weight="700">
+
+    WhiteSymmetry
+
+  </text>
+
+  <g filter="url(#shadow)">
+
+    <!-- Center Diamond -->
+
+    <polygon
+      points="
+      512,360
+      652,500
+      512,640
+      372,500"
+      fill="url(#ice)"/>
+
+    <!-- Highlight -->
+
+    <polygon
+      points="
+      512,360
+      575,430
+      512,470"
+      fill="#ffffff"
+      opacity="0.75"/>
+
+    <!-- Left Crystal Wing -->
+
+    <polygon
+      points="
+      150,500
+      372,360
+      372,640"
+      fill="url(#mint)"/>
+
+    <polygon
+      points="
+      90,500
+      240,270
+      372,360
+      240,500"
+      fill="url(#ice)"/>
+
+    <polygon
+      points="
+      90,500
+      240,500
+      372,640
+      240,760"
+      fill="url(#violet)"/>
+
+    <!-- Right Crystal Wing -->
+
+    <polygon
+      points="
+      874,500
+      652,360
+      652,640"
+      fill="url(#mint)"/>
+
+    <polygon
+      points="
+      934,500
+      784,270
+      652,360
+      784,500"
+      fill="url(#violet)"/>
+
+    <polygon
+      points="
+      934,500
+      784,500
+      652,640
+      784,760"
+      fill="url(#ice)"/>
+
+    <!-- Upper Crystal -->
+
+    <polygon
+      points="
+      512,170
+      652,360
+      512,430
+      372,360"
+      fill="url(#violet)"/>
+
+    <!-- Lower Crystal -->
+
+    <polygon
+      points="
+      372,640
+      512,860
+      652,640
+      512,570"
+      fill="url(#peach)"/>
+
+    <!-- Internal Facets -->
+
+    <polygon
+      points="
+      372,360
+      512,500
+      372,640"
+      fill="#ffffff"
+      opacity="0.18"/>
+
+    <polygon
+      points="
+      652,360
+      512,500
+      652,640"
+      fill="#ffffff"
+      opacity="0.18"/>
+
+  </g>
+
+  <!-- Subtitle -->
+
+  <text x="512"
+        y="955"
+        text-anchor="middle"
+        fill="#dbeafe"
+        font-size="48"
+        font-family="Segoe UI,Arial"
+        font-weight="600">
+
+    BeyazSimetri
+
+  </text>
+
+</svg>
