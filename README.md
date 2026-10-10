@@ -1,3 +1,8 @@
+# WhiteSymmetry (BeyazSimetri): Mehmet Keçeci
+
+## WhiteSymmetry <img src="https://github.com/WhiteSymmetry/WhiteSymmetry/blob/main/docs/logo.png" alt="WhiteSymmetry" align="right" height="140"/>
+
+---
 
 ![GitHub followers](https://img.shields.io/github/followers/WhiteSymmetry?label=Follow&style=social)
 
