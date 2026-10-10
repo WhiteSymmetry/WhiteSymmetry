@@ -32,6 +32,7 @@
 [![ISNI](https://img.shields.io/badge/ISNI-0077B5?style=for-the-badge&logo=isni&logoColor=white)](https://isni.org/isni/0000000530972211)
 
 ---
+
   <a
     id="cy-effective-orcid-url"
     class="underline"
@@ -45,6 +46,7 @@
         alt="ORCID iD icon"/>
       https://orcid.org/0000-0001-9937-9839
     </a>
+    
 ---
 
 ![Projects](https://img.shields.io/badge/Projects-18-blue)
