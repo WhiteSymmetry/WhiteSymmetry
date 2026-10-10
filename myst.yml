@@ -12,4 +12,4 @@ site:
   template: book-theme
   options:
     favicon: docs/favicon.ico
-    logo: docs/logo.jpg
+    logo: docs/logo.png
