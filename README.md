@@ -1429,7 +1429,7 @@ Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.47241
 9. Module 5. Quantum Algorithms for Nonlinear Problems, The Washington Institute for STEM, Entrepreneurship and Research, 08/11/2025.
 https://www.virtualbadge.io/certificate-validator?credential=04d261e1-943e-40d9-b454-6600d8d87d42
 10. Module 2. Quantum Algorithms to Solve Partial Differential Equations, The Washington Institute for STEM, Entrepreneurship and Research, 06/08/2025, https://www.virtualbadge.io/certificate-validator?credential=f58c5aa0-8734-44a7-b5f5-28be52f72ddd
-11. PennyLane Trotterization Challenge at the Womanium & Wiser Quantum Program 2025, Agust 2025. https://cloud.pennylane.ai/profiles/ob/certificates/permalink/724c1d2e-85d2-42d3-98c3-a98e88e3aaf7
+11. PennyLane Trotterization Challenge at the Womanium & Wiser Quantum Program 2025, August 2025. https://cloud.pennylane.ai/profiles/ob/certificates/permalink/724c1d2e-85d2-42d3-98c3-a98e88e3aaf7
 12. PennyLane LCU Challenge at the Womanium & Wiser Quantum Program 2025, July 2025. https://cloud.pennylane.ai/profiles/ob/certificates/permalink/a7f8a33a-e192-43b7-9d25-1ff65162ae59
 13. Introduction to PennyLane Certificate, PennyLane, June 2025. https://cloud.pennylane.ai/profiles/ob/certificates/permalink/93269c1d-8f1c-429e-be94-3f9f3ac2a111
 14. QHack 2024 Coding Challenge Completionist, March 2024. https://cloud.pennylane.ai/profiles/ob/certificates/permalink/45fd53e4-dc95-4849-add2-5ad26fb7b764
