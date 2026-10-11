@@ -63,6 +63,8 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 250 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2026). Magnetooptik Granatların Kuantum Bilgisayarlar ve Kuantum İnternet Alanındaki Kullanımı ve Önemi. https://doi.org/10.5281/zenodo.23289589
+
 Keçeci, M. (2026). Sınırdaki Paradigma Değişimi: Kuantum Tünelleme Bariyerinden Karbon Nanotüplere ve Hesaplama Gücüne Uzanan Kuantum Limitleri. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23267798
 
 Keçeci, M. (2026). r3cal: Çok Dilli, Gömülebilir ve Standartlara Uygun Bir Direnç Renk Kodu Hesaplayıcı Kütüphanesi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23251543
