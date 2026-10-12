@@ -1,18 +1,19 @@
 # WhiteSymmetry (BeyazSimetri): Mehmet Keçeci
 
-## WhiteSymmetry <img src="https://github.com/WhiteSymmetry/WhiteSymmetry/blob/main/docs/logo.png" alt="WhiteSymmetry" align="right" height="140"/>
+---
+
+## WhiteSymmetry <img src="https://github.com/WhiteSymmetry/WhiteSymmetry/blob/main/docs/logo.png" alt="WhiteSymmetry" align="right" height="120"/>
 
 ---
 
 ![GitHub followers](https://img.shields.io/github/followers/WhiteSymmetry?label=Follow&style=social)
-
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WhiteSymmetry&theme=2077&name=WhiteSymmetry)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WhiteSymmetry&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WhiteSymmetry&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WhiteSymmetry&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WhiteSymmetry&theme=2077&utcOffset=0)
 
+---
 
 [![Profile details](https://raw.githubusercontent.com/WhiteSymmetry/WhiteSymmetry/main/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/WhiteSymmetry)
 
@@ -23,6 +24,8 @@
 [![Stats](https://raw.githubusercontent.com/WhiteSymmetry/WhiteSymmetry/main/profile-summary-card-output/blueberry/3-stats.svg)](https://github.com/WhiteSymmetry)
 
 [![Productive time](https://raw.githubusercontent.com/WhiteSymmetry/WhiteSymmetry/main/profile-summary-card-output/blueberry/4-productive-time.svg)](https://github.com/WhiteSymmetry)
+
+---
 
 ### Bu yılın katkı takvimi
 
@@ -37,6 +40,14 @@
 [![Google Scholar](https://img.shields.io/badge/GoogleScholar-0077B5?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=PleXSXMAAAAJ&hl=en)
 [![Academia](https://img.shields.io/badge/Academia-0077B5?style=for-the-badge&logo=academia&logoColor=white)](https://independent.academia.edu/mkececi)
 [![SciProfiles](https://img.shields.io/badge/SciProfiles-0077B5?style=for-the-badge&logo=academia&logoColor=white)](https://sciprofiles.com/profile/mkececi)
+
+---
+
+### Languages
+
+![Languages used](./metrics.plugin.languages.svg)
+
+---
 
 
 [![Open Science Articles (OSAs)](https://img.shields.io/badge/OpenScienceArticles-0077B5?style=for-the-badge&logo=opensciencearticles&logoColor=white)](https://zenodo.org/communities/bilginomi/records)
