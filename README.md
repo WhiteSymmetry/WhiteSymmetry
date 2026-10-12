@@ -16,7 +16,6 @@
 ![Mehmet Keçeci's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WhiteSymmetry&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
 
 
-
 [![Profile details](https://raw.githubusercontent.com/WhiteSymmetry/WhiteSymmetry/main/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/WhiteSymmetry)
 
 [![Repos per language](https://raw.githubusercontent.com/WhiteSymmetry/WhiteSymmetry/main/profile-summary-card-output/blueberry/1-repos-per-language.svg)](https://github.com/WhiteSymmetry)
