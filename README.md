@@ -13,7 +13,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WhiteSymmetry&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WhiteSymmetry&theme=2077&utcOffset=0)
 
-![Mehmet Keçeci's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WhiteSymmetry&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
+![Mehmet Keçeci's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WhiteSymmetry&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
 
 
 
