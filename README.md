@@ -89,6 +89,8 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 250 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2026). Applications and Significance of Magneto-Optical Garnets in Quantum Computing and the Quantum Internet. https://doi.org/10.5281/zenodo.23308278
+
 Keçeci, M. (2026). Magnetooptik Granatların Kuantum Bilgisayarlar ve Kuantum İnternet Alanındaki Kullanımı ve Önemi. https://doi.org/10.5281/zenodo.23289589
 
 Keçeci, M. (2026). Sınırdaki Paradigma Değişimi: Kuantum Tünelleme Bariyerinden Karbon Nanotüplere ve Hesaplama Gücüne Uzanan Kuantum Limitleri. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23267798
