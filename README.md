@@ -13,8 +13,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WhiteSymmetry&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WhiteSymmetry&theme=2077&utcOffset=0)
 
-![Mehmet Keçeci's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WhiteSymmetry&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
-
 
 [![Profile details](https://raw.githubusercontent.com/WhiteSymmetry/WhiteSymmetry/main/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/WhiteSymmetry)
 
@@ -26,7 +24,13 @@
 
 [![Productive time](https://raw.githubusercontent.com/WhiteSymmetry/WhiteSymmetry/main/profile-summary-card-output/blueberry/4-productive-time.svg)](https://github.com/WhiteSymmetry)
 
+### Bu yılın katkı takvimi
 
+![Bu yılın GitHub katkı takvimi](./metrics.plugin.calendar.svg)
+
+### Tüm geçmişin katkı takvimi
+
+![Tüm geçmişin GitHub katkı takvimi](./metrics.plugin.calendar.full.svg)
 
 [![Orcid](https://img.shields.io/badge/Orcid-12100E?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9937-9839)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-0077B5?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mehmet-Kececi)
