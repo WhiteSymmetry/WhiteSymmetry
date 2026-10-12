@@ -89,6 +89,8 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 250 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2026). Nano Yapılı Magnetooptik Granatların Entegre Kuantum Fotonikteki Rolü: İnce Film Büyütme, Fotonik Kristal Tasarımı ve Çip Ölçeğinde Kuantum Transdüksiyon. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23328331
+
 Keçeci, M. (2026). Applications and Significance of Magneto-Optical Garnets in Quantum Computing and the Quantum Internet. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23308278
 
 Keçeci, M. (2026). Magnetooptik Granatların Kuantum Bilgisayarlar ve Kuantum İnternet Alanındaki Kullanımı ve Önemi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23289589
