@@ -89,6 +89,8 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 250 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2026). From Quantum Beats to Topological Protection: A Stratum-Based Hybrid Architecture Integrating NV Centers, Weyl Interfaces, and Majorana Qubits for Fault-Tolerant Quantum Computing. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23427142
+
 Keçeci, M. (2026). Kuantum Atımlarından Topolojik Korumaya: Hata Toleranslı Kuantum Hesaplama İçin NV Merkezleri, Weyl Arayüzleri ve Majorana Kübitlerini Bütünleştiren Stratum Tabanlı Karma Mimari. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23349901
 
 Keçeci, M. (2026). Nano Yapılı Magnetooptik Granatların Entegre Kuantum Fotonikteki Rolü: İnce Film Büyütme, Fotonik Kristal Tasarımı ve Çip Ölçeğinde Kuantum Transdüksiyon. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23328331
