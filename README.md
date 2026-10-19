@@ -91,6 +91,8 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 250 English, Turki
 
 Keçeci, M. (2026). Gelecek Nesil Yapay Zeka Sistemleri için Bellek Mimarilerinde Paradigma Değişimi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23463618
 
+Mehmet K. 2026. From Cryptography to Quantum Visualization: Versatile Applications of the Keçeci Curve Family. preprints.ru. https://doi.org/10.24108/preprints-3116646
+
 Keçeci, M. (2026). From Quantum Beats to Topological Protection: A Stratum-Based Hybrid Architecture Integrating NV Centers, Weyl Interfaces, and Majorana Qubits for Fault-Tolerant Quantum Computing. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23427142
 
 Keçeci, M. (2026). Kuantum Atımlarından Topolojik Korumaya: Hata Toleranslı Kuantum Hesaplama İçin NV Merkezleri, Weyl Arayüzleri ve Majorana Kübitlerini Bütünleştiren Stratum Tabanlı Karma Mimari. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23349901
