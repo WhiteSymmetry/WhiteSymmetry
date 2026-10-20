@@ -89,6 +89,8 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 250 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2026). Kare Kafes t-J Modelinden Topolojik Majorana Modlarına: Güçlü Korelasyonlu Elektron Sistemlerinde Spin-Yük Ayrışmasının Kuantum Örgü Simülasyonu. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23488782
+
 Keçeci, M. (2026). Gelecek Nesil Yapay Zeka Sistemleri için Bellek Mimarilerinde Paradigma Değişimi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23463618
 
 Mehmet K. 2026. From Cryptography to Quantum Visualization: Versatile Applications of the Keçeci Curve Family. preprints.ru. https://doi.org/10.24108/preprints-3116646
