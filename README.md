@@ -89,6 +89,8 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 250 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2026). Mittag-Leffler ve Prabhakar Fonksiyonlarının Python'da Güvenli ve Doğru Hesaplanması. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23550353
+
 Keçeci, M. (2026). Kare Kafes t-J Modelinden Topolojik Majorana Modlarına: Güçlü Korelasyonlu Elektron Sistemlerinde Spin-Yük Ayrışmasının Kuantum Örgü Simülasyonu. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23488782
 
 Keçeci, M. (2026). Gelecek Nesil Yapay Zeka Sistemleri için Bellek Mimarilerinde Paradigma Değişimi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23463618
@@ -491,6 +493,8 @@ Not: Tezin adı YÖK sistemine yanlış geçmiştir: "Konforal", "Konformal" ola
 
 # Technical Report
 
+Keçeci, M. (2026). Mittag-Leffler ve Prabhakar Fonksiyonlarının Python'da Güvenli ve Doğru Hesaplanması. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23550353
+
 Keçeci, M. (2026). Gelecek Nesil Yapay Zeka Sistemleri için Bellek Mimarilerinde Paradigma Değişimi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23463618
 
 Keçeci, M. (2026). Keçeci Fraktalları ile Dalga Saçılmasının Modellenmesi. Zenodo. https://doi.org/10.5281/zenodo.18359915
@@ -502,6 +506,8 @@ Keçeci, M. (2026). Microbenchmark Performance Analysis: Python 3.15.0a3 vs 3.11
 ---
 
 # Yazılım/Software/Animation/Image/Table/Other
+
+Keçeci, M. (2026). mlfp. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23549172
 
 Keçeci, M. (2026). kececicurve (Version V1) [Data set]. Open Dataverse Articles (ODAs), Harvard Dataverse. https://doi.org/10.7910/DVN/BWKWOY
 
