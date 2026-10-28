@@ -14,6 +14,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WhiteSymmetry&theme=2077&utcOffset=0)
 
 ---
+[![Scholar](https://raw.githubusercontent.com/WhiteSymmetry/WhiteSymmetry/main/images/bibliometrics.svg)](https://scholar.google.com/citations?user=PleXSXMAAAAJ)
 
 [![Profile details](https://raw.githubusercontent.com/WhiteSymmetry/WhiteSymmetry/main/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/WhiteSymmetry)
 
