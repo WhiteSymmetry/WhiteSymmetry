@@ -48,43 +48,43 @@
               stroke="#388bfd66"/>
         <text x="24" y="342" class="label">g-index (calculated)</text>
         <text x="736" y="342" class="value"
-              text-anchor="end">20</text>
+              text-anchor="end">57</text>
         
         <line x1="24" y1="396" x2="736" y2="396"
               stroke="#388bfd66"/>
         <text x="24" y="384" class="label">w-index (calculated)</text>
         <text x="736" y="384" class="value"
-              text-anchor="end">20</text>
+              text-anchor="end">48</text>
         
         <line x1="24" y1="438" x2="736" y2="438"
               stroke="#388bfd66"/>
         <text x="24" y="426" class="label">o-index (calculated)</text>
         <text x="736" y="426" class="value"
-              text-anchor="end">41.71</text>
+              text-anchor="end">64.62</text>
         
         <line x1="24" y1="480" x2="736" y2="480"
               stroke="#388bfd66"/>
         <text x="24" y="468" class="label">h-median (calculated)</text>
         <text x="736" y="468" class="value"
-              text-anchor="end">67.0</text>
+              text-anchor="end">60.0</text>
         
         <line x1="24" y1="522" x2="736" y2="522"
               stroke="#388bfd66"/>
         <text x="24" y="510" class="label">e-index (calculated)</text>
         <text x="736" y="510" class="value"
-              text-anchor="end">31.75</text>
+              text-anchor="end">24.7</text>
         
         <line x1="24" y1="564" x2="736" y2="564"
               stroke="#388bfd66"/>
         <text x="24" y="552" class="label">r-index (calculated)</text>
         <text x="736" y="552" class="value"
-              text-anchor="end">37.52</text>
+              text-anchor="end">53.98</text>
         
         <line x1="24" y1="606" x2="736" y2="606"
               stroke="#388bfd66"/>
         <text x="24" y="594" class="label">a-index (calculated)</text>
         <text x="736" y="594" class="value"
-              text-anchor="end">70.4</text>
+              text-anchor="end">60.71</text>
         
         <line x1="24" y1="648" x2="736" y2="648"
               stroke="#388bfd66"/>
@@ -96,7 +96,7 @@
               stroke="#388bfd66"/>
         <text x="24" y="678" class="label">Publications read from file</text>
         <text x="736" y="678" class="value"
-              text-anchor="end">20</text>
+              text-anchor="end">193</text>
         
       <style>
         text { font-family: Arial, Helvetica, sans-serif; }
