@@ -90,6 +90,8 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 250 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2026). NV Merkezlerinde Kesirli Kuantum Bellek Tespiti: Model Seçimi, SNR ve Protokol Sayısı Kriterler. https://doi.org/10.5281/zenodo.23751138
+
 Keçeci, M. (2026). Kesirli Kuantum Dinamiği Altında Stratum Mimarisi: NV-Weyl-Majorana Karma Sistemlerinde Topolojik Koruma, Kuantum Hata Düzeltme ve Işınlanma. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23605556
 
 Keçeci, M. (2026). Mittag-Leffler ve Prabhakar Fonksiyonlarının Python'da Güvenli ve Doğru Hesaplanması. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23550353
