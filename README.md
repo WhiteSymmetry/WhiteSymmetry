@@ -124,6 +124,8 @@ Keçeci, M. (2026). X-Ray Amplification: Physics, Technology, and Perspectives. 
   
 Keçeci, M. (2026). Non-Lineer Alan Teorilerinden Topolojik Kuantum Hesaplamaya Karma Ardaşık Düzen Modellemesi ve Verimlilik Analizi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23096428
 
+Keçeci, M. (2026). Stratum Modeli ile Ortaya Çıkan Majorana Yayları, Non-Abelian Örgüleme ve K‑Teorisi Sınıflandırması. Open Fig Share Articles (OFSAs), Figshare. https://doi.org/10.6084/m9.figshare.34879224
+
 Keçeci, M. (2026). Weyl–Süperiletken Heteroyapılarda Topolojik Arayüz Mühendisliği: Stratum Modeli ile Ortaya Çıkan Majorana Yayları, Non-Abelian Örgüleme ve K‑Teorisi Sınıflandırması. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.21908118
 
 Keçeci, M. (2026). From Feeble Signals to Intense X-rays: Physical Foundations, Technological Applications, and Future Perspectives of Amplification. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.21235074
