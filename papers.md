@@ -39,6 +39,32 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 250 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, Mehmet (2026). Emergent Majorana Arcs, Non-Abelian Braiding, and K-Theory Classification via the Stratum Model. Open Fig Share Articles (OFSAs), Figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.34886664
+
+Keçeci, M. (2026). Topological Interface Engineering in Weyl--Superconductor Heterostructures: Emergent Majorana Arcs, Non-Abelian Braiding, and K-Theory Classification via the Stratum Model. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23885556
+
+Keçeci, M. (2026). NV Merkezlerinde Kesirli Kuantum Bellek Tespiti: Model Seçimi, SNR ve Protokol Sayısı Kriterler. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23751138
+
+Keçeci, M. (2026). Kesirli Kuantum Dinamiği Altında Stratum Mimarisi: NV-Weyl-Majorana Karma Sistemlerinde Topolojik Koruma, Kuantum Hata Düzeltme ve Işınlanma. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23605556
+
+Keçeci, M. (2026). Mittag-Leffler ve Prabhakar Fonksiyonlarının Python'da Güvenli ve Doğru Hesaplanması. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23550353
+
+Keçeci, M. (2026). Kare Kafes t-J Modelinden Topolojik Majorana Modlarına: Güçlü Korelasyonlu Elektron Sistemlerinde Spin-Yük Ayrışmasının Kuantum Örgü Simülasyonu. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23488782
+
+Keçeci, M. (2026). Gelecek Nesil Yapay Zeka Sistemleri için Bellek Mimarilerinde Paradigma Değişimi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23463618
+
+Mehmet K. 2026. From Cryptography to Quantum Visualization: Versatile Applications of the Keçeci Curve Family. preprints.ru. https://doi.org/10.24108/preprints-3116646
+
+Keçeci, M. (2026). From Quantum Beats to Topological Protection: A Stratum-Based Hybrid Architecture Integrating NV Centers, Weyl Interfaces, and Majorana Qubits for Fault-Tolerant Quantum Computing. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23427142
+
+Keçeci, M. (2026). Kuantum Atımlarından Topolojik Korumaya: Hata Toleranslı Kuantum Hesaplama İçin NV Merkezleri, Weyl Arayüzleri ve Majorana Kübitlerini Bütünleştiren Stratum Tabanlı Karma Mimari. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23349901
+
+Keçeci, M. (2026). Nano Yapılı Magnetooptik Granatların Entegre Kuantum Fotonikteki Rolü: İnce Film Büyütme, Fotonik Kristal Tasarımı ve Çip Ölçeğinde Kuantum Transdüksiyon. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23328331
+
+Keçeci, M. (2026). Applications and Significance of Magneto-Optical Garnets in Quantum Computing and the Quantum Internet. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23308278
+
+Keçeci, M. (2026). Magnetooptik Granatların Kuantum Bilgisayarlar ve Kuantum İnternet Alanındaki Kullanımı ve Önemi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23289589
+
 Keçeci, M. (2026). Sınırdaki Paradigma Değişimi: Kuantum Tünelleme Bariyerinden Karbon Nanotüplere ve Hesaplama Gücüne Uzanan Kuantum Limitleri. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23267798
 
 Keçeci, M. (2026). r3cal: Çok Dilli, Gömülebilir ve Standartlara Uygun Bir Direnç Renk Kodu Hesaplayıcı Kütüphanesi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23251543
