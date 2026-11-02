@@ -90,7 +90,11 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 250 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
-Keçeci, M. (2026). NV Merkezlerinde Kesirli Kuantum Bellek Tespiti: Model Seçimi, SNR ve Protokol Sayısı Kriterler. https://doi.org/10.5281/zenodo.23751138
+Keçeci, Mehmet (2026). Emergent Majorana Arcs, Non-Abelian Braiding, and K-Theory Classification via the Stratum Model. Open Fig Share Articles (OFSAs), Figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.34886664
+
+Keçeci, M. (2026). Topological Interface Engineering in Weyl--Superconductor Heterostructures: Emergent Majorana Arcs, Non-Abelian Braiding, and K-Theory Classification via the Stratum Model. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23885556
+
+Keçeci, M. (2026). NV Merkezlerinde Kesirli Kuantum Bellek Tespiti: Model Seçimi, SNR ve Protokol Sayısı Kriterler. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23751138
 
 Keçeci, M. (2026). Kesirli Kuantum Dinamiği Altında Stratum Mimarisi: NV-Weyl-Majorana Karma Sistemlerinde Topolojik Koruma, Kuantum Hata Düzeltme ve Işınlanma. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23605556
 
