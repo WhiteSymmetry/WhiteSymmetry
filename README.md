@@ -90,6 +90,8 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 250 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2026). Paradigm Shift at the Boundary: Quantum Limits from Tunneling Barriers to Carbon Nanotubes and Computational Power. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23946585
+
 Keçeci, M. (2026). Quantum Geometry, Topological Phases, and New Mathematical Structures: An Interdisciplinary Perspective. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23904208
 
 Keçeci, Mehmet (2026). Emergent Majorana Arcs, Non-Abelian Braiding, and K-Theory Classification via the Stratum Model. Open Fig Share Articles (OFSAs), Figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.34886664
