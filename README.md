@@ -90,6 +90,8 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 250 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2026). Detecting Fractional Quantum Memory in NV Centers: Model Selection, SNR, and Protocol-Count Criteria. https://doi.org/10.5281/zenodo.23997739
+
 Keçeci, M. (2026). Paradigm Shift at the Boundary: Quantum Limits from Tunneling Barriers to Carbon Nanotubes and Computational Power. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23946585
 
 Keçeci, M. (2026). Quantum Geometry, Topological Phases, and New Mathematical Structures: An Interdisciplinary Perspective. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23904208
