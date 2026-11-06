@@ -57,7 +57,9 @@
 [![Open Work Flow Articles (OWFAs)](https://img.shields.io/badge/OpenWorkFlowArticles-0077B5?style=for-the-badge&logo=openworkflowarticles&logoColor=white)](https://workflowhub.eu/collections/34)
 [![Open Science Knowledge Articles (OSKAs)](https://img.shields.io/badge/OpenScienceKnowledgeArticles-0077B5?style=for-the-badge&logo=openscienceknowledgearticles&logoColor=white)](https://works.hcommons.org/collections/03072025/)
 [![OSF](https://img.shields.io/badge/OSF-0077B5?style=for-the-badge&logo=osf&logoColor=white)](https://osf.io/j9f5c)
-[![Açık Bilim Veri Alanı ](https://img.shields.io/badge/AçıkBilimVeriAlanı -0077B5?style=for-the-badge&logo=osf&logoColor=white)](https://aperta.ulakbim.gov.tr/communities/abva/records)
+[![Açık Bilim Veri Alanı (ABVA)](https://img.shields.io/badge/AçıkBilimVeriAlanı(ABVA)-0077B5?style=for-the-badge&logo=osf&logoColor=white)](https://aperta.ulakbim.gov.tr/communities/abva/records)
+[![Açık Bilim Veri Alanı (ABVA)](https://img.shields.io/badge/AçıkBilimVeriAlanı(ABVA)-0077B5?style=for-the-badge&logo=osf&logoColor=white)](https://aperta.ulakbim.gov.tr/communities/abva/records)
+[![Open Pub Articles (OPAs)](https://img.shields.io/badge/OpenPubArticles(OPAs)-0077B5?style=for-the-badge&logo=osf&logoColor=white)](https://opas.pubpub.org/)
 
 ---
 
