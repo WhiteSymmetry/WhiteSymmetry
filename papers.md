@@ -39,9 +39,13 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 250 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
-Keçeci, Mehmet (2026). Emergent Majorana Arcs, Non-Abelian Braiding, and K-Theory Classification via the Stratum Model. Open Fig Share Articles (OFSAs), Figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.34886664
+Keçeci, M. (2026). Detecting Fractional Quantum Memory in NV Centers: Model Selection, SNR, and Protocol-Count Criteria. https://doi.org/10.5281/zenodo.23997739
 
-Keçeci, M. (2026). Topological Interface Engineering in Weyl--Superconductor Heterostructures: Emergent Majorana Arcs, Non-Abelian Braiding, and K-Theory Classification via the Stratum Model. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23885556
+Keçeci, M. (2026). Paradigm Shift at the Boundary: Quantum Limits from Tunneling Barriers to Carbon Nanotubes and Computational Power. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23946585
+
+Keçeci, M. (2026). Quantum Geometry, Topological Phases, and New Mathematical Structures: An Interdisciplinary Perspective. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23904208
+
+Keçeci, M. (2026). Topological Interface Engineering in Weyl–Superconductor Heterostructures: Emergent Majorana Arcs, Non-Abelian Braiding, and K-Theory Classification via the Stratum Model. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23885556
 
 Keçeci, M. (2026). NV Merkezlerinde Kesirli Kuantum Bellek Tespiti: Model Seçimi, SNR ve Protokol Sayısı Kriterler. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23751138
 
@@ -69,7 +73,7 @@ Keçeci, M. (2026). Sınırdaki Paradigma Değişimi: Kuantum Tünelleme Bariyer
 
 Keçeci, M. (2026). r3cal: Çok Dilli, Gömülebilir ve Standartlara Uygun Bir Direnç Renk Kodu Hesaplayıcı Kütüphanesi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23251543
 
-Keçeci, M. (2026). Signal Enhancement in X-Ray Technologies: Theoretical Foundations, Technological Implications, and Future Perspectives. SSRN. http://dx.doi.org/10.2139/ssrn.7579539
+Keçeci, M. (2026). Signal Enhancement in X-Ray Technologies: Theoretical Foundations, Technological Implications, and Future Perspectives. SSRN. http://dx.doi.org/10.2139/ssrn.7579539 
 
 Keçeci, M. (2026). kececicurve (Version V1) [Data set]. Open Dataverse Articles (ODAs), Harvard Dataverse. https://doi.org/10.7910/DVN/BWKWOY; https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BWKWOY
 
@@ -103,9 +107,11 @@ Keçeci, M. (2026). Kuantum Hesaplamada Uzay Dolduran Eğriler: Moleküler Simü
 
 Keçeci, M. (2026). Hilbert Uzayları Üzerinden Kuantum Mekaniğini Anlamak: Kuantum Hesaplamada Uygulamalar. Open Science Articles (OSAs), Zenodo.	 https://doi.org/10.5281/zenodo.19221265
 
-Keçeci, M. (2026). Majorana Fermiyonlarından Kuantum Cihazlarına: 2. Kuantum Çağında Nanomalzemeler. Mendeley Data, https://doi.org/10.17632/7zn25dktdh 
-
 Keçeci, M. (2026). Nodal-Line Yarımetalleri: Kuantum Bilişiminde Geometrik Bir Avantaj. Open Pub Articles (OPAs), PubPub. https://doi.org/10.21428/aaf7bfa8.7cda9748, https://opas.pubpub.org/pub/lqhxrioo
+
+Keçeci, M. (2026). Majorana Fermiyonlarından Kuantum Cihazlarına: Kuantum Bilgisayarlara Giden Yolda Nanoyapılar. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.24087678
+
+Keçeci, M. (2026). Majorana Fermiyonlarından Kuantum Cihazlarına: 2. Kuantum Çağında Nanomalzemeler. Mendeley Data, https://doi.org/10.17632/7zn25dktdh 
 
 Keçeci, M. (2026). Majorana Fermiyonlarından Kuantum Cihazlarına: İkinci Kuantum Çağında Nanomalzemelerin Rolü. Open Pub Articles (OPAs), PubPub. https://doi.org/10.21428/aaf7bfa8.215373ff, https://opas.pubpub.org/pub/odgdo83p
 
@@ -143,8 +149,6 @@ Keçeci, M. (2025). Characterization of Keçeci Number Systems as Chaotic and Hy
 
 Keçeci, M. (2025). Deterministic Visualization of Distribution Power Grids: Integration of Power Grid Model and Keçeci Layout. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16934620
 
-Keçeci, M. (2025). Interactive Exploration of the Hamiltonian Problem with Z3 and the Keçeci Layout. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29959778 
-
 Keçeci, M. (2025). An Interactive Tool for Graph Theory Education: Exploring the Hamiltonian Problem with Z3 and the Keçeci Layout. OSF.	 https://doi.org/10.17605/OSF.IO/HZU8Y 
 
 Keçeci, M. (2025). The Hamiltonian Problem in Graph Theory Education: An Interactive Approach Using Z3 and the Keçeci Layout. Open Science Knowledge Articles (OSKAs). https://doi.org/10.17613/mvq42-h4262
@@ -155,9 +159,7 @@ Keçeci, M. (2025). Hamiltonian Problem with Z3 and the Keçeci Layout. Research
 
 Keçeci, M. (2025). A Novel Tool for Graph Theory Education: Interactive Exploration of the Hamiltonian Problem with Z3 and the Keçeci Layout. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16920991
 
-Keçeci, M. (2025). Z3 ve Keçeci Layout ile Hamilton Problemi. ResearchGate.	https://doi.org/10.13140/RG.2.2.23316.97924 
-
-Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Yerleşimi ile Hamilton Probleminin İnteraktif Keşfi. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29958116
+Keçeci, M. (2025). Z3 ve Keçeci Layout ile Hamilton Problemi. ResearchGate.	https://doi.org/10.13140/RG.2.2.23316.97924
 
 Keçeci, M. (2025). Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Layout ile Hamilton Probleminin İnteraktif Keşfi. OSF.	https://doi.org/10.17605/OSF.IO/E23US 
 
@@ -180,8 +182,6 @@ Keçeci, M. (2025). Genelleştirilmiş Keçeci Operatörleri: Collatz Yinelemesi
 Keçeci, M. (2025). From Abstract Theory to Practical Application: The Journey of Hilbert Space in Quantum Technologies. Preprints. https://doi.org/10.20944/preprints202508.0171.v2; https://doi.org/10.20944/preprints202508.0171.v1
 
 Keçeci, M. (2025). The Unifying Role of Hilbert Space in Quantum Field Theory and Information Science. Authorea. https://doi.org/10.22541/au.175449372.28574879/v1; https://doi.org/10.22541/au.175433455.53782703/v1
-
-Keçeci, M. (2025). Keçeci ve Collatz Karşılaştırması: Benzer Algoritmalar, Farklı Çekiciler. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29815910
 
 Keçeci, M. (2025). Keçeci Varsayımı'nın Hesaplanabilirliği: Sonlu Adımda Kararlı Yapıya Yakınsama Sorunu. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.44.1; https://doi.org/10.48546/workflowhub.document.44.2
 
@@ -225,10 +225,6 @@ Keçeci, M. (2025). Hesaplamalı Matematikte Python’un Sınırları ve JAX ile
 
 Keçeci, M. (2025). The Limits of Python in Computational Mathematics and Their Extension with JAX: An Application on Harmonic Numbers. WorkflowHub.	 https://doi.org/10.48546/workflowhub.document.43.1
 
-Keçeci, M. (2025). Performans ve Ölçeklenebilirlik Analizi: Harmonik Seri Hesaplamalarında JAX ve Saf Python'un Karşılaştırılması. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29666675
-
-Keçeci, M. (2025). A Comparative Analysis of Performance and Scalability: Computing Harmonic Series with JAX versus Pure Python. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29666684
-
 Keçeci, M. (2025). A Comparative Study of Pure Python and JAX-Based Approaches in Computing Harmonic Series. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16576092
 
 Keçeci, M. (2025). Harmonik Serilerin Hesaplanmasında Saf Python ve JAX Tabanlı Yaklaşımların Karşılaştırılması. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16536195
@@ -238,10 +234,6 @@ Keçeci, M. (2025). The Keçeci Layout: A Deterministic, Order-Preserving Visual
 Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik ve Hipergerçek Uzaylarda Geometrik Analizi. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.40.1
 
 Keçeci, M. (2025). Geometric Interpretations of Keçeci Numbers within Neutrosophic and Hyperreal Number Systems. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.41.1
-
-Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik Hipergerçek Uzaylarda Geometrik Temsilleri. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29636750
-
-Keçeci, M. (2025). Geometric Representations of Keçeci Numbers in Neutrosophic Hyperreal Spaces. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29636849
 
 Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik Küme Teorisi ve Hipergerçek Uzaylarda İncelenmesi. OSF. https://doi.org/10.17605/OSF.IO/KVCB6
 
@@ -253,8 +245,6 @@ Keçeci, M. (2025). Keçeci Sayılarının Nötrosofik ve Hipergerçek Sayılarl
 
 Keçeci, M. (2025). adnus [Data set]. OSF. https://doi.org/10.17605/OSF.IO/9C26Y
 
-Keçeci, M. (2025). adnus [Data set]. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29621336
-
 Keçeci, M. (2025). adnus [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.23.1
 
 Keçeci, M. (2025). adnus. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.16341919
@@ -263,17 +253,11 @@ Keçeci, M. (2025). Echoes of Constancy: Waves of Change in the Keçeci and Ores
 
 Keçeci, M. (2025). Stratum Model-Based Analysis of Topological Insulators Hosting Weyl and Majorana Fermions. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.39.1
 
-Keçeci, M. (2025). Quantum Computing Applications of Weyl-Majorana Hybrid States in Layered Systems via Stratum Model. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29606039
-
 Keçeci, M. (2025). Bridging Quantum Theory and Computation: The Role of Hilbert Spaces. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.38.1; https://doi.org/10.48546/workflowhub.document.38.2; https://doi.org/10.48546/workflowhub.document.38.3
-
-Keçeci, M. (2025). Hilbert Spaces and Quantum Information: Tools for Next-Generation Computing. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29604011
 
 Keçeci, M. (2025). Between Chaos and Order: A Behavioural Portrait of Keçeci and Oresme Numbers. preprints.ru. https://doi.org/10.24108/preprints-3113623
 
 Keçeci, M. (2025). oresmej [Data set]. ResearchGate. https://doi.org/10.13140/RG.2.2.30518.41284
-
-Keçeci, M. (2025). oresmej [Data set]. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29554532
 
 Keçeci, M. (2025). oresmej [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/WORKFLOWHUB.DATAFILE.19.1
 
@@ -287,15 +271,11 @@ Keçeci, M. (2025). Mobility and Constancy in Mathematical Sequences: A Study on
 
 Keçeci, Mehmet (2025). Dynamic and Static Approaches in Mathematics: Investigating Keçeci and Oresme Sequences. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/gbdgx-d8y63
 
-Keçeci, Mehmet (2025). Dynamic-Static Properties of Keçeci and Oresme Number Sequences: A Comparative Examination. Open Fig Share Articles (OFSAs), figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.29504960
-
 Keçeci, M. (2025). Variability and Stability in Number Sequences: An Analysis of Keçeci and Oresme Numbers. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.37.1; https://doi.org/10.48546/workflowhub.document.37.2
 
 Keçeci, M. (2025). Dynamic vs Static Number Sequences: The Case of Keçeci and Oresme Numbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15833351
 
 Keçeci, M. (2025). A Graph-Theoretic Perspective on the Keçeci Layout: Structuring Cross-Disciplinary Inquiry. Preprints. https://doi.org/10.20944/preprints202507.0589.v1
-
-Keçeci, M. (2025). Oresme. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29504708
 
 Keçeci, M. (2025). Oresme [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.18.1 
 
@@ -309,13 +289,9 @@ Keçeci, M. (2025). Geometric Resilience in Quantum Systems: The Case of Nodal-L
 
 Keçeci, M. (2025). Harnessing Geometry for Quantum Computation: Lessons from Nodal-Line Materials. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/w6vmd-4vb84
 
-Keçeci, M. (2025). Quantum Information at the Edge: Topological Opportunities in Nodal-Line Materials. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29484947
-
 Keçeci, M. (2025). Nodal-Line Semimetals: Unlocking Geometric Potential in Quantum Information. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.36.1
 
 Keçeci, M. (2025). From Weyl Fermions to Topological Matter: The Physics of Weyl Semimetals. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/p79v7-kje79
-
-Keçeci, M. (2025). Weyl Semimetals and Their Unique Electronic and Topological Characteristics. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29483816
 
 Keçeci, M. (2025). Weyl Semimetals: Unveiling Novel Electronic Structures and Topological Properties. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.document.35.4
 
@@ -324,8 +300,6 @@ Keçeci, M. (2025). When Nodes Have an Order: The Keçeci Layout for Structured 
 Keçeci, M. (2025). The Keçeci Layout: A Cross-Disciplinary Graphical Framework for Structural Analysis of Ordered Systems. Authorea. https://doi.org/10.22541/au.175156702.26421899/v1
 
 Keçeci, M. (2025). Beyond Traditional Diagrams: The Keçeci Layout for Structural Thinking. Open Science Knowledge Articles (OSKAs), Knowledge Commons. https://doi.org/10.17613/v4w94-ak572
-
-Keçeci, M. (2025). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. Open Fig Share Articles (OFSAs), figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.29468135
 
 Keçeci, M. (2025, July 3). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. OSF. https://doi.org/10.17605/OSF.IO/9HTG3
 
@@ -397,8 +371,6 @@ Keçeci, M. (2025). Kececifractals. Open Science Articles (OSAs), Zenodo. https:
 
 Keçeci, M. (2025). Keçeci numbers and the Keçeci prime number: A potential number theoretic exploratory tool. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15381697
 
-Keçeci, M. (2025). kececinumbers [Data set]. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29816414
-
 Keçeci, M. (2025). kececinumbers [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.14.1; https://doi.org/10.48546/workflowhub.datafile.14.2;	 https://doi.org/10.48546/workflowhub.datafile.14.3
 
 Keçeci, M. (2025). Kececinumbers. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15377659 & https://github.com/WhiteSymmetry/kececinumbers & https://pypi.org/project/kececinumbers & https://anaconda.org/bilgi/kececinumbers
@@ -406,8 +378,6 @@ Keçeci, M. (2025). Kececinumbers. Open Science Articles (OSAs), Zenodo. https:/
 Keçeci, M. (2025). From Majorana Fermions to Quantum Devices: The Role of Nanomaterials in the Second Quantum Era. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15331067
 
 Keçeci, M. (2025). Keçeci Layout. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.15314328
-
-Keçeci, M. (2025). kececilayout. Open Fig Share Articles (OFSAs), figshare. https://doi.org/10.6084/m9.figshare.29582084
 
 Keçeci, M. (2025). kececilayout [Data set]. Open Work Flow Articles (OWFAs), WorkflowHub. https://doi.org/10.48546/workflowhub.datafile.17.2
 
@@ -423,7 +393,7 @@ Keçeci, M. (2025). Grikod. Open Science Articles (OSAs), Zenodo. https://doi.or
 
 Garrett, J., Luis, E., Peng, H.-H., Cera, T., Gobinathj, Borrow, J., Keçeci, M., Splines, Iyer, S., Liu, Y., cjw, & Gasanov, M. (2022–2023). garrettj403/SciencePlots (Versions 2.1.1, 2.1.0, 2.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10206719 (v2.1.1); https://doi.org/10.5281/zenodo.7986336 (v2.1.0); https://doi.org/10.5281/zenodo.7394724 (v2.0.1)
 
-Keçeci, M. (2021). The Next Stop: Future Planet Walks. In SEDS Space Arts 2021, Global Art Competition, Sri Lanka. https://doi.org/10.13140/RG.2.2.21394.12482; https://doi.org/10.6084/m9.figshare.22005449
+Keçeci, M. (2021). The Next Stop: Future Planet Walks. In SEDS Space Arts 2021, Global Art Competition, Sri Lanka. https://doi.org/10.13140/RG.2.2.21394.12482
 
 Keçeci, M. (2020). Discourse on the second quantum revolution and nanotechnology applications in the midst of the COVID-19 pandemic of inequality. International Journal of Latest Research in Science and Technology, 9(5), 1–7. eISSN: 2278-5299. https://doi.org/10.5281/zenodo.7483395; https://doi.org/jtfr; https://www.mnkjournals.com/journal/ijlrst/Article.php?paper_id=11004
 
@@ -451,6 +421,10 @@ Not: Tezin adı YÖK sistemine yanlış geçmiştir: "Konforal", "Konformal" ola
 
 # Technical Report
 
+Keçeci, M. (2026). Mittag-Leffler ve Prabhakar Fonksiyonlarının Python'da Güvenli ve Doğru Hesaplanması. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23550353
+
+Keçeci, M. (2026). Gelecek Nesil Yapay Zeka Sistemleri için Bellek Mimarilerinde Paradigma Değişimi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23463618
+
 Keçeci, M. (2026). Keçeci Fraktalları ile Dalga Saçılmasının Modellenmesi. Zenodo. https://doi.org/10.5281/zenodo.18359915
 
 Keçeci, M. (2026). Python 3.15.0a3 ve 3.11.14 Mikrobenchmark Performans Analizi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.18355457
@@ -460,6 +434,8 @@ Keçeci, M. (2026). Microbenchmark Performance Analysis: Python 3.15.0a3 vs 3.11
 ---
 
 # Yazılım/Software/Animation/Image/Table/Other
+
+Keçeci, M. (2026). mlfp. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23549172
 
 Keçeci, M. (2026). kececicurve (Version V1) [Data set]. Open Dataverse Articles (ODAs), Harvard Dataverse. https://doi.org/10.7910/DVN/BWKWOY
 
@@ -519,9 +495,7 @@ Keçeci, M. (2025). When Nodes Have an Order: The Keçeci Layout for Structured 
 
 Keçeci, M. (2025). The Keçeci Layout: A Cross-Disciplinary Graphical Framework for Structural Analysis of Ordered Systems. Authorea. https://doi.org/10.22541/au.175156702.26421899/v1 
 
-Keçeci, M. (2025). Beyond Traditional Diagrams: The Keçeci Layout for Structural Thinking. Knowledge Commons. https://doi.org/10.17613/v4w94-ak572 
-
-Keçeci, M. (2025). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.29468135 
+Keçeci, M. (2025). Beyond Traditional Diagrams: The Keçeci Layout for Structural Thinking. Knowledge Commons. https://doi.org/10.17613/v4w94-ak572
 
 Keçeci, M. (2025, July 3). The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis. OSF. https://doi.org/10.17605/OSF.IO/9HTG3 
 
@@ -539,6 +513,11 @@ https://github.com/WhiteSymmetry/kececilayout
 
 https://pypi.org/project/kececilayout
 
+https://anaconda.org/channels/bilgi/packages/kececilayout/overview 
+
+https://prefix.dev/channels/bilgi/packages/kececilayout
+
+Keçeci, M.. (2021). Türkish Lira. Zenodo. https://doi.org/10.5281/zenodo.4724116
 https://anaconda.org/channels/bilgi/packages/kececilayout/overview 
 
 https://prefix.dev/channels/bilgi/packages/kececilayout
