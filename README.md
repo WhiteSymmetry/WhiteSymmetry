@@ -161,9 +161,11 @@ Keçeci, M. (2026). Kuantum Hesaplamada Uzay Dolduran Eğriler: Moleküler Simü
 
 Keçeci, M. (2026). Hilbert Uzayları Üzerinden Kuantum Mekaniğini Anlamak: Kuantum Hesaplamada Uygulamalar. Open Science Articles (OSAs), Zenodo.	 https://doi.org/10.5281/zenodo.19221265
 
-Keçeci, M. (2026). Majorana Fermiyonlarından Kuantum Cihazlarına: 2. Kuantum Çağında Nanomalzemeler. Mendeley Data, https://doi.org/10.17632/7zn25dktdh 
-
 Keçeci, M. (2026). Nodal-Line Yarımetalleri: Kuantum Bilişiminde Geometrik Bir Avantaj. Open Pub Articles (OPAs), PubPub. https://doi.org/10.21428/aaf7bfa8.7cda9748, https://opas.pubpub.org/pub/lqhxrioo
+
+Keçeci, M. (2026). Majorana Fermiyonlarından Kuantum Cihazlarına: Kuantum Bilgisayarlara Giden Yolda Nanoyapılar. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.24087678
+
+Keçeci, M. (2026). Majorana Fermiyonlarından Kuantum Cihazlarına: 2. Kuantum Çağında Nanomalzemeler. Mendeley Data, https://doi.org/10.17632/7zn25dktdh 
 
 Keçeci, M. (2026). Majorana Fermiyonlarından Kuantum Cihazlarına: İkinci Kuantum Çağında Nanomalzemelerin Rolü. Open Pub Articles (OPAs), PubPub. https://doi.org/10.21428/aaf7bfa8.215373ff, https://opas.pubpub.org/pub/odgdo83p
 
