@@ -125,6 +125,8 @@ Keçeci, M. (2026). Magnetooptik Granatların Kuantum Bilgisayarlar ve Kuantum �
 
 Keçeci, M. (2026). Sınırdaki Paradigma Değişimi: Kuantum Tünelleme Bariyerinden Karbon Nanotüplere ve Hesaplama Gücüne Uzanan Kuantum Limitleri. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23267798
 
+Keçeci, M. (2026). r3cal: A Multilingual, Embeddable, and Standards-Compliant Library for Resistor Color Code Calculation. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.24112608
+
 Keçeci, M. (2026). r3cal: Çok Dilli, Gömülebilir ve Standartlara Uygun Bir Direnç Renk Kodu Hesaplayıcı Kütüphanesi. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23251543
 
 Keçeci, M. (2026). Signal Enhancement in X-Ray Technologies: Theoretical Foundations, Technological Implications, and Future Perspectives. SSRN. http://dx.doi.org/10.2139/ssrn.7579539 
