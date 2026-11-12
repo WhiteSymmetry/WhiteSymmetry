@@ -42,6 +42,7 @@
 [![Academia](https://img.shields.io/badge/Academia-0077B5?style=for-the-badge&logo=academia&logoColor=white)](https://independent.academia.edu/mkececi)
 [![SciProfiles](https://img.shields.io/badge/SciProfiles-0077B5?style=for-the-badge&logo=academia&logoColor=white)](https://sciprofiles.com/profile/mkececi)
 [![ISNI](https://img.shields.io/badge/ISNI-0077B5?style=for-the-badge&logo=isni&logoColor=white)](https://isni.org/isni/0000000530972211)
+[![Colab](https://img.shields.io/badge/Colab-0077B5?style=for-the-badge&logo=isni&logoColor=white)](https://colab.ws/researchers/R-3FBF8-05DEC-SV71E)
 
 
 ---
