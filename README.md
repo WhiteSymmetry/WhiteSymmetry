@@ -94,6 +94,8 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 250 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2026). Karbon Nano-Yapılardan Kesirli Kuantum Dinamiğine: Çok Duvarlı Karbon Nanotüplerin Kusur Mekaniği ve Stratum Hibrit Kuantum Mimarilerinde Topolojik Koruma. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.24295792
+
 Keçeci, M. (2026). From Bioinformatics to a Philosophy of Science Framework: The Stones Paved Along the Way. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.24280633
 
 Keçeci, M. (2026). Biyoenformatikten Bir Bilim Felsefesi Çerçevesine Giden Yolda Döşenen Taşlar. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.24280350
