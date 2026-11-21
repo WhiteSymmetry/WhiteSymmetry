@@ -94,6 +94,8 @@ Reviewer (~30 International Scientific Journal, 2012 - ***, > 250 English, Turki
 
 # International & National Papers, Scientific Symposium, Announcements, Conference Proceedings, etc.:
 
+Keçeci, M. (2026). Stratum Architecture Under Fractional Quantum Dynamics: Topological Protection, Quantum Error Correction and Teleportation in NV-Weyl-Majorana Hybrid Systems. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.24419337
+
 Keçeci, M. (2026). From Carbon Nanostructures to Fractional Quantum Dynamics: Defect Mechanics of Multi-Walled Carbon Nanotubes and Topological Protection in Stratum Hybrid Quantum Architectures. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.24316045
 
 Keçeci, M. (2026). Karbon Nano-Yapılardan Kesirli Kuantum Dinamiğine: Çok Duvarlı Karbon Nanotüplerin Kusur Mekaniği ve Stratum Hibrit Kuantum Mimarilerinde Topolojik Koruma. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.24295791
