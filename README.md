@@ -502,6 +502,12 @@ Keçeci, M. (2026). Microbenchmark Performance Analysis: Python 3.15.0a3 vs 3.11
 
 # Yazılım/Software/Animation/Image/Table/Other
 
+Keçeci, M. (2026). kha256: Keçeci Hash Algorithm (Keçeci Hash Algoritması), KHA-256 [Data set]. ResearchGate. https://doi.org/10.13140/RG.2.2.35270.64324
+
+Keçeci, M. (2025). adnus [Data set]. ResearchGate. https://doi.org/10.13140/RG.2.2.13460.26248
+
+Keçeci, M. (2026). adnus (AdNuS): Advanced Number Systems. Açık Bilim Veri Alanı (ABVA), Aperta. https://doi.org/10.5281/zenodo.16341919
+
 Keçeci, M. (2026). mlfp. Open Science Articles (OSAs), Zenodo. https://doi.org/10.5281/zenodo.23549172
 
 Keçeci, M. (2026). kececicurve (Version V1) [Data set]. Open Dataverse Articles (ODAs), Harvard Dataverse. https://doi.org/10.7910/DVN/BWKWOY
